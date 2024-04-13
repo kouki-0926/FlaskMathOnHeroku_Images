@@ -34,7 +34,9 @@ def get_image_info(pref_name):
     coordinates_list = [get_gps_data(fileName) for fileName in path_list]
     centerCoordinates = [{"coords": [sum([coordinates_list[i][0] for i in range(len(coordinates_list))]) / len(coordinates_list),
                                      sum([coordinates_list[i][1] for i in range(len(coordinates_list))]) / len(coordinates_list)]}]
-    markers = [{"title": file_list[i].split(".")[0], "coords": coordinates_list[i], "photo": "/ticket/"+path_list[i]} for i in range(len(path_list))]
+    markers = [{"title": file_list[i].split(".")[0],
+                "coords": coordinates_list[i],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/"+path_list[i]} for i in range(len(path_list))]
 
     return {"centerCoordinates": centerCoordinates, "markers": markers}
 
