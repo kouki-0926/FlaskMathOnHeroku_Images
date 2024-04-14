@@ -4075,12 +4075,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.46729675925926,
-                    133.7807439814815
+                    35.45738015476191,
+                    133.72678373015876
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "大山",
+                "coords": [
+                    35.39788052777778,
+                    133.40302222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/大山.jpg"
+            },
             {
                 "title": "米子城",
                 "coords": [
