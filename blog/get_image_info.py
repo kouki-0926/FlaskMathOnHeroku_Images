@@ -55,3 +55,10 @@ if __name__ == "__main__":
     # json形式で保存
     with open(saveFileName, "a", encoding='utf-8') as f:
         json.dump(image_info, f, ensure_ascii=False, indent=4)
+
+    # 同じ緯度経度の画像がある場合は画像名をprint
+    for pref_name in image_info:
+        for i in range(len(image_info[pref_name]["markers"])):
+            for j in range(i+1, len(image_info[pref_name]["markers"])):
+                if image_info[pref_name]["markers"][i]["coords"] == image_info[pref_name]["markers"][j]["coords"]:
+                    print(pref_name, image_info[pref_name]["markers"][i]["title"], image_info[pref_name]["markers"][j]["title"])
