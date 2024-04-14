@@ -2815,6 +2815,154 @@
             }
         ]
     },
+    "20_長野県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    36.34919787581699,
+                    138.10018611111113
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "上諏訪駅_足湯",
+                "coords": [
+                    36.04680277777778,
+                    138.11637777777779
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/上諏訪駅_足湯.jpg"
+            },
+            {
+                "title": "善光寺",
+                "coords": [
+                    36.66095277777778,
+                    138.18772777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/善光寺.jpg"
+            },
+            {
+                "title": "善光寺山門",
+                "coords": [
+                    36.66038611111111,
+                    138.18775833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/善光寺山門.jpg"
+            },
+            {
+                "title": "塩尻駅_ホームのぶどう園",
+                "coords": [
+                    36.11562222222222,
+                    137.947875
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/塩尻駅_ホームのぶどう園.jpg"
+            },
+            {
+                "title": "姨捨駅",
+                "coords": [
+                    36.50257222222222,
+                    138.09329166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/姨捨駅.jpg"
+            },
+            {
+                "title": "広丘駅",
+                "coords": [
+                    36.14845555555556,
+                    137.9500111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/広丘駅.jpg"
+            },
+            {
+                "title": "日本三大車窓_姨捨駅",
+                "coords": [
+                    36.50282222222222,
+                    138.09344444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/日本三大車窓_姨捨駅.jpg"
+            },
+            {
+                "title": "松本城",
+                "coords": [
+                    36.238033333333334,
+                    137.96838333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/松本城.jpg"
+            },
+            {
+                "title": "松本駅",
+                "coords": [
+                    36.23124722222222,
+                    137.96524166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/松本駅.jpg"
+            },
+            {
+                "title": "浅間山",
+                "coords": [
+                    36.343475,
+                    138.64475833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/浅間山.JPG"
+            },
+            {
+                "title": "長野駅",
+                "coords": [
+                    36.64353611111111,
+                    138.18771388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/長野駅.jpg"
+            },
+            {
+                "title": "駅名標_上諏訪駅",
+                "coords": [
+                    36.04656111111111,
+                    138.1165
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_上諏訪駅.jpg"
+            },
+            {
+                "title": "駅名標_塩尻駅",
+                "coords": [
+                    36.11578055555555,
+                    137.9478611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_塩尻駅.jpg"
+            },
+            {
+                "title": "駅名標_広丘駅",
+                "coords": [
+                    36.148152777777774,
+                    137.94949444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_広丘駅.jpg"
+            },
+            {
+                "title": "駅名標_松本駅",
+                "coords": [
+                    36.231025,
+                    137.9642638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_松本駅.jpg"
+            },
+            {
+                "title": "駅名標_権堂駅",
+                "coords": [
+                    36.657555555555554,
+                    138.19368055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_権堂駅.jpg"
+            },
+            {
+                "title": "駅名標_長野駅",
+                "coords": [
+                    36.64338333333333,
+                    138.18878055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/20_長野県/駅名標_長野駅.jpg"
+            }
+        ]
+    },
     "21_岐阜県": {
         "centerCoordinates": [
             {
@@ -3016,6 +3164,58 @@
                     137.38206944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_豊橋駅.JPG"
+            }
+        ]
+    },
+    "24_三重県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    34.47680222222222,
+                    136.7148877777778
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "おかげ横丁",
+                "coords": [
+                    34.46242222222222,
+                    136.72286666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/おかげ横丁.jpg"
+            },
+            {
+                "title": "伊勢市駅",
+                "coords": [
+                    34.49127222222222,
+                    136.7097222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢市駅.jpg"
+            },
+            {
+                "title": "伊勢神宮_内宮",
+                "coords": [
+                    34.48716388888889,
+                    136.70294444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢神宮_内宮.jpg"
+            },
+            {
+                "title": "伊勢神宮_外宮",
+                "coords": [
+                    34.455019444444446,
+                    136.72518333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢神宮_外宮.jpg"
+            },
+            {
+                "title": "宇治山田駅",
+                "coords": [
+                    34.48813333333333,
+                    136.71372222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/宇治山田駅.jpg"
             }
         ]
     },
