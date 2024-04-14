@@ -4071,6 +4071,190 @@
             }
         ]
     },
+    "31_鳥取県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    35.46729675925926,
+                    133.7807439814815
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "米子城",
+                "coords": [
+                    35.42520277777778,
+                    133.32429444444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/米子城.jpg"
+            },
+            {
+                "title": "米子駅",
+                "coords": [
+                    35.42343611111111,
+                    133.33569444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/米子駅.jpg"
+            },
+            {
+                "title": "駅名標_米子駅",
+                "coords": [
+                    35.423405555555554,
+                    133.3365777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/駅名標_米子駅.jpg"
+            },
+            {
+                "title": "駅名標_鳥取駅",
+                "coords": [
+                    35.49348055555556,
+                    134.2259527777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/駅名標_鳥取駅.jpg"
+            },
+            {
+                "title": "鳥取砂丘",
+                "coords": [
+                    35.5439,
+                    134.23583888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/鳥取砂丘.jpg"
+            },
+            {
+                "title": "鳥取駅",
+                "coords": [
+                    35.49435555555556,
+                    134.22610555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/31_鳥取県/鳥取駅.jpg"
+            }
+        ]
+    },
+    "32_島根県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    35.411742658730155,
+                    132.8459248015873
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "出雲大社",
+                "coords": [
+                    35.401066666666665,
+                    132.68434166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/出雲大社.jpg"
+            },
+            {
+                "title": "出雲大社_鳥居",
+                "coords": [
+                    35.39661111111111,
+                    132.68637222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/出雲大社_鳥居.jpg"
+            },
+            {
+                "title": "出雲大社前駅",
+                "coords": [
+                    35.393544444444444,
+                    132.6868888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/出雲大社前駅.jpg"
+            },
+            {
+                "title": "出雲市駅",
+                "coords": [
+                    35.36125555555556,
+                    132.759125
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/出雲市駅.jpg"
+            },
+            {
+                "title": "宍道湖",
+                "coords": [
+                    35.463566666666665,
+                    133.0603361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/宍道湖.JPG"
+            },
+            {
+                "title": "松江城",
+                "coords": [
+                    35.474725,
+                    133.05049166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/松江城.jpg"
+            },
+            {
+                "title": "松江城_石碑",
+                "coords": [
+                    35.47367777777778,
+                    133.05194166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/松江城_石碑.jpg"
+            },
+            {
+                "title": "松江駅",
+                "coords": [
+                    35.46426388888889,
+                    133.06318611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/松江駅.jpg"
+            },
+            {
+                "title": "電鉄出雲市駅",
+                "coords": [
+                    35.361111111111114,
+                    132.75785833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/電鉄出雲市駅.jpg"
+            },
+            {
+                "title": "駅名標_出雲大社前駅",
+                "coords": [
+                    35.39344722222222,
+                    132.68724166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/駅名標_出雲大社前駅.jpg"
+            },
+            {
+                "title": "駅名標_出雲市駅",
+                "coords": [
+                    35.36069166666667,
+                    132.75645555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/駅名標_出雲市駅.jpg"
+            },
+            {
+                "title": "駅名標_川跡駅",
+                "coords": [
+                    35.39525277777778,
+                    132.77630555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/駅名標_川跡駅.jpg"
+            },
+            {
+                "title": "駅名標_松江駅",
+                "coords": [
+                    35.46398888888889,
+                    133.06393333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/駅名標_松江駅.jpg"
+            },
+            {
+                "title": "駅名標_電鉄出雲市駅",
+                "coords": [
+                    35.36119444444444,
+                    132.75846944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/32_島根県/駅名標_電鉄出雲市駅.jpg"
+            }
+        ]
+    },
     "33_岡山県": {
         "centerCoordinates": [
             {
