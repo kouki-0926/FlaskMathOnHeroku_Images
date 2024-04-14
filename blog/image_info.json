@@ -3167,6 +3167,58 @@
             }
         ]
     },
+    "24_三重県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    34.47680222222222,
+                    136.7148877777778
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "おかげ横丁",
+                "coords": [
+                    34.46242222222222,
+                    136.72286666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/おかげ横丁.jpg"
+            },
+            {
+                "title": "伊勢市駅",
+                "coords": [
+                    34.49127222222222,
+                    136.7097222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢市駅.jpg"
+            },
+            {
+                "title": "伊勢神宮_内宮",
+                "coords": [
+                    34.48716388888889,
+                    136.70294444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢神宮_内宮.jpg"
+            },
+            {
+                "title": "伊勢神宮_外宮",
+                "coords": [
+                    34.455019444444446,
+                    136.72518333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/伊勢神宮_外宮.jpg"
+            },
+            {
+                "title": "宇治山田駅",
+                "coords": [
+                    34.48813333333333,
+                    136.71372222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/24_三重県/宇治山田駅.jpg"
+            }
+        ]
+    },
     "25_滋賀県": {
         "centerCoordinates": [
             {
