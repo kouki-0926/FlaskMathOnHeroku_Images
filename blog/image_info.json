@@ -1539,12 +1539,12 @@
             }
         ]
     },
-    "11_埼玉県": {
+    "10_群馬県": {
         "centerCoordinates": [
             {
                 "coords": [
-                    36.20709930555556,
-                    139.66183124999998
+                    36.20755972222222,
+                    139.6640708333333
                 ]
             }
         ],
@@ -1555,7 +1555,7 @@
                     36.20756111111111,
                     139.66406388888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/11_埼玉県/三県境.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/三県境.jpg"
             },
             {
                 "title": "三県境_看板",
@@ -1563,8 +1563,20 @@
                     36.20755833333333,
                     139.66407777777778
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/11_埼玉県/三県境_看板.jpg"
-            },
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/三県境_看板.jpg"
+            }
+        ]
+    },
+    "11_埼玉県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    36.20663888888889,
+                    139.65959166666667
+                ]
+            }
+        ],
+        "markers": [
             {
                 "title": "柳生駅",
                 "coords": [
