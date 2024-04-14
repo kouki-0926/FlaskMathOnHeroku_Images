@@ -2611,6 +2611,106 @@
             }
         ]
     },
+    "17_石川駅": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    36.567996212121216,
+                    136.65730757575759
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "にし茶屋街",
+                "coords": [
+                    36.55665833333333,
+                    136.64720277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/にし茶屋街.jpg"
+            },
+            {
+                "title": "ひがし茶屋街",
+                "coords": [
+                    36.572583333333334,
+                    136.66653333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/ひがし茶屋街.jpg"
+            },
+            {
+                "title": "主計町茶屋街",
+                "coords": [
+                    36.5723,
+                    136.66363611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/主計町茶屋街.jpg"
+            },
+            {
+                "title": "兼六園",
+                "coords": [
+                    36.56325833333333,
+                    136.66282777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/兼六園.jpg"
+            },
+            {
+                "title": "兼六園_桜",
+                "coords": [
+                    36.56171111111111,
+                    136.663575
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/兼六園_桜.jpg"
+            },
+            {
+                "title": "武家屋敷跡_野村家",
+                "coords": [
+                    36.56405,
+                    136.65025277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/武家屋敷跡_野村家.jpg"
+            },
+            {
+                "title": "近江町市場",
+                "coords": [
+                    36.57106111111111,
+                    136.6574861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/近江町市場.jpg"
+            },
+            {
+                "title": "金沢城",
+                "coords": [
+                    36.56603611111111,
+                    136.65998888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢城.jpg"
+            },
+            {
+                "title": "金沢城_石川橋",
+                "coords": [
+                    36.56495,
+                    136.66180555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢城_石川橋.jpg"
+            },
+            {
+                "title": "金沢駅",
+                "coords": [
+                    36.577663888888885,
+                    136.64946111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢駅.jpg"
+            },
+            {
+                "title": "駅名標_金沢駅",
+                "coords": [
+                    36.57768611111111,
+                    136.64761388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/駅名標_金沢駅.jpg"
+            }
+        ]
+    },
     "19_山梨県": {
         "centerCoordinates": [
             {
