@@ -4627,6 +4627,438 @@
             }
         ]
     },
+    "36_徳島県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    33.99266875,
+                    134.17344826388887
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "南海フェリー徳島港",
+                "coords": [
+                    34.05667777777778,
+                    134.58415277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/南海フェリー徳島港.jpg"
+            },
+            {
+                "title": "吉野川",
+                "coords": [
+                    34.03252222222222,
+                    133.86081944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/吉野川.JPG"
+            },
+            {
+                "title": "大歩危",
+                "coords": [
+                    33.88041666666667,
+                    133.76026944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/大歩危.jpg"
+            },
+            {
+                "title": "大歩危駅",
+                "coords": [
+                    33.87681666666667,
+                    133.76728888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/大歩危駅.jpg"
+            },
+            {
+                "title": "徳島駅",
+                "coords": [
+                    34.073680555555555,
+                    134.55073611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/徳島駅.jpg"
+            },
+            {
+                "title": "阿波踊り会館",
+                "coords": [
+                    34.07024722222222,
+                    134.54547222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/阿波踊り会館.jpg"
+            },
+            {
+                "title": "駅名標_大歩危駅",
+                "coords": [
+                    33.876419444444444,
+                    133.7673638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/駅名標_大歩危駅.jpg"
+            },
+            {
+                "title": "駅名標_徳島駅",
+                "coords": [
+                    34.07456944444444,
+                    134.55148333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/36_徳島県/駅名標_徳島駅.jpg"
+            }
+        ]
+    },
+    "37_香川県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    34.29650740740741,
+                    133.93218134920636
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "多度津駅",
+                "coords": [
+                    34.27121666666667,
+                    133.75657777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/多度津駅.jpg"
+            },
+            {
+                "title": "宇多津",
+                "coords": [
+                    34.30670555555555,
+                    133.81376666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/宇多津.jpg"
+            },
+            {
+                "title": "栗林公園",
+                "coords": [
+                    34.32884166666667,
+                    134.04470833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/栗林公園.jpg"
+            },
+            {
+                "title": "栗林公園駅",
+                "coords": [
+                    34.329027777777775,
+                    134.05114722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/栗林公園駅.jpg"
+            },
+            {
+                "title": "瀬戸大橋",
+                "coords": [
+                    34.344452777777775,
+                    133.82788055555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/瀬戸大橋.jpg"
+            },
+            {
+                "title": "玉藻公園",
+                "coords": [
+                    34.350405555555554,
+                    134.05008055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/玉藻公園.jpg"
+            },
+            {
+                "title": "玉藻公園_天守閣",
+                "coords": [
+                    34.35018888888889,
+                    134.05104166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/玉藻公園_天守閣.jpg"
+            },
+            {
+                "title": "玉藻公園_桜御門",
+                "coords": [
+                    34.34992222222222,
+                    134.05140555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/玉藻公園_桜御門.jpg"
+            },
+            {
+                "title": "玉藻公園_琴電",
+                "coords": [
+                    34.348819444444445,
+                    134.05235277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/玉藻公園_琴電.jpg"
+            },
+            {
+                "title": "琴平駅",
+                "coords": [
+                    34.191719444444445,
+                    133.82098333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/琴平駅.jpg"
+            },
+            {
+                "title": "金刀比羅宮",
+                "coords": [
+                    34.18432222222222,
+                    133.80967777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/金刀比羅宮.jpg"
+            },
+            {
+                "title": "金刀比羅宮_本宮",
+                "coords": [
+                    34.18400277777778,
+                    133.80955555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/金刀比羅宮_本宮.jpg"
+            },
+            {
+                "title": "金刀比羅宮_鳥居",
+                "coords": [
+                    34.183838888888886,
+                    133.8120722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/金刀比羅宮_鳥居.jpg"
+            },
+            {
+                "title": "駅名標_多度津",
+                "coords": [
+                    34.271477777777775,
+                    133.7571722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_多度津.jpg"
+            },
+            {
+                "title": "駅名標_宇多津",
+                "coords": [
+                    34.30535,
+                    133.80714444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_宇多津.jpg"
+            },
+            {
+                "title": "駅名標_栗林公園駅",
+                "coords": [
+                    34.32867777777778,
+                    134.05114722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_栗林公園駅.jpg"
+            },
+            {
+                "title": "駅名標_琴平駅",
+                "coords": [
+                    34.19245277777778,
+                    133.821
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_琴平駅.jpg"
+            },
+            {
+                "title": "駅名標_高松駅",
+                "coords": [
+                    34.35058611111111,
+                    134.04553333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_高松駅.jpg"
+            },
+            {
+                "title": "高松シンボルタワー",
+                "coords": [
+                    34.35176944444444,
+                    134.04691944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/高松シンボルタワー.jpg"
+            },
+            {
+                "title": "高松シンボルタワー_展望スペース",
+                "coords": [
+                    34.35196388888889,
+                    134.04641666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/高松シンボルタワー_展望スペース.jpg"
+            },
+            {
+                "title": "高松築港駅",
+                "coords": [
+                    34.35091388888889,
+                    134.049225
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/高松築港駅.jpg"
+            }
+        ]
+    },
+    "38_愛媛県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    33.89492713675214,
+                    132.8213848290598
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "今治城",
+                "coords": [
+                    34.06356111111111,
+                    133.00624166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/今治城.jpg"
+            },
+            {
+                "title": "今治駅",
+                "coords": [
+                    34.064236111111114,
+                    132.99321111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/今治駅.jpg"
+            },
+            {
+                "title": "勝山町駅",
+                "coords": [
+                    33.84175,
+                    132.77493333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/勝山町駅.jpg"
+            },
+            {
+                "title": "松山城",
+                "coords": [
+                    33.84497777777778,
+                    132.76614444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/松山城.jpg"
+            },
+            {
+                "title": "松山城山リフト",
+                "coords": [
+                    33.84446388888889,
+                    132.76892222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/松山城山リフト.jpg"
+            },
+            {
+                "title": "松山市駅_大観覧車くるりん",
+                "coords": [
+                    33.83571944444444,
+                    132.76275555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/松山市駅_大観覧車くるりん.jpg"
+            },
+            {
+                "title": "松山駅",
+                "coords": [
+                    33.84070277777778,
+                    132.75190833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/松山駅.jpg"
+            },
+            {
+                "title": "道後温泉",
+                "coords": [
+                    33.85205833333333,
+                    132.78668333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/道後温泉.jpg"
+            },
+            {
+                "title": "道後温泉駅",
+                "coords": [
+                    33.850525,
+                    132.78517222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/道後温泉駅.jpg"
+            },
+            {
+                "title": "駅名標_JR松山駅前駅",
+                "coords": [
+                    33.84055,
+                    132.75247222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/駅名標_JR松山駅前駅.jpg"
+            },
+            {
+                "title": "駅名標_今治駅",
+                "coords": [
+                    34.064055555555555,
+                    132.99327222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/駅名標_今治駅.jpg"
+            },
+            {
+                "title": "駅名標_松山駅",
+                "coords": [
+                    33.840916666666665,
+                    132.75108333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/駅名標_松山駅.jpg"
+            },
+            {
+                "title": "駅名標_道後温泉駅",
+                "coords": [
+                    33.85053611111111,
+                    132.78520277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/38_愛媛県/駅名標_道後温泉駅.jpg"
+            }
+        ]
+    },
+    "39_高知県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    33.56344351851852,
+                    133.5398685185185
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "はりまや橋",
+                "coords": [
+                    33.560008333333336,
+                    133.54263333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/はりまや橋.jpg"
+            },
+            {
+                "title": "駅名標_高知駅",
+                "coords": [
+                    33.56701944444445,
+                    133.5437
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/駅名標_高知駅.jpg"
+            },
+            {
+                "title": "駅名標_高知駅前駅",
+                "coords": [
+                    33.566963888888885,
+                    133.54373055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/駅名標_高知駅前駅.jpg"
+            },
+            {
+                "title": "高知城",
+                "coords": [
+                    33.5612,
+                    133.53138611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/高知城.jpg"
+            },
+            {
+                "title": "高知城前駅",
+                "coords": [
+                    33.55858611111111,
+                    133.534425
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/高知城前駅.jpg"
+            },
+            {
+                "title": "高知駅",
+                "coords": [
+                    33.56688333333334,
+                    133.5433361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/39_高知県/高知駅.jpg"
+            }
+        ]
+    },
     "40_福岡県": {
         "centerCoordinates": [
             {
