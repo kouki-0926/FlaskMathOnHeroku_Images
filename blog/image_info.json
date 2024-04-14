@@ -3559,6 +3559,130 @@
             }
         ]
     },
+    "27_大阪府": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    34.687563884920635,
+                    135.49486149999998
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "大阪城",
+                "coords": [
+                    34.68723330555556,
+                    135.52584166666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/大阪城.jpg"
+            },
+            {
+                "title": "大阪駅",
+                "coords": [
+                    34.70229722222222,
+                    135.49535
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/大阪駅.jpg"
+            },
+            {
+                "title": "大阪駅_大屋根",
+                "coords": [
+                    34.70221388888889,
+                    135.49519444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/大阪駅_大屋根.jpg"
+            },
+            {
+                "title": "新世界",
+                "coords": [
+                    34.65250275,
+                    135.50626383333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/新世界.jpg"
+            },
+            {
+                "title": "梅田スカイビル",
+                "coords": [
+                    34.70527777777778,
+                    135.49006666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/梅田スカイビル.jpg"
+            },
+            {
+                "title": "海遊館",
+                "coords": [
+                    34.65450555555555,
+                    135.4288527777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/海遊館.JPG"
+            },
+            {
+                "title": "道頓堀",
+                "coords": [
+                    34.6687,
+                    135.5040916111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/道頓堀.jpg"
+            },
+            {
+                "title": "阪神高速道路_梅田出入口",
+                "coords": [
+                    34.700358333333334,
+                    135.49230277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/阪神高速道路_梅田出入口.JPG"
+            },
+            {
+                "title": "駅名標_JR難波駅",
+                "coords": [
+                    34.6674,
+                    135.49793888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_JR難波駅.jpg"
+            },
+            {
+                "title": "駅名標_今宮駅",
+                "coords": [
+                    34.65431111111111,
+                    135.49269166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_今宮駅.jpg"
+            },
+            {
+                "title": "駅名標_南海難波駅",
+                "coords": [
+                    34.66062222222222,
+                    135.50192222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_南海難波駅.jpg"
+            },
+            {
+                "title": "駅名標_大阪駅",
+                "coords": [
+                    34.702888888888886,
+                    135.49708611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_大阪駅.jpg"
+            },
+            {
+                "title": "駅名標_新大阪駅_在来線",
+                "coords": [
+                    34.734658333333336,
+                    135.5019388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_新大阪駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_新大阪駅_新幹線",
+                "coords": [
+                    34.732925,
+                    135.49851944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/27_大阪府/駅名標_新大阪駅_新幹線.jpg"
+            }
+        ]
+    },
     "28_兵庫県": {
         "centerCoordinates": [
             {
