@@ -394,12 +394,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/長万部駅.jpg"
             },
             {
-                "title": "駅名標_すすきの",
+                "title": "駅名標_すすきの駅",
                 "coords": [
                     43.05611666666667,
                     141.35288888888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/駅名標_すすきの.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/駅名標_すすきの駅.jpg"
             },
             {
                 "title": "駅名標_中富良野駅",
@@ -2256,6 +2256,242 @@
                     139.5524888888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/鶴岡八幡宮_鳥居.jpg"
+            }
+        ]
+    },
+    "15_新潟県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    37.59903323214286,
+                    138.69638115079366
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "Befcoばかうけ展望室",
+                "coords": [
+                    37.925247222222225,
+                    139.0597388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/Befcoばかうけ展望室.jpg"
+            },
+            {
+                "title": "Befcoばかうけ展望室_夜",
+                "coords": [
+                    37.92529722222222,
+                    139.05990555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/Befcoばかうけ展望室_夜.jpg"
+            },
+            {
+                "title": "Befcoばかうけ展望室_昼",
+                "coords": [
+                    37.925247222222225,
+                    139.0597388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/Befcoばかうけ展望室_昼.jpg"
+            },
+            {
+                "title": "SI2023",
+                "coords": [
+                    37.92579166666667,
+                    139.05953888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/SI2023.jpg"
+            },
+            {
+                "title": "新津駅",
+                "coords": [
+                    37.79952222222222,
+                    139.1218722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/新津駅.jpg"
+            },
+            {
+                "title": "新潟日報メディアシップ",
+                "coords": [
+                    37.91865555555555,
+                    139.05505277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/新潟日報メディアシップ.jpg"
+            },
+            {
+                "title": "新潟駅",
+                "coords": [
+                    37.912575,
+                    139.06034722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/新潟駅.jpg"
+            },
+            {
+                "title": "日和山展望台",
+                "coords": [
+                    37.93380277777778,
+                    139.0434111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/日和山展望台.jpg"
+            },
+            {
+                "title": "旧第四銀行住吉町支店",
+                "coords": [
+                    37.93029722222222,
+                    139.05811944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/旧第四銀行住吉町支店.jpg"
+            },
+            {
+                "title": "旧齋藤家別邸",
+                "coords": [
+                    37.92613611111111,
+                    139.04019166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/旧齋藤家別邸.jpg"
+            },
+            {
+                "title": "朱鷺メッセ",
+                "coords": [
+                    37.92980277777778,
+                    139.05838055555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/朱鷺メッセ.jpg"
+            },
+            {
+                "title": "柏崎駅",
+                "coords": [
+                    37.36398611111111,
+                    138.55612222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/柏崎駅.jpg"
+            },
+            {
+                "title": "湊稲荷神社",
+                "coords": [
+                    37.931672222222225,
+                    139.0544277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/湊稲荷神社.jpg"
+            },
+            {
+                "title": "直江津",
+                "coords": [
+                    37.18084722222222,
+                    138.24195833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/直江津.jpg"
+            },
+            {
+                "title": "直江津駅",
+                "coords": [
+                    37.17132222222222,
+                    138.24307222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/直江津駅.jpg"
+            },
+            {
+                "title": "糸魚川駅",
+                "coords": [
+                    37.04291944444444,
+                    137.86155833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/糸魚川駅.jpg"
+            },
+            {
+                "title": "萬代橋",
+                "coords": [
+                    37.919125,
+                    139.0545361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/萬代橋.jpg"
+            },
+            {
+                "title": "親不知",
+                "coords": [
+                    37.004733333333334,
+                    137.73046944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/親不知.jpg"
+            },
+            {
+                "title": "親不知_北陸自動車道_国道8号_北陸本線",
+                "coords": [
+                    37.00327222222222,
+                    137.7320861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/親不知_北陸自動車道_国道8号_北陸本線.jpg"
+            },
+            {
+                "title": "長岡駅",
+                "coords": [
+                    37.44725555555556,
+                    138.85302777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/長岡駅.jpg"
+            },
+            {
+                "title": "駅名標_新津駅",
+                "coords": [
+                    37.80011388888889,
+                    139.12113888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_新津駅.jpg"
+            },
+            {
+                "title": "駅名標_新潟駅_在来線",
+                "coords": [
+                    37.91206666666667,
+                    139.06068333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_新潟駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_新潟駅_新幹線",
+                "coords": [
+                    37.91160555555555,
+                    139.05964722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_新潟駅_新幹線.jpg"
+            },
+            {
+                "title": "駅名標_柏崎駅",
+                "coords": [
+                    37.36361388888889,
+                    138.55691666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_柏崎駅.jpg"
+            },
+            {
+                "title": "駅名標_直江津駅",
+                "coords": [
+                    37.17076388888889,
+                    138.2427361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_直江津駅.jpg"
+            },
+            {
+                "title": "駅名標_糸魚川駅",
+                "coords": [
+                    37.04367777777778,
+                    137.86210555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_糸魚川駅.jpg"
+            },
+            {
+                "title": "駅名標_親不知駅",
+                "coords": [
+                    37.0066555,
+                    137.73774722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_親不知駅.jpg"
+            },
+            {
+                "title": "駅名標_長岡駅",
+                "coords": [
+                    37.446925,
+                    138.85414166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/15_新潟県/駅名標_長岡駅.jpg"
             }
         ]
     },
