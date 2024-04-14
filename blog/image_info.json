@@ -3879,6 +3879,74 @@
             }
         ]
     },
+    "30_和歌山県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    34.225990476190475,
+                    135.15869563492063
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "南海フェリー",
+                "coords": [
+                    34.217502777777774,
+                    135.1440888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/南海フェリー.jpg"
+            },
+            {
+                "title": "和歌山城",
+                "coords": [
+                    34.22765277777778,
+                    135.17118888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/和歌山城.jpg"
+            },
+            {
+                "title": "和歌山城_紅葉渓庭園",
+                "coords": [
+                    34.229958333333336,
+                    135.17086666666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
+            },
+            {
+                "title": "和歌山市駅",
+                "coords": [
+                    34.236063888888886,
+                    135.16700833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/和歌山市駅.jpg"
+            },
+            {
+                "title": "和歌山港駅",
+                "coords": [
+                    34.217077777777774,
+                    135.14549166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/和歌山港駅.jpg"
+            },
+            {
+                "title": "駅名標_和歌山市駅",
+                "coords": [
+                    34.23620555555556,
+                    135.16595555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/駅名標_和歌山市駅.jpg"
+            },
+            {
+                "title": "駅名標_和歌山港駅",
+                "coords": [
+                    34.21747222222222,
+                    135.14626944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/30_和歌山県/駅名標_和歌山港駅.jpg"
+            }
+        ]
+    },
     "33_岡山県": {
         "centerCoordinates": [
             {
