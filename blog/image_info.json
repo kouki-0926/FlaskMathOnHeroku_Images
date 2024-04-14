@@ -2611,7 +2611,7 @@
             }
         ]
     },
-    "17_石川駅": {
+    "17_石川県": {
         "centerCoordinates": [
             {
                 "coords": [
@@ -2627,7 +2627,7 @@
                     36.55665833333333,
                     136.64720277777778
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/にし茶屋街.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/にし茶屋街.jpg"
             },
             {
                 "title": "ひがし茶屋街",
@@ -2635,7 +2635,7 @@
                     36.572583333333334,
                     136.66653333333332
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/ひがし茶屋街.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/ひがし茶屋街.jpg"
             },
             {
                 "title": "主計町茶屋街",
@@ -2643,7 +2643,7 @@
                     36.5723,
                     136.66363611111112
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/主計町茶屋街.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/主計町茶屋街.jpg"
             },
             {
                 "title": "兼六園",
@@ -2651,7 +2651,7 @@
                     36.56325833333333,
                     136.66282777777778
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/兼六園.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/兼六園.jpg"
             },
             {
                 "title": "兼六園_桜",
@@ -2659,7 +2659,7 @@
                     36.56171111111111,
                     136.663575
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/兼六園_桜.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/兼六園_桜.jpg"
             },
             {
                 "title": "武家屋敷跡_野村家",
@@ -2667,7 +2667,7 @@
                     36.56405,
                     136.65025277777778
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/武家屋敷跡_野村家.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/武家屋敷跡_野村家.jpg"
             },
             {
                 "title": "近江町市場",
@@ -2675,7 +2675,7 @@
                     36.57106111111111,
                     136.6574861111111
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/近江町市場.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/近江町市場.jpg"
             },
             {
                 "title": "金沢城",
@@ -2683,7 +2683,7 @@
                     36.56603611111111,
                     136.65998888888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/金沢城.jpg"
             },
             {
                 "title": "金沢城_石川橋",
@@ -2691,7 +2691,7 @@
                     36.56495,
                     136.66180555555556
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢城_石川橋.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/金沢城_石川橋.jpg"
             },
             {
                 "title": "金沢駅",
@@ -2699,7 +2699,7 @@
                     36.577663888888885,
                     136.64946111111112
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/金沢駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/金沢駅.jpg"
             },
             {
                 "title": "駅名標_金沢駅",
@@ -2707,7 +2707,7 @@
                     36.57768611111111,
                     136.64761388888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川駅/駅名標_金沢駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/17_石川県/駅名標_金沢駅.jpg"
             }
         ]
     },
