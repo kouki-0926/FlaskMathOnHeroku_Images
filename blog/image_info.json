@@ -3,8 +3,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    43.27809665915918,
-                    142.08908794857354
+                    43.27102807017544,
+                    142.1347778125
                 ]
             }
         ],
@@ -218,6 +218,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/帯広百年記念館.jpg"
             },
             {
+                "title": "帯広駅",
+                "coords": [
+                    42.91831944444444,
+                    143.202775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/帯広駅.jpg"
+            },
+            {
                 "title": "新千歳空港_展望デッキ",
                 "coords": [
                     42.787594444444444,
@@ -368,6 +376,14 @@
                     144.44926388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/釧路湿原_細岡展望台.jpg"
+            },
+            {
+                "title": "釧路湿原駅",
+                "coords": [
+                    43.10066111111111,
+                    144.44783055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/01_北海道/釧路湿原駅.jpg"
             },
             {
                 "title": "釧路駅",
@@ -607,8 +623,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    40.6714052979798,
-                    140.74757323232325
+                    40.684698375,
+                    140.7465599537037
                 ]
             }
         ],
@@ -620,6 +636,14 @@
                     141.43048055555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/02_青森県/八戸駅.jpg"
+            },
+            {
+                "title": "八甲田丸",
+                "coords": [
+                    40.83092222222222,
+                    140.7354138888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/02_青森県/八甲田丸.jpg"
             },
             {
                 "title": "岩木山",
@@ -831,7 +855,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.30270185185186,
+                    38.30270185185185,
                     140.9204699074074
                 ]
             }
@@ -1015,7 +1039,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.16938194444443,
+                    38.169381944444446,
                     140.20248095238097
                 ]
             }
@@ -1239,7 +1263,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.4232936728395,
+                    36.423293672839506,
                     140.42969907407408
                 ]
             }
@@ -1395,8 +1419,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.67618529411766,
-                    139.650062745098
+                    36.676185294117644,
+                    139.65006274509804
                 ]
             }
         ],
@@ -1600,7 +1624,7 @@
             {
                 "coords": [
                     35.52256635802469,
-                    140.11036604732513
+                    140.1103660473251
                 ]
             }
         ],
@@ -1827,8 +1851,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.66321557239057,
-                    139.69951826599325
+                    35.66321557239058,
+                    139.69951826599328
                 ]
             }
         ],
@@ -2103,12 +2127,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.351731801388894,
-                    139.5054699972222
+                    35.351353931712964,
+                    139.51330289120372
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "ICRA2024",
+                "coords": [
+                    35.45760833333333,
+                    139.63635277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/ICRA2024.jpg"
+            },
             {
                 "title": "七里ヶ浜",
                 "coords": [
@@ -2206,6 +2238,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/江ノ島シーキャンドル.jpg"
             },
             {
+                "title": "江ノ島駅",
+                "coords": [
+                    35.31101666666667,
+                    139.48730555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/江ノ島駅.jpg"
+            },
+            {
                 "title": "江島神社",
                 "coords": [
                     35.30042777777778,
@@ -2252,6 +2292,22 @@
                     139.63124166666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/駅名標_桜木町駅.jpg"
+            },
+            {
+                "title": "駅名標_鎌倉駅",
+                "coords": [
+                    35.31798055555556,
+                    139.55038333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/駅名標_鎌倉駅.jpg"
+            },
+            {
+                "title": "駅名標_長谷駅",
+                "coords": [
+                    35.311252777777774,
+                    139.53582777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/14_神奈川県/駅名標_長谷駅.jpg"
             },
             {
                 "title": "鶴岡八幡宮",
@@ -2511,7 +2567,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.72226474358975,
+                    36.72226474358974,
                     137.17159935897436
                 ]
             }
@@ -2627,7 +2683,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.567996212121216,
+                    36.56799621212121,
                     136.65730757575759
                 ]
             }
@@ -2728,7 +2784,7 @@
             {
                 "coords": [
                     35.804307638888886,
-                    136.13005277777776
+                    136.1300527777778
                 ]
             }
         ],
@@ -2832,7 +2888,7 @@
             {
                 "coords": [
                     36.34919787581699,
-                    138.10018611111113
+                    138.1001861111111
                 ]
             }
         ],
@@ -3015,8 +3071,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.00248253968253,
-                    138.50203611111112
+                    35.03613636363636,
+                    138.71152575757574
                 ]
             }
         ],
@@ -3054,6 +3110,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/弁天島.jpg"
             },
             {
+                "title": "熱海",
+                "coords": [
+                    35.08663888888889,
+                    139.07864444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/熱海.jpg"
+            },
+            {
+                "title": "熱海城",
+                "coords": [
+                    35.08658333333333,
+                    139.0794361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/熱海城.jpg"
+            },
+            {
                 "title": "熱海駅",
                 "coords": [
                     35.103611111111114,
@@ -3070,6 +3142,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/静岡浅間神社.jpg"
             },
             {
+                "title": "駅名標_熱海駅_在来線",
+                "coords": [
+                    35.103608333333334,
+                    139.077575
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/駅名標_熱海駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_熱海駅_新幹線",
+                "coords": [
+                    35.103291666666664,
+                    139.076875
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/駅名標_熱海駅_新幹線.jpg"
+            },
+            {
                 "title": "駿府城",
                 "coords": [
                     34.978877777777775,
@@ -3084,7 +3172,7 @@
             {
                 "coords": [
                     35.127061363636365,
-                    136.94364670707068
+                    136.9436467070707
                 ]
             }
         ],
@@ -3184,7 +3272,7 @@
             {
                 "coords": [
                     34.47680222222222,
-                    136.7148877777778
+                    136.71488777777776
                 ]
             }
         ],
@@ -3311,8 +3399,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.08493083148148,
-                    135.61729324074076
+                    35.084930831481486,
+                    135.61729324074074
                 ]
             }
         ],
@@ -3564,7 +3652,7 @@
             {
                 "coords": [
                     34.687563884920635,
-                    135.49486149999998
+                    135.4948615
                 ]
             }
         ],
@@ -4076,7 +4164,7 @@
             {
                 "coords": [
                     35.45738015476191,
-                    133.72678373015876
+                    133.72678373015873
                 ]
             }
         ],
@@ -4383,7 +4471,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.374840497076036,
+                    34.37484049707602,
                     132.65536447368422
                 ]
             }
@@ -4547,7 +4635,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.045604629629636,
+                    34.04560462962963,
                     131.55246358024692
                 ]
             }
@@ -4632,7 +4720,7 @@
             {
                 "coords": [
                     33.99266875,
-                    134.17344826388887
+                    134.1734482638889
                 ]
             }
         ],
@@ -5004,7 +5092,7 @@
             {
                 "coords": [
                     33.56344351851852,
-                    133.5398685185185
+                    133.53986851851852
                 ]
             }
         ],
@@ -5255,7 +5343,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.8361212962963,
+                    32.83612129629629,
                     130.6818287037037
                 ]
             }
