@@ -5579,6 +5579,26 @@
             }
         ]
     },
+    "42_長崎県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "工事中",
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/42_長崎県/工事中.jpg"
+            }
+        ]
+    },
     "43_熊本県": {
         "centerCoordinates": [
             {
@@ -5612,6 +5632,46 @@
                     130.65116944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/43_熊本県/田原坂.JPG"
+            }
+        ]
+    },
+    "44_大分県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "工事中",
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/工事中.jpg"
+            }
+        ]
+    },
+    "45_宮崎県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "工事中",
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/工事中.jpg"
             }
         ]
     },
@@ -5728,6 +5788,26 @@
                     130.56414166666667
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/46_鹿児島県/鹿児島駅.jpg"
+            }
+        ]
+    },
+    "47_沖縄県": {
+        "centerCoordinates": [
+            {
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ]
+            }
+        ],
+        "markers": [
+            {
+                "title": "工事中",
+                "coords": [
+                    26.21233888888889,
+                    127.68103333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/工事中.jpg"
             }
         ]
     }
