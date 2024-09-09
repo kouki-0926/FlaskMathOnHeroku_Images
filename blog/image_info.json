@@ -1567,8 +1567,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.356037638888886,
-                    138.92495055555554
+                    36.382780333333336,
+                    138.8877021111111
                 ]
             }
         ],
@@ -1588,6 +1588,14 @@
                     139.66407777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/三県境_看板.jpg"
+            },
+            {
+                "title": "上州富岡駅",
+                "coords": [
+                    36.26028888888889,
+                    138.89219722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/上州富岡駅.jpg"
             },
             {
                 "title": "富岡製糸場_ブリュナエンジン",
@@ -1646,6 +1654,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/群馬県立世界遺産センター.jpg"
             },
             {
+                "title": "草津温泉_光泉寺",
+                "coords": [
+                    36.62222777777778,
+                    138.59648055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_光泉寺.jpg"
+            },
+            {
                 "title": "草津温泉_湯もみと踊りショー",
                 "coords": [
                     36.622769444444444,
@@ -1654,12 +1670,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_湯もみと踊りショー.jpg"
             },
             {
-                "title": "草津温泉_湯畑",
+                "title": "草津温泉_湯畑_上",
                 "coords": [
                     36.62316111111111,
                     138.59683333333334
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_湯畑.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_湯畑_上.jpg"
+            },
+            {
+                "title": "草津温泉_湯畑_下",
+                "coords": [
+                    36.62325,
+                    138.5969388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_湯畑_下.jpg"
             },
             {
                 "title": "草津温泉_西の河原公園",
@@ -1676,6 +1700,14 @@
                     138.58854722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉_西の河原露天風呂.jpg"
+            },
+            {
+                "title": "草津温泉バスターミナル",
+                "coords": [
+                    36.62099166666667,
+                    138.59652777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/草津温泉バスターミナル.jpg"
             },
             {
                 "title": "駅名標_上州富岡駅",
@@ -1732,6 +1764,14 @@
                     139.00350833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/高崎市役所_高崎駅.jpg"
+            },
+            {
+                "title": "高崎駅",
+                "coords": [
+                    36.32199722222222,
+                    139.01139722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/10_群馬県/高崎駅.jpg"
             }
         ]
     },
