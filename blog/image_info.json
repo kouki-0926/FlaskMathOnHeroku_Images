@@ -1779,8 +1779,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.96460833333333,
-                    139.58708611111112
+                    35.96154131944444,
+                    139.589896875
                 ]
             }
         ],
@@ -1816,6 +1816,14 @@
                     139.62345833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/11_埼玉県/駅名標_大宮駅.jpg"
+            },
+            {
+                "title": "駅名標_宮原駅",
+                "coords": [
+                    35.94007222222222,
+                    139.60957222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/11_埼玉県/駅名標_宮原駅.jpg"
             },
             {
                 "title": "駅名標_川越駅",
