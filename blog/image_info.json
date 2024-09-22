@@ -2083,8 +2083,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.664703431372544,
-                    139.7018013888889
+                    35.66518539682539,
+                    139.70363928571427
                 ]
             }
         ],
@@ -2199,7 +2199,7 @@
                     35.681041666666665,
                     139.76721388888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/東京駅.JPG"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/東京駅.jpg"
             },
             {
                 "title": "柴又帝釈天",
@@ -2306,12 +2306,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_新橋駅.jpg"
             },
             {
-                "title": "駅名標_東京駅_在来線",
+                "title": "駅名標_東京駅_在来線_地上ホーム",
                 "coords": [
                     35.68045,
                     139.7669361111111
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_東京駅_在来線.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_東京駅_在来線_地上ホーム.jpg"
+            },
+            {
+                "title": "駅名標_東京駅_在来線_地下ホーム",
+                "coords": [
+                    35.68157222222222,
+                    139.76612777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_東京駅_在来線_地下ホーム.jpg"
             },
             {
                 "title": "駅名標_東京駅_新幹線",
