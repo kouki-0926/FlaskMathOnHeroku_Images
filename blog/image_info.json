@@ -2362,12 +2362,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_東京駅_新幹線.jpg"
             },
             {
-                "title": "駅名標_羽田空港第1_2ターミナル",
+                "title": "駅名標_羽田空港第1_2ターミナル駅",
                 "coords": [
                     35.54980555555556,
                     139.78619722222223
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_羽田空港第1_2ターミナル.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/13_東京都/駅名標_羽田空港第1_2ターミナル駅.jpg"
             },
             {
                 "title": "高尾山",
@@ -5194,20 +5194,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/金刀比羅宮_鳥居.jpg"
             },
             {
-                "title": "駅名標_多度津",
+                "title": "駅名標_多度津駅",
                 "coords": [
                     34.271477777777775,
                     133.7571722222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_多度津.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_多度津駅.jpg"
             },
             {
-                "title": "駅名標_宇多津",
+                "title": "駅名標_宇多津駅",
                 "coords": [
                     34.30535,
                     133.80714444444445
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_宇多津.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/37_香川県/駅名標_宇多津駅.jpg"
             },
             {
                 "title": "駅名標_栗林公園駅",
@@ -5667,19 +5667,83 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.24556203703704,
-                    130.19693425925925
+                    33.27008774509804,
+                    130.26834215686276
                 ]
             }
         ],
         "markers": [
             {
-                "title": "佐賀城",
+                "title": "佐賀城_本丸御殿",
                 "coords": [
-                    33.245925,
-                    130.30270277777777
+                    33.24558888888889,
+                    130.30313055555555
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀城_本丸御殿.jpg"
+            },
+            {
+                "title": "佐賀城_鯱の門",
+                "coords": [
+                    33.245808333333336,
+                    130.30305555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀城_鯱の門.jpg"
+            },
+            {
+                "title": "佐賀県庁",
+                "coords": [
+                    33.24946666666666,
+                    130.2991
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀県庁.jpg"
+            },
+            {
+                "title": "佐賀県庁_展望ホール",
+                "coords": [
+                    33.24913333333333,
+                    130.29895
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀県庁_展望ホール.jpg"
+            },
+            {
+                "title": "佐賀駅",
+                "coords": [
+                    33.263894444444446,
+                    130.29768333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/佐賀駅.jpg"
+            },
+            {
+                "title": "吉野ヶ里遺跡_北内郭",
+                "coords": [
+                    33.327061111111114,
+                    130.38642777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/吉野ヶ里遺跡_北内郭.jpg"
+            },
+            {
+                "title": "吉野ヶ里遺跡_南内郭",
+                "coords": [
+                    33.324688888888886,
+                    130.38443055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/吉野ヶ里遺跡_南内郭.jpg"
+            },
+            {
+                "title": "武雄温泉_元湯",
+                "coords": [
+                    33.19626111111111,
+                    130.01436944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/武雄温泉_元湯.jpg"
+            },
+            {
+                "title": "武雄温泉_新館",
+                "coords": [
+                    33.196530555555555,
+                    130.01451111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/武雄温泉_新館.jpg"
             },
             {
                 "title": "武雄温泉_楼門",
@@ -5704,6 +5768,30 @@
                     130.29733333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/駅名標_佐賀駅.jpg"
+            },
+            {
+                "title": "駅名標_吉野ヶ里公園駅",
+                "coords": [
+                    33.324733333333334,
+                    130.39900277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/駅名標_吉野ヶ里公園駅.jpg"
+            },
+            {
+                "title": "駅名標_新鳥栖駅_在来線",
+                "coords": [
+                    33.370016666666665,
+                    130.49134722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/駅名標_新鳥栖駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_新鳥栖駅_新幹線",
+                "coords": [
+                    33.37086111111111,
+                    130.49090555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/41_佐賀県/駅名標_新鳥栖駅_新幹線.jpg"
             },
             {
                 "title": "駅名標_武雄温泉駅",
