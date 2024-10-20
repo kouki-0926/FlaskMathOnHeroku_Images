@@ -1863,8 +1863,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.530023809523804,
-                    140.1162401765873
+                    35.538409482758624,
+                    140.1255943467433
                 ]
             }
         ],
@@ -1948,6 +1948,14 @@
                     140.10394166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/安房鴨川駅.jpg"
+            },
+            {
+                "title": "成田空港",
+                "coords": [
+                    35.773208333333336,
+                    140.3875111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/成田空港.jpg"
             },
             {
                 "title": "成田空港第2ターミナル",
@@ -6087,19 +6095,131 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    33.22934407407408,
+                    131.61245962962963
                 ]
             }
         ],
         "markers": [
             {
-                "title": "工事中",
+                "title": "別府タワー",
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    33.279608333333336,
+                    131.50601111111112
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/工事中.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/別府タワー.jpg"
+            },
+            {
+                "title": "別府駅",
+                "coords": [
+                    33.27976944444445,
+                    131.500825
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/別府駅.jpg"
+            },
+            {
+                "title": "大分府内城",
+                "coords": [
+                    33.239383333333336,
+                    131.61013888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/大分府内城.jpg"
+            },
+            {
+                "title": "大分駅",
+                "coords": [
+                    33.23375,
+                    131.60698055555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/大分駅.jpg"
+            },
+            {
+                "title": "海地獄",
+                "coords": [
+                    33.31678333333333,
+                    131.46878055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/海地獄.jpg"
+            },
+            {
+                "title": "竹瓦温泉",
+                "coords": [
+                    33.27730277777778,
+                    131.50611944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/竹瓦温泉.jpg"
+            },
+            {
+                "title": "臼杵城",
+                "coords": [
+                    33.12101666666667,
+                    131.80070555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/臼杵城.jpg"
+            },
+            {
+                "title": "臼杵城_豊後水道",
+                "coords": [
+                    33.12225,
+                    131.80552777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/臼杵城_豊後水道.jpg"
+            },
+            {
+                "title": "臼杵駅",
+                "coords": [
+                    33.11878611111111,
+                    131.80720555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/臼杵駅.jpg"
+            },
+            {
+                "title": "血の池地獄",
+                "coords": [
+                    33.32738611111111,
+                    131.47848611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/血の池地獄.jpg"
+            },
+            {
+                "title": "駅名標_別府駅_1",
+                "coords": [
+                    33.28013888888889,
+                    131.50074722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_別府駅_1.jpg"
+            },
+            {
+                "title": "駅名標_別府駅_2",
+                "coords": [
+                    33.27988333333333,
+                    131.50038055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_別府駅_2.jpg"
+            },
+            {
+                "title": "駅名標_臼杵駅_1",
+                "coords": [
+                    33.118563888888886,
+                    131.80776944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_臼杵駅_1.jpg"
+            },
+            {
+                "title": "駅名標_臼杵駅_2",
+                "coords": [
+                    33.11856111111111,
+                    131.80773888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_臼杵駅_2.jpg"
+            },
+            {
+                "title": "龍巻地獄",
+                "coords": [
+                    33.32697777777778,
+                    131.4794777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/龍巻地獄.jpg"
             }
         ]
     },
@@ -6107,19 +6227,171 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    32.060269166666664,
+                    131.50780583333332
                 ]
             }
         ],
         "markers": [
             {
-                "title": "工事中",
+                "title": "今山大師",
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    32.590513888888886,
+                    131.66555833333334
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/工事中.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/今山大師.jpg"
+            },
+            {
+                "title": "今山大師_本堂",
+                "coords": [
+                    32.590094444444446,
+                    131.66621388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/今山大師_本堂.jpg"
+            },
+            {
+                "title": "今山大師展望所",
+                "coords": [
+                    32.590725,
+                    131.66565
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/今山大師展望所.jpg"
+            },
+            {
+                "title": "佐土原駅",
+                "coords": [
+                    32.02243055555556,
+                    131.47698888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/佐土原駅.jpg"
+            },
+            {
+                "title": "宮崎神宮",
+                "coords": [
+                    31.93797777777778,
+                    131.42363055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/宮崎神宮.jpg"
+            },
+            {
+                "title": "宮崎神宮駅",
+                "coords": [
+                    31.937952777777777,
+                    131.43013055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/宮崎神宮駅.jpg"
+            },
+            {
+                "title": "宮崎空港",
+                "coords": [
+                    31.87250277777778,
+                    131.44169722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/宮崎空港.jpg"
+            },
+            {
+                "title": "宮崎駅",
+                "coords": [
+                    31.916016666666668,
+                    131.43144166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/宮崎駅.jpg"
+            },
+            {
+                "title": "延岡駅",
+                "coords": [
+                    32.59005,
+                    131.67176944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/延岡駅.jpg"
+            },
+            {
+                "title": "青島",
+                "coords": [
+                    31.803183333333333,
+                    131.46996944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/青島.jpg"
+            },
+            {
+                "title": "青島亜熱帯植物園大温室",
+                "coords": [
+                    31.80116388888889,
+                    131.46942222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/青島亜熱帯植物園大温室.jpg"
+            },
+            {
+                "title": "青島神社",
+                "coords": [
+                    31.80423888888889,
+                    131.47515833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/青島神社.jpg"
+            },
+            {
+                "title": "青島神社_本殿",
+                "coords": [
+                    31.804455555555556,
+                    131.47506666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/青島神社_本殿.jpg"
+            },
+            {
+                "title": "駅名標_佐土原駅",
+                "coords": [
+                    32.02240833333333,
+                    131.47703611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_佐土原駅.jpg"
+            },
+            {
+                "title": "駅名標_宮崎神宮駅",
+                "coords": [
+                    31.938575,
+                    131.43068055555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_宮崎神宮駅.jpg"
+            },
+            {
+                "title": "駅名標_宮崎空港駅",
+                "coords": [
+                    31.87259166666667,
+                    131.4396361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_宮崎空港駅.jpg"
+            },
+            {
+                "title": "駅名標_宮崎駅",
+                "coords": [
+                    31.916072222222223,
+                    131.43173333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_宮崎駅.jpg"
+            },
+            {
+                "title": "駅名標_延岡駅",
+                "coords": [
+                    32.59078888888889,
+                    131.67265277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_延岡駅.jpg"
+            },
+            {
+                "title": "駅名標_青島駅",
+                "coords": [
+                    31.799841666666666,
+                    131.46708611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/駅名標_青島駅.jpg"
+            },
+            {
+                "title": "鬼の洗濯板",
+                "coords": [
+                    31.8038,
+                    131.47459444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/45_宮崎県/鬼の洗濯板.jpg"
             }
         ]
     },
