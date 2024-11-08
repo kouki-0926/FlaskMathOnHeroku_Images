@@ -1863,8 +1863,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.538409482758624,
-                    140.1255943467433
+                    35.560121180555555,
+                    140.1476753454861
                 ]
             }
         ],
@@ -1956,6 +1956,14 @@
                     140.3875111111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/成田空港.jpg"
+            },
+            {
+                "title": "成田空港第1ターミナル",
+                "coords": [
+                    35.76487222222222,
+                    140.3850111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/成田空港第1ターミナル.jpg"
             },
             {
                 "title": "成田空港第2ターミナル",
@@ -2060,6 +2068,22 @@
                     140.10328611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/駅名標_安房鴨川駅.jpg"
+            },
+            {
+                "title": "駅名標_成田空港駅",
+                "coords": [
+                    35.767783333333334,
+                    140.38456666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/駅名標_成田空港駅.jpg"
+            },
+            {
+                "title": "駅名標_成田駅",
+                "coords": [
+                    35.777347222222225,
+                    140.31379722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/12_千葉県/駅名標_成田駅.jpg"
             },
             {
                 "title": "駅名標_東千葉駅",
@@ -6515,19 +6539,347 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    26.365818716931216,
+                    127.77248789682541
                 ]
             }
         ],
         "markers": [
             {
-                "title": "工事中",
+                "title": "おきなわ郷土村",
                 "coords": [
-                    26.21233888888889,
-                    127.68103333333333
+                    26.690669444444445,
+                    127.87676944444445
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/工事中.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/おきなわ郷土村.jpg"
+            },
+            {
+                "title": "おきなわ郷土村_入口",
+                "coords": [
+                    26.690994444444446,
+                    127.87765555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/おきなわ郷土村_入口.jpg"
+            },
+            {
+                "title": "アメリカンビレッジ",
+                "coords": [
+                    26.318202777777778,
+                    127.75482222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/アメリカンビレッジ.jpg"
+            },
+            {
+                "title": "エメラルドビーチ",
+                "coords": [
+                    26.698563888888888,
+                    127.87695277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/エメラルドビーチ.jpg"
+            },
+            {
+                "title": "ナゴパイナップルパーク",
+                "coords": [
+                    26.61588611111111,
+                    127.96973333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/ナゴパイナップルパーク.jpg"
+            },
+            {
+                "title": "ナゴパイナップルパーク_入場口",
+                "coords": [
+                    26.615775,
+                    127.96945277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/ナゴパイナップルパーク_入場口.jpg"
+            },
+            {
+                "title": "ワルミ大橋",
+                "coords": [
+                    26.66806111111111,
+                    127.99364444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/ワルミ大橋.jpg"
+            },
+            {
+                "title": "万座毛",
+                "coords": [
+                    26.50503611111111,
+                    127.84968611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/万座毛.jpg"
+            },
+            {
+                "title": "万座毛周辺活性化施設",
+                "coords": [
+                    26.503972222222224,
+                    127.85073888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/万座毛周辺活性化施設.jpg"
+            },
+            {
+                "title": "儀保駅",
+                "coords": [
+                    26.22479722222222,
+                    127.7189638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/儀保駅.jpg"
+            },
+            {
+                "title": "前田高地",
+                "coords": [
+                    26.246825,
+                    127.73226944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/前田高地.jpg"
+            },
+            {
+                "title": "古宇利ビーチ",
+                "coords": [
+                    26.694666666666667,
+                    128.02188055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/古宇利ビーチ.jpg"
+            },
+            {
+                "title": "古宇利大橋",
+                "coords": [
+                    26.694647222222223,
+                    128.02128611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/古宇利大橋.jpg"
+            },
+            {
+                "title": "国際通り",
+                "coords": [
+                    26.217480555555557,
+                    127.69194166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/国際通り.jpg"
+            },
+            {
+                "title": "国際通り_始点",
+                "coords": [
+                    26.213694444444446,
+                    127.68068611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/国際通り_始点.jpg"
+            },
+            {
+                "title": "国際通り_終点",
+                "coords": [
+                    26.218744444444443,
+                    127.69499166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/国際通り_終点.jpg"
+            },
+            {
+                "title": "御菓子御殿",
+                "coords": [
+                    26.637480555555555,
+                    127.95992222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/御菓子御殿.jpg"
+            },
+            {
+                "title": "日本最南端駅_赤嶺駅",
+                "coords": [
+                    26.193019444444445,
+                    127.66085
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/日本最南端駅_赤嶺駅.jpg"
+            },
+            {
+                "title": "日本最西端駅_那覇空港駅",
+                "coords": [
+                    26.206566666666667,
+                    127.65231388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/日本最西端駅_那覇空港駅.jpg"
+            },
+            {
+                "title": "沖縄美ら海水族館",
+                "coords": [
+                    26.694466666666667,
+                    127.87687777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/沖縄美ら海水族館.jpg"
+            },
+            {
+                "title": "沖縄美ら海水族館_ジンベエザメ",
+                "coords": [
+                    26.694544444444446,
+                    127.8777861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/沖縄美ら海水族館_ジンベエザメ.jpg"
+            },
+            {
+                "title": "沖縄美ら海水族館_入館口",
+                "coords": [
+                    26.693491666666667,
+                    127.87798333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/沖縄美ら海水族館_入館口.jpg"
+            },
+            {
+                "title": "波の上ビーチ",
+                "coords": [
+                    26.2211,
+                    127.67050277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/波の上ビーチ.jpg"
+            },
+            {
+                "title": "波上宮",
+                "coords": [
+                    26.220336111111113,
+                    127.67122777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/波上宮.jpg"
+            },
+            {
+                "title": "浦添ようどれ",
+                "coords": [
+                    26.24801666666667,
+                    127.73140833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/浦添ようどれ.jpg"
+            },
+            {
+                "title": "浦添城",
+                "coords": [
+                    26.247683333333335,
+                    127.731225
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/浦添城.jpg"
+            },
+            {
+                "title": "牧志駅",
+                "coords": [
+                    26.217675,
+                    127.69263333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/牧志駅.jpg"
+            },
+            {
+                "title": "福州園",
+                "coords": [
+                    26.21811111111111,
+                    127.67564444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/福州園.jpg"
+            },
+            {
+                "title": "那覇市第一牧志公設市場",
+                "coords": [
+                    26.214883333333333,
+                    127.68840833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/那覇市第一牧志公設市場.jpg"
+            },
+            {
+                "title": "那覇空港",
+                "coords": [
+                    26.205969444444445,
+                    127.65085555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/那覇空港.jpg"
+            },
+            {
+                "title": "首里城",
+                "coords": [
+                    26.217355555555557,
+                    127.72051944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/首里城.jpg"
+            },
+            {
+                "title": "首里城_守礼門",
+                "coords": [
+                    26.218230555555557,
+                    127.71679722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/首里城_守礼門.jpg"
+            },
+            {
+                "title": "首里城_復元工事",
+                "coords": [
+                    26.217344444444443,
+                    127.71913888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/首里城_復元工事.jpg"
+            },
+            {
+                "title": "駅名標_てだこ浦西駅",
+                "coords": [
+                    26.241866666666667,
+                    127.74207222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_てだこ浦西駅.jpg"
+            },
+            {
+                "title": "駅名標_儀保駅",
+                "coords": [
+                    26.2241,
+                    127.7192388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_儀保駅.jpg"
+            },
+            {
+                "title": "駅名標_浦添前田駅",
+                "coords": [
+                    26.243869444444446,
+                    127.73195555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_浦添前田駅.jpg"
+            },
+            {
+                "title": "駅名標_牧志駅",
+                "coords": [
+                    26.21723611111111,
+                    127.69261944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_牧志駅.jpg"
+            },
+            {
+                "title": "駅名標_県庁前駅",
+                "coords": [
+                    26.21461111111111,
+                    127.6793888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_県庁前駅.jpg"
+            },
+            {
+                "title": "駅名標_美栄橋駅",
+                "coords": [
+                    26.21931111111111,
+                    127.68451666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_美栄橋駅.jpg"
+            },
+            {
+                "title": "駅名標_赤嶺駅",
+                "coords": [
+                    26.193313888888888,
+                    127.661025
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_赤嶺駅.jpg"
+            },
+            {
+                "title": "駅名標_那覇空港",
+                "coords": [
+                    26.206444444444443,
+                    127.6521
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_那覇空港.jpg"
+            },
+            {
+                "title": "駅名標_首里駅",
+                "coords": [
+                    26.219341666666665,
+                    127.72600555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/47_沖縄県/駅名標_首里駅.jpg"
             }
         ]
     }
