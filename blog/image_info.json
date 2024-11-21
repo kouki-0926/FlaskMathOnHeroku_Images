@@ -3355,19 +3355,91 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.396200925925925,
-                    136.71081018518518
+                    35.42279930555556,
+                    136.75894722222222
                 ]
             }
         ],
         "markers": [
             {
-                "title": "織田信長像",
+                "title": "岐阜公園",
                 "coords": [
-                    35.41021388888889,
-                    136.75688055555557
+                    35.434352777777775,
+                    136.77430833333332
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/織田信長像.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜公園.jpg"
+            },
+            {
+                "title": "岐阜公園_三重塔",
+                "coords": [
+                    35.43468055555556,
+                    136.77523888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜公園_三重塔.jpg"
+            },
+            {
+                "title": "岐阜城",
+                "coords": [
+                    35.433675,
+                    136.78176944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜城.jpg"
+            },
+            {
+                "title": "岐阜城_濃尾平野",
+                "coords": [
+                    35.434025,
+                    136.782075
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜城_濃尾平野.jpg"
+            },
+            {
+                "title": "岐阜城_長良川",
+                "coords": [
+                    35.44075,
+                    136.7807611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜城_長良川.jpg"
+            },
+            {
+                "title": "岐阜城_長良橋",
+                "coords": [
+                    35.43425833333333,
+                    136.78181388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜城_長良橋.jpg"
+            },
+            {
+                "title": "岐阜大仏",
+                "coords": [
+                    35.432452777777776,
+                    136.771775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜大仏.jpg"
+            },
+            {
+                "title": "岐阜大仏殿",
+                "coords": [
+                    35.43251388888889,
+                    136.77159166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜大仏殿.jpg"
+            },
+            {
+                "title": "岐阜駅",
+                "coords": [
+                    35.40971388888889,
+                    136.75657777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜駅.jpg"
+            },
+            {
+                "title": "岐阜駅_黄金の織田信長公像",
+                "coords": [
+                    35.41030833333333,
+                    136.75680555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/岐阜駅_黄金の織田信長公像.jpg"
             },
             {
                 "title": "駅名標_大垣駅",
@@ -3380,8 +3452,8 @@
             {
                 "title": "駅名標_岐阜駅",
                 "coords": [
-                    35.41117222222222,
-                    136.75730833333333
+                    35.409644444444446,
+                    136.75640833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/21_岐阜県/駅名標_岐阜駅.jpg"
             }
@@ -3491,19 +3563,43 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.127061363636365,
-                    136.9436467070707
+                    35.124237654320986,
+                    136.95180015123458
                 ]
             }
         ],
         "markers": [
             {
-                "title": "JRセントラルタワーズ",
+                "title": "CBS2024",
+                "coords": [
+                    35.155680555555556,
+                    136.965575
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/CBS2024.jpg"
+            },
+            {
+                "title": "JRセントラルタワーズ_夜",
+                "coords": [
+                    35.17164722222222,
+                    136.884475
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/JRセントラルタワーズ_夜.jpg"
+            },
+            {
+                "title": "JRセントラルタワーズ_昼",
                 "coords": [
                     35.170611111111114,
                     136.88499444444443
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/JRセントラルタワーズ.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/JRセントラルタワーズ_昼.jpg"
+            },
+            {
+                "title": "ROBOMECH2023",
+                "coords": [
+                    35.132488888888886,
+                    136.89791383333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/ROBOMECH2023.jpg"
             },
             {
                 "title": "オアシス21_水の宇宙船",
@@ -3512,14 +3608,6 @@
                     136.90952777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/オアシス21_水の宇宙船.jpg"
-            },
-            {
-                "title": "ロボティクス_メカトロニクス講演会2023_in_Nagoya",
-                "coords": [
-                    35.132488888888886,
-                    136.89791383333332
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/ロボティクス_メカトロニクス講演会2023_in_Nagoya.jpg"
             },
             {
                 "title": "名古屋",
@@ -3532,8 +3620,8 @@
             {
                 "title": "名古屋テレビ塔",
                 "coords": [
-                    35.17107222222222,
-                    136.9095277222222
+                    35.17348888888889,
+                    136.9075777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/名古屋テレビ塔.jpg"
             },
@@ -3544,6 +3632,14 @@
                     136.90019166666667
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/名古屋城.jpg"
+            },
+            {
+                "title": "名古屋大学",
+                "coords": [
+                    35.15533055555556,
+                    136.96665833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/名古屋大学.jpg"
             },
             {
                 "title": "名古屋市科学館",
@@ -3570,12 +3666,44 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/熱田神宮.jpg"
             },
             {
-                "title": "駅名標_名古屋駅",
+                "title": "駅名標_丸の内駅",
+                "coords": [
+                    35.17631111111111,
+                    136.8964388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_丸の内駅.jpg"
+            },
+            {
+                "title": "駅名標_名古屋大学駅",
+                "coords": [
+                    35.15527222222222,
+                    136.96603333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_名古屋大学駅.jpg"
+            },
+            {
+                "title": "駅名標_名古屋駅_名古屋市営地下鉄",
+                "coords": [
+                    35.17077222222222,
+                    136.8825388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_名古屋駅_名古屋市営地下鉄.jpg"
+            },
+            {
+                "title": "駅名標_名古屋駅_在来線",
                 "coords": [
                     35.17031388888889,
                     136.88252222222224
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_名古屋駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_名古屋駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_名古屋駅_新幹線",
+                "coords": [
+                    34.851172222222225,
+                    137.19251944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/23_愛知県/駅名標_名古屋駅_新幹線.jpg"
             },
             {
                 "title": "駅名標_豊橋駅",
