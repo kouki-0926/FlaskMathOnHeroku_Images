@@ -3463,8 +3463,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.03613636363636,
-                    138.71152575757574
+                    35.030767824074076,
+                    138.68465300925925
                 ]
             }
         ],
@@ -3532,6 +3532,14 @@
                     138.3758222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/静岡浅間神社.jpg"
+            },
+            {
+                "title": "静岡駅",
+                "coords": [
+                    34.971713888888885,
+                    138.38905277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/22_静岡県/静岡駅.jpg"
             },
             {
                 "title": "駅名標_熱海駅_在来線",
@@ -4223,8 +4231,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.08970458333333,
-                    134.85476859541063
+                    35.07875612847222,
+                    134.84795670949075
                 ]
             }
         ],
@@ -4382,12 +4390,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/28_兵庫県/駅名標_城崎温泉駅.jpg"
             },
             {
-                "title": "駅名標_姫路駅",
+                "title": "駅名標_姫路駅_在来線",
+                "coords": [
+                    34.82694166666667,
+                    134.69128333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/28_兵庫県/駅名標_姫路駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_姫路駅_新幹線",
                 "coords": [
                     34.826388888888886,
                     134.68905555555557
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/28_兵庫県/駅名標_姫路駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/28_兵庫県/駅名標_姫路駅_新幹線.jpg"
             },
             {
                 "title": "駅名標_浜坂駅",
