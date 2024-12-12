@@ -6263,8 +6263,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.22934407407408,
-                    131.61245962962963
+                    33.22956388888889,
+                    131.6120951388889
                 ]
             }
         ],
@@ -6364,6 +6364,14 @@
                     131.50038055555555
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_別府駅_2.jpg"
+            },
+            {
+                "title": "駅名標_大分駅",
+                "coords": [
+                    33.23286111111111,
+                    131.6066277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/blog/44_大分県/駅名標_大分駅.jpg"
             },
             {
                 "title": "駅名標_臼杵駅_1",
