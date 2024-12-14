@@ -934,12 +934,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/瑞鳳殿.jpg"
             },
             {
-                "title": "駅名標_仙台駅",
+                "title": "駅名標_仙台駅_在来線",
                 "coords": [
                     38.25875,
                     140.8827222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_仙台駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_仙台駅_在来線.jpg"
             },
             {
                 "title": "駅名標_仙台駅_新幹線",
@@ -2386,12 +2386,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_東京駅_在来線_地下ホーム.jpg"
             },
             {
-                "title": "駅名標_東京駅_新幹線",
+                "title": "駅名標_東京駅_東海道新幹線",
                 "coords": [
                     35.67921111111111,
                     139.76735
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_東京駅_新幹線.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_東京駅_東海道新幹線.jpg"
             },
             {
                 "title": "駅名標_羽田空港第1_2ターミナル駅",
