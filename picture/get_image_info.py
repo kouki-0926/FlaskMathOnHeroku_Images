@@ -26,7 +26,7 @@ def get_gps_data(image_path):
 
 def get_image_info(pref_name):
     # 画像のファイル名を取得
-    path = "blog/" + pref_name + "/"
+    path = "picture/" + pref_name + "/"
     file_list = os.listdir(path)
     path_list = [path + fileName for fileName in file_list]
 
@@ -43,13 +43,13 @@ def get_image_info(pref_name):
 
 if __name__ == "__main__":
     # 保存ファイルを初期化
-    saveFileName = "blog/image_info.json"
+    saveFileName = "picture/image_info.json"
     with open(saveFileName, "w", encoding='utf-8') as f:
         f.write("")
 
     image_info = {}
-    for pref_name in sorted(os.listdir("blog")):
-        if os.path.isdir("blog/" + pref_name):
+    for pref_name in sorted(os.listdir("picture")):
+        if os.path.isdir("picture/" + pref_name):
             image_info[pref_name] = get_image_info(pref_name)
 
     # json形式で保存
