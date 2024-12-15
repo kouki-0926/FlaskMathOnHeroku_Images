@@ -1863,8 +1863,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.560121180555555,
-                    140.1476753454861
+                    35.56327336601307,
+                    140.1456022859477
                 ]
             }
         ],
@@ -2054,12 +2054,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_千葉公園駅.jpg"
             },
             {
-                "title": "駅名標_千葉駅",
+                "title": "駅名標_千葉駅_外房線",
+                "coords": [
+                    35.61335277777778,
+                    140.11273055555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_千葉駅_外房線.jpg"
+            },
+            {
+                "title": "駅名標_千葉駅_成田線",
                 "coords": [
                     35.613502777777775,
                     140.11413611111112
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_千葉駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_千葉駅_成田線.jpg"
+            },
+            {
+                "title": "駅名標_千葉駅_総武本線",
+                "coords": [
+                    35.614063888888886,
+                    140.1121361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_千葉駅_総武本線.jpg"
             },
             {
                 "title": "駅名標_安房鴨川駅",
