@@ -731,12 +731,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    39.35990925925926,
-                    141.14254032921812
+                    39.33002491666667,
+                    141.13273137091505
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "SI2024",
+                "coords": [
+                    39.70233888888889,
+                    141.13346944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/SI2024.jpg"
+            },
             {
                 "title": "アイーナ_いわて県民情報交流センター",
                 "coords": [
@@ -746,12 +754,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/アイーナ_いわて県民情報交流センター.jpg"
             },
             {
-                "title": "マリオス展望室_岩手山",
+                "title": "マリオス展望室",
                 "coords": [
                     39.70218333333333,
                     141.13323888888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/マリオス展望室_岩手山.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/マリオス展望室.jpg"
             },
             {
                 "title": "中尊寺_月見坂",
@@ -760,6 +768,14 @@
                     141.10791111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/中尊寺_月見坂.jpg"
+            },
+            {
+                "title": "中尊寺_本堂",
+                "coords": [
+                    39.00136111111111,
+                    141.10256944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/中尊寺_本堂.jpg"
             },
             {
                 "title": "中尊寺_東物見台",
@@ -778,28 +794,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/中尊寺_金色堂.jpg"
             },
             {
-                "title": "二戸_馬仙峡",
+                "title": "卯の花清水",
                 "coords": [
-                    40.25216388888889,
-                    141.27981666666668
+                    38.99695555555556,
+                    141.1112222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/二戸_馬仙峡.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/卯の花清水.jpg"
             },
             {
-                "title": "二戸駅",
+                "title": "岩手山",
                 "coords": [
-                    40.26015833333334,
-                    141.28495833333332
+                    39.701858333333334,
+                    141.13511666666668
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/二戸駅.jpg"
-            },
-            {
-                "title": "北上駅",
-                "coords": [
-                    39.281958333333336,
-                    141.12330555555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/北上駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/岩手山.jpg"
             },
             {
                 "title": "岩手銀行赤レンガ館",
@@ -812,24 +820,16 @@
             {
                 "title": "平泉世界遺産ガイダンスセンター",
                 "coords": [
-                    38.99308888888889,
-                    141.12048333333334
+                    38.99308883333333,
+                    141.12048327777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/平泉世界遺産ガイダンスセンター.jpg"
             },
             {
-                "title": "平泉駅",
-                "coords": [
-                    38.988052777777774,
-                    141.11736944444445
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/平泉駅.jpg"
-            },
-            {
                 "title": "柳之御所遺跡",
                 "coords": [
-                    38.99308055555556,
-                    141.1200861111111
+                    38.99259166666667,
+                    141.11897222222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/柳之御所遺跡.jpg"
             },
@@ -866,14 +866,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/無量光院跡.jpg"
             },
             {
-                "title": "盛岡_開運橋",
-                "coords": [
-                    39.702397222222224,
-                    141.14030555555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡_開運橋.jpg"
-            },
-            {
                 "title": "盛岡城跡",
                 "coords": [
                     39.700408333333336,
@@ -890,20 +882,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡_石垣ライトアップ.jpg"
             },
             {
-                "title": "盛岡駅",
-                "coords": [
-                    39.70163055555555,
-                    141.13685555555554
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡駅.jpg"
-            },
-            {
                 "title": "観自在王院跡",
                 "coords": [
                     38.98829722222222,
                     141.1102611111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/観自在王院跡.jpg"
+            },
+            {
+                "title": "開運橋",
+                "coords": [
+                    39.702397222222224,
+                    141.14030555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/開運橋.jpg"
+            },
+            {
+                "title": "馬仙峡",
+                "coords": [
+                    40.25216388888889,
+                    141.27981666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/馬仙峡.jpg"
             },
             {
                 "title": "駅名標_一ノ関駅_在来線",
@@ -952,6 +952,62 @@
                     141.136275
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_盛岡駅_新幹線",
+                "coords": [
+                    39.70152777777778,
+                    141.13717777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_一ノ関駅",
+                "coords": [
+                    38.40286388888889,
+                    140.9316861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_一ノ関駅.jpg"
+            },
+            {
+                "title": "駅舎_二戸駅",
+                "coords": [
+                    40.26015833333334,
+                    141.28495833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_二戸駅.jpg"
+            },
+            {
+                "title": "駅舎_北上駅",
+                "coords": [
+                    39.281958333333336,
+                    141.12330555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_北上駅.jpg"
+            },
+            {
+                "title": "駅舎_平泉駅",
+                "coords": [
+                    38.988052777777774,
+                    141.11736944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_平泉駅.jpg"
+            },
+            {
+                "title": "駅舎_盛岡駅",
+                "coords": [
+                    39.70163055555555,
+                    141.13685555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_盛岡駅.jpg"
+            },
+            {
+                "title": "高舘義経堂",
+                "coords": [
+                    38.996880555555556,
+                    141.11415
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/高舘義経堂.jpg"
             }
         ]
     },
