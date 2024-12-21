@@ -731,8 +731,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    39.33002491666667,
-                    141.13273137091505
+                    39.345425406862745,
+                    141.13883104411767
                 ]
             }
         ],
@@ -964,8 +964,8 @@
             {
                 "title": "駅舎_一ノ関駅",
                 "coords": [
-                    38.40286388888889,
-                    140.9316861111111
+                    38.92648055555556,
+                    141.139075
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅舎_一ノ関駅.jpg"
             },
