@@ -1518,30 +1518,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/六角堂.jpg"
             },
             {
-                "title": "勝田駅",
-                "coords": [
-                    36.39445,
-                    140.52490277777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/勝田駅.jpg"
-            },
-            {
-                "title": "古河駅",
-                "coords": [
-                    36.19483888888889,
-                    139.709975
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/古河駅.jpg"
-            },
-            {
-                "title": "常陸多賀駅",
-                "coords": [
-                    36.55244722222222,
-                    140.63185
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/常陸多賀駅.jpg"
-            },
-            {
                 "title": "弘道館",
                 "coords": [
                     36.375119444444444,
@@ -1564,22 +1540,6 @@
                     140.47915555555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_大手門.jpg"
-            },
-            {
-                "title": "水戸駅_北口",
-                "coords": [
-                    36.37159444444445,
-                    140.4756
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸駅_北口.jpg"
-            },
-            {
-                "title": "水戸駅_南口",
-                "coords": [
-                    36.36975833333333,
-                    140.4760138888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸駅_南口.jpg"
             },
             {
                 "title": "水戸黄門",
@@ -1636,6 +1596,46 @@
                     140.47640833333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅名標_水戸駅.jpg"
+            },
+            {
+                "title": "駅舎_勝田駅",
+                "coords": [
+                    36.39445,
+                    140.52490277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅舎_勝田駅.jpg"
+            },
+            {
+                "title": "駅舎_古河駅",
+                "coords": [
+                    36.19483888888889,
+                    139.709975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅舎_古河駅.jpg"
+            },
+            {
+                "title": "駅舎_常陸多賀駅",
+                "coords": [
+                    36.55244722222222,
+                    140.63185
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅舎_常陸多賀駅.jpg"
+            },
+            {
+                "title": "駅舎_水戸駅_北口",
+                "coords": [
+                    36.37159444444445,
+                    140.4756
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅舎_水戸駅_北口.jpg"
+            },
+            {
+                "title": "駅舎_水戸駅_南口",
+                "coords": [
+                    36.36975833333333,
+                    140.4760138888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/駅舎_水戸駅_南口.jpg"
             }
         ]
     },
