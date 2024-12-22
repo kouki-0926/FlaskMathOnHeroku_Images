@@ -2026,14 +2026,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/川越_時の鐘.jpg"
             },
             {
-                "title": "柳生駅",
-                "coords": [
-                    36.20652777777778,
-                    139.65940833333335
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/柳生駅.jpg"
-            },
-            {
                 "title": "都心上空",
                 "coords": [
                     35.798877777777776,
@@ -2088,6 +2080,14 @@
                     139.659775
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/駅名標_柳生駅.jpg"
+            },
+            {
+                "title": "駅舎_柳生駅",
+                "coords": [
+                    36.20652777777778,
+                    139.65940833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/駅舎_柳生駅.jpg"
             }
         ]
     },
