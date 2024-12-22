@@ -1239,20 +1239,12 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.169381944444446,
-                    140.20248095238097
+                    38.161499629629624,
+                    140.20013740740742
                 ]
             }
         ],
         "markers": [
-            {
-                "title": "宮内駅",
-                "coords": [
-                    38.071,
-                    140.13551388888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/宮内駅.jpg"
-            },
             {
                 "title": "山形城",
                 "coords": [
@@ -1260,22 +1252,6 @@
                     140.3287361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/山形城.jpg"
-            },
-            {
-                "title": "山形駅",
-                "coords": [
-                    38.249775,
-                    140.32696666666666
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/山形駅.jpg"
-            },
-            {
-                "title": "新庄駅",
-                "coords": [
-                    38.762727777777776,
-                    140.30614722222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/新庄駅.jpg"
             },
             {
                 "title": "最上川",
@@ -1286,6 +1262,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/最上川.jpg"
             },
             {
+                "title": "烏帽子山八幡宮",
+                "coords": [
+                    38.05114722222222,
+                    140.16732777777779
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/烏帽子山八幡宮.jpg"
+            },
+            {
                 "title": "熊野大社",
                 "coords": [
                     38.07785277777778,
@@ -1294,28 +1278,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/熊野大社.jpg"
             },
             {
-                "title": "米沢駅",
-                "coords": [
-                    37.9095,
-                    140.12785277777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/米沢駅.jpg"
-            },
-            {
                 "title": "赤湯温泉",
                 "coords": [
                     38.050308333333334,
                     140.1593777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/赤湯温泉.jpg"
-            },
-            {
-                "title": "赤湯駅",
-                "coords": [
-                    38.04718888888889,
-                    140.14968888888887
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/赤湯駅.jpg"
             },
             {
                 "title": "駅名標_宮内駅",
@@ -1356,6 +1324,46 @@
                     140.14921666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅名標_赤湯駅.jpg"
+            },
+            {
+                "title": "駅舎_宮内駅",
+                "coords": [
+                    38.071,
+                    140.13551388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅舎_宮内駅.jpg"
+            },
+            {
+                "title": "駅舎_山形駅",
+                "coords": [
+                    38.249775,
+                    140.32696666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅舎_山形駅.jpg"
+            },
+            {
+                "title": "駅舎_新庄駅",
+                "coords": [
+                    38.762727777777776,
+                    140.30614722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅舎_新庄駅.jpg"
+            },
+            {
+                "title": "駅舎_米沢駅",
+                "coords": [
+                    37.9095,
+                    140.12785277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅舎_米沢駅.jpg"
+            },
+            {
+                "title": "駅舎_赤湯駅",
+                "coords": [
+                    38.04718888888889,
+                    140.14968888888887
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅舎_赤湯駅.jpg"
             }
         ]
     },
