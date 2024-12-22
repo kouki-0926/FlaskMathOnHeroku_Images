@@ -1371,8 +1371,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    37.39437095959596,
-                    140.33033838383838
+                    37.43712371794872,
+                    140.34824743589743
                 ]
             }
         ],
@@ -1394,28 +1394,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/信夫山.jpg"
             },
             {
-                "title": "新白河駅",
-                "coords": [
-                    37.122525,
-                    140.188325
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/新白河駅.jpg"
-            },
-            {
                 "title": "白河城",
                 "coords": [
                     37.132358333333336,
                     140.21417222222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河城.jpg"
-            },
-            {
-                "title": "白河駅",
-                "coords": [
-                    37.12939444444444,
-                    140.21357777777777
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河駅.jpg"
             },
             {
                 "title": "霞ヶ城公園",
@@ -1464,6 +1448,38 @@
                     140.38864166666667
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅名標_郡山駅.jpg"
+            },
+            {
+                "title": "駅舎_二本松駅",
+                "coords": [
+                    37.589847222222225,
+                    140.43533333333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅舎_二本松駅.jpg"
+            },
+            {
+                "title": "駅舎_新白河駅",
+                "coords": [
+                    37.122525,
+                    140.188325
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅舎_新白河駅.jpg"
+            },
+            {
+                "title": "駅舎_白河駅",
+                "coords": [
+                    37.12939444444444,
+                    140.21357777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅舎_白河駅.jpg"
+            },
+            {
+                "title": "駅舎_福島駅",
+                "coords": [
+                    37.75468055555555,
+                    140.4581611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅舎_福島駅.jpg"
             }
         ]
     },
