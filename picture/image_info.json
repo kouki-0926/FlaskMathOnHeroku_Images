@@ -3,8 +3,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    43.27102807017544,
-                    142.1347778125
+                    43.29890497835498,
+                    142.12883466630592
                 ]
             }
         ],
@@ -26,22 +26,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/すすきの.jpg"
             },
             {
-                "title": "オホーツク海",
-                "coords": [
-                    43.92040277777778,
-                    144.52832222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/オホーツク海.jpg"
-            },
-            {
-                "title": "中富良野駅",
-                "coords": [
-                    43.40573611111111,
-                    142.4213861111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/中富良野駅.jpg"
-            },
-            {
                 "title": "函館山",
                 "coords": [
                     41.75931666666666,
@@ -56,14 +40,6 @@
                     140.704925
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/函館山ロープウェイ.jpg"
-            },
-            {
-                "title": "函館駅",
-                "coords": [
-                    41.77325833333333,
-                    140.72749444444443
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/函館駅.jpg"
             },
             {
                 "title": "別寒辺牛湿原",
@@ -98,28 +74,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/北海道大学総合博物館.jpg"
             },
             {
-                "title": "北見駅",
-                "coords": [
-                    43.804988888888886,
-                    143.89660555555557
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/北見駅.jpg"
-            },
-            {
                 "title": "名寄市北国博物館SL排雪列車キマロキ",
                 "coords": [
                     44.3423,
                     142.46647777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/名寄市北国博物館SL排雪列車キマロキ.jpg"
-            },
-            {
-                "title": "名寄駅",
-                "coords": [
-                    44.349494444444446,
-                    142.4646
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/名寄駅.jpg"
             },
             {
                 "title": "地球岬",
@@ -136,14 +96,6 @@
                     140.66801388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/大沼公園.jpg"
-            },
-            {
-                "title": "大沼公園駅",
-                "coords": [
-                    41.9812,
-                    140.67027222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/大沼公園駅.jpg"
             },
             {
                 "title": "天塩川",
@@ -178,14 +130,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/室蘭本線_噴火湾.jpg"
             },
             {
-                "title": "室蘭駅",
-                "coords": [
-                    42.31803611111111,
-                    140.9740611111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/室蘭駅.jpg"
-            },
-            {
                 "title": "富良野_ファーム富田",
                 "coords": [
                     43.418994444444444,
@@ -202,14 +146,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/小樽運河.jpg"
             },
             {
-                "title": "小樽駅",
-                "coords": [
-                    43.197875,
-                    140.9944916111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/小樽駅.jpg"
-            },
-            {
                 "title": "帯広百年記念館",
                 "coords": [
                     42.907383333333335,
@@ -218,20 +154,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/帯広百年記念館.jpg"
             },
             {
-                "title": "帯広駅",
-                "coords": [
-                    42.91831944444444,
-                    143.202775
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/帯広駅.jpg"
-            },
-            {
-                "title": "新千歳空港_展望デッキ",
+                "title": "新千歳空港",
                 "coords": [
                     42.787594444444444,
                     141.6818861111111
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/新千歳空港_展望デッキ.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/新千歳空港.jpg"
             },
             {
                 "title": "新千歳空港駅",
@@ -282,14 +210,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/旭川常磐公園.jpg"
             },
             {
-                "title": "旭川駅",
-                "coords": [
-                    43.76358888888889,
-                    142.3580638888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/旭川駅.jpg"
-            },
-            {
                 "title": "札幌大通公園",
                 "coords": [
                     43.06136388888889,
@@ -304,30 +224,6 @@
                     141.35339444444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/札幌市時計台.jpg"
-            },
-            {
-                "title": "札幌駅",
-                "coords": [
-                    43.067413888888886,
-                    141.351075
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/札幌駅.jpg"
-            },
-            {
-                "title": "根室駅",
-                "coords": [
-                    43.327130555555556,
-                    145.5829611111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/根室駅.jpg"
-            },
-            {
-                "title": "母恋駅",
-                "coords": [
-                    42.316897222222224,
-                    140.98945555555557
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/母恋駅.jpg"
             },
             {
                 "title": "洞爺湖",
@@ -362,12 +258,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/稚内港北防波堤ドーム.jpg"
             },
             {
-                "title": "網走駅",
+                "title": "釧網本線_オホーツク海",
                 "coords": [
-                    44.02046111111111,
-                    144.25405833333335
+                    43.92040277777778,
+                    144.52832222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/網走駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/釧網本線_オホーツク海.jpg"
             },
             {
                 "title": "釧路湿原_細岡展望台",
@@ -378,36 +274,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/釧路湿原_細岡展望台.jpg"
             },
             {
-                "title": "釧路湿原駅",
-                "coords": [
-                    43.10066111111111,
-                    144.44783055555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/釧路湿原駅.jpg"
-            },
-            {
-                "title": "釧路駅",
-                "coords": [
-                    42.98968055555556,
-                    144.38299444444445
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/釧路駅.jpg"
-            },
-            {
                 "title": "長万部_噴火湾",
                 "coords": [
                     42.5115,
                     140.3795
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/長万部_噴火湾.jpg"
-            },
-            {
-                "title": "長万部駅",
-                "coords": [
-                    42.513080555555554,
-                    140.37620555555554
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/長万部駅.jpg"
             },
             {
                 "title": "駅名標_すすきの駅",
@@ -616,6 +488,142 @@
                     140.374925
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅名標_長万部駅.jpg"
+            },
+            {
+                "title": "駅舎_中富良野駅",
+                "coords": [
+                    43.40573611111111,
+                    142.4213861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_中富良野駅.jpg"
+            },
+            {
+                "title": "駅舎_函館駅",
+                "coords": [
+                    41.77325833333333,
+                    140.72749444444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_函館駅.jpg"
+            },
+            {
+                "title": "駅舎_北見駅",
+                "coords": [
+                    43.804988888888886,
+                    143.89660555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_北見駅.jpg"
+            },
+            {
+                "title": "駅舎_名寄駅",
+                "coords": [
+                    44.349494444444446,
+                    142.4646
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_名寄駅.jpg"
+            },
+            {
+                "title": "駅舎_大沼公園駅",
+                "coords": [
+                    41.9812,
+                    140.67027222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_大沼公園駅.jpg"
+            },
+            {
+                "title": "駅舎_室蘭駅",
+                "coords": [
+                    42.31803611111111,
+                    140.9740611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_室蘭駅.jpg"
+            },
+            {
+                "title": "駅舎_小樽駅",
+                "coords": [
+                    43.197875,
+                    140.9944916111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_小樽駅.jpg"
+            },
+            {
+                "title": "駅舎_帯広駅",
+                "coords": [
+                    42.91831944444444,
+                    143.202775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_帯広駅.jpg"
+            },
+            {
+                "title": "駅舎_旭川駅",
+                "coords": [
+                    43.76358888888889,
+                    142.3580638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_旭川駅.jpg"
+            },
+            {
+                "title": "駅舎_札幌駅",
+                "coords": [
+                    43.067413888888886,
+                    141.351075
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_札幌駅.jpg"
+            },
+            {
+                "title": "駅舎_根室駅",
+                "coords": [
+                    43.327130555555556,
+                    145.5829611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_根室駅.jpg"
+            },
+            {
+                "title": "駅舎_母恋駅",
+                "coords": [
+                    42.316897222222224,
+                    140.98945555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_母恋駅.jpg"
+            },
+            {
+                "title": "駅舎_稚内駅",
+                "coords": [
+                    45.41755,
+                    141.67715555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_稚内駅.jpg"
+            },
+            {
+                "title": "駅舎_網走駅",
+                "coords": [
+                    44.02046111111111,
+                    144.25405833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_網走駅.jpg"
+            },
+            {
+                "title": "駅舎_釧路湿原駅",
+                "coords": [
+                    43.10066111111111,
+                    144.44783055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_釧路湿原駅.jpg"
+            },
+            {
+                "title": "駅舎_釧路駅",
+                "coords": [
+                    42.98968055555556,
+                    144.38299444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_釧路駅.jpg"
+            },
+            {
+                "title": "駅舎_長万部駅",
+                "coords": [
+                    42.513080555555554,
+                    140.37620555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/駅舎_長万部駅.jpg"
             }
         ]
     },
@@ -623,20 +631,12 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    40.684698375,
-                    140.7465599537037
+                    40.69561238888889,
+                    140.74631153846155
                 ]
             }
         ],
         "markers": [
-            {
-                "title": "八戸駅",
-                "coords": [
-                    40.509902777777775,
-                    141.43048055555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/八戸駅.jpg"
-            },
             {
                 "title": "八甲田丸",
                 "coords": [
@@ -644,6 +644,14 @@
                     140.7354138888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/八甲田丸.jpg"
+            },
+            {
+                "title": "善知鳥神社",
+                "coords": [
+                    40.82658055555556,
+                    140.74333055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/善知鳥神社.jpg"
             },
             {
                 "title": "岩木山",
@@ -670,14 +678,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城二の丸東門.jpg"
             },
             {
-                "title": "弘前駅",
-                "coords": [
-                    40.59886111111111,
-                    140.48434444444445
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前駅.jpg"
-            },
-            {
                 "title": "青森ベイブリッジ",
                 "coords": [
                     40.829005555555554,
@@ -692,14 +692,6 @@
                     140.74205
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/青森県観光物産館アスパム.jpg"
-            },
-            {
-                "title": "青森駅",
-                "coords": [
-                    40.82920555555555,
-                    140.73411666666667
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/青森駅.jpg"
             },
             {
                 "title": "駅名標_八戸駅",
@@ -724,6 +716,30 @@
                     140.73414722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/駅名標_青森駅.jpg"
+            },
+            {
+                "title": "駅舎_八戸駅",
+                "coords": [
+                    40.509902777777775,
+                    141.43048055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/駅舎_八戸駅.jpg"
+            },
+            {
+                "title": "駅舎_弘前駅",
+                "coords": [
+                    40.59886111111111,
+                    140.48434444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/駅舎_弘前駅.jpg"
+            },
+            {
+                "title": "駅舎_青森駅",
+                "coords": [
+                    40.82920555555555,
+                    140.73411666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/駅舎_青森駅.jpg"
             }
         ]
     },
@@ -2030,6 +2046,14 @@
         ],
         "markers": [
             {
+                "title": "SI2022",
+                "coords": [
+                    35.64679722222222,
+                    140.03733888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/SI2022.jpg"
+            },
+            {
                 "title": "亥鼻城",
                 "coords": [
                     35.604844444444446,
@@ -2156,14 +2180,6 @@
                     140.06295555555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/稲毛海浜公園.jpg"
-            },
-            {
-                "title": "第23回計測自動制御学会システムインテグレーション部門講演会",
-                "coords": [
-                    35.64679722222222,
-                    140.03733888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/第23回計測自動制御学会システムインテグレーション部門講演会.jpg"
             },
             {
                 "title": "館山",
