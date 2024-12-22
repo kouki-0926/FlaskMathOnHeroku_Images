@@ -1807,8 +1807,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.382780333333336,
-                    138.8877021111111
+                    36.385305092592596,
+                    138.88286539351853
                 ]
             }
         ],
@@ -1828,14 +1828,6 @@
                     139.66407777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/三県境_看板.jpg"
-            },
-            {
-                "title": "上州富岡駅",
-                "coords": [
-                    36.26028888888889,
-                    138.89219722222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/上州富岡駅.jpg"
             },
             {
                 "title": "富岡製糸場_ブリュナエンジン",
@@ -1982,20 +1974,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/駅名標_高崎駅_上信電鉄.jpg"
             },
             {
-                "title": "高崎市役所",
+                "title": "駅舎_上州富岡駅",
                 "coords": [
-                    36.32218611111111,
-                    139.00378333333333
+                    36.26028888888889,
+                    138.89219722222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/高崎市役所.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/駅舎_上州富岡駅.jpg"
             },
             {
-                "title": "高崎市役所_外観",
+                "title": "駅舎_高崎駅",
+                "coords": [
+                    36.32199722222222,
+                    139.01139722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/駅舎_高崎駅.jpg"
+            },
+            {
+                "title": "高崎市役所",
                 "coords": [
                     36.322583333333334,
                     139.00431944444443
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/高崎市役所_外観.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/高崎市役所.jpg"
             },
             {
                 "title": "高崎市役所_高崎駅",
@@ -2004,14 +2004,6 @@
                     139.00350833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/高崎市役所_高崎駅.jpg"
-            },
-            {
-                "title": "高崎駅",
-                "coords": [
-                    36.32199722222222,
-                    139.01139722222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/高崎駅.jpg"
             }
         ]
     },
