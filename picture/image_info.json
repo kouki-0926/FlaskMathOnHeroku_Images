@@ -1031,8 +1031,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.30270185185185,
-                    140.9204699074074
+                    38.30466845238095,
+                    140.92639166468254
                 ]
             }
         ],
@@ -1046,20 +1046,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/AER展望テラス.jpg"
             },
             {
-                "title": "仙台駅_夜",
+                "title": "仙台城跡",
                 "coords": [
-                    38.26074722222222,
-                    140.8811638888889
+                    38.25322222222222,
+                    140.85711666666666
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台駅_夜.jpg"
-            },
-            {
-                "title": "仙台駅_昼",
-                "coords": [
-                    38.26070833333333,
-                    140.88118055555555
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台駅_昼.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台城跡.jpg"
             },
             {
                 "title": "伊達政宗公騎馬像",
@@ -1084,14 +1076,6 @@
                     140.87026944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/定禅寺通.jpg"
-            },
-            {
-                "title": "小牛田駅",
-                "coords": [
-                    38.541583333333335,
-                    141.06326388888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/小牛田駅.jpg"
             },
             {
                 "title": "松島",
@@ -1132,6 +1116,38 @@
                     141.0656277777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_松島駅.jpg"
+            },
+            {
+                "title": "駅舎_仙台駅_夜",
+                "coords": [
+                    38.26074722222222,
+                    140.8811638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_仙台駅_夜.jpg"
+            },
+            {
+                "title": "駅舎_仙台駅_昼",
+                "coords": [
+                    38.26070833333333,
+                    140.88118055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_仙台駅_昼.jpg"
+            },
+            {
+                "title": "駅舎_小牛田駅",
+                "coords": [
+                    38.541583333333335,
+                    141.06326388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_小牛田駅.jpg"
+            },
+            {
+                "title": "駅舎_松島駅",
+                "coords": [
+                    38.37971388888889,
+                    141.06672775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_松島駅.jpg"
             }
         ]
     },
@@ -1139,8 +1155,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    39.48382743055556,
-                    140.38928611111112
+                    39.50977530246914,
+                    140.36029907407408
                 ]
             }
         ],
@@ -1162,28 +1178,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手_かまくら.jpg"
             },
             {
-                "title": "横手市かまくら館",
+                "title": "横手市ふれあいセンターかまくら館",
                 "coords": [
                     39.31375,
                     140.565675
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手市かまくら館.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手市ふれあいセンターかまくら館.jpg"
             },
             {
-                "title": "横手駅",
-                "coords": [
-                    39.31058055555555,
-                    140.560975
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手駅.jpg"
-            },
-            {
-                "title": "秋田駅",
+                "title": "秋田駅_秋田犬",
                 "coords": [
                     39.71662777777778,
                     140.12974444444444
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/秋田駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/秋田駅_秋田犬.jpg"
             },
             {
                 "title": "駅名標_大曲駅",
@@ -1208,6 +1216,22 @@
                     140.13018888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/駅名標_秋田駅.jpg"
+            },
+            {
+                "title": "駅舎_横手駅",
+                "coords": [
+                    39.31058055555555,
+                    140.560975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/駅舎_横手駅.jpg"
+            },
+            {
+                "title": "駅舎_秋田駅",
+                "coords": [
+                    39.71735827777778,
+                    140.12840277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/駅舎_秋田駅.jpg"
             }
         ]
     },
