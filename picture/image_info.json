@@ -1643,20 +1643,12 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.676185294117644,
-                    139.65006274509804
+                    36.674261839181284,
+                    139.65990219298246
                 ]
             }
         ],
         "markers": [
-            {
-                "title": "三猿",
-                "coords": [
-                    36.757222222222225,
-                    139.59904444444444
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/三猿.jpg"
-            },
             {
                 "title": "中禅寺湖",
                 "coords": [
@@ -1668,26 +1660,26 @@
             {
                 "title": "二荒山神社",
                 "coords": [
-                    36.75754166666667,
-                    139.59665
+                    36.56109161111111,
+                    139.886275
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/二荒山神社.jpg"
             },
             {
-                "title": "奥社宝塔",
+                "title": "日光二荒山神社",
                 "coords": [
-                    36.75712222222222,
-                    139.59963333333334
+                    36.75754166666667,
+                    139.59665
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/奥社宝塔.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光二荒山神社.jpg"
             },
             {
-                "title": "宇都宮駅",
+                "title": "日光山輪王寺",
                 "coords": [
-                    36.55927777777778,
-                    139.89758333333333
+                    36.754733333333334,
+                    139.6008
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/宇都宮駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光山輪王寺.jpg"
             },
             {
                 "title": "日光東照宮",
@@ -1698,12 +1690,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光東照宮.jpg"
             },
             {
-                "title": "日光駅",
+                "title": "日光東照宮_三猿",
                 "coords": [
-                    36.747075,
-                    139.62184166666665
+                    36.757222222222225,
+                    139.59904444444444
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光東照宮_三猿.jpg"
+            },
+            {
+                "title": "日光東照宮_奥社宝塔",
+                "coords": [
+                    36.75712222222222,
+                    139.59963333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光東照宮_奥社宝塔.jpg"
+            },
+            {
+                "title": "日光東照宮_眠り猫",
+                "coords": [
+                    36.75803333333333,
+                    139.5991527777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/日光東照宮_眠り猫.jpg"
             },
             {
                 "title": "明智平",
@@ -1736,14 +1744,6 @@
                     139.49816944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/男体山.jpg"
-            },
-            {
-                "title": "眠り猫",
-                "coords": [
-                    36.75803333333333,
-                    139.5991527777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/眠り猫.jpg"
             },
             {
                 "title": "神橋",
@@ -1784,6 +1784,22 @@
                     140.06034722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/駅名標_黒磯駅.jpg"
+            },
+            {
+                "title": "駅舎_宇都宮駅",
+                "coords": [
+                    36.55927777777778,
+                    139.89758333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/駅舎_宇都宮駅.jpg"
+            },
+            {
+                "title": "駅舎_日光駅",
+                "coords": [
+                    36.747075,
+                    139.62184166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/駅舎_日光駅.jpg"
             }
         ]
     },
