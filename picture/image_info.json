@@ -2126,14 +2126,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/加曽利貝塚.jpg"
             },
             {
-                "title": "千葉みなと駅",
-                "coords": [
-                    35.60699722222222,
-                    140.1028
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/千葉みなと駅.jpg"
-            },
-            {
                 "title": "千葉ポートタワー",
                 "coords": [
                     35.600452777777775,
@@ -2180,14 +2172,6 @@
                     140.1058361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/安房鴨川.jpg"
-            },
-            {
-                "title": "安房鴨川駅",
-                "coords": [
-                    35.107425,
-                    140.10394166666666
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/安房鴨川駅.jpg"
             },
             {
                 "title": "成田空港",
@@ -2372,6 +2356,22 @@
                     139.8620138888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_館山駅.jpg"
+            },
+            {
+                "title": "駅舎_千葉みなと駅",
+                "coords": [
+                    35.60699722222222,
+                    140.1028
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_千葉みなと駅.jpg"
+            },
+            {
+                "title": "駅舎_安房鴨川駅",
+                "coords": [
+                    35.107425,
+                    140.10394166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_安房鴨川駅.jpg"
             }
         ]
     },
