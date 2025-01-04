@@ -3770,22 +3770,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜大仏殿.jpg"
             },
             {
-                "title": "岐阜駅",
-                "coords": [
-                    35.40971388888889,
-                    136.75657777777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜駅.jpg"
-            },
-            {
-                "title": "岐阜駅_黄金の織田信長公像",
-                "coords": [
-                    35.41030833333333,
-                    136.75680555555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜駅_黄金の織田信長公像.jpg"
-            },
-            {
                 "title": "駅名標_大垣駅",
                 "coords": [
                     35.367216666666664,
@@ -3800,6 +3784,22 @@
                     136.75640833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_岐阜駅.jpg"
+            },
+            {
+                "title": "駅舎_岐阜駅",
+                "coords": [
+                    35.40971388888889,
+                    136.75657777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_岐阜駅.jpg"
+            },
+            {
+                "title": "黄金の織田信長公像",
+                "coords": [
+                    35.41030833333333,
+                    136.75680555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/黄金の織田信長公像.jpg"
             }
         ]
     },
