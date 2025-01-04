@@ -3183,12 +3183,28 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.72226474358974,
-                    137.17159935897436
+                    36.72891024305556,
+                    137.18283003472223
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "北前船回船問屋_森家",
+                "coords": [
+                    36.75669166666667,
+                    137.228775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/北前船回船問屋_森家.jpg"
+            },
+            {
+                "title": "富山_路面電車",
+                "coords": [
+                    36.70099722222222,
+                    137.21261666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山_路面電車.jpg"
+            },
             {
                 "title": "富山城",
                 "coords": [
@@ -3214,20 +3230,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山港展望台.jpg"
             },
             {
-                "title": "富山駅",
+                "title": "岩瀬浜",
                 "coords": [
-                    36.701058333333336,
-                    137.21243333333334
+                    36.76386388888889,
+                    137.2352
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山駅.jpg"
-            },
-            {
-                "title": "富山駅_路面電車",
-                "coords": [
-                    36.70099722222222,
-                    137.21261666666666
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山駅_路面電車.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/岩瀬浜.jpg"
             },
             {
                 "title": "松川",
@@ -3238,12 +3246,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/松川.jpg"
             },
             {
-                "title": "駅名標_富山駅",
+                "title": "駅名標_富山駅_在来線",
                 "coords": [
                     36.701855555555554,
                     137.2134861111111
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_富山駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_富山駅_在来線.jpg"
             },
             {
                 "title": "駅名標_富山駅_路面電車",
@@ -3278,20 +3286,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_高岡駅.jpg"
             },
             {
+                "title": "駅舎_富山駅",
+                "coords": [
+                    36.701058333333336,
+                    137.21243333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_富山駅.jpg"
+            },
+            {
+                "title": "駅舎_東岩瀬駅",
+                "coords": [
+                    36.75256666666667,
+                    137.23051388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_東岩瀬駅.jpg"
+            },
+            {
+                "title": "駅舎_高岡駅",
+                "coords": [
+                    36.741730555555556,
+                    137.01548888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_高岡駅.jpg"
+            },
+            {
                 "title": "高岡大仏",
                 "coords": [
                     36.74590555555555,
                     137.01692222222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/高岡大仏.jpg"
-            },
-            {
-                "title": "高岡駅",
-                "coords": [
-                    36.741730555555556,
-                    137.01548888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/高岡駅.jpg"
             }
         ]
     },
