@@ -3862,28 +3862,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/熱海城.jpg"
             },
             {
-                "title": "熱海駅",
-                "coords": [
-                    35.103611111111114,
-                    139.0777611111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/熱海駅.jpg"
-            },
-            {
                 "title": "静岡浅間神社",
                 "coords": [
                     34.983530555555554,
                     138.3758222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡浅間神社.jpg"
-            },
-            {
-                "title": "静岡駅",
-                "coords": [
-                    34.971713888888885,
-                    138.38905277777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡駅.jpg"
             },
             {
                 "title": "駅名標_熱海駅_在来線",
@@ -3900,6 +3884,22 @@
                     139.076875
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_熱海駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_熱海駅",
+                "coords": [
+                    35.103611111111114,
+                    139.0777611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_熱海駅.jpg"
+            },
+            {
+                "title": "駅舎_静岡駅",
+                "coords": [
+                    34.971713888888885,
+                    138.38905277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_静岡駅.jpg"
             },
             {
                 "title": "駿府城",
