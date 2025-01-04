@@ -3323,8 +3323,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.56799621212121,
-                    136.65730757575759
+                    36.56783981481481,
+                    136.65706041666667
                 ]
             }
         ],
@@ -3370,6 +3370,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/兼六園_桜.jpg"
             },
             {
+                "title": "尾山神社",
+                "coords": [
+                    36.566119444444446,
+                    136.65434166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/尾山神社.jpg"
+            },
+            {
                 "title": "武家屋敷跡_野村家",
                 "coords": [
                     36.56405,
@@ -3402,20 +3410,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城_石川橋.jpg"
             },
             {
-                "title": "金沢駅",
-                "coords": [
-                    36.577663888888885,
-                    136.64946111111112
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢駅.jpg"
-            },
-            {
                 "title": "駅名標_金沢駅",
                 "coords": [
                     36.57768611111111,
                     136.64761388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/駅名標_金沢駅.jpg"
+            },
+            {
+                "title": "駅舎_金沢駅",
+                "coords": [
+                    36.577663888888885,
+                    136.64946111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/駅舎_金沢駅.jpg"
             }
         ]
     },
