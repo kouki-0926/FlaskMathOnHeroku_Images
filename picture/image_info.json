@@ -2939,8 +2939,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    37.57860517049808,
-                    138.6633537356322
+                    37.57860536206896,
+                    138.66335268199234
                 ]
             }
         ],
@@ -2964,8 +2964,8 @@
             {
                 "title": "Befcoばかうけ展望室_昼",
                 "coords": [
-                    37.925247222222225,
-                    139.0597388888889
+                    37.92525277777778,
+                    139.05970833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/Befcoばかうけ展望室_昼.jpg"
             },
