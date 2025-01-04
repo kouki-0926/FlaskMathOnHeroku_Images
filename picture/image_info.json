@@ -3446,14 +3446,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀_宇宙戦艦ヤマト像.jpg"
             },
             {
-                "title": "敦賀_氣比神宮",
-                "coords": [
-                    35.65436111111111,
-                    136.07360833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀_氣比神宮.jpg"
-            },
-            {
                 "title": "敦賀_銀河鉄道999像",
                 "coords": [
                     35.64577222222222,
@@ -3462,12 +3454,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀_銀河鉄道999像.jpg"
             },
             {
-                "title": "敦賀駅",
+                "title": "氣比神宮",
                 "coords": [
-                    35.645325,
-                    136.07531666666668
+                    35.65436111111111,
+                    136.07360833333334
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/氣比神宮.jpg"
             },
             {
                 "title": "福井城",
@@ -3476,14 +3468,6 @@
                     136.2209638888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/福井城.jpg"
-            },
-            {
-                "title": "福井駅",
-                "coords": [
-                    36.06271666666667,
-                    136.22302222222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/福井駅.jpg"
             },
             {
                 "title": "駅名標_敦賀駅",
@@ -3500,6 +3484,22 @@
                     136.22306944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/駅名標_福井駅.jpg"
+            },
+            {
+                "title": "駅舎_敦賀駅",
+                "coords": [
+                    35.645325,
+                    136.07531666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/駅舎_敦賀駅.jpg"
+            },
+            {
+                "title": "駅舎_福井駅",
+                "coords": [
+                    36.06271666666667,
+                    136.22302222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/駅舎_福井駅.jpg"
             }
         ]
     },
