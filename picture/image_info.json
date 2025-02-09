@@ -4595,8 +4595,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.687563884920635,
-                    135.4948615
+                    34.686010922222216,
+                    135.49527221481483
                 ]
             }
         ],
@@ -4704,6 +4704,14 @@
                     135.49851944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_新大阪駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_南海難波駅",
+                "coords": [
+                    34.66426944444444,
+                    135.50102222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅舎_南海難波駅.jpg"
             },
             {
                 "title": "駅舎_大阪駅",
@@ -5134,22 +5142,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
             },
             {
-                "title": "和歌山市駅",
-                "coords": [
-                    34.236063888888886,
-                    135.16700833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山市駅.jpg"
-            },
-            {
-                "title": "和歌山港駅",
-                "coords": [
-                    34.217077777777774,
-                    135.14549166666666
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山港駅.jpg"
-            },
-            {
                 "title": "駅名標_和歌山市駅",
                 "coords": [
                     34.23620555555556,
@@ -5164,6 +5156,22 @@
                     135.14626944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_和歌山港駅.jpg"
+            },
+            {
+                "title": "駅舎_和歌山市駅",
+                "coords": [
+                    34.236063888888886,
+                    135.16700833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_和歌山市駅.jpg"
+            },
+            {
+                "title": "駅舎_和歌山港駅",
+                "coords": [
+                    34.217077777777774,
+                    135.14549166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_和歌山港駅.jpg"
             }
         ]
     },
