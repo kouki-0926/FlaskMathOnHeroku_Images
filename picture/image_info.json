@@ -4610,14 +4610,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大阪城.jpg"
             },
             {
-                "title": "大阪駅",
-                "coords": [
-                    34.70229722222222,
-                    135.49535
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大阪駅.jpg"
-            },
-            {
                 "title": "大阪駅_大屋根",
                 "coords": [
                     34.70221388888889,
@@ -4712,6 +4704,14 @@
                     135.49851944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_新大阪駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_大阪駅",
+                "coords": [
+                    34.70229722222222,
+                    135.49535
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅舎_大阪駅.jpg"
             }
         ]
     },
