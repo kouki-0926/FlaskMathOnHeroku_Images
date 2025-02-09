@@ -4290,28 +4290,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城_石碑.jpg"
             },
             {
-                "title": "近江塩津駅",
-                "coords": [
-                    35.53839166666667,
-                    136.1512611111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/近江塩津駅.jpg"
-            },
-            {
                 "title": "長浜城",
                 "coords": [
                     35.377425,
                     136.26176388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/長浜城.jpg"
-            },
-            {
-                "title": "長浜駅",
-                "coords": [
-                    35.378341666666664,
-                    136.26493888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/長浜駅.jpg"
             },
             {
                 "title": "駅名標_米原駅",
@@ -4336,6 +4320,22 @@
                     136.2653361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_長浜駅.jpg"
+            },
+            {
+                "title": "駅舎_近江塩津駅",
+                "coords": [
+                    35.53839166666667,
+                    136.1512611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_近江塩津駅.jpg"
+            },
+            {
+                "title": "駅舎_長浜駅",
+                "coords": [
+                    35.378341666666664,
+                    136.26493888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_長浜駅.jpg"
             }
         ]
     },
