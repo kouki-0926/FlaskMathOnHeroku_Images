@@ -5179,8 +5179,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.45738015476191,
-                    133.72678373015873
+                    35.48763183547009,
+                    133.8923670940171
                 ]
             }
         ],
@@ -5194,6 +5194,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/大山.jpg"
             },
             {
+                "title": "砂丘センター_見晴らしの丘",
+                "coords": [
+                    35.54134444444445,
+                    134.23858611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/砂丘センター_見晴らしの丘.jpg"
+            },
+            {
+                "title": "砂丘センター_見晴らしの丘_鳥取砂丘",
+                "coords": [
+                    35.541469444444445,
+                    134.23884444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/砂丘センター_見晴らしの丘_鳥取砂丘.jpg"
+            },
+            {
+                "title": "砂丘会館",
+                "coords": [
+                    35.54371666666667,
+                    134.23722777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/砂丘会館.jpg"
+            },
+            {
                 "title": "米子城",
                 "coords": [
                     35.42520277777778,
@@ -5202,12 +5226,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/米子城.jpg"
             },
             {
-                "title": "米子駅",
+                "title": "米子城_中海",
                 "coords": [
-                    35.42343611111111,
-                    133.33569444444444
+                    35.42505,
+                    133.32450833333334
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/米子駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/米子城_中海.jpg"
             },
             {
                 "title": "駅名標_米子駅",
@@ -5226,6 +5250,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_鳥取駅.jpg"
             },
             {
+                "title": "駅舎_米子駅",
+                "coords": [
+                    35.42343611111111,
+                    133.33569444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_米子駅.jpg"
+            },
+            {
+                "title": "駅舎_鳥取駅",
+                "coords": [
+                    35.49435555555556,
+                    134.22610555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_鳥取駅.jpg"
+            },
+            {
                 "title": "鳥取砂丘",
                 "coords": [
                     35.5439,
@@ -5234,12 +5274,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘.jpg"
             },
             {
-                "title": "鳥取駅",
+                "title": "鳥取砂丘ビジターセンター",
                 "coords": [
-                    35.49435555555556,
-                    134.22610555555556
+                    35.54392222222222,
+                    134.23673888888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘ビジターセンター.jpg"
+            },
+            {
+                "title": "鳥取砂丘観光リフト",
+                "coords": [
+                    35.54205,
+                    134.23738055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘観光リフト.jpg"
             }
         ]
     },
