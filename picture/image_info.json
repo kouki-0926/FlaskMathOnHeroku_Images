@@ -2379,8 +2379,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.668224049707604,
-                    139.71819181286548
+                    35.668809259259255,
+                    139.71773625356124
                 ]
             }
         ],
@@ -2608,6 +2608,14 @@
                     139.74003611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_品川駅.jpg"
+            },
+            {
+                "title": "駅名標_新宿駅",
+                "coords": [
+                    35.691047222222224,
+                    139.700425
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_新宿駅.jpg"
             },
             {
                 "title": "駅名標_新橋駅",
@@ -3507,8 +3515,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.52416758333334,
-                    138.78356296296298
+                    35.515796180555554,
+                    138.80664826041667
                 ]
             }
         ],
@@ -3516,8 +3524,8 @@
             {
                 "title": "富士山",
                 "coords": [
-                    35.48453886111111,
-                    138.79299444444445
+                    35.48345555555556,
+                    138.79551666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/富士山.jpg"
             },
@@ -3536,6 +3544,110 @@
                     138.85049444444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/山中湖.jpg"
+            },
+            {
+                "title": "新倉富士浅間神社",
+                "coords": [
+                    35.49989722222222,
+                    138.80009444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新倉富士浅間神社.jpg"
+            },
+            {
+                "title": "新倉山浅間公園",
+                "coords": [
+                    35.50140277777778,
+                    138.80161944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新倉山浅間公園.jpg"
+            },
+            {
+                "title": "河口湖",
+                "coords": [
+                    35.50383055555555,
+                    138.769975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/河口湖.jpg"
+            },
+            {
+                "title": "河口湖_富士山",
+                "coords": [
+                    35.50716666666667,
+                    138.7636861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/河口湖_富士山.jpg"
+            },
+            {
+                "title": "金鳥居",
+                "coords": [
+                    35.483333333333334,
+                    138.7980193888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/金鳥居.jpg"
+            },
+            {
+                "title": "駅名標_下吉田駅",
+                "coords": [
+                    35.497933333333336,
+                    138.80342222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_下吉田駅.jpg"
+            },
+            {
+                "title": "駅名標_大月駅",
+                "coords": [
+                    35.61304166666667,
+                    138.94152777777776
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_大月駅.jpg"
+            },
+            {
+                "title": "駅名標_富士山駅",
+                "coords": [
+                    35.48369722222222,
+                    138.79470833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_富士山駅.jpg"
+            },
+            {
+                "title": "駅名標_河口湖駅",
+                "coords": [
+                    35.49802777777778,
+                    138.7695
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_河口湖駅.jpg"
+            },
+            {
+                "title": "駅舎_下吉田駅",
+                "coords": [
+                    35.49755833333333,
+                    138.80333055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_下吉田駅.jpg"
+            },
+            {
+                "title": "駅舎_大月駅",
+                "coords": [
+                    35.613144444444444,
+                    138.9427638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_大月駅.jpg"
+            },
+            {
+                "title": "駅舎_富士山駅",
+                "coords": [
+                    35.48388333333333,
+                    138.79565555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_富士山駅.jpg"
+            },
+            {
+                "title": "駅舎_河口湖駅",
+                "coords": [
+                    35.49840277777778,
+                    138.76885833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_河口湖駅.jpg"
             }
         ]
     },
