@@ -4719,8 +4719,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.07875612847222,
-                    134.84795670949075
+                    35.12465227678571,
+                    134.83461666369047
                 ]
             }
         ],
@@ -4838,14 +4838,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/神戸中華街.jpg"
             },
             {
-                "title": "神戸駅",
-                "coords": [
-                    34.67982222222222,
-                    135.17765833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/神戸駅.jpg"
-            },
-            {
                 "title": "餘部橋梁",
                 "coords": [
                     35.65025,
@@ -4894,6 +4886,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_姫路駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_新神戸駅",
+                "coords": [
+                    34.70659722222222,
+                    135.19575277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_新神戸駅.jpg"
+            },
+            {
                 "title": "駅名標_浜坂駅",
                 "coords": [
                     35.62090555555555,
@@ -4916,6 +4916,38 @@
                     134.55731111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_餘部駅.jpg"
+            },
+            {
+                "title": "駅舎_城崎温泉駅",
+                "coords": [
+                    35.62376666666667,
+                    134.81326388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_城崎温泉駅.jpg"
+            },
+            {
+                "title": "駅舎_浜坂駅",
+                "coords": [
+                    35.62108611111111,
+                    134.45237777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_浜坂駅.jpg"
+            },
+            {
+                "title": "駅舎_神戸駅",
+                "coords": [
+                    34.67982222222222,
+                    135.17765833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_神戸駅.jpg"
+            },
+            {
+                "title": "駅舎_餘部駅",
+                "coords": [
+                    35.648666666666664,
+                    134.5569111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_餘部駅.jpg"
             }
         ]
     },
