@@ -4350,14 +4350,6 @@
         ],
         "markers": [
             {
-                "title": "亀岡駅",
-                "coords": [
-                    35.016894444444446,
-                    135.58258055555555
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/亀岡駅.jpg"
-            },
-            {
                 "title": "京都タワー_夜",
                 "coords": [
                     34.98611388888889,
@@ -4372,14 +4364,6 @@
                     135.75907777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/京都タワー_昼.jpg"
-            },
-            {
-                "title": "京都駅",
-                "coords": [
-                    34.986647222222224,
-                    135.76014722222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/京都駅.jpg"
             },
             {
                 "title": "伏見稲荷大社",
@@ -4414,14 +4398,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/北野天満宮.jpg"
             },
             {
-                "title": "向日町駅",
-                "coords": [
-                    34.95502777777778,
-                    135.70947222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/向日町駅.jpg"
-            },
-            {
                 "title": "天橋立",
                 "coords": [
                     35.55278333333333,
@@ -4436,14 +4412,6 @@
                     135.18425
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/天橋立智恩寺.jpg"
-            },
-            {
-                "title": "天橋立駅",
-                "coords": [
-                    35.5578,
-                    135.18270833333332
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/天橋立駅.jpg"
             },
             {
                 "title": "嵐山_渡月橋",
@@ -4462,14 +4430,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/嵐山_竹林の小径.jpg"
             },
             {
-                "title": "嵯峨嵐山駅",
-                "coords": [
-                    35.018683333333335,
-                    135.68096944444446
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/嵯峨嵐山駅.jpg"
-            },
-            {
                 "title": "東本願寺",
                 "coords": [
                     34.990972222222226,
@@ -4484,14 +4444,6 @@
                     135.78496944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/清水寺.jpg"
-            },
-            {
-                "title": "福知山駅",
-                "coords": [
-                    35.29665277777778,
-                    135.11866666666666
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/福知山駅.jpg"
             },
             {
                 "title": "西本願寺",
@@ -4580,6 +4532,54 @@
                     135.77070555555557
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_稲荷駅.jpg"
+            },
+            {
+                "title": "駅舎_亀岡駅",
+                "coords": [
+                    35.016894444444446,
+                    135.58258055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_亀岡駅.jpg"
+            },
+            {
+                "title": "駅舎_京都駅",
+                "coords": [
+                    34.986647222222224,
+                    135.76014722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_京都駅.jpg"
+            },
+            {
+                "title": "駅舎_向日町駅",
+                "coords": [
+                    34.95502777777778,
+                    135.70947222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_向日町駅.jpg"
+            },
+            {
+                "title": "駅舎_天橋立駅",
+                "coords": [
+                    35.5578,
+                    135.18270833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_天橋立駅.jpg"
+            },
+            {
+                "title": "駅舎_嵯峨嵐山駅",
+                "coords": [
+                    35.018683333333335,
+                    135.68096944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_嵯峨嵐山駅.jpg"
+            },
+            {
+                "title": "駅舎_福知山駅",
+                "coords": [
+                    35.29665277777778,
+                    135.11866666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_福知山駅.jpg"
             },
             {
                 "title": "鴨川",
