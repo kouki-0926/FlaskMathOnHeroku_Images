@@ -4955,8 +4955,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.6848390625,
-                    135.82804149305557
+                    34.684675163398694,
+                    135.8280777777778
                 ]
             }
         ],
@@ -4984,6 +4984,14 @@
                     135.84841944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/春日大社.jpg"
+            },
+            {
+                "title": "東向商店街",
+                "coords": [
+                    34.68205277777778,
+                    135.82865833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/東向商店街.jpg"
             },
             {
                 "title": "東大寺",
