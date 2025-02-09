@@ -4035,8 +4035,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.1266466374269,
-                    136.9494839152047
+                    35.130835978835975,
+                    136.94485277513226
                 ]
             }
         ],
@@ -4178,6 +4178,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_名古屋駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_新栄町駅",
+                "coords": [
+                    35.17053611111111,
+                    136.9178777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_新栄町駅.jpg"
+            },
+            {
                 "title": "駅名標_栄駅",
                 "coords": [
                     35.170008333333335,
@@ -4192,6 +4200,14 @@
                     137.38206944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_豊橋駅.jpg"
+            },
+            {
+                "title": "駅舎_名古屋駅",
+                "coords": [
+                    35.17073333333333,
+                    136.88383611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_名古屋駅.jpg"
             }
         ]
     },
