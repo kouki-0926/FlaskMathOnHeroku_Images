@@ -3515,19 +3515,27 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.515796180555554,
-                    138.80664826041667
+                    35.51395751470588,
+                    138.80584509477126
                 ]
             }
         ],
         "markers": [
             {
-                "title": "富士山",
+                "title": "富士山_冬",
                 "coords": [
                     35.48345555555556,
                     138.79551666666666
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/富士山.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/富士山_冬.jpg"
+            },
+            {
+                "title": "富士山_夏",
+                "coords": [
+                    35.48453886111111,
+                    138.79299444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/富士山_夏.jpg"
             },
             {
                 "title": "富士山_飛行機",
