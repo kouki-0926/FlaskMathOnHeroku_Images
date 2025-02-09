@@ -4955,8 +4955,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.68478511904762,
-                    135.828435515873
+                    34.6848390625,
+                    135.82804149305557
                 ]
             }
         ],
@@ -4978,14 +4978,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/奈良の大仏.jpg"
             },
             {
-                "title": "奈良駅",
-                "coords": [
-                    34.68105277777778,
-                    135.8188027777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/奈良駅.jpg"
-            },
-            {
                 "title": "春日大社",
                 "coords": [
                     34.681380555555556,
@@ -5000,6 +4992,14 @@
                     135.83988888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/東大寺.jpg"
+            },
+            {
+                "title": "東大寺_鹿",
+                "coords": [
+                    34.685005555555556,
+                    135.83972222222224
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/東大寺_鹿.jpg"
             },
             {
                 "title": "東大寺大仏殿",
@@ -5034,14 +5034,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/興福寺_五重塔.jpg"
             },
             {
-                "title": "近鉄奈良駅",
-                "coords": [
-                    34.684016666666665,
-                    135.8285527777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/近鉄奈良駅.jpg"
-            },
-            {
                 "title": "駅名標_大和西大寺駅",
                 "coords": [
                     34.69428888888889,
@@ -5072,6 +5064,30 @@
                     135.8278361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_近鉄奈良駅.jpg"
+            },
+            {
+                "title": "駅舎_奈良駅",
+                "coords": [
+                    34.68105277777778,
+                    135.8188027777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_奈良駅.jpg"
+            },
+            {
+                "title": "駅舎_新大宮駅",
+                "coords": [
+                    34.685427777777775,
+                    135.81084444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_新大宮駅.jpg"
+            },
+            {
+                "title": "駅舎_近鉄奈良駅",
+                "coords": [
+                    34.684016666666665,
+                    135.8285527777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_近鉄奈良駅.jpg"
             }
         ]
     },
