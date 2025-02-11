@@ -5915,43 +5915,27 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.29650740740741,
-                    133.93218134920636
+                    34.30033683574879,
+                    133.94206376570048
                 ]
             }
         ],
         "markers": [
             {
-                "title": "多度津駅",
+                "title": "栗林公園_商工奨励館",
                 "coords": [
-                    34.27121666666667,
-                    133.75657777777778
+                    34.33001388888889,
+                    134.04449444444444
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/多度津駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/栗林公園_商工奨励館.jpg"
             },
             {
-                "title": "宇多津",
-                "coords": [
-                    34.30670555555555,
-                    133.81376666666668
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/宇多津.jpg"
-            },
-            {
-                "title": "栗林公園",
+                "title": "栗林公園_芙蓉峰",
                 "coords": [
                     34.32884166666667,
                     134.04470833333335
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/栗林公園.jpg"
-            },
-            {
-                "title": "栗林公園駅",
-                "coords": [
-                    34.329027777777775,
-                    134.05114722222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/栗林公園駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/栗林公園_芙蓉峰.jpg"
             },
             {
                 "title": "瀬戸大橋",
@@ -5992,14 +5976,6 @@
                     134.05235277777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_琴電.jpg"
-            },
-            {
-                "title": "琴平駅",
-                "coords": [
-                    34.191719444444445,
-                    133.82098333333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/琴平駅.jpg"
             },
             {
                 "title": "金刀比羅宮",
@@ -6066,6 +6042,54 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅名標_高松駅.jpg"
             },
             {
+                "title": "駅舎_多度津駅",
+                "coords": [
+                    34.27121666666667,
+                    133.75657777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_多度津駅.jpg"
+            },
+            {
+                "title": "駅舎_宇多津駅",
+                "coords": [
+                    34.30670555555555,
+                    133.81376666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_宇多津駅.jpg"
+            },
+            {
+                "title": "駅舎_栗林公園駅",
+                "coords": [
+                    34.329027777777775,
+                    134.05114722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_栗林公園駅.jpg"
+            },
+            {
+                "title": "駅舎_琴平駅",
+                "coords": [
+                    34.191719444444445,
+                    133.82098333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_琴平駅.jpg"
+            },
+            {
+                "title": "駅舎_高松築港駅",
+                "coords": [
+                    34.35091388888889,
+                    134.049225
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_高松築港駅.jpg"
+            },
+            {
+                "title": "駅舎_高松駅",
+                "coords": [
+                    34.351077777777775,
+                    134.04716383333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_高松駅.jpg"
+            },
+            {
                 "title": "高松シンボルタワー",
                 "coords": [
                     34.35176944444444,
@@ -6080,14 +6104,6 @@
                     134.04641666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/高松シンボルタワー_展望スペース.jpg"
-            },
-            {
-                "title": "高松築港駅",
-                "coords": [
-                    34.35091388888889,
-                    134.049225
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/高松築港駅.jpg"
             }
         ]
     },
