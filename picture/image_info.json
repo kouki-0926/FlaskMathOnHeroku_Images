@@ -6126,22 +6126,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城.jpg"
             },
             {
-                "title": "今治駅",
-                "coords": [
-                    34.064236111111114,
-                    132.99321111111112
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治駅.jpg"
-            },
-            {
-                "title": "勝山町駅",
-                "coords": [
-                    33.84175,
-                    132.77493333333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/勝山町駅.jpg"
-            },
-            {
                 "title": "松山城",
                 "coords": [
                     33.84497777777778,
@@ -6166,28 +6150,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山市駅_大観覧車くるりん.jpg"
             },
             {
-                "title": "松山駅",
-                "coords": [
-                    33.84070277777778,
-                    132.75190833333335
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山駅.jpg"
-            },
-            {
                 "title": "道後温泉",
                 "coords": [
                     33.85205833333333,
                     132.78668333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/道後温泉.jpg"
-            },
-            {
-                "title": "道後温泉駅",
-                "coords": [
-                    33.850525,
-                    132.78517222222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/道後温泉駅.jpg"
             },
             {
                 "title": "駅名標_JR松山駅前駅",
@@ -6220,6 +6188,38 @@
                     132.78520277777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅名標_道後温泉駅.jpg"
+            },
+            {
+                "title": "駅舎_今治駅",
+                "coords": [
+                    34.064236111111114,
+                    132.99321111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_今治駅.jpg"
+            },
+            {
+                "title": "駅舎_勝山町駅",
+                "coords": [
+                    33.84175,
+                    132.77493333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_勝山町駅.jpg"
+            },
+            {
+                "title": "駅舎_松山駅",
+                "coords": [
+                    33.84070277777778,
+                    132.75190833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_松山駅.jpg"
+            },
+            {
+                "title": "駅舎_道後温泉駅",
+                "coords": [
+                    33.850525,
+                    132.78517222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_道後温泉駅.jpg"
             }
         ]
     },
