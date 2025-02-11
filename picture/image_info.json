@@ -5543,8 +5543,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.378992170454545,
-                    132.6962188131313
+                    34.380007607487926,
+                    132.68587463768117
                 ]
             }
         ],
@@ -5624,16 +5624,16 @@
             {
                 "title": "広島城",
                 "coords": [
-                    34.401694444444445,
-                    132.45956388888888
+                    34.40271388888889,
+                    132.45906944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島城.jpg"
             },
             {
                 "title": "広島大本営跡",
                 "coords": [
-                    34.401694444444445,
-                    132.45956388888888
+                    34.401875,
+                    132.45971111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島大本営跡.jpg"
             },
@@ -5652,6 +5652,14 @@
                     132.45234166666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島平和記念資料館.jpg"
+            },
+            {
+                "title": "広島護国神社",
+                "coords": [
+                    34.40114722222222,
+                    132.45865
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島護国神社.jpg"
             },
             {
                 "title": "猿猴橋",
