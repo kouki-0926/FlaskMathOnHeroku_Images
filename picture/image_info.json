@@ -5543,8 +5543,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.37484049707602,
-                    132.65536447368422
+                    34.37892638888889,
+                    132.69629924242423
                 ]
             }
         ],
@@ -5606,14 +5606,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島フェリー.jpg"
             },
             {
-                "title": "宮島口駅",
-                "coords": [
-                    34.312422222222224,
-                    132.30298888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島口駅.jpg"
-            },
-            {
                 "title": "宮島桟橋",
                 "coords": [
                     34.30148888888889,
@@ -5628,14 +5620,6 @@
                     133.19698888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/尾道_猫.jpg"
-            },
-            {
-                "title": "尾道駅",
-                "coords": [
-                    34.40476388888889,
-                    133.1929
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/尾道駅.jpg"
             },
             {
                 "title": "広島城",
@@ -5678,6 +5662,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/猿猴橋.jpg"
             },
             {
+                "title": "石鎚山鎖修行",
+                "coords": [
+                    34.41093611111111,
+                    133.19873611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/石鎚山鎖修行.jpg"
+            },
+            {
                 "title": "福山城",
                 "coords": [
                     34.49100277777778,
@@ -5686,20 +5678,52 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
             },
             {
-                "title": "福山駅",
-                "coords": [
-                    34.49100277777778,
-                    133.36113333333333
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山駅.jpg"
-            },
-            {
                 "title": "駅名標_宮島口駅",
                 "coords": [
                     34.312422222222224,
                     132.30298888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅名標_宮島口駅.jpg"
+            },
+            {
+                "title": "駅名標_尾道駅",
+                "coords": [
+                    34.40476388888889,
+                    133.1929
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅名標_尾道駅.jpg"
+            },
+            {
+                "title": "駅舎_宮島口駅",
+                "coords": [
+                    34.312422222222224,
+                    132.30298888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_宮島口駅.jpg"
+            },
+            {
+                "title": "駅舎_尾道駅",
+                "coords": [
+                    34.40476388888889,
+                    133.1929
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_尾道駅.jpg"
+            },
+            {
+                "title": "駅舎_広電広島駅",
+                "coords": [
+                    34.39871111111111,
+                    132.47502222222224
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_広電広島駅.jpg"
+            },
+            {
+                "title": "駅舎_福山駅",
+                "coords": [
+                    34.49100277777778,
+                    133.36113333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_福山駅.jpg"
             }
         ]
     },
