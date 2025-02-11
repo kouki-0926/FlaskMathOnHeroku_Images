@@ -5318,22 +5318,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/出雲大社_鳥居.jpg"
             },
             {
-                "title": "出雲大社前駅",
-                "coords": [
-                    35.393544444444444,
-                    132.6868888888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/出雲大社前駅.jpg"
-            },
-            {
-                "title": "出雲市駅",
-                "coords": [
-                    35.36125555555556,
-                    132.759125
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/出雲市駅.jpg"
-            },
-            {
                 "title": "宍道湖",
                 "coords": [
                     35.463566666666665,
@@ -5356,22 +5340,6 @@
                     133.05194166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城_石碑.jpg"
-            },
-            {
-                "title": "松江駅",
-                "coords": [
-                    35.46426388888889,
-                    133.06318611111112
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江駅.jpg"
-            },
-            {
-                "title": "電鉄出雲市駅",
-                "coords": [
-                    35.361111111111114,
-                    132.75785833333333
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/電鉄出雲市駅.jpg"
             },
             {
                 "title": "駅名標_出雲大社前駅",
@@ -5412,6 +5380,38 @@
                     132.75846944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_電鉄出雲市駅.jpg"
+            },
+            {
+                "title": "駅舎_出雲大社前駅",
+                "coords": [
+                    35.393544444444444,
+                    132.6868888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_出雲大社前駅.jpg"
+            },
+            {
+                "title": "駅舎_出雲市駅",
+                "coords": [
+                    35.36125555555556,
+                    132.759125
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_出雲市駅.jpg"
+            },
+            {
+                "title": "駅舎_松江駅",
+                "coords": [
+                    35.46426388888889,
+                    133.06318611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_松江駅.jpg"
+            },
+            {
+                "title": "駅舎_電鉄出雲市駅",
+                "coords": [
+                    35.361111111111114,
+                    132.75785833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_電鉄出雲市駅.jpg"
             }
         ]
     },
