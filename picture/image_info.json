@@ -5543,8 +5543,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.37987053019324,
-                    132.68597705314008
+                    34.37986086835749,
+                    132.68599987922707
                 ]
             }
         ],
@@ -5712,8 +5712,8 @@
             {
                 "title": "駅舎_尾道駅",
                 "coords": [
-                    34.40476388888889,
-                    133.1929
+                    34.40454166666667,
+                    133.193425
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_尾道駅.jpg"
             },
