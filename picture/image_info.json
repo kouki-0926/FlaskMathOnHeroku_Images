@@ -5739,8 +5739,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.04560462962963,
-                    131.55246358024692
+                    34.04551358024691,
+                    131.55255555555556
                 ]
             }
         ],
@@ -5762,22 +5762,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/唐戸市場.jpg"
             },
             {
-                "title": "岩国駅",
-                "coords": [
-                    34.17174722222222,
-                    132.22558055555555
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/岩国駅.jpg"
-            },
-            {
-                "title": "新山口駅",
-                "coords": [
-                    34.09353888888889,
-                    131.39646944444445
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/新山口駅.jpg"
-            },
-            {
                 "title": "赤間神宮",
                 "coords": [
                     33.959602777777775,
@@ -5794,12 +5778,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋.jpg"
             },
             {
-                "title": "錦帯橋_石碑",
+                "title": "錦帯橋_岩国城",
                 "coords": [
-                    34.16765,
-                    132.17826944444445
+                    34.166830555555556,
+                    132.17909722222223
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋_石碑.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋_岩国城.jpg"
             },
             {
                 "title": "関門トンネル人道",
@@ -5816,6 +5800,22 @@
                     130.95674722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/関門海峡大橋.jpg"
+            },
+            {
+                "title": "駅舎_岩国駅",
+                "coords": [
+                    34.17174722222222,
+                    132.22558055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅舎_岩国駅.jpg"
+            },
+            {
+                "title": "駅舎_新山口駅",
+                "coords": [
+                    34.09353888888889,
+                    131.39646944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅舎_新山口駅.jpg"
             }
         ]
     },
