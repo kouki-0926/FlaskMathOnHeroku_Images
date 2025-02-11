@@ -6334,14 +6334,6 @@
         ],
         "markers": [
             {
-                "title": "博多駅",
-                "coords": [
-                    33.590133333333334,
-                    130.42069166666667
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/博多駅.jpg"
-            },
-            {
                 "title": "坂本八幡宮",
                 "coords": [
                     33.51678888888889,
@@ -6382,22 +6374,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/太宰府天満宮_鳥居.jpg"
             },
             {
-                "title": "太宰府駅",
-                "coords": [
-                    33.518341666666664,
-                    130.53115833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/太宰府駅.jpg"
-            },
-            {
-                "title": "小倉駅",
-                "coords": [
-                    33.88563888888889,
-                    130.8818361111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/小倉駅.jpg"
-            },
-            {
                 "title": "福岡城",
                 "coords": [
                     33.584941666666666,
@@ -6412,38 +6388,6 @@
                     130.44723611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/福岡空港.jpg"
-            },
-            {
-                "title": "西鉄福岡_天神駅",
-                "coords": [
-                    33.589077777777774,
-                    130.3995972222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/西鉄福岡_天神駅.jpg"
-            },
-            {
-                "title": "都府楼前駅",
-                "coords": [
-                    33.511963888888886,
-                    130.50759444444444
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/都府楼前駅.jpg"
-            },
-            {
-                "title": "門司港駅",
-                "coords": [
-                    33.94413055555555,
-                    130.96060277777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/門司港駅.jpg"
-            },
-            {
-                "title": "門司駅",
-                "coords": [
-                    33.90411388888889,
-                    130.93239722222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/門司駅.jpg"
             },
             {
                 "title": "関門トンネル人道",
@@ -6548,6 +6492,62 @@
                     130.96060277777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅名標_門司港駅.jpg"
+            },
+            {
+                "title": "駅舎_博多駅",
+                "coords": [
+                    33.590133333333334,
+                    130.42069166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_博多駅.jpg"
+            },
+            {
+                "title": "駅舎_太宰府駅",
+                "coords": [
+                    33.518341666666664,
+                    130.53115833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_太宰府駅.jpg"
+            },
+            {
+                "title": "駅舎_小倉駅",
+                "coords": [
+                    33.88563888888889,
+                    130.8818361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_小倉駅.jpg"
+            },
+            {
+                "title": "駅舎_西鉄福岡天神駅",
+                "coords": [
+                    33.589077777777774,
+                    130.3995972222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_西鉄福岡天神駅.jpg"
+            },
+            {
+                "title": "駅舎_都府楼前駅",
+                "coords": [
+                    33.511963888888886,
+                    130.50759444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_都府楼前駅.jpg"
+            },
+            {
+                "title": "駅舎_門司港駅",
+                "coords": [
+                    33.94413055555555,
+                    130.96060277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_門司港駅.jpg"
+            },
+            {
+                "title": "駅舎_門司駅",
+                "coords": [
+                    33.90411388888889,
+                    130.93239722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_門司駅.jpg"
             }
         ]
     },
