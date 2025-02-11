@@ -5543,8 +5543,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.37989975724638,
-                    132.68586485507245
+                    34.37987053019324,
+                    132.68597705314008
                 ]
             }
         ],
@@ -5552,8 +5552,8 @@
             {
                 "title": "千光寺",
                 "coords": [
-                    34.41075277777778,
-                    133.19611944444443
+                    34.41045,
+                    133.19871111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/千光寺.jpg"
             },
@@ -5704,8 +5704,8 @@
             {
                 "title": "駅舎_宮島口駅",
                 "coords": [
-                    34.312422222222224,
-                    132.30298888888888
+                    34.31205277777778,
+                    132.30297777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/駅舎_宮島口駅.jpg"
             },
