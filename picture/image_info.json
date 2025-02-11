@@ -5419,27 +5419,19 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.589247008547005,
-                    133.86613952991453
+                    34.58031031746032,
+                    133.86194623015874
                 ]
             }
         ],
         "markers": [
             {
-                "title": "倉敷",
+                "title": "倉敷美観地区",
                 "coords": [
                     34.59681111111111,
                     133.76939444444446
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/倉敷.jpg"
-            },
-            {
-                "title": "倉敷駅",
-                "coords": [
-                    34.60174444444444,
-                    133.76540277777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/倉敷駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/倉敷美観地区.jpg"
             },
             {
                 "title": "岡山城",
@@ -5448,14 +5440,6 @@
                     133.93606666666668
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/岡山城.jpg"
-            },
-            {
-                "title": "岡山駅",
-                "coords": [
-                    34.66528611111111,
-                    133.91825833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/岡山駅.jpg"
             },
             {
                 "title": "後楽園",
@@ -5512,6 +5496,30 @@
                     133.91735833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_岡山駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_倉敷駅",
+                "coords": [
+                    34.60174444444444,
+                    133.76540277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_倉敷駅.jpg"
+            },
+            {
+                "title": "駅舎_児島駅",
+                "coords": [
+                    34.462775,
+                    133.80737222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_児島駅.jpg"
+            },
+            {
+                "title": "駅舎_岡山駅",
+                "coords": [
+                    34.666644444444444,
+                    133.91831944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_岡山駅.jpg"
             },
             {
                 "title": "鷲羽山",
