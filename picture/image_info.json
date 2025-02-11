@@ -6251,8 +6251,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.56344351851852,
-                    133.53986851851852
+                    33.56423923611111,
+                    133.54075243055556
                 ]
             }
         ],
@@ -6264,6 +6264,14 @@
                     133.54263333333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/はりまや橋.jpg"
+            },
+            {
+                "title": "土佐三志士像",
+                "coords": [
+                    33.566361111111114,
+                    133.54303055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/土佐三志士像.jpg"
             },
             {
                 "title": "駅名標_高知駅",
@@ -6282,28 +6290,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/駅名標_高知駅前駅.jpg"
             },
             {
+                "title": "駅舎_高知城前駅",
+                "coords": [
+                    33.55858611111111,
+                    133.534425
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/駅舎_高知城前駅.jpg"
+            },
+            {
+                "title": "駅舎_高知駅",
+                "coords": [
+                    33.56688333333334,
+                    133.5433361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/駅舎_高知駅.jpg"
+            },
+            {
+                "title": "駅舎_高知駅前駅",
+                "coords": [
+                    33.56689166666666,
+                    133.5437777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/駅舎_高知駅前駅.jpg"
+            },
+            {
                 "title": "高知城",
                 "coords": [
                     33.5612,
                     133.53138611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知城.jpg"
-            },
-            {
-                "title": "高知城前駅",
-                "coords": [
-                    33.55858611111111,
-                    133.534425
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知城前駅.jpg"
-            },
-            {
-                "title": "高知駅",
-                "coords": [
-                    33.56688333333334,
-                    133.5433361111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知駅.jpg"
             }
         ]
     },
