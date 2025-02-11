@@ -6327,8 +6327,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.66341563786008,
-                    130.61728796296296
+                    33.663532509259255,
+                    130.61712479423866
                 ]
             }
         ],
@@ -6368,8 +6368,8 @@
             {
                 "title": "太宰府天満宮_鳥居",
                 "coords": [
-                    33.52148611111111,
-                    130.5348
+                    33.519552777777776,
+                    130.5320722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/太宰府天満宮_鳥居.jpg"
             },
@@ -6392,8 +6392,8 @@
             {
                 "title": "関門トンネル人道",
                 "coords": [
-                    33.96086944444444,
-                    130.96259722222223
+                    33.963744444444444,
+                    130.95898055555554
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/関門トンネル人道.jpg"
             },
@@ -6504,8 +6504,8 @@
             {
                 "title": "駅舎_太宰府駅",
                 "coords": [
-                    33.518341666666664,
-                    130.53115833333334
+                    33.51928888888889,
+                    130.53161111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_太宰府駅.jpg"
             },
@@ -6536,8 +6536,8 @@
             {
                 "title": "駅舎_門司港駅",
                 "coords": [
-                    33.94413055555555,
-                    130.96060277777778
+                    33.945397194444446,
+                    130.9620888888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/駅舎_門司港駅.jpg"
             },
