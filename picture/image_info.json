@@ -5823,8 +5823,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.99266875,
-                    134.1734482638889
+                    33.98942805555556,
+                    134.17112277777778
                 ]
             }
         ],
@@ -5848,26 +5848,26 @@
             {
                 "title": "大歩危",
                 "coords": [
-                    33.88041666666667,
-                    133.76026944444445
+                    33.88048888888889,
+                    133.76048333333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大歩危.jpg"
             },
             {
-                "title": "大歩危駅",
+                "title": "大歩危橋",
                 "coords": [
-                    33.87681666666667,
-                    133.76728888888888
+                    33.87651944444445,
+                    133.76654166666665
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大歩危駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大歩危橋.jpg"
             },
             {
-                "title": "徳島駅",
+                "title": "徳島城",
                 "coords": [
-                    34.073680555555555,
-                    134.55073611111112
+                    34.07651944444444,
+                    134.55685555555556
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/徳島駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/徳島城.jpg"
             },
             {
                 "title": "阿波踊り会館",
@@ -5892,6 +5892,22 @@
                     134.55148333333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅名標_徳島駅.jpg"
+            },
+            {
+                "title": "駅舎_大歩危駅",
+                "coords": [
+                    33.87663611111111,
+                    133.76731944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅舎_大歩危駅.jpg"
+            },
+            {
+                "title": "駅舎_徳島駅",
+                "coords": [
+                    34.073680555555555,
+                    134.55073611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅舎_徳島駅.jpg"
             }
         ]
     },
