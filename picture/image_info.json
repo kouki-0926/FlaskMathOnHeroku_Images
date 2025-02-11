@@ -6111,12 +6111,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.89492713675214,
-                    132.8213848290598
+                    33.89833541666667,
+                    132.82516631944443
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "ダイヤモンドクロッシング",
+                "coords": [
+                    33.840225,
+                    132.75480555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/ダイヤモンドクロッシング.jpg"
+            },
             {
                 "title": "今治城",
                 "coords": [
@@ -6124,6 +6132,30 @@
                     133.00624166666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城.jpg"
+            },
+            {
+                "title": "今治城_しまなみ海道",
+                "coords": [
+                    34.06327777777778,
+                    133.006775
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城_しまなみ海道.jpg"
+            },
+            {
+                "title": "大観覧車くるりん",
+                "coords": [
+                    33.83571944444444,
+                    132.76275555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/大観覧車くるりん.jpg"
+            },
+            {
+                "title": "大観覧車くるりん_松山城",
+                "coords": [
+                    33.83581111111111,
+                    132.76307777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/大観覧車くるりん_松山城.jpg"
             },
             {
                 "title": "松山城",
@@ -6140,14 +6172,6 @@
                     132.76892222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城山リフト.jpg"
-            },
-            {
-                "title": "松山市駅_大観覧車くるりん",
-                "coords": [
-                    33.83571944444444,
-                    132.76275555555554
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山市駅_大観覧車くるりん.jpg"
             },
             {
                 "title": "道後温泉",
