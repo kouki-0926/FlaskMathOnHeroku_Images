@@ -3882,6 +3882,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/古い町並.jpg"
             },
             {
+                "title": "噴泉池",
+                "coords": [
+                    35.80730833333333,
+                    137.24104444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/噴泉池.jpg"
+            },
+            {
                 "title": "宮川朝市",
                 "coords": [
                     36.14351944444444,
@@ -3968,14 +3976,6 @@
                     136.90646388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/明善寺.jpg"
-            },
-            {
-                "title": "木曽川",
-                "coords": [
-                    35.59492222222222,
-                    137.16755555555557
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/木曽川.jpg"
             },
             {
                 "title": "本光寺",
@@ -4084,8 +4084,8 @@
             {
                 "title": "飛騨川",
                 "coords": [
-                    35.80730833333333,
-                    137.24104444444444
+                    35.59492222222222,
+                    137.16755555555557
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨川.jpg"
             },
