@@ -2095,8 +2095,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.56327336601307,
-                    140.1456022859477
+                    35.56694642857143,
+                    140.14200896666668
                 ]
             }
         ],
@@ -2324,6 +2324,14 @@
                     140.1223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_東千葉駅.jpg"
+            },
+            {
+                "title": "駅名標_津田沼駅",
+                "coords": [
+                    35.691830555555555,
+                    140.01983611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_津田沼駅.jpg"
             },
             {
                 "title": "駅名標_県庁前駅",
@@ -3191,8 +3199,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.72681633986928,
-                    137.18454444444444
+                    36.72421900584795,
+                    137.187549122807
                 ]
             }
         ],
@@ -3270,9 +3278,17 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_富山駅_在来線.jpg"
             },
             {
+                "title": "駅名標_富山駅_新幹線",
+                "coords": [
+                    36.701725,
+                    137.21276944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_富山駅_新幹線.jpg"
+            },
+            {
                 "title": "駅名標_富山駅_路面電車",
                 "coords": [
-                    36.70158888888889,
+                    36.701636111111114,
                     137.213075
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_富山駅_路面電車.jpg"
@@ -3302,12 +3318,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅名標_高岡駅.jpg"
             },
             {
-                "title": "駅舎_富山駅",
+                "title": "駅舎_富山駅_冬",
+                "coords": [
+                    36.702511111111114,
+                    137.21340833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_富山駅_冬.jpg"
+            },
+            {
+                "title": "駅舎_富山駅_春",
                 "coords": [
                     36.701058333333336,
                     137.21243333333334
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_富山駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_富山駅_春.jpg"
             },
             {
                 "title": "駅舎_東岩瀬駅",
@@ -3827,8 +3851,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.85279515873015,
-                    137.0437472222222
+                    35.8832668699187,
+                    137.07057330623306
                 ]
             }
         ],
@@ -4074,6 +4098,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨高山まちの博物館.jpg"
             },
             {
+                "title": "駅名標_下呂駅",
+                "coords": [
+                    35.80477777777778,
+                    137.240525
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_下呂駅.jpg"
+            },
+            {
                 "title": "駅名標_大垣駅",
                 "coords": [
                     35.367216666666664,
@@ -4090,12 +4122,52 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_岐阜駅.jpg"
             },
             {
+                "title": "駅名標_飛騨古川駅",
+                "coords": [
+                    36.23696944444445,
+                    137.1897888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_飛騨古川駅.jpg"
+            },
+            {
+                "title": "駅名標_高山駅",
+                "coords": [
+                    36.14140277777778,
+                    137.2511
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_高山駅.jpg"
+            },
+            {
+                "title": "駅舎_下呂駅",
+                "coords": [
+                    35.80521111111111,
+                    137.2397
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_下呂駅.jpg"
+            },
+            {
                 "title": "駅舎_岐阜駅",
                 "coords": [
                     35.40971388888889,
                     136.75657777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_岐阜駅.jpg"
+            },
+            {
+                "title": "駅舎_飛騨古川駅",
+                "coords": [
+                    36.23651111111111,
+                    137.18942222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_飛騨古川駅.jpg"
+            },
+            {
+                "title": "駅舎_高山駅",
+                "coords": [
+                    36.141238888888886,
+                    137.25181666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_高山駅.jpg"
             },
             {
                 "title": "高山陣屋",
