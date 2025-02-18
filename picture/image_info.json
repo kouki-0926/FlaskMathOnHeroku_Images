@@ -3191,8 +3191,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.72891024305556,
-                    137.18283003472223
+                    36.72681633986928,
+                    137.18454444444444
                 ]
             }
         ],
@@ -3214,12 +3214,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山_路面電車.jpg"
             },
             {
-                "title": "富山城",
+                "title": "富山城_冬",
+                "coords": [
+                    36.69331388888889,
+                    137.211975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山城_冬.jpg"
+            },
+            {
+                "title": "富山城_春",
                 "coords": [
                     36.69224166666667,
                     137.21179166666667
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山城_春.jpg"
             },
             {
                 "title": "富山市役所",
@@ -3819,12 +3827,44 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.42279930555556,
-                    136.75894722222222
+                    35.85279515873015,
+                    137.0437472222222
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "下呂温泉",
+                "coords": [
+                    35.808230555555554,
+                    137.24305833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/下呂温泉.jpg"
+            },
+            {
+                "title": "円光寺",
+                "coords": [
+                    36.23580555555556,
+                    137.18649166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/円光寺.jpg"
+            },
+            {
+                "title": "古い町並",
+                "coords": [
+                    36.140747222222224,
+                    137.25955277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/古い町並.jpg"
+            },
+            {
+                "title": "宮川朝市",
+                "coords": [
+                    36.14351944444444,
+                    137.25813333333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/宮川朝市.jpg"
+            },
             {
                 "title": "岐阜公園",
                 "coords": [
@@ -3890,6 +3930,150 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜大仏殿.jpg"
             },
             {
+                "title": "旧高山町役場",
+                "coords": [
+                    36.139963888888886,
+                    137.25998055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/旧高山町役場.jpg"
+            },
+            {
+                "title": "明善寺",
+                "coords": [
+                    36.255827777777775,
+                    136.90646388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/明善寺.jpg"
+            },
+            {
+                "title": "木曽川",
+                "coords": [
+                    35.59492222222222,
+                    137.16755555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/木曽川.jpg"
+            },
+            {
+                "title": "本光寺",
+                "coords": [
+                    36.233672222222225,
+                    137.1881111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/本光寺.jpg"
+            },
+            {
+                "title": "桜山八幡宮",
+                "coords": [
+                    36.148205555555556,
+                    137.26086388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/桜山八幡宮.jpg"
+            },
+            {
+                "title": "桜山八幡宮_鳥居",
+                "coords": [
+                    36.147933333333334,
+                    137.25956666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/桜山八幡宮_鳥居.jpg"
+            },
+            {
+                "title": "温泉博物館",
+                "coords": [
+                    35.810091666666665,
+                    137.24133333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/温泉博物館.jpg"
+            },
+            {
+                "title": "温泉寺",
+                "coords": [
+                    35.809536111111115,
+                    137.24173055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/温泉寺.jpg"
+            },
+            {
+                "title": "瀬戸川と白壁土蔵街",
+                "coords": [
+                    36.23529444444444,
+                    137.18690555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/瀬戸川と白壁土蔵街.jpg"
+            },
+            {
+                "title": "白川八幡神社",
+                "coords": [
+                    36.25525,
+                    136.9054111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/白川八幡神社.jpg"
+            },
+            {
+                "title": "白川郷",
+                "coords": [
+                    36.25765555555556,
+                    136.90684444444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/白川郷.jpg"
+            },
+            {
+                "title": "白鷺乃湯",
+                "coords": [
+                    35.809447222222225,
+                    137.2415472222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/白鷺乃湯.jpg"
+            },
+            {
+                "title": "真宗寺",
+                "coords": [
+                    36.233352777777775,
+                    137.1849361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/真宗寺.jpg"
+            },
+            {
+                "title": "陣屋前朝市",
+                "coords": [
+                    36.13973611111111,
+                    137.25840833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/陣屋前朝市.jpg"
+            },
+            {
+                "title": "飛騨国分寺",
+                "coords": [
+                    36.14276111111111,
+                    137.25273055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨国分寺.jpg"
+            },
+            {
+                "title": "飛騨国分寺_三重塔",
+                "coords": [
+                    36.14315833333333,
+                    137.25398333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨国分寺_三重塔.jpg"
+            },
+            {
+                "title": "飛騨川",
+                "coords": [
+                    35.80730833333333,
+                    137.24104444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨川.jpg"
+            },
+            {
+                "title": "飛騨高山まちの博物館",
+                "coords": [
+                    36.142247222222224,
+                    137.26098611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨高山まちの博物館.jpg"
+            },
+            {
                 "title": "駅名標_大垣駅",
                 "coords": [
                     35.367216666666664,
@@ -3912,6 +4096,14 @@
                     136.75657777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_岐阜駅.jpg"
+            },
+            {
+                "title": "高山陣屋",
+                "coords": [
+                    36.13957222222222,
+                    137.25814722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/高山陣屋.jpg"
             },
             {
                 "title": "黄金の織田信長公像",
