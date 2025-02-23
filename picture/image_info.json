@@ -7310,28 +7310,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/別府タワー.jpg"
             },
             {
-                "title": "別府駅",
-                "coords": [
-                    33.27976944444445,
-                    131.500825
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/別府駅.jpg"
-            },
-            {
                 "title": "大分府内城",
                 "coords": [
                     33.239383333333336,
                     131.61013888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/大分府内城.jpg"
-            },
-            {
-                "title": "大分駅",
-                "coords": [
-                    33.23375,
-                    131.60698055555557
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/大分駅.jpg"
             },
             {
                 "title": "海地獄",
@@ -7364,14 +7348,6 @@
                     131.80552777777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/臼杵城_豊後水道.jpg"
-            },
-            {
-                "title": "臼杵駅",
-                "coords": [
-                    33.11878611111111,
-                    131.80720555555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/臼杵駅.jpg"
             },
             {
                 "title": "血の池地獄",
@@ -7420,6 +7396,30 @@
                     131.80773888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/駅名標_臼杵駅_2.jpg"
+            },
+            {
+                "title": "駅舎_別府駅",
+                "coords": [
+                    33.27976944444445,
+                    131.500825
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/駅舎_別府駅.jpg"
+            },
+            {
+                "title": "駅舎_大分駅",
+                "coords": [
+                    33.23375,
+                    131.60698055555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/駅舎_大分駅.jpg"
+            },
+            {
+                "title": "駅舎_臼杵駅",
+                "coords": [
+                    33.11878611111111,
+                    131.80720555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/駅舎_臼杵駅.jpg"
             },
             {
                 "title": "龍巻地獄",
