@@ -7235,12 +7235,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.83612129629629,
-                    130.6818287037037
+                    32.8201449074074,
+                    130.69442962962964
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "加藤神社",
+                "coords": [
+                    32.806130555555555,
+                    130.70584722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/加藤神社.jpg"
+            },
             {
                 "title": "熊本城",
                 "coords": [
@@ -7250,12 +7258,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本城.jpg"
             },
             {
-                "title": "熊本駅",
+                "title": "熊本市役所",
                 "coords": [
-                    32.789425,
-                    130.68846944444445
+                    32.80320555555556,
+                    130.7080222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本市役所.jpg"
             },
             {
                 "title": "田原坂",
@@ -7264,6 +7272,22 @@
                     130.65116944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/田原坂.jpg"
+            },
+            {
+                "title": "駅舎_熊本城・市役所前駅",
+                "coords": [
+                    32.80316944444444,
+                    130.7072222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/駅舎_熊本城・市役所前駅.jpg"
+            },
+            {
+                "title": "駅舎_熊本駅",
+                "coords": [
+                    32.789425,
+                    130.68846944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/駅舎_熊本駅.jpg"
             }
         ]
     },
