@@ -7723,8 +7723,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    26.365818716931216,
-                    127.77248789682541
+                    26.358859406565657,
+                    127.76772695707069
                 ]
             }
         ],
@@ -7938,14 +7938,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/浦添城.jpg"
             },
             {
-                "title": "牧志駅",
-                "coords": [
-                    26.217675,
-                    127.69263333333333
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/牧志駅.jpg"
-            },
-            {
                 "title": "福州園",
                 "coords": [
                     26.21811111111111,
@@ -8050,12 +8042,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅名標_赤嶺駅.jpg"
             },
             {
-                "title": "駅名標_那覇空港",
+                "title": "駅名標_那覇空港駅",
                 "coords": [
                     26.206444444444443,
                     127.6521
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅名標_那覇空港.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅名標_那覇空港駅.jpg"
             },
             {
                 "title": "駅名標_首里駅",
@@ -8064,6 +8056,30 @@
                     127.72600555555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅名標_首里駅.jpg"
+            },
+            {
+                "title": "駅舎_牧志駅",
+                "coords": [
+                    26.217675,
+                    127.69263333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅舎_牧志駅.jpg"
+            },
+            {
+                "title": "駅舎_美栄橋駅",
+                "coords": [
+                    26.219013888888888,
+                    127.68395277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅舎_美栄橋駅.jpg"
+            },
+            {
+                "title": "駅舎_那覇空港駅",
+                "coords": [
+                    26.20641388888889,
+                    127.65154166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅舎_那覇空港駅.jpg"
             }
         ]
     }
