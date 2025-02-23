@@ -7435,8 +7435,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.060269166666664,
-                    131.50780583333332
+                    32.047874603174606,
+                    131.50587486772488
                 ]
             }
         ],
@@ -7466,14 +7466,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/今山大師展望所.jpg"
             },
             {
-                "title": "佐土原駅",
-                "coords": [
-                    32.02243055555556,
-                    131.47698888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/佐土原駅.jpg"
-            },
-            {
                 "title": "宮崎神宮",
                 "coords": [
                     31.93797777777778,
@@ -7482,36 +7474,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/宮崎神宮.jpg"
             },
             {
-                "title": "宮崎神宮駅",
-                "coords": [
-                    31.937952777777777,
-                    131.43013055555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/宮崎神宮駅.jpg"
-            },
-            {
                 "title": "宮崎空港",
                 "coords": [
                     31.87250277777778,
                     131.44169722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/宮崎空港.jpg"
-            },
-            {
-                "title": "宮崎駅",
-                "coords": [
-                    31.916016666666668,
-                    131.43144166666667
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/宮崎駅.jpg"
-            },
-            {
-                "title": "延岡駅",
-                "coords": [
-                    32.59005,
-                    131.67176944444444
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/延岡駅.jpg"
             },
             {
                 "title": "青島",
@@ -7592,6 +7560,46 @@
                     131.46708611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅名標_青島駅.jpg"
+            },
+            {
+                "title": "駅舎_佐土原駅",
+                "coords": [
+                    32.02243055555556,
+                    131.47698888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅舎_佐土原駅.jpg"
+            },
+            {
+                "title": "駅舎_宮崎神宮駅",
+                "coords": [
+                    31.937952777777777,
+                    131.43013055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅舎_宮崎神宮駅.jpg"
+            },
+            {
+                "title": "駅舎_宮崎駅",
+                "coords": [
+                    31.916016666666668,
+                    131.43144166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅舎_宮崎駅.jpg"
+            },
+            {
+                "title": "駅舎_延岡駅",
+                "coords": [
+                    32.59005,
+                    131.67176944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅舎_延岡駅.jpg"
+            },
+            {
+                "title": "駅舎_青島駅",
+                "coords": [
+                    31.799983333333333,
+                    131.46725555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅舎_青島駅.jpg"
             },
             {
                 "title": "鬼の洗濯板",
