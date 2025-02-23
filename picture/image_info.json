@@ -7615,8 +7615,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    31.69389786111111,
-                    130.47664273076924
+                    31.677383331018518,
+                    130.4980020787037
                 ]
             }
         ],
@@ -7662,12 +7662,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/桜島フェリー.jpg"
             },
             {
-                "title": "薩摩高城_東シナ海",
+                "title": "薩摩高城駅_東シナ海",
                 "coords": [
                     31.89243611111111,
                     130.22057222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/薩摩高城_東シナ海.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/薩摩高城駅_東シナ海.jpg"
             },
             {
                 "title": "西郷隆盛像",
@@ -7680,8 +7680,8 @@
             {
                 "title": "駅名標_薩摩高城駅",
                 "coords": [
-                    31.89243611111111,
-                    130.22057222222222
+                    31.8928,
+                    130.2208138888889
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅名標_薩摩高城駅.jpg"
             },
@@ -7692,14 +7692,6 @@
                     130.3124611111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅舎_川内駅.jpg"
-            },
-            {
-                "title": "駅舎_薩摩高城駅",
-                "coords": [
-                    31.89243611111111,
-                    130.22057222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅舎_薩摩高城駅.jpg"
             },
             {
                 "title": "駅舎_鹿児島中央駅",
