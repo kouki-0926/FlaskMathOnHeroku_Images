@@ -7678,20 +7678,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/西郷隆盛像.jpg"
             },
             {
-                "title": "駅名標_薩摩高城駅",
-                "coords": [
-                    31.8928,
-                    130.2208138888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅名標_薩摩高城駅.jpg"
-            },
-            {
                 "title": "駅舎_川内駅",
                 "coords": [
                     31.813772222222223,
                     130.3124611111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅舎_川内駅.jpg"
+            },
+            {
+                "title": "駅舎_薩摩高城駅",
+                "coords": [
+                    31.8928,
+                    130.2208138888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/46_鹿児島県/駅舎_薩摩高城駅.jpg"
             },
             {
                 "title": "駅舎_鹿児島中央駅",
