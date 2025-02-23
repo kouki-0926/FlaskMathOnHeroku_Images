@@ -6819,8 +6819,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.27008774509804,
-                    130.26834215686276
+                    33.26912529239766,
+                    130.26228742690057
                 ]
             }
         ],
@@ -6856,14 +6856,6 @@
                     130.29895
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀県庁_展望ホール.jpg"
-            },
-            {
-                "title": "佐賀駅",
-                "coords": [
-                    33.263894444444446,
-                    130.29768333333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀駅.jpg"
             },
             {
                 "title": "吉野ヶ里遺跡_北内郭",
@@ -6906,14 +6898,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/武雄温泉_楼門.jpg"
             },
             {
-                "title": "武雄温泉駅",
-                "coords": [
-                    33.19598055555556,
-                    130.02311666666665
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/武雄温泉駅.jpg"
-            },
-            {
                 "title": "駅名標_佐賀駅",
                 "coords": [
                     33.264244444444444,
@@ -6946,12 +6930,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅名標_新鳥栖駅_新幹線.jpg"
             },
             {
-                "title": "駅名標_武雄温泉駅",
+                "title": "駅名標_武雄温泉駅_在来線",
+                "coords": [
+                    33.196669444444446,
+                    130.02311666666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅名標_武雄温泉駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_武雄温泉駅_新幹線",
                 "coords": [
                     33.196730555555554,
                     130.02377222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅名標_武雄温泉駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅名標_武雄温泉駅_新幹線.jpg"
             },
             {
                 "title": "駅名標_鳥栖駅",
@@ -6960,6 +6952,30 @@
                     130.5199111111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅名標_鳥栖駅.jpg"
+            },
+            {
+                "title": "駅舎_佐賀駅",
+                "coords": [
+                    33.263894444444446,
+                    130.29768333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅舎_佐賀駅.jpg"
+            },
+            {
+                "title": "駅舎_吉野ヶ里公園駅",
+                "coords": [
+                    33.32521944444444,
+                    130.3985277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅舎_吉野ヶ里公園駅.jpg"
+            },
+            {
+                "title": "駅舎_武雄温泉駅",
+                "coords": [
+                    33.19598055555556,
+                    130.02311666666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/駅舎_武雄温泉駅.jpg"
             }
         ]
     },
@@ -6967,8 +6983,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.92037400793651,
-                    129.82876825396826
+                    32.89402592592593,
+                    129.83649305555556
                 ]
             }
         ],
@@ -6976,18 +6992,10 @@
             {
                 "title": "させぼ四ヶ町",
                 "coords": [
-                    33.168194444444445,
-                    129.7236638888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/させぼ四ヶ町.jpg"
-            },
-            {
-                "title": "させぼ四ヶ町_入口",
-                "coords": [
                     33.168197222222226,
                     129.72404444444444
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/させぼ四ヶ町_入口.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/させぼ四ヶ町.jpg"
             },
             {
                 "title": "とんねる横丁",
@@ -7004,6 +7012,14 @@
                     129.72566111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/カトリック三浦町教会.jpg"
+            },
+            {
+                "title": "グラバー園",
+                "coords": [
+                    32.733047222222226,
+                    129.86971944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/グラバー園.jpg"
             },
             {
                 "title": "グラバー園_グラバー邸",
@@ -7036,14 +7052,6 @@
                     129.72398333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/佐世保港.jpg"
-            },
-            {
-                "title": "佐世保駅",
-                "coords": [
-                    33.163466666666665,
-                    129.72520555555556
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/佐世保駅.jpg"
             },
             {
                 "title": "出島",
@@ -7142,22 +7150,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/長崎県庁_稲佐山.jpg"
             },
             {
-                "title": "長崎駅",
-                "coords": [
-                    32.75298055555555,
-                    129.8697361111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/長崎駅.jpg"
-            },
-            {
-                "title": "長崎駅前駅",
-                "coords": [
-                    32.752808333333334,
-                    129.8717638888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/長崎駅前駅.jpg"
-            },
-            {
                 "title": "駅名標_佐世保駅",
                 "coords": [
                     33.164033333333336,
@@ -7196,6 +7188,46 @@
                     129.86891111111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅名標_長崎駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_五島町駅",
+                "coords": [
+                    32.749138888888886,
+                    129.87239166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅舎_五島町駅.jpg"
+            },
+            {
+                "title": "駅舎_佐世保駅",
+                "coords": [
+                    33.163466666666665,
+                    129.72520555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅舎_佐世保駅.jpg"
+            },
+            {
+                "title": "駅舎_大浦天主堂駅",
+                "coords": [
+                    32.73631388888889,
+                    129.87083333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅舎_大浦天主堂駅.jpg"
+            },
+            {
+                "title": "駅舎_長崎駅",
+                "coords": [
+                    32.75298055555555,
+                    129.8697361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅舎_長崎駅.jpg"
+            },
+            {
+                "title": "駅舎_長崎駅前駅",
+                "coords": [
+                    32.752808333333334,
+                    129.8717638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/駅舎_長崎駅前駅.jpg"
             }
         ]
     },
