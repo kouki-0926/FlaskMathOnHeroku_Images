@@ -7235,8 +7235,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.8201449074074,
-                    130.69442962962964
+                    32.82030925925926,
+                    130.6943513888889
                 ]
             }
         ],
@@ -7244,8 +7244,8 @@
             {
                 "title": "加藤神社",
                 "coords": [
-                    32.806130555555555,
-                    130.70584722222222
+                    32.807116666666666,
+                    130.70537777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/加藤神社.jpg"
             },
