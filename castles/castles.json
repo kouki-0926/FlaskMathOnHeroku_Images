@@ -1,802 +1,812 @@
 {
-    "根室半島チャシ跡群": {
-        "location": "北海道根室市",
-        "coords": [
-            "43.3887273",
-            "145.7824096"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/北海道/根室半島チャシ跡群.jpg"
-    },
-    "五稜郭": {
-        "location": "北海道函館市",
-        "coords": [
-            "41.7971839",
-            "140.7568306"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/北海道/五稜郭.jpg"
-    },
-    "松前城": {
-        "location": "北海道松前町",
-        "coords": [
-            "41.4299007",
-            "140.108412"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/北海道/松前城.jpg"
-    },
-    "弘前城": {
-        "location": "青森県弘前市",
-        "coords": [
-            "40.6074516",
-            "140.4641804"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/青森県/弘前城.jpg"
-    },
-    "根城": {
-        "location": "青森県八戸市",
-        "coords": [
-            "40.5058021",
-            "141.4623075"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/青森県/根城.jpg"
-    },
-    "盛岡城": {
-        "location": "岩手県盛岡市",
-        "coords": [
-            "39.6999544",
-            "141.1479233"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岩手県/盛岡城.jpg"
-    },
-    "多賀城": {
-        "location": "宮城県多賀城市",
-        "coords": [
-            "38.2952022",
-            "140.9827552"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/宮城県/多賀城.jpg"
-    },
-    "仙台城": {
-        "location": "宮城県仙台市",
-        "coords": [
-            "38.2544625",
-            "140.8502011"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/宮城県/仙台城.jpg"
-    },
-    "久保田城": {
-        "location": "秋田県秋田市",
-        "coords": [
-            "39.7224884",
-            "140.1217534"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/秋田県/久保田城.jpg"
-    },
-    "山形城": {
-        "location": "山形県山形市",
-        "coords": [
-            "38.1985928",
-            "140.2246166"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/山形県/山形城.jpg"
-    },
-    "二本松城": {
-        "location": "福島県二本松市",
-        "coords": [
-            "37.5986488",
-            "140.4277994"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福島県/二本松城.jpg"
-    },
-    "会津若松城": {
-        "location": "福島県会津若松市",
-        "coords": [
-            "37.487824",
-            "139.927477"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福島県/会津若松城.jpg"
-    },
-    "白河小峰城": {
-        "location": "福島県白河市",
-        "coords": [
-            "37.132411",
-            "140.2115032"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福島県/白河小峰城.jpg"
-    },
-    "水戸城": {
-        "location": "茨城県水戸市",
-        "coords": [
-            "36.3747514",
-            "140.4767657"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/茨城県/水戸城.jpg"
-    },
-    "足利氏館": {
-        "location": "栃木県足利市",
-        "coords": [
-            "36.3375072",
-            "139.4500917"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/栃木県/足利氏館.jpg"
-    },
-    "箕輪城": {
-        "location": "群馬県高崎市",
-        "coords": [
-            "36.4049555",
-            "138.9487678"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/群馬県/箕輪城.jpg"
-    },
-    "金山城": {
-        "location": "群馬県太田市",
-        "coords": [
-            "36.316845",
-            "139.3749143"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/群馬県/金山城.jpg"
-    },
-    "鉢形城": {
-        "location": "埼玉県寄居町",
-        "coords": [
-            "36.1065743",
-            "139.1940873"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/埼玉県/鉢形城.jpg"
-    },
-    "川越城": {
-        "location": "埼玉県川越市",
-        "coords": [
-            "35.9244802",
-            "139.4895383"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/埼玉県/川越城.jpg"
-    },
-    "佐倉城": {
-        "location": "千葉県佐倉市",
-        "coords": [
-            "35.722386",
-            "140.2139217"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/千葉県/佐倉城.jpg"
-    },
-    "江戸城": {
-        "location": "東京都千代田区",
-        "coords": [
-            "35.6877513",
-            "139.7525013"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/東京都/江戸城.jpg"
-    },
-    "八王子城": {
-        "location": "東京都八王子市",
-        "coords": [
-            "35.652765",
-            "139.2541586"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/東京都/八王子城.jpg"
-    },
-    "小田原城": {
-        "location": "神奈川県小田原市",
-        "coords": [
-            "35.2509537",
-            "139.1513249"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/神奈川県/小田原城.jpg"
-    },
-    "武田氏館 武田神社": {
-        "location": "山梨県甲府市",
-        "coords": [
-            "35.6869648",
-            "138.5747726"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/山梨県/武田氏館 武田神社.jpg"
-    },
-    "甲府城": {
-        "location": "山梨県甲府市",
-        "coords": [
-            "35.6652788",
-            "138.5691437"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/山梨県/甲府城.jpg"
-    },
-    "松代城": {
-        "location": "長野県長野市",
-        "coords": [
-            "36.5660163",
-            "138.193845"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長野県/松代城.jpg"
-    },
-    "上田城": {
-        "location": "長野県上田市",
-        "coords": [
-            "36.4061596",
-            "138.2308484"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長野県/上田城.jpg"
-    },
-    "小諸城": {
-        "location": "長野県小諸市",
-        "coords": [
-            "36.3320521",
-            "138.3854852"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長野県/小諸城.jpg"
-    },
-    "松本城": {
-        "location": "長野県松本市",
-        "coords": [
-            "36.2386563",
-            "137.9667664"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長野県/松本城.jpg"
-    },
-    "高遠城": {
-        "location": "長野県伊那市",
-        "coords": [
-            "35.8334202",
-            "138.0600325"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長野県/高遠城.jpg"
-    },
-    "新発田城": {
-        "location": "新潟県新発田市",
-        "coords": [
-            "37.9279367",
-            "139.3012556"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/新潟県/新発田城.jpg"
-    },
-    "春日山城": {
-        "location": "新潟県上越市",
-        "coords": [
-            "37.1491434",
-            "138.211568"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/新潟県/春日山城.jpg"
-    },
-    "高岡城": {
-        "location": "富山県高岡市",
-        "coords": [
-            "36.7479361",
-            "137.0188998"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/富山県/高岡城.jpg"
-    },
-    "七尾城": {
-        "location": "石川県七尾市",
-        "coords": [
-            "37.0278498",
-            "136.9574573"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/石川県/七尾城.jpg"
-    },
-    "金沢城": {
-        "location": "石川県金沢市",
-        "coords": [
-            "36.5655059",
-            "136.6578294"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/石川県/金沢城.jpg"
-    },
-    "丸岡城": {
-        "location": "福井県坂井市",
-        "coords": [
-            "36.1523615",
-            "136.2699571"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福井県/丸岡城.jpg"
-    },
-    "一乗谷城": {
-        "location": "福井県福井市",
-        "coords": [
-            "35.9994633",
-            "136.2937435"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福井県/一乗谷城.jpg"
-    },
-    "岩村城": {
-        "location": "岐阜県恵那市",
-        "coords": [
-            "35.3623027",
-            "137.4450982"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岐阜県/岩村城.jpg"
-    },
-    "岐阜城": {
-        "location": "岐阜県岐阜市",
-        "coords": [
-            "35.433918",
-            "136.7798826"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岐阜県/岐阜城.jpg"
-    },
-    "山中城": {
-        "location": "静岡県三島市",
-        "coords": [
-            "35.1558275",
-            "138.9907462"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/静岡県/山中城.jpg"
-    },
-    "駿府城": {
-        "location": "静岡県静岡市",
-        "coords": [
-            "34.9792945",
-            "138.3817985"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/静岡県/駿府城.jpg"
-    },
-    "掛川城": {
-        "location": "静岡県掛川市",
-        "coords": [
-            "34.7752332",
-            "138.011705"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/静岡県/掛川城.jpg"
-    },
-    "犬山城": {
-        "location": "愛知県犬山市",
-        "coords": [
-            "35.3883547",
-            "136.9369888"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛知県/犬山城.jpg"
-    },
-    "名古屋城": {
-        "location": "愛知県名古屋市",
-        "coords": [
-            "35.1846657",
-            "136.897493"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛知県/名古屋城.jpg"
-    },
-    "岡崎城": {
-        "location": "愛知県岡崎市",
-        "coords": [
-            "34.9562994",
-            "137.1566643"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛知県/岡崎城.jpg"
-    },
-    "長篠城": {
-        "location": "愛知県新城市",
-        "coords": [
-            "34.9227512",
-            "137.5575079"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛知県/長篠城.jpg"
-    },
-    "伊賀上野城": {
-        "location": "三重県伊賀市",
-        "coords": [
-            "34.770164",
-            "136.1249213"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/三重県/伊賀上野城.jpg"
-    },
-    "松阪城": {
-        "location": "三重県松阪市",
-        "coords": [
-            "34.5673108",
-            "136.4909627"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/三重県/松阪城.jpg"
-    },
-    "小谷城": {
-        "location": "滋賀県長浜市",
-        "coords": [
-            "35.4740036",
-            "136.2081794"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/滋賀県/小谷城.jpg"
-    },
-    "彦根城": {
-        "location": "滋賀県彦根市",
-        "coords": [
-            "35.276452",
-            "136.2474686"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/滋賀県/彦根城.jpg"
-    },
-    "安土城": {
-        "location": "滋賀県近江八幡市",
-        "coords": [
-            "35.1534372",
-            "136.1408504"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/滋賀県/安土城.jpg"
-    },
-    "観音寺城": {
-        "location": "滋賀県近江八幡市",
-        "coords": [
-            "35.1458413",
-            "136.1554885"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/滋賀県/観音寺城.jpg"
-    },
-    "二条城": {
-        "location": "京都府京都市",
-        "coords": [
-            "35.0142299",
-            "135.748218"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/京都府/二条城.jpg"
-    },
-    "大坂城": {
-        "location": "大阪府大阪市",
-        "coords": [
-            "34.6873153",
-            "135.5262013"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/大阪府/大坂城.jpg"
-    },
-    "千早城": {
-        "location": "大阪府千早赤阪村",
-        "coords": [
-            "34.4169867",
-            "135.6492481"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/大阪府/千早城.jpg"
-    },
-    "竹田城": {
-        "location": "兵庫県朝来市",
-        "coords": [
-            "35.3006044",
-            "134.8291681"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/兵庫県/竹田城.jpg"
-    },
-    "篠山城": {
-        "location": "兵庫県篠山市",
-        "coords": [
-            "35.0730832",
-            "135.2156322"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/兵庫県/篠山城.jpg"
-    },
-    "明石城": {
-        "location": "兵庫県明石市",
-        "coords": [
-            "34.6528009",
-            "134.9917886"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/兵庫県/明石城.jpg"
-    },
-    "姫路城": {
-        "location": "兵庫県姫路市",
-        "coords": [
-            "34.839449",
-            "134.6939047"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/兵庫県/姫路城.jpg"
-    },
-    "赤穂城": {
-        "location": "兵庫県赤穂市",
-        "coords": [
-            "34.745674",
-            "134.388985"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/兵庫県/赤穂城.jpg"
-    },
-    "高取城": {
-        "location": "奈良県高取町",
-        "coords": [
-            "34.4293872",
-            "135.8246734"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/奈良県/高取城.jpg"
-    },
-    "和歌山城": {
-        "location": "和歌山県和歌山市",
-        "coords": [
-            "34.2294761",
-            "135.1738548"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/和歌山県/和歌山城.jpg"
-    },
-    "鳥取城": {
-        "location": "鳥取県鳥取市",
-        "coords": [
-            "35.507426",
-            "134.239995"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/鳥取県/鳥取城.jpg"
-    },
-    "松江城": {
-        "location": "島根県松江市",
-        "coords": [
-            "35.4751335",
-            "133.0484896"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/島根県/松江城.jpg"
-    },
-    "月山富田城": {
-        "location": "島根県安来市",
-        "coords": [
-            "35.3609317",
-            "133.1830298"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/島根県/月山富田城.jpg"
-    },
-    "津和野城": {
-        "location": "島根県津和野町",
-        "coords": [
-            "34.4582171",
-            "131.7589231"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/島根県/津和野城.jpg"
-    },
-    "津山城": {
-        "location": "岡山県津山市",
-        "coords": [
-            "35.0621398",
-            "134.0030167"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岡山県/津山城.jpg"
-    },
-    "備中松山城": {
-        "location": "岡山県高梁市",
-        "coords": [
-            "34.809081",
-            "133.6201174"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岡山県/備中松山城.jpg"
-    },
-    "鬼ノ城": {
-        "location": "岡山県総社市",
-        "coords": [
-            "34.7254737",
-            "133.7601847"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岡山県/鬼ノ城.jpg"
-    },
-    "岡山城": {
-        "location": "岡山県岡山市",
-        "coords": [
-            "34.66519",
-            "133.9338693"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/岡山県/岡山城.jpg"
-    },
-    "福山城": {
-        "location": "広島県福山市",
-        "coords": [
-            "34.491069",
-            "133.3589302"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/広島県/福山城.jpg"
-    },
-    "吉田郡山城": {
-        "location": "広島県安芸高田市",
-        "coords": [
-            "34.6736223",
-            "132.7073215"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/広島県/吉田郡山城.jpg"
-    },
-    "広島城": {
-        "location": "広島県広島市",
-        "coords": [
-            "34.4014949",
-            "132.4552292"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/広島県/広島城.jpg"
-    },
-    "岩国城": {
-        "location": "山口県岩国市",
-        "coords": [
-            "34.1752398",
-            "132.172017"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/山口県/岩国城.jpg"
-    },
-    "萩城": {
-        "location": "山口県萩市",
-        "coords": [
-            "34.4179549",
-            "131.3820209"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/山口県/萩城.jpg"
-    },
-    "徳島城": {
-        "location": "徳島県徳島市",
-        "coords": [
-            "34.0660912",
-            "134.5464894"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/徳島県/徳島城.jpg"
-    },
-    "高松城": {
-        "location": "香川県高松市",
-        "coords": [
-            "34.3554467",
-            "134.0474817"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/香川県/高松城.jpg"
-    },
-    "丸亀城": {
-        "location": "香川県丸亀市",
-        "coords": [
-            "34.2859572",
-            "133.7980924"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/香川県/丸亀城.jpg"
-    },
-    "今治城": {
-        "location": "愛媛県今治市",
-        "coords": [
-            "34.064502",
-            "133.0059763"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛媛県/今治城.jpg"
-    },
-    "湯築城": {
-        "location": "愛媛県松山市",
-        "coords": [
-            "33.8484885",
-            "132.7839616"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛媛県/湯築城.jpg"
-    },
-    "松山城": {
-        "location": "愛媛県松山市",
-        "coords": [
-            "33.8455768",
-            "132.7633459"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛媛県/松山城.jpg"
-    },
-    "大洲城": {
-        "location": "愛媛県大洲市",
-        "coords": [
-            "33.509524",
-            "132.5389233"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛媛県/大洲城.jpg"
-    },
-    "宇和島城": {
-        "location": "愛媛県宇和島市",
-        "coords": [
-            "33.219449",
-            "132.5630103"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/愛媛県/宇和島城.jpg"
-    },
-    "高知城": {
-        "location": "高知県高知市",
-        "coords": [
-            "33.5607925",
-            "133.5293004"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/高知県/高知城.jpg"
-    },
-    "福岡城": {
-        "location": "福岡県福岡市",
-        "coords": [
-            "33.592764",
-            "130.3806112"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福岡県/福岡城.jpg"
-    },
-    "大野城": {
-        "location": "福岡県大野城市",
-        "coords": [
-            "33.5398007",
-            "130.5221919"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/福岡県/大野城.jpg"
-    },
-    "名護屋城": {
-        "location": "佐賀県唐津市",
-        "coords": [
-            "33.529083",
-            "129.8675613"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/佐賀県/名護屋城.jpg"
-    },
-    "吉野ヶ里遺跡": {
-        "location": "佐賀県吉野ヶ里町",
-        "coords": [
-            "33.3242445",
-            "130.3844096"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/佐賀県/吉野ヶ里遺跡.jpg"
-    },
-    "佐賀城": {
-        "location": "佐賀県佐賀市",
-        "coords": [
-            "33.2451406",
-            "130.3002167"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/佐賀県/佐賀城.jpg"
-    },
-    "平戸城": {
-        "location": "長崎県平戸市",
-        "coords": [
-            "33.3685375",
-            "129.5569425"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長崎県/平戸城.jpg"
-    },
-    "島原城": {
-        "location": "長崎県島原市",
-        "coords": [
-            "32.7892192",
-            "130.3650807"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/長崎県/島原城.jpg"
-    },
-    "熊本城": {
-        "location": "熊本県熊本市",
-        "coords": [
-            "32.8061859",
-            "130.7036448"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/熊本県/熊本城.jpg"
-    },
-    "人吉城": {
-        "location": "熊本県人吉市",
-        "coords": [
-            "32.2108918",
-            "130.7597978"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/熊本県/人吉城.jpg"
-    },
-    "大分府内城": {
-        "location": "大分県大分市",
-        "coords": [
-            "33.2398952",
-            "131.6097883"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/大分県/大分府内城.jpg"
-    },
-    "岡城": {
-        "location": "大分県竹田市",
-        "coords": [
-            "32.9691026",
-            "131.405579"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/大分県/岡城.jpg"
-    },
-    "飫肥城": {
-        "location": "宮崎県日南市",
-        "coords": [
-            "31.6291057",
-            "131.3481154"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/宮崎県/飫肥城.jpg"
-    },
-    "鹿児島城": {
-        "location": "鹿児島県鹿児島市",
-        "coords": [
-            "31.5983168",
-            "130.5528058"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/鹿児島県/鹿児島城.jpg"
-    },
-    "今帰仁城": {
-        "location": "沖縄県今帰仁村",
-        "coords": [
-            "26.6912793",
-            "127.9268339"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/沖縄県/今帰仁城.jpg"
-    },
-    "中城城": {
-        "location": "沖縄県中城村",
-        "coords": [
-            "26.2835007",
-            "127.7974821"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/沖縄県/中城城.jpg"
-    },
-    "首里城": {
-        "location": "沖縄県那覇市",
-        "coords": [
-            "26.2170135",
-            "127.7173321"
-        ],
-        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/沖縄県/首里城.jpg"
-    }
+    "根室半島チャシ跡群": [
+        {
+            "number": "1",
+            "city": "北海道根室市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "五稜郭": [
+        {
+            "number": "2",
+            "city": "北海道函館市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "松前城": [
+        {
+            "number": "3",
+            "city": "北海道松前町",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "弘前城": [
+        {
+            "number": "4",
+            "city": "青森県弘前市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
+        },
+        {
+            "number": "4",
+            "city": "青森県弘前市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城二の丸東門.jpg"
+        }
+    ],
+    "根城": [
+        {
+            "number": "5",
+            "city": "青森県八戸市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "盛岡城": [
+        {
+            "number": "6",
+            "city": "岩手県盛岡市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡.jpg"
+        },
+        {
+            "number": "6",
+            "city": "岩手県盛岡市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡_石垣ライトアップ.jpg"
+        }
+    ],
+    "多賀城": [
+        {
+            "number": "7",
+            "city": "宮城県多賀城市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "仙台城": [
+        {
+            "number": "8",
+            "city": "宮城県仙台市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台城跡.jpg"
+        }
+    ],
+    "久保田城": [
+        {
+            "number": "9",
+            "city": "秋田県秋田市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/久保田城.jpg"
+        }
+    ],
+    "山形城": [
+        {
+            "number": "10",
+            "city": "山形県山形市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/山形城.jpg"
+        }
+    ],
+    "二本松城": [
+        {
+            "number": "11",
+            "city": "福島県二本松市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "会津若松城": [
+        {
+            "number": "12",
+            "city": "福島県会津若松市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "白河小峰城": [
+        {
+            "number": "13",
+            "city": "福島県白河市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "水戸城": [
+        {
+            "number": "14",
+            "city": "茨城県水戸市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_二の丸角櫓.jpg"
+        },
+        {
+            "number": "14",
+            "city": "茨城県水戸市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_大手門.jpg"
+        }
+    ],
+    "足利氏館": [
+        {
+            "number": "15",
+            "city": "栃木県足利市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "箕輪城": [
+        {
+            "number": "16",
+            "city": "群馬県高崎市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "金山城": [
+        {
+            "number": "17",
+            "city": "群馬県太田市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "鉢形城": [
+        {
+            "number": "18",
+            "city": "埼玉県寄居町",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "川越城": [
+        {
+            "number": "19",
+            "city": "埼玉県川越市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "佐倉城": [
+        {
+            "number": "20",
+            "city": "千葉県佐倉市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "江戸城": [
+        {
+            "number": "21",
+            "city": "東京都千代田区",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "八王子城": [
+        {
+            "number": "22",
+            "city": "東京都八王子市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "小田原城": [
+        {
+            "number": "23",
+            "city": "神奈川県小田原市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城.jpg"
+        }
+    ],
+    "武田氏館 武田神社": [
+        {
+            "number": "24",
+            "city": "山梨県甲府市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "甲府城": [
+        {
+            "number": "25",
+            "city": "山梨県甲府市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/甲府城.jpg"
+        }
+    ],
+    "松代城": [
+        {
+            "number": "26",
+            "city": "長野県長野市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "上田城": [
+        {
+            "number": "27",
+            "city": "長野県上田市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "小諸城": [
+        {
+            "number": "28",
+            "city": "長野県小諸市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "松本城": [
+        {
+            "number": "29",
+            "city": "長野県松本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜.jpg"
+        },
+        {
+            "number": "29",
+            "city": "長野県松本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+        }
+    ],
+    "高遠城": [
+        {
+            "number": "30",
+            "city": "長野県伊那市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "新発田城": [
+        {
+            "number": "31",
+            "city": "新潟県新発田市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/新発田城.jpg"
+        }
+    ],
+    "春日山城": [
+        {
+            "number": "32",
+            "city": "新潟県上越市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "高岡城": [
+        {
+            "number": "33",
+            "city": "富山県高岡市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "七尾城": [
+        {
+            "number": "34",
+            "city": "石川県七尾市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "金沢城": [
+        {
+            "number": "35",
+            "city": "石川県金沢市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城.jpg"
+        },
+        {
+            "number": "35",
+            "city": "石川県金沢市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城_石川橋.jpg"
+        }
+    ],
+    "丸岡城": [
+        {
+            "number": "36",
+            "city": "福井県坂井市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "一乗谷城": [
+        {
+            "number": "37",
+            "city": "福井県福井市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "岩村城": [
+        {
+            "number": "38",
+            "city": "岐阜県恵那市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "岐阜城": [
+        {
+            "number": "39",
+            "city": "岐阜県岐阜市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城.jpg"
+        },
+        {
+            "number": "39",
+            "city": "岐阜県岐阜市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_濃尾平野.jpg"
+        },
+        {
+            "number": "39",
+            "city": "岐阜県岐阜市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良川.jpg"
+        },
+        {
+            "number": "39",
+            "city": "岐阜県岐阜市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良橋.jpg"
+        }
+    ],
+    "山中城": [
+        {
+            "number": "40",
+            "city": "静岡県三島市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "駿府城": [
+        {
+            "number": "41",
+            "city": "静岡県静岡市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駿府城.jpg"
+        }
+    ],
+    "掛川城": [
+        {
+            "number": "42",
+            "city": "静岡県掛川市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "犬山城": [
+        {
+            "number": "43",
+            "city": "愛知県犬山市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "名古屋城": [
+        {
+            "number": "44",
+            "city": "愛知県名古屋市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/名古屋城.jpg"
+        }
+    ],
+    "岡崎城": [
+        {
+            "number": "45",
+            "city": "愛知県岡崎市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "長篠城": [
+        {
+            "number": "46",
+            "city": "愛知県新城市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "伊賀上野城": [
+        {
+            "number": "47",
+            "city": "三重県伊賀市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "松阪城": [
+        {
+            "number": "48",
+            "city": "三重県松阪市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "小谷城": [
+        {
+            "number": "49",
+            "city": "滋賀県長浜市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "彦根城": [
+        {
+            "number": "50",
+            "city": "滋賀県彦根市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
+        },
+        {
+            "number": "50",
+            "city": "滋賀県彦根市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城_石碑.jpg"
+        }
+    ],
+    "安土城": [
+        {
+            "number": "51",
+            "city": "滋賀県近江八幡市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "観音寺城": [
+        {
+            "number": "52",
+            "city": "滋賀県近江八幡市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "二条城": [
+        {
+            "number": "53",
+            "city": "京都府京都市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "大坂城": [
+        {
+            "number": "54",
+            "city": "大阪府大阪市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "千早城": [
+        {
+            "number": "55",
+            "city": "大阪府千早赤阪村",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "竹田城": [
+        {
+            "number": "56",
+            "city": "兵庫県朝来市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "篠山城": [
+        {
+            "number": "57",
+            "city": "兵庫県篠山市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "明石城": [
+        {
+            "number": "58",
+            "city": "兵庫県明石市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石城.jpg"
+        }
+    ],
+    "姫路城": [
+        {
+            "number": "59",
+            "city": "兵庫県姫路市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城.jpg"
+        },
+        {
+            "number": "59",
+            "city": "兵庫県姫路市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城_石碑.jpg"
+        }
+    ],
+    "赤穂城": [
+        {
+            "number": "60",
+            "city": "兵庫県赤穂市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "高取城": [
+        {
+            "number": "61",
+            "city": "奈良県高取町",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "和歌山城": [
+        {
+            "number": "62",
+            "city": "和歌山県和歌山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城.jpg"
+        },
+        {
+            "number": "62",
+            "city": "和歌山県和歌山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
+        }
+    ],
+    "鳥取城": [
+        {
+            "number": "63",
+            "city": "鳥取県鳥取市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "松江城": [
+        {
+            "number": "64",
+            "city": "島根県松江市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城.jpg"
+        },
+        {
+            "number": "64",
+            "city": "島根県松江市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城_石碑.jpg"
+        }
+    ],
+    "月山富田城": [
+        {
+            "number": "65",
+            "city": "島根県安来市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "津和野城": [
+        {
+            "number": "66",
+            "city": "島根県津和野町",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "津山城": [
+        {
+            "number": "67",
+            "city": "岡山県津山市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "備中松山城": [
+        {
+            "number": "68",
+            "city": "岡山県高梁市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "鬼ノ城": [
+        {
+            "number": "69",
+            "city": "岡山県総社市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "岡山城": [
+        {
+            "number": "70",
+            "city": "岡山県岡山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/岡山城.jpg"
+        },
+        {
+            "number": "70",
+            "city": "岡山県岡山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/後楽園_岡山城.jpg"
+        }
+    ],
+    "福山城": [
+        {
+            "number": "71",
+            "city": "広島県福山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
+        }
+    ],
+    "吉田郡山城": [
+        {
+            "number": "72",
+            "city": "広島県安芸高田市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "広島城": [
+        {
+            "number": "73",
+            "city": "広島県広島市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島城.jpg"
+        }
+    ],
+    "岩国城": [
+        {
+            "number": "74",
+            "city": "山口県岩国市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋_岩国城.jpg"
+        }
+    ],
+    "萩城": [
+        {
+            "number": "75",
+            "city": "山口県萩市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "徳島城": [
+        {
+            "number": "76",
+            "city": "徳島県徳島市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/徳島城.jpg"
+        }
+    ],
+    "高松城": [
+        {
+            "number": "77",
+            "city": "香川県高松市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "丸亀城": [
+        {
+            "number": "78",
+            "city": "香川県丸亀市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "今治城": [
+        {
+            "number": "79",
+            "city": "愛媛県今治市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城.jpg"
+        },
+        {
+            "number": "79",
+            "city": "愛媛県今治市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城_しまなみ海道.jpg"
+        }
+    ],
+    "湯築城": [
+        {
+            "number": "80",
+            "city": "愛媛県松山市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "松山城": [
+        {
+            "number": "81",
+            "city": "愛媛県松山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/大観覧車くるりん_松山城.jpg"
+        },
+        {
+            "number": "81",
+            "city": "愛媛県松山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城.jpg"
+        },
+        {
+            "number": "81",
+            "city": "愛媛県松山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城山リフト.jpg"
+        }
+    ],
+    "大洲城": [
+        {
+            "number": "82",
+            "city": "愛媛県大洲市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "宇和島城": [
+        {
+            "number": "83",
+            "city": "愛媛県宇和島市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "高知城": [
+        {
+            "number": "84",
+            "city": "高知県高知市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/駅舎_高知城前駅.jpg"
+        },
+        {
+            "number": "84",
+            "city": "高知県高知市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知城.jpg"
+        }
+    ],
+    "福岡城": [
+        {
+            "number": "85",
+            "city": "福岡県福岡市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/福岡城.jpg"
+        }
+    ],
+    "大野城": [
+        {
+            "number": "86",
+            "city": "福岡県大野城市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "名護屋城": [
+        {
+            "number": "87",
+            "city": "佐賀県唐津市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "吉野ヶ里遺跡": [
+        {
+            "number": "88",
+            "city": "佐賀県吉野ヶ里町",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_北内郭.jpg"
+        },
+        {
+            "number": "88",
+            "city": "佐賀県吉野ヶ里町",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_南内郭.jpg"
+        }
+    ],
+    "佐賀城": [
+        {
+            "number": "89",
+            "city": "佐賀県佐賀市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_本丸御殿.jpg"
+        },
+        {
+            "number": "89",
+            "city": "佐賀県佐賀市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_鯱の門.jpg"
+        }
+    ],
+    "平戸城": [
+        {
+            "number": "90",
+            "city": "長崎県平戸市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "島原城": [
+        {
+            "number": "91",
+            "city": "長崎県島原市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "熊本城": [
+        {
+            "number": "92",
+            "city": "熊本県熊本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本城.jpg"
+        },
+        {
+            "number": "92",
+            "city": "熊本県熊本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/駅舎_熊本城・市役所前駅.jpg"
+        }
+    ],
+    "人吉城": [
+        {
+            "number": "93",
+            "city": "熊本県人吉市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "大分府内城": [
+        {
+            "number": "94",
+            "city": "大分県大分市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/大分府内城.jpg"
+        }
+    ],
+    "岡城": [
+        {
+            "number": "95",
+            "city": "大分県竹田市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "飫肥城": [
+        {
+            "number": "96",
+            "city": "宮崎県日南市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "鹿児島城": [
+        {
+            "number": "97",
+            "city": "鹿児島県鹿児島市",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "今帰仁城": [
+        {
+            "number": "98",
+            "city": "沖縄県今帰仁村",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "中城城": [
+        {
+            "number": "99",
+            "city": "沖縄県中城村",
+            "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"
+        }
+    ],
+    "首里城": [
+        {
+            "number": "100",
+            "city": "沖縄県那覇市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城.jpg"
+        },
+        {
+            "number": "100",
+            "city": "沖縄県那覇市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_守礼門.jpg"
+        },
+        {
+            "number": "100",
+            "city": "沖縄県那覇市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_復元工事.jpg"
+        }
+    ]
 }
