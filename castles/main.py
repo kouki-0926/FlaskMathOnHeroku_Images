@@ -1,8 +1,7 @@
 import json
 import requests
 
-response = requests.get(
-    "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/image_info.json")
+response = requests.get("https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/image_info.json")
 image_info = response.json()
 
 castles_list = {}
@@ -12,11 +11,12 @@ with open('castles/100castles.txt', 'r', encoding='utf-8') as f:
 
         tmp_list = []
         for key in image_info.keys():
-            for marker in image_info[key]["markers"]:
-                if tmp[1] in marker["title"] and tmp[2] in key:
-                    tmp_list.append({"number": tmp[0],
-                                     "city": tmp[2] + tmp[3],
-                                     "photo": marker["photo"]})
+            if tmp[2] in key:
+                for marker in image_info[key]["markers"]:
+                    if tmp[1] in marker["title"]:
+                        tmp_list.append({"number": tmp[0],
+                                         "city": tmp[2] + tmp[3],
+                                         "photo": marker["photo"]})
 
         if len(tmp_list) > 0:
             castles_list[tmp[1]] = tmp_list
