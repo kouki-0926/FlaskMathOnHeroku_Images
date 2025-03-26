@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.335461231884054,
-                    138.07552016908213
+                    36.324346901709404,
+                    138.06322873931623
                 ]
             }
         ],
@@ -4036,6 +4036,14 @@
                     138.18775833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/善光寺_山門.jpg"
+            },
+            {
+                "title": "四柱神社",
+                "coords": [
+                    36.234525,
+                    137.97035277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社.jpg"
             },
             {
                 "title": "日本三大車窓_姨捨",
@@ -4070,12 +4078,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
             },
             {
+                "title": "松本市旧司祭館",
+                "coords": [
+                    36.24310555555556,
+                    137.96759166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本市旧司祭館.jpg"
+            },
+            {
                 "title": "松本市立博物館",
                 "coords": [
                     36.23524444444445,
                     137.96952777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本市立博物館.jpg"
+            },
+            {
+                "title": "松本神社",
+                "coords": [
+                    36.239780555555555,
+                    137.9690388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本神社.jpg"
             },
             {
                 "title": "浅間山",
