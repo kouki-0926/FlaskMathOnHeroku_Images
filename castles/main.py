@@ -23,7 +23,7 @@ with open('castles/100castles.txt', 'r', encoding='utf-8') as f:
         else:
             castles_list[tmp[1]] = [{"number": tmp[0],
                                      "city": tmp[2] + tmp[3],
-                                     "photo": "https://placehold.jp/ffffff/000000/300x300.jpg?text=未訪問"}]
+                                     "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"}]
 
 with open("castles/castles.json", "w", encoding='utf-8') as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)
