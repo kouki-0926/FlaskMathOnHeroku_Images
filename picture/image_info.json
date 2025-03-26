@@ -1530,12 +1530,28 @@
         ],
         "markers": [
             {
+                "title": "二本松城",
+                "coords": [
+                    37.59708055555556,
+                    140.4316861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/二本松城.jpg"
+            },
+            {
                 "title": "二本松神社",
                 "coords": [
                     37.591275,
                     140.43513611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/二本松神社.jpg"
+            },
+            {
+                "title": "会津若松城",
+                "coords": [
+                    37.487386111111114,
+                    139.92997777777776
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/会津若松城.jpg"
             },
             {
                 "title": "信夫山",
@@ -1546,12 +1562,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/信夫山.jpg"
             },
             {
-                "title": "白河城",
+                "title": "白河小峰城",
                 "coords": [
                     37.132358333333336,
                     140.21417222222223
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河小峰城.jpg"
             },
             {
                 "title": "磐梯山",
@@ -1568,14 +1584,6 @@
                     139.93081666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/茶室麟閣.jpg"
-            },
-            {
-                "title": "霞ヶ城公園",
-                "coords": [
-                    37.59708055555556,
-                    140.4316861111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/霞ヶ城公園.jpg"
             },
             {
                 "title": "駅名標_七日町駅",
@@ -1704,14 +1712,6 @@
                     140.38783333333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/駅舎_郡山駅.jpg"
-            },
-            {
-                "title": "鶴ヶ城",
-                "coords": [
-                    37.487386111111114,
-                    139.92997777777776
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/鶴ヶ城.jpg"
             }
         ]
     },
@@ -5250,12 +5250,12 @@
         ],
         "markers": [
             {
-                "title": "大阪城",
+                "title": "大坂城",
                 "coords": [
                     34.68723330555556,
                     135.52584166666668
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大阪城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大坂城.jpg"
             },
             {
                 "title": "大阪駅_大屋根",
@@ -6618,12 +6618,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_桜御門.jpg"
             },
             {
-                "title": "玉藻公園_琴電",
+                "title": "玉藻公園_高松城艮櫓_琴電",
                 "coords": [
                     34.348819444444445,
                     134.05235277777777
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_琴電.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_高松城艮櫓_琴電.jpg"
             },
             {
                 "title": "金刀比羅宮",
