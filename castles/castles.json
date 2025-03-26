@@ -83,21 +83,21 @@
         {
             "number": "11",
             "city": "福島県二本松市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/二本松城.jpg"
         }
     ],
     "会津若松城": [
         {
             "number": "12",
             "city": "福島県会津若松市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/会津若松城.jpg"
         }
     ],
     "白河小峰城": [
         {
             "number": "13",
             "city": "福島県白河市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河小峰城.jpg"
         }
     ],
     "水戸城": [
@@ -419,7 +419,7 @@
         {
             "number": "54",
             "city": "大阪府大阪市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大坂城.jpg"
         }
     ],
     "千早城": [
@@ -600,7 +600,7 @@
         {
             "number": "77",
             "city": "香川県高松市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_高松城艮櫓_琴電.jpg"
         }
     ],
     "丸亀城": [
