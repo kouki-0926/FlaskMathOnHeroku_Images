@@ -2327,8 +2327,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.56694642857143,
-                    140.14200896666668
+                    35.572604415954416,
+                    140.14002343162394
                 ]
             }
         ],
@@ -2582,6 +2582,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_空港第2ビル駅.jpg"
             },
             {
+                "title": "駅名標_西千葉駅",
+                "coords": [
+                    35.62265277777778,
+                    140.10334722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_西千葉駅.jpg"
+            },
+            {
+                "title": "駅名標_都賀駅",
+                "coords": [
+                    35.63645833333333,
+                    140.14967222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅名標_都賀駅.jpg"
+            },
+            {
                 "title": "駅名標_酒々井駅",
                 "coords": [
                     35.731655555555555,
@@ -2606,12 +2622,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_千葉みなと駅.jpg"
             },
             {
+                "title": "駅舎_千葉駅",
+                "coords": [
+                    35.612408333333335,
+                    140.11570833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_千葉駅.jpg"
+            },
+            {
                 "title": "駅舎_安房鴨川駅",
                 "coords": [
                     35.107425,
                     140.10394166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_安房鴨川駅.jpg"
+            },
+            {
+                "title": "駅舎_東千葉駅",
+                "coords": [
+                    35.616927777777775,
+                    140.1218722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/12_千葉県/駅舎_東千葉駅.jpg"
             }
         ]
     },
@@ -3811,8 +3843,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.51395751470588,
-                    138.80584509477126
+                    35.53676874861111,
+                    138.77044499722223
                 ]
             }
         ],
@@ -3882,6 +3914,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/河口湖_富士山.jpg"
             },
             {
+                "title": "甲府城",
+                "coords": [
+                    35.6641,
+                    138.5714861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/甲府城.jpg"
+            },
+            {
                 "title": "金鳥居",
                 "coords": [
                     35.483333333333334,
@@ -3922,6 +3962,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_河口湖駅.jpg"
             },
             {
+                "title": "駅名標_甲府駅",
+                "coords": [
+                    35.66751111111111,
+                    138.56907777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅名標_甲府駅.jpg"
+            },
+            {
                 "title": "駅舎_下吉田駅",
                 "coords": [
                     35.49755833333333,
@@ -3952,6 +4000,14 @@
                     138.76885833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_河口湖駅.jpg"
+            },
+            {
+                "title": "駅舎_甲府駅",
+                "coords": [
+                    35.66648611111111,
+                    138.56896944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/駅舎_甲府駅.jpg"
             }
         ]
     },
@@ -3959,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.36552453703703,
-                    138.105087808642
+                    36.335461231884054,
+                    138.07552016908213
                 ]
             }
         ],
@@ -3990,12 +4046,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/日本三大車窓_姨捨.jpg"
             },
             {
-                "title": "松本城",
+                "title": "旧開智学校",
+                "coords": [
+                    36.242805555555556,
+                    137.96829166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/旧開智学校.jpg"
+            },
+            {
+                "title": "松本城_夜",
                 "coords": [
                     36.238033333333334,
-                    137.96838333333332
+                    137.9693
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜.jpg"
+            },
+            {
+                "title": "松本城_昼",
+                "coords": [
+                    36.238083333333336,
+                    137.96856666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+            },
+            {
+                "title": "松本市立博物館",
+                "coords": [
+                    36.23524444444445,
+                    137.96952777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本市立博物館.jpg"
             },
             {
                 "title": "浅間山",
@@ -4012,6 +4092,14 @@
                     138.1165
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_上諏訪駅.jpg"
+            },
+            {
+                "title": "駅名標_南松本駅",
+                "coords": [
+                    36.210052777777776,
+                    137.96942222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_南松本駅.jpg"
             },
             {
                 "title": "駅名標_塩尻駅",
@@ -4070,6 +4158,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上諏訪駅.jpg"
             },
             {
+                "title": "駅舎_南松本駅",
+                "coords": [
+                    36.20996111111111,
+                    137.96884166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_南松本駅.jpg"
+            },
+            {
                 "title": "駅舎_塩尻駅",
                 "coords": [
                     36.11562222222222,
@@ -4096,8 +4192,8 @@
             {
                 "title": "駅舎_松本駅",
                 "coords": [
-                    36.23124722222222,
-                    137.96524166666666
+                    36.23126666666667,
+                    137.96505833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_松本駅.jpg"
             },
