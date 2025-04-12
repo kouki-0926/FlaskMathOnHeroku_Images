@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.324346901709404,
-                    138.06322873931623
+                    36.308703673835126,
+                    138.04788700716844
                 ]
             }
         ],
@@ -4046,6 +4046,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社.jpg"
             },
             {
+                "title": "四柱神社_桜",
+                "coords": [
+                    36.23433333333333,
+                    137.97045833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
+            },
+            {
                 "title": "日本三大車窓_姨捨",
                 "coords": [
                     36.50282222222222,
@@ -4070,12 +4078,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜.jpg"
             },
             {
+                "title": "松本城_夜_桜",
+                "coords": [
+                    36.23854722222222,
+                    137.96945277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜_桜.jpg"
+            },
+            {
                 "title": "松本城_昼",
                 "coords": [
-                    36.238083333333336,
-                    137.96856666666667
+                    36.237947222222225,
+                    137.96806944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+            },
+            {
+                "title": "松本城_昼_桜",
+                "coords": [
+                    36.23855555555556,
+                    137.96945277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼_桜.jpg"
             },
             {
                 "title": "松本市旧司祭館",
@@ -4084,6 +4108,14 @@
                     137.96759166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本市旧司祭館.jpg"
+            },
+            {
+                "title": "松本市時計博物館",
+                "coords": [
+                    36.233775,
+                    137.96863888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本市時計博物館.jpg"
             },
             {
                 "title": "松本市立博物館",
@@ -4204,6 +4236,14 @@
                     138.09329166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_姨捨駅.jpg"
+            },
+            {
+                "title": "駅舎_平田駅",
+                "coords": [
+                    36.191719444444445,
+                    137.96304444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_平田駅.jpg"
             },
             {
                 "title": "駅舎_広丘駅",
