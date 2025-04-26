@@ -219,7 +219,17 @@
         {
             "number": "29",
             "city": "長野県松本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜_桜.jpg"
+        },
+        {
+            "number": "29",
+            "city": "長野県松本市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+        },
+        {
+            "number": "29",
+            "city": "長野県松本市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼_桜.jpg"
         }
     ],
     "高遠城": [
