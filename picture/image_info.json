@@ -4015,12 +4015,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.308703673835126,
-                    138.04788700716844
+                    36.28947007168458,
+                    138.04558243727598
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "上諏訪駅_足湯",
+                "coords": [
+                    36.04680277777778,
+                    138.11637777777779
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上諏訪駅_足湯.jpg"
+            },
             {
                 "title": "善光寺",
                 "coords": [
@@ -4190,26 +4198,18 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_権堂駅.jpg"
             },
             {
-                "title": "駅名標_長野駅_1",
-                "coords": [
-                    36.643077777777776,
-                    138.18841666666665
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_長野駅_1.jpg"
-            },
-            {
-                "title": "駅名標_長野駅_2",
+                "title": "駅名標_長野駅",
                 "coords": [
                     36.64338333333333,
                     138.18878055555555
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_長野駅_2.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_長野駅.jpg"
             },
             {
                 "title": "駅舎_上諏訪駅",
                 "coords": [
-                    36.04680277777778,
-                    138.11637777777779
+                    36.04683611111111,
+                    138.116975
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上諏訪駅.jpg"
             },
