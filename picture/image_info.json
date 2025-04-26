@@ -26,6 +26,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/すすきの.jpg"
             },
             {
+                "title": "ファーム富田",
+                "coords": [
+                    43.418994444444444,
+                    142.42724722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/ファーム富田.jpg"
+            },
+            {
                 "title": "函館山",
                 "coords": [
                     41.75931666666666,
@@ -98,6 +106,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/大沼公園.jpg"
             },
             {
+                "title": "大通公園",
+                "coords": [
+                    43.06136388888889,
+                    141.35607777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/大通公園.jpg"
+            },
+            {
                 "title": "天塩川",
                 "coords": [
                     44.90168611111111,
@@ -114,6 +130,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/宗谷ふれあい公園.jpg"
             },
             {
+                "title": "宗谷ヒストリーロード",
+                "coords": [
+                    45.505091666666665,
+                    141.89279166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/宗谷ヒストリーロード.jpg"
+            },
+            {
                 "title": "宗谷丘陵_周氷河地形",
                 "coords": [
                     45.496677777777776,
@@ -128,14 +152,6 @@
                     140.90341388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/室蘭本線_噴火湾.jpg"
-            },
-            {
-                "title": "富良野_ファーム富田",
-                "coords": [
-                    43.418994444444444,
-                    142.42724722222223
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/富良野_ファーム富田.jpg"
             },
             {
                 "title": "小樽運河",
@@ -210,14 +226,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/旭川常磐公園.jpg"
             },
             {
-                "title": "札幌大通公園",
-                "coords": [
-                    43.06136388888889,
-                    141.35607777777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/札幌大通公園.jpg"
-            },
-            {
                 "title": "札幌市時計台",
                 "coords": [
                     43.06231388888889,
@@ -240,14 +248,6 @@
                     140.76351944444446
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/洞爺駅_洞爺湖サミット.jpg"
-            },
-            {
-                "title": "稚内_宗谷ヒストリーロード",
-                "coords": [
-                    45.505091666666665,
-                    141.89279166666665
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/稚内_宗谷ヒストリーロード.jpg"
             },
             {
                 "title": "稚内港北防波堤ドーム",
@@ -1242,20 +1242,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/久保田城.jpg"
             },
             {
-                "title": "横手_かまくら",
-                "coords": [
-                    39.31346388888889,
-                    140.56591666666668
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手_かまくら.jpg"
-            },
-            {
                 "title": "横手市ふれあいセンターかまくら館",
                 "coords": [
                     39.31375,
                     140.565675
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手市ふれあいセンターかまくら館.jpg"
+            },
+            {
+                "title": "横手市ふれあいセンターかまくら館_かまくら",
+                "coords": [
+                    39.31346388888889,
+                    140.56591666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/横手市ふれあいセンターかまくら館_かまくら.jpg"
             },
             {
                 "title": "河原田家",
@@ -2250,12 +2250,12 @@
         ],
         "markers": [
             {
-                "title": "川越_時の鐘",
+                "title": "時の鐘",
                 "coords": [
                     35.92349166666666,
                     139.482925
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/川越_時の鐘.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/時の鐘.jpg"
             },
             {
                 "title": "都心上空",
@@ -2786,20 +2786,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/柴又帝釈天.jpg"
             },
             {
+                "title": "江戸城_西丸大手橋",
+                "coords": [
+                    35.68021944444445,
+                    139.75359166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/江戸城_西丸大手橋.jpg"
+            },
+            {
                 "title": "泉岳寺",
                 "coords": [
                     35.63780555555556,
                     139.73709166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/泉岳寺.jpg"
-            },
-            {
-                "title": "皇居",
-                "coords": [
-                    35.68021944444445,
-                    139.75359166666667
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/皇居.jpg"
             },
             {
                 "title": "築地本願寺",
@@ -3038,6 +3038,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/日本郵船氷川丸.jpg"
             },
             {
+                "title": "根府川駅_海",
+                "coords": [
+                    35.20261661111111,
+                    139.13865827777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/根府川駅_海.jpg"
+            },
+            {
                 "title": "横浜ベイブリッジ",
                 "coords": [
                     35.44766666666667,
@@ -3164,14 +3172,6 @@
                     139.13865833333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/駅舎_根府川駅.jpg"
-            },
-            {
-                "title": "駅舎_根府川駅_海",
-                "coords": [
-                    35.20261661111111,
-                    139.13865827777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/駅舎_根府川駅_海.jpg"
             },
             {
                 "title": "駅舎_桜木町駅",
@@ -5430,12 +5430,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/BE_KOBE.jpg"
             },
             {
-                "title": "南海フェリー",
+                "title": "南海フェリー_淡路島",
                 "coords": [
                     34.14185833333333,
                     134.89619444444443
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/南海フェリー.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/南海フェリー_淡路島.jpg"
             },
             {
                 "title": "城崎温泉",
@@ -6278,12 +6278,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/厳島神社.jpg"
             },
             {
-                "title": "宮島_鳥居",
+                "title": "厳島神社_大鳥居",
                 "coords": [
                     34.29732497222222,
                     132.31816666666666
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島_鳥居.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/厳島神社_大鳥居.jpg"
             },
             {
                 "title": "宮島フェリー",
@@ -7542,12 +7542,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/早岐瀬戸.jpg"
             },
             {
-                "title": "長崎_稲佐山",
+                "title": "稲佐山山頂展望台",
                 "coords": [
                     32.752608333333335,
                     129.84959444444445
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/長崎_稲佐山.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/42_長崎県/稲佐山山頂展望台.jpg"
             },
             {
                 "title": "長崎平和公園",
@@ -8226,14 +8226,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/万座毛周辺活性化施設.jpg"
             },
             {
-                "title": "儀保駅",
-                "coords": [
-                    26.22479722222222,
-                    127.7189638888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/儀保駅.jpg"
-            },
-            {
                 "title": "前田高地",
                 "coords": [
                     26.246825,
@@ -8480,6 +8472,14 @@
                     127.72600555555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅名標_首里駅.jpg"
+            },
+            {
+                "title": "駅舎_儀保駅",
+                "coords": [
+                    26.22479722222222,
+                    127.7189638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/駅舎_儀保駅.jpg"
             },
             {
                 "title": "駅舎_牧志駅",
