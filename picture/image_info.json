@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.28947007168458,
-                    138.04558243727598
+                    36.302387037037036,
+                    138.04848973063974
                 ]
             }
         ],
@@ -4062,12 +4062,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
             },
             {
-                "title": "日本三大車窓_姨捨",
+                "title": "日本三大車窓_姨捨_冬",
                 "coords": [
                     36.50282222222222,
                     138.09344444444446
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/日本三大車窓_姨捨.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/日本三大車窓_姨捨_冬.jpg"
+            },
+            {
+                "title": "日本三大車窓_姨捨_春",
+                "coords": [
+                    36.502697222222224,
+                    138.0934611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/日本三大車窓_姨捨_春.jpg"
             },
             {
                 "title": "旧開智学校",
@@ -4172,6 +4180,14 @@
                     137.9478611111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_塩尻駅.jpg"
+            },
+            {
+                "title": "駅名標_姨捨駅",
+                "coords": [
+                    36.50250277777778,
+                    138.09364444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_姨捨駅.jpg"
             },
             {
                 "title": "駅名標_広丘駅",
