@@ -795,8 +795,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    39.35483245873016,
-                    141.13037309365077
+                    39.364468979938266,
+                    141.13053070833334
                 ]
             }
         ],
@@ -1026,12 +1026,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_在来線.jpg"
             },
             {
-                "title": "駅名標_盛岡駅_新幹線",
+                "title": "駅名標_盛岡駅_東北新幹線",
                 "coords": [
                     39.70152777777778,
                     141.13717777777777
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_新幹線.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_東北新幹線.jpg"
+            },
+            {
+                "title": "駅名標_盛岡駅_秋田新幹線",
+                "coords": [
+                    39.701747222222224,
+                    141.13604722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_秋田新幹線.jpg"
             },
             {
                 "title": "駅舎_一ノ関駅",
@@ -4015,12 +4023,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.302387037037036,
-                    138.04848973063974
+                    36.24925388888889,
+                    138.01101493055555
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "上問屋史料館",
+                "coords": [
+                    35.96463888888889,
+                    137.81043888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上問屋史料館.jpg"
+            },
             {
                 "title": "上諏訪駅_足湯",
                 "coords": [
@@ -4062,6 +4078,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
             },
             {
+                "title": "奈良井宿",
+                "coords": [
+                    35.967819444444444,
+                    137.81341666666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/奈良井宿.jpg"
+            },
+            {
                 "title": "日本三大車窓_姨捨_冬",
                 "coords": [
                     36.50282222222222,
@@ -4084,6 +4108,14 @@
                     137.96829166666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/旧開智学校.jpg"
+            },
+            {
+                "title": "木曽の大橋",
+                "coords": [
+                    35.966325,
+                    137.81411666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の大橋.jpg"
             },
             {
                 "title": "松本城_夜",
@@ -4158,6 +4190,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
             },
             {
+                "title": "鎮神社",
+                "coords": [
+                    35.961891666666666,
+                    137.80811944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/鎮神社.jpg"
+            },
+            {
                 "title": "駅名標_上諏訪駅",
                 "coords": [
                     36.04656111111111,
@@ -4182,12 +4222,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_塩尻駅.jpg"
             },
             {
+                "title": "駅名標_奈良井駅",
+                "coords": [
+                    35.96973333333333,
+                    137.816375
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_奈良井駅.jpg"
+            },
+            {
                 "title": "駅名標_姨捨駅",
                 "coords": [
                     36.50250277777778,
                     138.09364444444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_姨捨駅.jpg"
+            },
+            {
+                "title": "駅名標_平田駅",
+                "coords": [
+                    36.191875,
+                    137.9626
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_平田駅.jpg"
             },
             {
                 "title": "駅名標_広丘駅",
@@ -4244,6 +4300,14 @@
                     137.947875
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_塩尻駅.jpg"
+            },
+            {
+                "title": "駅舎_奈良井駅",
+                "coords": [
+                    35.9691,
+                    137.81536944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_奈良井駅.jpg"
             },
             {
                 "title": "駅舎_姨捨駅",
