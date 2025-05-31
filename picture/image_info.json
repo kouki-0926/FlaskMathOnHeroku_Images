@@ -4023,12 +4023,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.24925388888889,
-                    138.01101493055555
+                    36.245960772357726,
+                    138.00948685636857
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "ホームのぶどう園",
+                "coords": [
+                    36.11562222222222,
+                    137.947875
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/ホームのぶどう園.jpg"
+            },
             {
                 "title": "上問屋史料館",
                 "coords": [
@@ -4296,8 +4304,8 @@
             {
                 "title": "駅舎_塩尻駅",
                 "coords": [
-                    36.11562222222222,
-                    137.947875
+                    36.11423611111111,
+                    137.94836388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_塩尻駅.jpg"
             },
@@ -5947,12 +5955,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.48763183547009,
-                    133.8923670940171
+                    35.49076710380117,
+                    134.00250643274853
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "仁風閣",
+                "coords": [
+                    35.50642222222222,
+                    134.23780277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/仁風閣.jpg"
+            },
             {
                 "title": "大山",
                 "coords": [
@@ -6002,6 +6018,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/米子城_中海.jpg"
             },
             {
+                "title": "駅名標_津ノ井駅",
+                "coords": [
+                    35.461241666666666,
+                    134.24865833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_津ノ井駅.jpg"
+            },
+            {
                 "title": "駅名標_米子駅",
                 "coords": [
                     35.423405555555554,
@@ -6016,6 +6040,14 @@
                     134.2259527777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_鳥取駅.jpg"
+            },
+            {
+                "title": "駅舎_津ノ井駅",
+                "coords": [
+                    35.46131944444444,
+                    134.24897777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_津ノ井駅.jpg"
             },
             {
                 "title": "駅舎_米子駅",
@@ -6034,12 +6066,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_鳥取駅.jpg"
             },
             {
+                "title": "鳥取城",
+                "coords": [
+                    35.505916666666664,
+                    134.23703055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城.jpg"
+            },
+            {
+                "title": "鳥取城_石垣",
+                "coords": [
+                    35.50686388888889,
+                    134.23861666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城_石垣.jpg"
+            },
+            {
                 "title": "鳥取砂丘",
+                "coords": [
+                    35.543597222222225,
+                    134.2357638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘.jpg"
+            },
+            {
+                "title": "鳥取砂丘_雪",
                 "coords": [
                     35.5439,
                     134.23583888888888
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取砂丘_雪.jpg"
             },
             {
                 "title": "鳥取砂丘ビジターセンター",
