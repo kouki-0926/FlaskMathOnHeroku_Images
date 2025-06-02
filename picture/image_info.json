@@ -5503,8 +5503,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.12465227678571,
-                    134.83461666369047
+                    35.11441484195402,
+                    134.8296405143678
                 ]
             }
         ],
@@ -5708,6 +5708,14 @@
                     134.81326388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_城崎温泉駅.jpg"
+            },
+            {
+                "title": "駅舎_姫路駅",
+                "coords": [
+                    34.82776666666667,
+                    134.69030833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_姫路駅.jpg"
             },
             {
                 "title": "駅舎_浜坂駅",
@@ -5955,12 +5963,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.49076710380117,
-                    134.00250643274853
+                    35.497652856349205,
+                    133.75221944444445
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "みなとさかい交流館",
+                "coords": [
+                    35.54495277777778,
+                    133.22300833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/みなとさかい交流館.jpg"
+            },
             {
                 "title": "仁風閣",
                 "coords": [
@@ -5970,12 +5986,92 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/仁風閣.jpg"
             },
             {
+                "title": "倉吉淀屋",
+                "coords": [
+                    35.43261388888889,
+                    133.81980833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/倉吉淀屋.jpg"
+            },
+            {
+                "title": "境水道大橋",
+                "coords": [
+                    35.547530555555554,
+                    133.24285833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/境水道大橋.jpg"
+            },
+            {
+                "title": "境港灯台",
+                "coords": [
+                    35.54741388888889,
+                    133.24291944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/境港灯台.jpg"
+            },
+            {
                 "title": "大山",
                 "coords": [
                     35.39788052777778,
                     133.40302222222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/大山.jpg"
+            },
+            {
+                "title": "大岳院",
+                "coords": [
+                    35.431733333333334,
+                    133.82748333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/大岳院.jpg"
+            },
+            {
+                "title": "妖怪神社",
+                "coords": [
+                    35.54578055555555,
+                    133.2258138888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/妖怪神社.jpg"
+            },
+            {
+                "title": "打吹公園",
+                "coords": [
+                    35.43003888888889,
+                    133.82463055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/打吹公園.jpg"
+            },
+            {
+                "title": "水木しげるロード",
+                "coords": [
+                    35.545566666666666,
+                    133.22518888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/水木しげるロード.jpg"
+            },
+            {
+                "title": "水木しげるロード_鬼太郎",
+                "coords": [
+                    35.54550555555556,
+                    133.22508333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/水木しげるロード_鬼太郎.jpg"
+            },
+            {
+                "title": "水木しげる記念館",
+                "coords": [
+                    35.546219444444446,
+                    133.23121666666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/水木しげる記念館.jpg"
+            },
+            {
+                "title": "白壁土蔵群",
+                "coords": [
+                    35.4322,
+                    133.82388333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/白壁土蔵群.jpg"
             },
             {
                 "title": "砂丘センター_見晴らしの丘",
@@ -6018,6 +6114,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/米子城_中海.jpg"
             },
             {
+                "title": "駅名標_倉吉駅",
+                "coords": [
+                    35.454658333333334,
+                    133.84982222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_倉吉駅.jpg"
+            },
+            {
+                "title": "駅名標_境港駅_1",
+                "coords": [
+                    35.54457222222222,
+                    133.22319166666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_境港駅_1.jpg"
+            },
+            {
+                "title": "駅名標_境港駅_2",
+                "coords": [
+                    35.54496388888889,
+                    133.2229
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_境港駅_2.jpg"
+            },
+            {
                 "title": "駅名標_津ノ井駅",
                 "coords": [
                     35.461241666666666,
@@ -6040,6 +6160,22 @@
                     134.2259527777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_鳥取駅.jpg"
+            },
+            {
+                "title": "駅舎_倉吉駅",
+                "coords": [
+                    35.45436388888889,
+                    133.84935
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_倉吉駅.jpg"
+            },
+            {
+                "title": "駅舎_境港駅",
+                "coords": [
+                    35.54516111111111,
+                    133.2229
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_境港駅.jpg"
             },
             {
                 "title": "駅舎_津ノ井駅",
