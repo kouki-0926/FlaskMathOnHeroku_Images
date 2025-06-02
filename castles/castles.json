@@ -426,7 +426,11 @@
     "鳥取城": [
         {
             "city": "鳥取県鳥取市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城.jpg"
+        },
+        {
+            "city": "鳥取県鳥取市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城_石垣.jpg"
         }
     ],
     "松江城": [
