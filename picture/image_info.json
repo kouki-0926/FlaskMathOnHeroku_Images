@@ -5963,8 +5963,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.497652856349205,
-                    133.75221944444445
+                    35.48509189114114,
+                    133.7778159159159
                 ]
             }
         ],
@@ -6138,6 +6138,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_境港駅_2.jpg"
             },
             {
+                "title": "駅名標_智頭駅",
+                "coords": [
+                    35.265147222222225,
+                    134.22576944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅名標_智頭駅.jpg"
+            },
+            {
                 "title": "駅名標_津ノ井駅",
                 "coords": [
                     35.461241666666666,
@@ -6176,6 +6184,14 @@
                     133.2229
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_境港駅.jpg"
+            },
+            {
+                "title": "駅舎_智頭駅",
+                "coords": [
+                    35.26540277777778,
+                    134.22573888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/駅舎_智頭駅.jpg"
             },
             {
                 "title": "駅舎_津ノ井駅",
