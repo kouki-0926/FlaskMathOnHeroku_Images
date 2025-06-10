@@ -6395,8 +6395,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.58031031746032,
-                    133.86194623015874
+                    34.72538623737374,
+                    133.91903813131313
                 ]
             }
         ],
@@ -6404,8 +6404,8 @@
             {
                 "title": "倉敷美観地区",
                 "coords": [
-                    34.59681111111111,
-                    133.76939444444446
+                    34.59593611111111,
+                    133.77165277777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/倉敷美観地区.jpg"
             },
@@ -6434,12 +6434,60 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/後楽園_岡山城.jpg"
             },
             {
+                "title": "津山城",
+                "coords": [
+                    35.062977777777775,
+                    134.004975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城.jpg"
+            },
+            {
+                "title": "津山城_備中櫓",
+                "coords": [
+                    35.06220277777778,
+                    134.00521944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓.jpg"
+            },
+            {
+                "title": "津山城_備中櫓_紫陽花",
+                "coords": [
+                    35.06235,
+                    134.00547777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓_紫陽花.jpg"
+            },
+            {
                 "title": "瀬戸大橋",
                 "coords": [
                     34.46255,
                     133.80766944444446
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/瀬戸大橋.jpg"
+            },
+            {
+                "title": "衆楽園",
+                "coords": [
+                    35.071,
+                    134.00640833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/衆楽園.jpg"
+            },
+            {
+                "title": "駅名標_上郡駅",
+                "coords": [
+                    34.8658,
+                    134.35417222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_上郡駅.jpg"
+            },
+            {
+                "title": "駅名標_倉敷駅",
+                "coords": [
+                    34.60183333333333,
+                    133.76586944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_倉敷駅.jpg"
             },
             {
                 "title": "駅名標_児島駅",
@@ -6474,10 +6522,18 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_岡山駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_津山駅",
+                "coords": [
+                    35.05445,
+                    134.00343333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_津山駅.jpg"
+            },
+            {
                 "title": "駅舎_倉敷駅",
                 "coords": [
-                    34.60174444444444,
-                    133.76540277777778
+                    34.60132222222222,
+                    133.766175
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_倉敷駅.jpg"
             },
@@ -6496,6 +6552,14 @@
                     133.91831944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_岡山駅.jpg"
+            },
+            {
+                "title": "駅舎_津山駅",
+                "coords": [
+                    35.05483611111111,
+                    134.00300555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_津山駅.jpg"
             },
             {
                 "title": "鷲羽山",
