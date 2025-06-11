@@ -458,7 +458,15 @@
     "津山城": [
         {
             "city": "岡山県津山市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城.jpg"
+        },
+        {
+            "city": "岡山県津山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓.jpg"
+        },
+        {
+            "city": "岡山県津山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓_紫陽花.jpg"
         }
     ],
     "備中松山城": [
@@ -487,6 +495,18 @@
         {
             "city": "広島県福山市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
+        },
+        {
+            "city": "広島県福山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城_筋鉄御門.jpg"
+        },
+        {
+            "city": "広島県福山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城天守北側鉄板張り.jpg"
+        },
+        {
+            "city": "広島県福山市",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山駅_福山城.jpg"
         }
     ],
     "吉田郡山城": [
