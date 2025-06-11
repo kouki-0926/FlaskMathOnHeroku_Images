@@ -6591,12 +6591,28 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.385539864114115,
-                    132.75660135135135
+                    34.37650653935185,
+                    132.76452696643517
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "三原城",
+                "coords": [
+                    34.401944444444446,
+                    133.08223055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/三原城.jpg"
+            },
+            {
+                "title": "三原港",
+                "coords": [
+                    34.39704444444445,
+                    133.08224444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/三原港.jpg"
+            },
             {
                 "title": "千光寺",
                 "coords": [
@@ -6616,10 +6632,18 @@
             {
                 "title": "千畳閣",
                 "coords": [
-                    34.29730833333333,
-                    132.32024444444446
+                    34.29741388888889,
+                    132.3208611111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/千畳閣.jpg"
+            },
+            {
+                "title": "千畳閣_外観",
+                "coords": [
+                    34.297108333333334,
+                    132.31997777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/千畳閣_外観.jpg"
             },
             {
                 "title": "原爆ドーム",
@@ -6632,34 +6656,66 @@
             {
                 "title": "厳島神社",
                 "coords": [
-                    34.295877777777775,
-                    132.3199361111111
+                    34.29640833333333,
+                    132.31916944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/厳島神社.jpg"
             },
             {
                 "title": "厳島神社_大鳥居",
                 "coords": [
-                    34.29732497222222,
-                    132.31816666666666
+                    34.29718888888889,
+                    132.318375
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/厳島神社_大鳥居.jpg"
             },
             {
+                "title": "厳島神社_本殿",
+                "coords": [
+                    34.29611944444444,
+                    132.31950277777779
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/厳島神社_本殿.jpg"
+            },
+            {
+                "title": "呉",
+                "coords": [
+                    34.24059166666667,
+                    132.55642777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/呉.jpg"
+            },
+            {
+                "title": "呉中央桟橋ターミナル",
+                "coords": [
+                    34.24033333333333,
+                    132.55606111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/呉中央桟橋ターミナル.jpg"
+            },
+            {
                 "title": "宮島フェリー",
                 "coords": [
-                    34.31153888888889,
-                    132.3050888888889
+                    34.30659444444444,
+                    132.31420833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島フェリー.jpg"
             },
             {
-                "title": "宮島桟橋",
+                "title": "宮島口港",
                 "coords": [
-                    34.30148888888889,
-                    132.32186944444445
+                    34.31146666666667,
+                    132.304825
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島桟橋.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島口港.jpg"
+            },
+            {
+                "title": "宮島港",
+                "coords": [
+                    34.30173611111111,
+                    132.32226666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/宮島港.jpg"
             },
             {
                 "title": "尾道_猫",
@@ -6670,10 +6726,18 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/尾道_猫.jpg"
             },
             {
+                "title": "尾道駅前広場",
+                "coords": [
+                    34.40418888888889,
+                    133.19473333333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/尾道駅前広場.jpg"
+            },
+            {
                 "title": "広島城",
                 "coords": [
-                    34.40271388888889,
-                    132.45906944444445
+                    34.40241944444445,
+                    132.45903055555556
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島城.jpg"
             },
@@ -6710,6 +6774,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島護国神社.jpg"
             },
             {
+                "title": "海上自衛隊呉史料館",
+                "coords": [
+                    34.24174444444444,
+                    132.55592222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/海上自衛隊呉史料館.jpg"
+            },
+            {
                 "title": "猿猴橋",
                 "coords": [
                     34.394777777777776,
@@ -6728,10 +6800,26 @@
             {
                 "title": "福山城",
                 "coords": [
-                    34.49100277777778,
-                    133.36113333333333
+                    34.49061944444444,
+                    133.3612222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
+            },
+            {
+                "title": "福山城_筋鉄御門",
+                "coords": [
+                    34.490069444444444,
+                    133.3605638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城_筋鉄御門.jpg"
+            },
+            {
+                "title": "福山城天守北側鉄板張り",
+                "coords": [
+                    34.49160277777778,
+                    133.3609305
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城天守北側鉄板張り.jpg"
             },
             {
                 "title": "福山駅_福山城",
