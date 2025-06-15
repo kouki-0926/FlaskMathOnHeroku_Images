@@ -7163,12 +7163,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.30033683574879,
-                    133.94206376570048
+                    34.30917955555556,
+                    133.93165166444444
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "与島SA",
+                "coords": [
+                    34.38495,
+                    133.81625277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/与島SA.jpg"
+            },
             {
                 "title": "栗林公園_商工奨励館",
                 "coords": [
@@ -7184,6 +7192,14 @@
                     134.04470833333335
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/栗林公園_芙蓉峰.jpg"
+            },
+            {
+                "title": "瀬戸中央自動車道",
+                "coords": [
+                    34.436791666666664,
+                    133.80757222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/瀬戸中央自動車道.jpg"
             },
             {
                 "title": "瀬戸大橋",
