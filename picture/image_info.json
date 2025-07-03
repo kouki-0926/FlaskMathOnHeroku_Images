@@ -7079,8 +7079,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.98942805555556,
-                    134.17112277777778
+                    34.08356635802469,
+                    134.3645010802469
                 ]
             }
         ],
@@ -7118,6 +7118,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大歩危橋.jpg"
             },
             {
+                "title": "大鳴門橋",
+                "coords": [
+                    34.23713611111111,
+                    134.64239444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大鳴門橋.jpg"
+            },
+            {
+                "title": "大鳴門橋遊歩道_渦の道",
+                "coords": [
+                    34.236758333333334,
+                    134.64515555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/大鳴門橋遊歩道_渦の道.jpg"
+            },
+            {
                 "title": "徳島城",
                 "coords": [
                     34.07651944444444,
@@ -7150,6 +7166,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅名標_徳島駅.jpg"
             },
             {
+                "title": "駅名標_池谷駅",
+                "coords": [
+                    34.15303888888889,
+                    134.5286722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅名標_池谷駅.jpg"
+            },
+            {
+                "title": "駅名標_鳴門駅",
+                "coords": [
+                    34.17905555555556,
+                    134.6084888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅名標_鳴門駅.jpg"
+            },
+            {
                 "title": "駅舎_大歩危駅",
                 "coords": [
                     33.87663611111111,
@@ -7164,6 +7196,38 @@
                     134.55073611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅舎_徳島駅.jpg"
+            },
+            {
+                "title": "駅舎_池谷駅",
+                "coords": [
+                    34.15304166666667,
+                    134.52886944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅舎_池谷駅.jpg"
+            },
+            {
+                "title": "駅舎_鳴門駅",
+                "coords": [
+                    34.17910277777778,
+                    134.60879444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/駅舎_鳴門駅.jpg"
+            },
+            {
+                "title": "高速観潮船_うずしお汽船",
+                "coords": [
+                    34.23373888888889,
+                    134.63678055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/高速観潮船_うずしお汽船.jpg"
+            },
+            {
+                "title": "鳴門_渦潮",
+                "coords": [
+                    34.23804166666667,
+                    134.6506361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/鳴門_渦潮.jpg"
             }
         ]
     },
