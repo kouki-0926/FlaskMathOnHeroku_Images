@@ -6395,8 +6395,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.722786352657,
-                    133.919061352657
+                    34.72039768518518,
+                    133.9190939814815
                 ]
             }
         ],
@@ -6500,8 +6500,8 @@
             {
                 "title": "駅名標_城下駅",
                 "coords": [
-                    34.66561111111111,
-                    133.92973333333333
+                    34.66555,
+                    133.92986944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_城下駅.jpg"
             },
@@ -6520,6 +6520,14 @@
                     133.91735833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_岡山駅_新幹線.jpg"
+            },
+            {
+                "title": "駅名標_岡山駅前駅",
+                "coords": [
+                    34.66544722222222,
+                    133.9198
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_岡山駅前駅.jpg"
             },
             {
                 "title": "駅名標_津山駅",
@@ -6556,8 +6564,8 @@
             {
                 "title": "駅舎_岡山駅前駅",
                 "coords": [
-                    34.66558888888889,
-                    133.91957222222223
+                    34.66566111111111,
+                    133.91948055555557
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅舎_岡山駅前駅.jpg"
             },
@@ -7163,8 +7171,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.30917955555556,
-                    133.93165166444444
+                    34.306395783524906,
+                    133.9130245191571
                 ]
             }
         ],
@@ -7176,6 +7184,22 @@
                     133.81625277777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/与島SA.jpg"
+            },
+            {
+                "title": "丸亀城",
+                "coords": [
+                    34.28790277777778,
+                    133.79931666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城.jpg"
+            },
+            {
+                "title": "丸亀城_天守閣",
+                "coords": [
+                    34.28611111111111,
+                    133.80021666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城_天守閣.jpg"
             },
             {
                 "title": "栗林公園_商工奨励館",
@@ -7266,6 +7290,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/金刀比羅宮_鳥居.jpg"
             },
             {
+                "title": "駅名標_丸亀駅",
+                "coords": [
+                    34.29216111111111,
+                    133.79313611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅名標_丸亀駅.jpg"
+            },
+            {
                 "title": "駅名標_多度津駅",
                 "coords": [
                     34.271477777777775,
@@ -7304,6 +7336,14 @@
                     134.04553333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅名標_高松駅.jpg"
+            },
+            {
+                "title": "駅舎_丸亀駅",
+                "coords": [
+                    34.29168333333333,
+                    133.79303055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅舎_丸亀駅.jpg"
             },
             {
                 "title": "駅舎_多度津駅",
@@ -7356,8 +7396,8 @@
             {
                 "title": "高松シンボルタワー",
                 "coords": [
-                    34.35176944444444,
-                    134.04691944444446
+                    34.349899944444445,
+                    134.04763888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/高松シンボルタワー.jpg"
             },
