@@ -7171,8 +7171,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.306395783524906,
-                    133.9130245191571
+                    34.306426434865905,
+                    133.9132504770115
                 ]
             }
         ],
@@ -7308,8 +7308,8 @@
             {
                 "title": "駅名標_宇多津駅",
                 "coords": [
-                    34.30535,
-                    133.80714444444445
+                    34.30623888888889,
+                    133.81369722222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/駅名標_宇多津駅.jpg"
             },
