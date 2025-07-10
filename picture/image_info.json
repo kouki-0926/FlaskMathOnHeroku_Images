@@ -5503,8 +5503,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.93401378249476,
-                    134.98386189622641
+                    34.93267865072016,
+                    134.97194043106995
                 ]
             }
         ],
@@ -5748,6 +5748,14 @@
                     135.19374166666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_三宮駅.jpg"
+            },
+            {
+                "title": "駅名標_上郡駅",
+                "coords": [
+                    34.861916666666666,
+                    134.3401027777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_上郡駅.jpg"
             },
             {
                 "title": "駅名標_城崎温泉駅",
