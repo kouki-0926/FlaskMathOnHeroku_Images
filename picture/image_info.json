@@ -6479,12 +6479,36 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.411742658730155,
-                    132.8459248015873
+                    35.050865245478036,
+                    132.38151711886303
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "SLやまぐち号",
+                "coords": [
+                    34.47213333333333,
+                    131.77361944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/SLやまぐち号.jpg"
+            },
+            {
+                "title": "会津屋八右衛門の碑",
+                "coords": [
+                    34.906819444444444,
+                    132.07704166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/会津屋八右衛門の碑.jpg"
+            },
+            {
+                "title": "佐毘売山神社",
+                "coords": [
+                    35.098397222222225,
+                    132.429825
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/佐毘売山神社.jpg"
+            },
             {
                 "title": "出雲大社",
                 "coords": [
@@ -6502,12 +6526,60 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/出雲大社_鳥居.jpg"
             },
             {
+                "title": "大森代官所跡",
+                "coords": [
+                    35.121875,
+                    132.44802777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/大森代官所跡.jpg"
+            },
+            {
+                "title": "太皷谷稲成神社",
+                "coords": [
+                    34.46548055555556,
+                    131.76924166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/太皷谷稲成神社.jpg"
+            },
+            {
+                "title": "太皷谷稲成神社_津和野川",
+                "coords": [
+                    34.46505277777778,
+                    131.76954722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/太皷谷稲成神社_津和野川.jpg"
+            },
+            {
+                "title": "太皷谷稲成神社_鳥居",
+                "coords": [
+                    34.46543888888889,
+                    131.7697611111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/太皷谷稲成神社_鳥居.jpg"
+            },
+            {
                 "title": "宍道湖",
                 "coords": [
                     35.463566666666665,
                     133.0603361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/宍道湖.jpg"
+            },
+            {
+                "title": "弥栄神社",
+                "coords": [
+                    34.46581666666667,
+                    131.7715
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/弥栄神社.jpg"
+            },
+            {
+                "title": "新切間歩",
+                "coords": [
+                    35.103458333333336,
+                    132.4358222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/新切間歩.jpg"
             },
             {
                 "title": "松江城",
@@ -6526,6 +6598,102 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城_石碑.jpg"
             },
             {
+                "title": "津和野",
+                "coords": [
+                    34.466591666666666,
+                    131.7730861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/津和野.jpg"
+            },
+            {
+                "title": "津和野藩校養老館",
+                "coords": [
+                    34.466675,
+                    131.77335277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/津和野藩校養老館.jpg"
+            },
+            {
+                "title": "浜田城_外ノ浦",
+                "coords": [
+                    34.90320833333333,
+                    132.07385277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/浜田城_外ノ浦.jpg"
+            },
+            {
+                "title": "浜田城_日本海",
+                "coords": [
+                    34.90345,
+                    132.073425
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/浜田城_日本海.jpg"
+            },
+            {
+                "title": "浜田城跡",
+                "coords": [
+                    34.90216111111111,
+                    132.07421944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/浜田城跡.jpg"
+            },
+            {
+                "title": "清水谷製錬所跡",
+                "coords": [
+                    35.10523611111111,
+                    132.4391777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/清水谷製錬所跡.jpg"
+            },
+            {
+                "title": "濱田護國神社",
+                "coords": [
+                    34.901852777777776,
+                    132.0746
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/濱田護國神社.jpg"
+            },
+            {
+                "title": "石見銀山",
+                "coords": [
+                    35.11486111111111,
+                    132.44569444444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/石見銀山.jpg"
+            },
+            {
+                "title": "石見銀山資料館",
+                "coords": [
+                    35.12193611111111,
+                    132.44795277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/石見銀山資料館.jpg"
+            },
+            {
+                "title": "稲佐の浜",
+                "coords": [
+                    35.40025833333333,
+                    132.6724861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/稲佐の浜.jpg"
+            },
+            {
+                "title": "蔵之丞間歩",
+                "coords": [
+                    35.10120833333333,
+                    132.44029166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/蔵之丞間歩.jpg"
+            },
+            {
+                "title": "観世音寺",
+                "coords": [
+                    35.118947222222225,
+                    132.4459388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/観世音寺.jpg"
+            },
+            {
                 "title": "駅名標_出雲大社前駅",
                 "coords": [
                     35.39344722222222,
@@ -6542,6 +6710,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_出雲市駅.jpg"
             },
             {
+                "title": "駅名標_大田市駅",
+                "coords": [
+                    35.20126388888889,
+                    132.49987777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_大田市駅.jpg"
+            },
+            {
                 "title": "駅名標_川跡駅",
                 "coords": [
                     35.39525277777778,
@@ -6556,6 +6732,22 @@
                     133.06393333333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_松江駅.jpg"
+            },
+            {
+                "title": "駅名標_津和野駅",
+                "coords": [
+                    34.472225,
+                    131.77366666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_津和野駅.jpg"
+            },
+            {
+                "title": "駅名標_浜田駅",
+                "coords": [
+                    34.90305,
+                    132.08905
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_浜田駅.jpg"
             },
             {
                 "title": "駅名標_電鉄出雲市駅",
@@ -6582,6 +6774,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_出雲市駅.jpg"
             },
             {
+                "title": "駅舎_大田市駅",
+                "coords": [
+                    35.20107222222222,
+                    132.50000555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_大田市駅.jpg"
+            },
+            {
                 "title": "駅舎_松江駅",
                 "coords": [
                     35.46426388888889,
@@ -6590,12 +6790,44 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_松江駅.jpg"
             },
             {
+                "title": "駅舎_津和野駅",
+                "coords": [
+                    34.47300277777778,
+                    131.77443055555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_津和野駅.jpg"
+            },
+            {
+                "title": "駅舎_浜田駅",
+                "coords": [
+                    34.902205555555554,
+                    132.08918888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_浜田駅.jpg"
+            },
+            {
                 "title": "駅舎_電鉄出雲市駅",
                 "coords": [
                     35.361111111111114,
                     132.75785833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅舎_電鉄出雲市駅.jpg"
+            },
+            {
+                "title": "龍源寺間歩",
+                "coords": [
+                    35.09987777777778,
+                    132.42889444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/龍源寺間歩.jpg"
+            },
+            {
+                "title": "龍源寺間歩_坑道",
+                "coords": [
+                    35.09925277777778,
+                    132.4287111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/龍源寺間歩_坑道.jpg"
             }
         ]
     },
