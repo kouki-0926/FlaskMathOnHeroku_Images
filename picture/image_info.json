@@ -5503,8 +5503,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.93267865072016,
-                    134.97194043106995
+                    34.932754473765435,
+                    134.972194031893
                 ]
             }
         ],
@@ -5752,8 +5752,8 @@
             {
                 "title": "駅名標_上郡駅",
                 "coords": [
-                    34.861916666666666,
-                    134.3401027777778
+                    34.86601111111111,
+                    134.35379722222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅名標_上郡駅.jpg"
             },
@@ -6603,8 +6603,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.72039768518518,
-                    133.9190939814815
+                    34.714075845410626,
+                    133.9001775362319
                 ]
             }
         ],
@@ -6680,14 +6680,6 @@
                     134.00640833333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/衆楽園.jpg"
-            },
-            {
-                "title": "駅名標_上郡駅",
-                "coords": [
-                    34.8658,
-                    134.35417222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/駅名標_上郡駅.jpg"
             },
             {
                 "title": "駅名標_倉敷駅",
