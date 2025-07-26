@@ -3,12 +3,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    43.29890497835498,
-                    142.12883466630592
+                    43.293425356125354,
+                    142.1590137446581
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "くしろ湿原ノロッコ号",
+                "coords": [
+                    42.99068888888889,
+                    144.38263055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/くしろ湿原ノロッコ号.jpg"
+            },
             {
                 "title": "さっぽろテレビ塔",
                 "coords": [
@@ -146,14 +154,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/宗谷丘陵_周氷河地形.jpg"
             },
             {
-                "title": "室蘭本線_噴火湾",
-                "coords": [
-                    42.424033333333334,
-                    140.90341388888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/室蘭本線_噴火湾.jpg"
-            },
-            {
                 "title": "小樽運河",
                 "coords": [
                     43.19798611111111,
@@ -256,6 +256,14 @@
                     141.67811666666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/稚内港北防波堤ドーム.jpg"
+            },
+            {
+                "title": "金屏風",
+                "coords": [
+                    42.30483888888889,
+                    141.0035861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/01_北海道/金屏風.jpg"
             },
             {
                 "title": "釧網本線_オホーツク海",
@@ -631,8 +639,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    40.73744795029239,
-                    140.73388728070177
+                    40.74488626543209,
+                    140.74885108024694
                 ]
             }
         ],
@@ -672,18 +680,10 @@
             {
                 "title": "弘前城",
                 "coords": [
-                    40.60355827777778,
-                    140.46453888888888
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
-            },
-            {
-                "title": "弘前城二の丸東門",
-                "coords": [
                     40.60746388888889,
                     140.4656222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城二の丸東門.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
             },
             {
                 "title": "青森ベイブリッジ",
@@ -795,8 +795,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    39.364468979938266,
-                    141.13053070833334
+                    39.37648678282828,
+                    141.13159982996635
                 ]
             }
         ],
@@ -824,14 +824,6 @@
                     141.13323888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/マリオス展望室.jpg"
-            },
-            {
-                "title": "中尊寺_月見坂",
-                "coords": [
-                    38.99833611111111,
-                    141.10791111111112
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/中尊寺_月見坂.jpg"
             },
             {
                 "title": "中尊寺_本堂",
@@ -864,14 +856,6 @@
                     140.8428027777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/仙岩峠.jpg"
-            },
-            {
-                "title": "卯の花清水",
-                "coords": [
-                    38.99695555555556,
-                    141.1112222222222
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/卯の花清水.jpg"
             },
             {
                 "title": "岩手山",
@@ -1026,20 +1010,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_在来線.jpg"
             },
             {
-                "title": "駅名標_盛岡駅_東北新幹線",
-                "coords": [
-                    39.70152777777778,
-                    141.13717777777777
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_東北新幹線.jpg"
-            },
-            {
-                "title": "駅名標_盛岡駅_秋田新幹線",
+                "title": "駅名標_盛岡駅_新幹線",
                 "coords": [
                     39.701747222222224,
                     141.13604722222223
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_秋田新幹線.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/駅名標_盛岡駅_新幹線.jpg"
             },
             {
                 "title": "駅舎_一ノ関駅",
@@ -1095,8 +1071,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.26830121527778,
-                    140.894393921875
+                    38.26880481481482,
+                    140.89527592407407
                 ]
             }
         ],
@@ -1198,20 +1174,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_白石蔵王駅.jpg"
             },
             {
-                "title": "駅舎_仙台駅_夜",
-                "coords": [
-                    38.26074722222222,
-                    140.8811638888889
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_仙台駅_夜.jpg"
-            },
-            {
-                "title": "駅舎_仙台駅_昼",
+                "title": "駅舎_仙台駅",
                 "coords": [
                     38.26070833333333,
                     140.88118055555555
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_仙台駅_昼.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_仙台駅.jpg"
             },
             {
                 "title": "駅舎_小牛田駅",
@@ -1359,8 +1327,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.34984777777778,
-                    140.1101075
+                    38.33546044973544,
+                    140.11194867724868
                 ]
             }
         ],
@@ -1468,6 +1436,14 @@
                     140.14921666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅名標_赤湯駅.jpg"
+            },
+            {
+                "title": "駅名標_赤湯駅_フラワー長井線",
+                "coords": [
+                    38.047713888888886,
+                    140.14877222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/駅名標_赤湯駅_フラワー長井線.jpg"
             },
             {
                 "title": "駅名標_酒田駅",
@@ -2659,8 +2635,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.668809259259255,
-                    139.71773625356124
+                    35.66789888888889,
+                    139.70653777777778
                 ]
             }
         ],
@@ -2946,6 +2922,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_羽田空港第1_2ターミナル駅.jpg"
             },
             {
+                "title": "駅名標_高尾山口",
+                "coords": [
+                    35.632394444444444,
+                    139.26979722222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_高尾山口.jpg"
+            },
+            {
                 "title": "駅舎_東京駅",
                 "coords": [
                     35.681041666666665,
@@ -2983,8 +2967,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.345872699233716,
-                    139.50606177777777
+                    35.34586771839081,
+                    139.506067045977
                 ]
             }
         ],
@@ -3056,8 +3040,8 @@
             {
                 "title": "横浜ベイブリッジ",
                 "coords": [
-                    35.44766666666667,
-                    139.64775
+                    35.447522222222226,
+                    139.64790277777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/横浜ベイブリッジ.jpg"
             },
@@ -3227,8 +3211,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    37.63688905555556,
-                    138.74815968013468
+                    37.64552189379085,
+                    138.75723039215686
                 ]
             }
         ],
@@ -3290,6 +3274,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/日和山展望台.jpg"
             },
             {
+                "title": "旧新潟税関庁舎",
+                "coords": [
+                    37.93040555555555,
+                    139.0565638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/旧新潟税関庁舎.jpg"
+            },
+            {
                 "title": "旧第四銀行住吉町支店",
                 "coords": [
                     37.93029722222222,
@@ -3322,20 +3314,20 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/湊稲荷神社.jpg"
             },
             {
-                "title": "直江津_船見公園",
-                "coords": [
-                    37.18084722222222,
-                    138.24195833333334
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/直江津_船見公園.jpg"
-            },
-            {
                 "title": "笹川流れ",
                 "coords": [
                     38.39483333333333,
                     139.45857222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/笹川流れ.jpg"
+            },
+            {
+                "title": "船見公園",
+                "coords": [
+                    37.18084722222222,
+                    138.24195833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/船見公園.jpg"
             },
             {
                 "title": "萬代橋",
@@ -4363,8 +4355,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.8832668699187,
-                    137.07057330623306
+                    35.90613247863248,
+                    137.0854017806268
                 ]
             }
         ],
@@ -4432,22 +4424,6 @@
                     136.78176944444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城.jpg"
-            },
-            {
-                "title": "岐阜城_濃尾平野",
-                "coords": [
-                    35.434025,
-                    136.782075
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_濃尾平野.jpg"
-            },
-            {
-                "title": "岐阜城_長良川",
-                "coords": [
-                    35.44075,
-                    136.7807611111111
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良川.jpg"
             },
             {
                 "title": "岐阜城_長良橋",
@@ -4811,8 +4787,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.1460548941799,
-                    136.9300638862434
+                    35.14477527777778,
+                    136.93234333055557
                 ]
             }
         ],
@@ -4826,20 +4802,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/CBS2024.jpg"
             },
             {
-                "title": "JRセントラルタワーズ_夜",
-                "coords": [
-                    35.17164722222222,
-                    136.884475
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/JRセントラルタワーズ_夜.jpg"
-            },
-            {
-                "title": "JRセントラルタワーズ_昼",
+                "title": "JRセントラルタワーズ",
                 "coords": [
                     35.170611111111114,
                     136.88499444444443
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/JRセントラルタワーズ_昼.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/JRセントラルタワーズ.jpg"
             },
             {
                 "title": "ROBOMECH2023",
@@ -5008,16 +4976,16 @@
             {
                 "title": "伊勢神宮_内宮",
                 "coords": [
-                    34.48716388888889,
-                    136.70294444444446
+                    34.455019444444446,
+                    136.72518333333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/伊勢神宮_内宮.jpg"
             },
             {
                 "title": "伊勢神宮_外宮",
                 "coords": [
-                    34.455019444444446,
-                    136.72518333333332
+                    34.48716388888889,
+                    136.70294444444446
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/伊勢神宮_外宮.jpg"
             },
@@ -5043,8 +5011,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.38482013541667,
-                    136.23606561805556
+                    35.40017777777778,
+                    136.23371825396825
                 ]
             }
         ],
@@ -5056,14 +5024,6 @@
                     136.25249722222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
-            },
-            {
-                "title": "彦根城_石碑",
-                "coords": [
-                    35.27731663888889,
-                    136.25249716666667
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城_石碑.jpg"
             },
             {
                 "title": "長浜城",
@@ -5119,12 +5079,20 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.084930831481486,
-                    135.61729324074074
+                    35.10338695117845,
+                    135.5929436868687
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "二条城",
+                "coords": [
+                    35.014227777777776,
+                    135.74786944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/二条城.jpg"
+            },
             {
                 "title": "京都タワー_夜",
                 "coords": [
@@ -5180,6 +5148,14 @@
                     135.18225
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/天橋立.jpg"
+            },
+            {
+                "title": "天橋立ビューランド_リフト",
+                "coords": [
+                    35.553111111111114,
+                    135.18225
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/天橋立ビューランド_リフト.jpg"
             },
             {
                 "title": "天橋立智恩寺",
@@ -5302,6 +5278,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_福知山駅.jpg"
             },
             {
+                "title": "駅名標_福知山駅_京都丹後鉄道",
+                "coords": [
+                    35.296505555555555,
+                    135.118225
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_福知山駅_京都丹後鉄道.jpg"
+            },
+            {
                 "title": "駅名標_稲荷駅",
                 "coords": [
                     34.96682222222222,
@@ -5371,17 +5355,25 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.686010922222216,
-                    135.49527221481483
+                    34.68656076041667,
+                    135.49998576157407
                 ]
             }
         ],
         "markers": [
             {
+                "title": "中之島",
+                "coords": [
+                    34.69321388888889,
+                    135.50079444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/中之島.jpg"
+            },
+            {
                 "title": "大坂城",
                 "coords": [
-                    34.68723330555556,
-                    135.52584166666668
+                    34.68656661111111,
+                    135.52607777777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大坂城.jpg"
             },
@@ -5418,10 +5410,18 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/海遊館.jpg"
             },
             {
+                "title": "豊国神社",
+                "coords": [
+                    34.68435,
+                    135.52610833333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/豊国神社.jpg"
+            },
+            {
                 "title": "道頓堀",
                 "coords": [
-                    34.6687,
-                    135.5040916111111
+                    34.66912777777778,
+                    135.50120555555554
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/道頓堀.jpg"
             },
@@ -5434,12 +5434,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/阪神高速道路_梅田出入口.jpg"
             },
             {
+                "title": "難波宮跡",
+                "coords": [
+                    34.680169444444445,
+                    135.52331666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/難波宮跡.jpg"
+            },
+            {
                 "title": "駅名標_JR難波駅",
                 "coords": [
                     34.6674,
                     135.49793888888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_JR難波駅.jpg"
+            },
+            {
+                "title": "駅名標_なんば駅",
+                "coords": [
+                    34.66876666666667,
+                    135.50012222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_なんば駅.jpg"
             },
             {
                 "title": "駅名標_今宮駅",
@@ -5482,6 +5498,46 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_新大阪駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_本町駅",
+                "coords": [
+                    34.688075,
+                    135.50056388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_本町駅.jpg"
+            },
+            {
+                "title": "駅名標_東梅田駅",
+                "coords": [
+                    34.701394444444446,
+                    135.50160277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_東梅田駅.jpg"
+            },
+            {
+                "title": "駅名標_梅田駅",
+                "coords": [
+                    34.70783888888889,
+                    135.49891666666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_梅田駅.jpg"
+            },
+            {
+                "title": "駅名標_淀屋橋駅",
+                "coords": [
+                    34.68217777777778,
+                    135.49812222222224
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_淀屋橋駅.jpg"
+            },
+            {
+                "title": "駅名標_谷町四丁目駅",
+                "coords": [
+                    34.68101388888889,
+                    135.5215
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅名標_谷町四丁目駅.jpg"
+            },
+            {
                 "title": "駅舎_南海難波駅",
                 "coords": [
                     34.66426944444444,
@@ -5492,8 +5548,8 @@
             {
                 "title": "駅舎_大阪駅",
                 "coords": [
-                    34.70229722222222,
-                    135.49535
+                    34.70283055555556,
+                    135.49752777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/駅舎_大阪駅.jpg"
             }
@@ -5503,8 +5559,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.932754473765435,
-                    134.972194031893
+                    35.03509614516129,
+                    134.9413068530466
                 ]
             }
         ],
@@ -5518,12 +5574,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/BE_KOBE.jpg"
             },
             {
+                "title": "まんだら湯",
+                "coords": [
+                    35.62467222222222,
+                    134.80575555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/まんだら湯.jpg"
+            },
+            {
                 "title": "メリケンパーク",
                 "coords": [
                     34.68192777777778,
                     135.18876666666668
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/メリケンパーク.jpg"
+            },
+            {
+                "title": "一の湯",
+                "coords": [
+                    35.62598888888889,
+                    134.809525
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/一の湯.jpg"
             },
             {
                 "title": "南海フェリー_淡路島",
@@ -5534,20 +5606,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/南海フェリー_淡路島.jpg"
             },
             {
-                "title": "城崎温泉",
+                "title": "地蔵湯",
+                "coords": [
+                    35.62659166666667,
+                    134.812575
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/地蔵湯.jpg"
+            },
+            {
+                "title": "城崎温泉_冬",
                 "coords": [
                     35.626511111111114,
                     134.81254444444446
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/城崎温泉.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/城崎温泉_冬.jpg"
             },
             {
-                "title": "城崎温泉_一の湯",
+                "title": "城崎温泉_夏",
                 "coords": [
-                    35.62606944444445,
-                    134.80958611111112
+                    35.626469444444446,
+                    134.81262222222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/城崎温泉_一の湯.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/城崎温泉_夏.jpg"
+            },
+            {
+                "title": "城崎温泉_温泉寺",
+                "coords": [
+                    35.62569444444444,
+                    134.803725
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/城崎温泉_温泉寺.jpg"
             },
             {
                 "title": "城崎温泉ロープウェイ",
@@ -5566,12 +5654,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城.jpg"
             },
             {
-                "title": "姫路城_石碑",
+                "title": "山陰海岸ジオパーク館",
                 "coords": [
-                    34.835680555555555,
-                    134.69261111111112
+                    35.62825,
+                    134.446275
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城_石碑.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/山陰海岸ジオパーク館.jpg"
             },
             {
                 "title": "布引の滝",
@@ -5580,6 +5668,14 @@
                     135.1938832777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/布引の滝.jpg"
+            },
+            {
+                "title": "御所の湯",
+                "coords": [
+                    35.62585555555555,
+                    134.8075861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/御所の湯.jpg"
             },
             {
                 "title": "掬星台",
@@ -5630,6 +5726,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石海峡大橋.jpg"
             },
             {
+                "title": "有馬温泉_温泉寺",
+                "coords": [
+                    34.796025,
+                    135.24804722222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/有馬温泉_温泉寺.jpg"
+            },
+            {
                 "title": "東海道本線終点_山陽本線起点",
                 "coords": [
                     34.67943886111111,
@@ -5638,20 +5742,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/東海道本線終点_山陽本線起点.jpg"
             },
             {
-                "title": "浜坂温泉",
+                "title": "柳湯",
                 "coords": [
-                    35.62107777777778,
-                    134.45237777777777
+                    35.626269444444446,
+                    134.8102722222222
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/浜坂温泉.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/柳湯.jpg"
             },
             {
-                "title": "温泉寺",
+                "title": "浜坂温泉源泉塔",
                 "coords": [
-                    34.796025,
-                    135.24804722222223
+                    35.625458305555554,
+                    134.45417772222223
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/温泉寺.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/浜坂温泉源泉塔.jpg"
+            },
+            {
+                "title": "浜坂県民サンビーチ",
+                "coords": [
+                    35.628677777777774,
+                    134.45021111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/浜坂県民サンビーチ.jpg"
             },
             {
                 "title": "湊川神社",
@@ -5872,8 +5984,8 @@
             {
                 "title": "駅舎_城崎温泉駅",
                 "coords": [
-                    35.62376666666667,
-                    134.81326388888888
+                    35.62383333333333,
+                    134.81324722222223
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/駅舎_城崎温泉駅.jpg"
             },
@@ -5940,6 +6052,14 @@
                     135.03494166666667
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/高速舞子バスのりば.jpg"
+            },
+            {
+                "title": "鴻の湯",
+                "coords": [
+                    35.62605277777778,
+                    134.8044138888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/鴻の湯.jpg"
             }
         ]
     },
@@ -6163,8 +6283,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.483752338450294,
-                    133.76772324561404
+                    35.482131680930934,
+                    133.75503393393393
                 ]
             }
         ],
@@ -6296,14 +6416,6 @@
                     134.23884444444445
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/砂丘センター_見晴らしの丘_鳥取砂丘.jpg"
-            },
-            {
-                "title": "砂丘会館",
-                "coords": [
-                    35.54371666666667,
-                    134.23722777777778
-                ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/砂丘会館.jpg"
             },
             {
                 "title": "米子城",
@@ -6479,8 +6591,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.050865245478036,
-                    132.38151711886303
+                    35.050317248062015,
+                    132.3809788113695
                 ]
             }
         ],
@@ -6552,16 +6664,16 @@
             {
                 "title": "太皷谷稲成神社_鳥居",
                 "coords": [
-                    34.46543888888889,
-                    131.7697611111111
+                    34.46519722222222,
+                    131.7690111111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/太皷谷稲成神社_鳥居.jpg"
             },
             {
                 "title": "宍道湖",
                 "coords": [
-                    35.463566666666665,
-                    133.0603361111111
+                    35.439905555555555,
+                    133.03913055555554
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/宍道湖.jpg"
             },
@@ -6590,12 +6702,12 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城.jpg"
             },
             {
-                "title": "松江城_石碑",
+                "title": "松江神社",
                 "coords": [
-                    35.47367777777778,
-                    133.05194166666666
+                    35.47411388888889,
+                    133.05062777777778
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城_石碑.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江神社.jpg"
             },
             {
                 "title": "津和野",
@@ -6720,8 +6832,8 @@
             {
                 "title": "駅名標_川跡駅",
                 "coords": [
-                    35.39525277777778,
-                    132.77630555555555
+                    35.395155555555554,
+                    132.77642777777777
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/駅名標_川跡駅.jpg"
             },
@@ -7031,7 +7143,7 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.37650653935185,
+                    34.37650653819444,
                     132.76452696643517
                 ]
             }
@@ -7088,7 +7200,7 @@
             {
                 "title": "原爆ドーム",
                 "coords": [
-                    34.39546388888889,
+                    34.39546383333333,
                     132.45356388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/原爆ドーム.jpg"
@@ -7427,12 +7539,44 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.04551358024691,
-                    131.55255555555556
+                    34.11006143162393,
+                    131.46374967948717
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "SLやまぐち号",
+                "coords": [
+                    34.09384444444444,
+                    131.39595
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/SLやまぐち号.jpg"
+            },
+            {
+                "title": "きらら浜_23WSJ記念碑",
+                "coords": [
+                    34.00677777777778,
+                    131.37103611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/きらら浜_23WSJ記念碑.jpg"
+            },
+            {
+                "title": "きらら浜_大芝生広場",
+                "coords": [
+                    34.01591944444444,
+                    131.3789972222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/きらら浜_大芝生広場.jpg"
+            },
+            {
+                "title": "カルストロード",
+                "coords": [
+                    34.25187777777778,
+                    131.31312777777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/カルストロード.jpg"
+            },
             {
                 "title": "周防大島大橋",
                 "coords": [
@@ -7448,6 +7592,62 @@
                     130.94589444444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/唐戸市場.jpg"
+            },
+            {
+                "title": "旧山口県会議事堂",
+                "coords": [
+                    34.1851,
+                    131.47285555555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/旧山口県会議事堂.jpg"
+            },
+            {
+                "title": "瑠璃光寺",
+                "coords": [
+                    34.189797222222225,
+                    131.47218333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/瑠璃光寺.jpg"
+            },
+            {
+                "title": "瑠璃光寺_五重塔",
+                "coords": [
+                    34.189280555555555,
+                    131.473175
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/瑠璃光寺_五重塔.jpg"
+            },
+            {
+                "title": "秋吉台",
+                "coords": [
+                    34.23491388888889,
+                    131.30583055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/秋吉台.jpg"
+            },
+            {
+                "title": "秋芳洞",
+                "coords": [
+                    34.22700555555556,
+                    131.3043888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/秋芳洞.jpg"
+            },
+            {
+                "title": "秋芳洞_正面入口",
+                "coords": [
+                    34.227047222222225,
+                    131.30442222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/秋芳洞_正面入口.jpg"
+            },
+            {
+                "title": "美東SA",
+                "coords": [
+                    34.152211111111114,
+                    131.3377361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/美東SA.jpg"
             },
             {
                 "title": "赤間神宮",
@@ -7490,6 +7690,54 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/関門海峡大橋.jpg"
             },
             {
+                "title": "駅名標_小郡駅",
+                "coords": [
+                    34.094547222222225,
+                    131.39685
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅名標_小郡駅.jpg"
+            },
+            {
+                "title": "駅名標_山口駅",
+                "coords": [
+                    34.17277222222222,
+                    131.48086666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅名標_山口駅.jpg"
+            },
+            {
+                "title": "駅名標_徳山駅",
+                "coords": [
+                    34.05136111111111,
+                    131.80188055555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅名標_徳山駅.jpg"
+            },
+            {
+                "title": "駅名標_新山口駅_在来線",
+                "coords": [
+                    34.093986111111114,
+                    131.39660555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅名標_新山口駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_新山口駅_新幹線",
+                "coords": [
+                    34.09316666666667,
+                    131.39688055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅名標_新山口駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_山口駅",
+                "coords": [
+                    34.17274166666667,
+                    131.48004166666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅舎_山口駅.jpg"
+            },
+            {
                 "title": "駅舎_岩国駅",
                 "coords": [
                     34.17174722222222,
@@ -7500,8 +7748,8 @@
             {
                 "title": "駅舎_新山口駅",
                 "coords": [
-                    34.09353888888889,
-                    131.39646944444445
+                    34.09316388888889,
+                    131.39813333333333
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/駅舎_新山口駅.jpg"
             }
@@ -7911,8 +8159,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    33.89833541666667,
-                    132.82516631944443
+                    33.89169922839506,
+                    132.8176587962963
                 ]
             }
         ],
@@ -8014,6 +8262,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅名標_道後温泉駅.jpg"
             },
             {
+                "title": "駅舎_JR松山駅前駅",
+                "coords": [
+                    33.841025,
+                    132.75250277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_JR松山駅前駅.jpg"
+            },
+            {
                 "title": "駅舎_今治駅",
                 "coords": [
                     34.064236111111114,
@@ -8028,6 +8284,14 @@
                     132.77493333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_勝山町駅.jpg"
+            },
+            {
+                "title": "駅舎_松山市駅",
+                "coords": [
+                    33.836194444444445,
+                    132.76269444444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/駅舎_松山市駅.jpg"
             },
             {
                 "title": "駅舎_松山駅",
@@ -8971,8 +9235,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    32.047874603174606,
-                    131.50587486772488
+                    32.047877380952386,
+                    131.5058675925926
                 ]
             }
         ],
@@ -9092,8 +9356,8 @@
             {
                 "title": "駅名標_青島駅",
                 "coords": [
-                    31.799841666666666,
-                    131.46708611111112
+                    31.7999,
+                    131.46693333333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/45_宮崎県/駅名標_青島駅.jpg"
             },
