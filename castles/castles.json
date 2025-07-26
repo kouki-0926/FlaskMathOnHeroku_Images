@@ -21,10 +21,6 @@
         {
             "city": "青森県弘前市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
-        },
-        {
-            "city": "青森県弘前市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城二の丸東門.jpg"
         }
     ],
     "根城": [
@@ -262,14 +258,6 @@
         },
         {
             "city": "岐阜県岐阜市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_濃尾平野.jpg"
-        },
-        {
-            "city": "岐阜県岐阜市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良川.jpg"
-        },
-        {
-            "city": "岐阜県岐阜市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良橋.jpg"
         }
     ],
@@ -337,10 +325,6 @@
         {
             "city": "滋賀県彦根市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
-        },
-        {
-            "city": "滋賀県彦根市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城_石碑.jpg"
         }
     ],
     "安土城": [
@@ -358,7 +342,7 @@
     "二条城": [
         {
             "city": "京都府京都市",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/二条城.jpg"
         }
     ],
     "大坂城": [
@@ -399,10 +383,6 @@
         {
             "city": "兵庫県姫路市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城.jpg"
-        },
-        {
-            "city": "兵庫県姫路市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城_石碑.jpg"
         }
     ],
     "赤穂城": [
@@ -441,10 +421,6 @@
         {
             "city": "島根県松江市",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城.jpg"
-        },
-        {
-            "city": "島根県松江市",
-            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城_石碑.jpg"
         }
     ],
     "月山富田城": [
