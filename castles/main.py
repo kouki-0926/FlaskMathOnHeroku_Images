@@ -14,13 +14,13 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
             if castle_info[2] in key:
                 for marker in image_info[key]["markers"]:
                     if castle_info[1] in marker["title"]:
-                        tmp_list.append({"city": castle_info[2] + castle_info[3],
+                        tmp_list.append({"title": castle_info[1] + "(" + castle_info[3] + ")",
                                          "photo": marker["photo"]})
 
         if len(tmp_list) > 0:
-            castles_list[castle_info[1]] = tmp_list
+            castles_list[castle_info[2]] = tmp_list
         else:
-            castles_list[castle_info[1]] = [{"city": castle_info[2] + castle_info[3],
+            castles_list[castle_info[2]] = [{"title": castle_info[1] + "(" + castle_info[3] + ")",
                                              "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"}]
 
 with open("castles/castles.json", "w", encoding="utf-8") as f:
