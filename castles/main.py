@@ -28,15 +28,28 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
     for line in f:
         castle_info = line.split("\t")
 
+        # 城が何地方に属するかを判定
+        for area_idx in range(len(prefecture_list)):
+            if castle_info[2] in prefecture_list[area_idx][1]:
+                area = prefecture_list[area_idx][0]
+                break
+
+        # 城の写真を取得
+        image_list = []
         for key in image_info.keys():
             if castle_info[2] in key:
                 for marker in image_info[key]["markers"]:
                     if castle_info[1] in marker["title"]:
-                        for area_idx in range(len(prefecture_list)):
-                            for pref_idx in range(len(prefecture_list[area_idx][1])):
-                                if castle_info[2] == prefecture_list[area_idx][1][pref_idx]:
-                                    castles_list[prefecture_list[area_idx][0]].append({"title": castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
-                                                                                       "photo": marker["photo"]})
+                        image_list.append(marker["photo"])
+
+        # 城の写真がない場合は代替画像を追加
+        if len(image_list) == 0:
+            image_list.append("https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問")
+
+        # 城の情報をリストに追加
+        for image in image_list:
+            castles_list[area].append({"title": castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
+                                       "photo": image})
 
 with open("castles/castles.json", "w", encoding="utf-8") as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)
