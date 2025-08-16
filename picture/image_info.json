@@ -5275,19 +5275,59 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.40017777777778,
-                    136.23371825396825
+                    35.14400651709401,
+                    136.02161442307693
                 ]
             }
         ],
         "markers": [
             {
+                "title": "大津駅_北緯35度",
+                "coords": [
+                    35.00340277777778,
+                    135.86500555555557
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/大津駅_北緯35度.jpg"
+            },
+            {
                 "title": "彦根城",
                 "coords": [
-                    35.277316666666664,
-                    136.25249722222222
+                    35.27628055555556,
+                    136.25227222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
+            },
+            {
+                "title": "玄宮園",
+                "coords": [
+                    35.27880833333333,
+                    136.25428888888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/玄宮園.jpg"
+            },
+            {
+                "title": "琵琶湖",
+                "coords": [
+                    35.01296111111111,
+                    135.8660888888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/琵琶湖.jpg"
+            },
+            {
+                "title": "琵琶湖疎水",
+                "coords": [
+                    35.01215833333333,
+                    135.85745277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/琵琶湖疎水.jpg"
+            },
+            {
+                "title": "逢坂関",
+                "coords": [
+                    34.99420277777778,
+                    135.85560555555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/逢坂関.jpg"
             },
             {
                 "title": "長浜城",
@@ -5298,12 +5338,68 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/長浜城.jpg"
             },
             {
+                "title": "駅名標_びわ湖浜大津駅",
+                "coords": [
+                    35.011047222222224,
+                    135.86422777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_びわ湖浜大津駅.jpg"
+            },
+            {
+                "title": "駅名標_三井寺駅",
+                "coords": [
+                    35.01305,
+                    135.8596638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_三井寺駅.jpg"
+            },
+            {
+                "title": "駅名標_南草津駅",
+                "coords": [
+                    35.004019444444445,
+                    135.9476
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_南草津駅.jpg"
+            },
+            {
+                "title": "駅名標_大津駅",
+                "coords": [
+                    35.00293333333333,
+                    135.86473055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_大津駅.jpg"
+            },
+            {
+                "title": "駅名標_大谷駅",
+                "coords": [
+                    34.99413333333333,
+                    135.85346944444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_大谷駅.jpg"
+            },
+            {
+                "title": "駅名標_彦根駅",
+                "coords": [
+                    35.273025,
+                    136.26359444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_彦根駅.jpg"
+            },
+            {
                 "title": "駅名標_米原駅",
                 "coords": [
                     35.312216666666664,
                     136.2888027777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_米原駅.jpg"
+            },
+            {
+                "title": "駅名標_草津駅",
+                "coords": [
+                    35.02291388888889,
+                    135.96223333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_草津駅.jpg"
             },
             {
                 "title": "駅名標_近江塩津駅",
@@ -5320,6 +5416,62 @@
                     136.2653361111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅名標_長浜駅.jpg"
+            },
+            {
+                "title": "駅舎_びわ湖浜大津駅",
+                "coords": [
+                    35.01181388888889,
+                    135.8634638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_びわ湖浜大津駅.jpg"
+            },
+            {
+                "title": "駅舎_三井寺駅",
+                "coords": [
+                    35.01315555555556,
+                    135.85945
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_三井寺駅.jpg"
+            },
+            {
+                "title": "駅舎_南草津駅",
+                "coords": [
+                    35.003994444444444,
+                    135.946625
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_南草津駅.jpg"
+            },
+            {
+                "title": "駅舎_大津駅",
+                "coords": [
+                    35.00363888888889,
+                    135.86482222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_大津駅.jpg"
+            },
+            {
+                "title": "駅舎_大谷駅",
+                "coords": [
+                    34.99442222222222,
+                    135.85313333333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_大谷駅.jpg"
+            },
+            {
+                "title": "駅舎_彦根駅",
+                "coords": [
+                    35.27237777777778,
+                    136.26274166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_彦根駅.jpg"
+            },
+            {
+                "title": "駅舎_草津駅",
+                "coords": [
+                    35.021902777777775,
+                    135.961975
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/駅舎_草津駅.jpg"
             },
             {
                 "title": "駅舎_近江塩津駅",
