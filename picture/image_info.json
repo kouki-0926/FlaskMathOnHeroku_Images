@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.245960772357726,
-                    138.00948685636857
+                    36.14296433333333,
+                    137.94381866666666
                 ]
             }
         ],
@@ -4084,6 +4084,38 @@
                     137.81341666666665
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/奈良井宿.jpg"
+            },
+            {
+                "title": "妻籠宿",
+                "coords": [
+                    35.57568055555556,
+                    137.59489444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/妻籠宿.jpg"
+            },
+            {
+                "title": "妻籠宿脇本陣",
+                "coords": [
+                    35.57765555555556,
+                    137.59562777777776
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/妻籠宿脇本陣.jpg"
+            },
+            {
+                "title": "寝覚の床",
+                "coords": [
+                    35.77215277777778,
+                    137.70071388888888
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/寝覚の床.jpg"
+            },
+            {
+                "title": "寝覚山臨川寺",
+                "coords": [
+                    35.77228888888889,
+                    137.70124722222224
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/寝覚山臨川寺.jpg"
             },
             {
                 "title": "日本三大車窓_姨捨_冬",
@@ -4182,6 +4214,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本神社.jpg"
             },
             {
+                "title": "桃介橋",
+                "coords": [
+                    35.60026111111111,
+                    137.60571388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/桃介橋.jpg"
+            },
+            {
                 "title": "浅間山",
                 "coords": [
                     36.343475,
@@ -4198,12 +4238,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/鎮神社.jpg"
             },
             {
+                "title": "駅名標_上松駅",
+                "coords": [
+                    35.78397777777778,
+                    137.6932972222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_上松駅.jpg"
+            },
+            {
                 "title": "駅名標_上諏訪駅",
                 "coords": [
                     36.04656111111111,
                     138.1165
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_上諏訪駅.jpg"
+            },
+            {
+                "title": "駅名標_南木曽駅",
+                "coords": [
+                    35.599019444444444,
+                    137.60851944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_南木曽駅.jpg"
             },
             {
                 "title": "駅名標_南松本駅",
@@ -4278,12 +4334,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_長野駅.jpg"
             },
             {
+                "title": "駅舎_上松駅",
+                "coords": [
+                    35.78409444444444,
+                    137.6938027777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上松駅.jpg"
+            },
+            {
                 "title": "駅舎_上諏訪駅",
                 "coords": [
                     36.04683611111111,
                     138.116975
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上諏訪駅.jpg"
+            },
+            {
+                "title": "駅舎_南木曽駅",
+                "coords": [
+                    35.59869444444445,
+                    137.60815555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_南木曽駅.jpg"
             },
             {
                 "title": "駅舎_南松本駅",
@@ -4355,8 +4427,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.90613247863248,
-                    137.0854017806268
+                    35.82075644208038,
+                    137.09446702127659
                 ]
             }
         ],
@@ -4368,6 +4440,14 @@
                     137.24305833333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/下呂温泉.jpg"
+            },
+            {
+                "title": "中津川宿",
+                "coords": [
+                    35.496566666666666,
+                    137.5038
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/中津川宿.jpg"
             },
             {
                 "title": "円光寺",
@@ -4490,6 +4570,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/桜山八幡宮_鳥居.jpg"
             },
             {
+                "title": "水都大垣_集いの泉",
+                "coords": [
+                    35.36661111111111,
+                    136.61750833333335
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/水都大垣_集いの泉.jpg"
+            },
+            {
                 "title": "温泉博物館",
                 "coords": [
                     35.810091666666665,
@@ -4546,6 +4634,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/真宗寺.jpg"
             },
             {
+                "title": "虎渓用水広場",
+                "coords": [
+                    35.33602222222222,
+                    137.1206361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/虎渓用水広場.jpg"
+            },
+            {
                 "title": "陣屋前朝市",
                 "coords": [
                     36.13973611111111,
@@ -4594,10 +4690,26 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_下呂駅.jpg"
             },
             {
+                "title": "駅名標_中津川駅",
+                "coords": [
+                    35.499969444444446,
+                    137.5036
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_中津川駅.jpg"
+            },
+            {
+                "title": "駅名標_多治見駅",
+                "coords": [
+                    35.33543888888889,
+                    137.1215361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_多治見駅.jpg"
+            },
+            {
                 "title": "駅名標_大垣駅",
                 "coords": [
-                    35.367216666666664,
-                    136.61824166666668
+                    35.367469444444446,
+                    136.61831666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅名標_大垣駅.jpg"
             },
@@ -4632,6 +4744,30 @@
                     137.2397
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_下呂駅.jpg"
+            },
+            {
+                "title": "駅舎_中津川駅",
+                "coords": [
+                    35.500527777777776,
+                    137.50372222222222
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_中津川駅.jpg"
+            },
+            {
+                "title": "駅舎_多治見駅",
+                "coords": [
+                    35.33450277777778,
+                    137.12109444444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_多治見駅.jpg"
+            },
+            {
+                "title": "駅舎_大垣駅",
+                "coords": [
+                    35.36649444444444,
+                    136.61730833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_大垣駅.jpg"
             },
             {
                 "title": "駅舎_岐阜駅",
