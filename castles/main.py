@@ -48,7 +48,7 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
 
         # 城の情報をリストに追加
         for image in image_list:
-            castles_list[area].append({"title": castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
+            castles_list[area].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
                                        "photo": image})
 
 with open("castles/castles.json", "w", encoding="utf-8") as f:
