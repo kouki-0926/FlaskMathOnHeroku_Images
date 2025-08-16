@@ -101,6 +101,10 @@
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駿府城.jpg"
         },
         {
+            "title": "犬山城(愛知県犬山市)",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/犬山城.jpg"
+        },
+        {
             "title": "名古屋城(愛知県名古屋市)",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/名古屋城.jpg"
         }
