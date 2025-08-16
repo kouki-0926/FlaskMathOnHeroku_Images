@@ -5495,8 +5495,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.10338695117845,
-                    135.5929436868687
+                    35.066445768939396,
+                    135.642228219697
                 ]
             }
         ],
@@ -5508,6 +5508,14 @@
                     135.74786944444443
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/二条城.jpg"
+            },
+            {
+                "title": "京都タワー",
+                "coords": [
+                    34.987627777777774,
+                    135.7593388888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/京都タワー.jpg"
             },
             {
                 "title": "京都タワー_夜",
@@ -5582,6 +5590,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/天橋立智恩寺.jpg"
             },
             {
+                "title": "宇治橋",
+                "coords": [
+                    34.89207777777778,
+                    135.80580277777779
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/宇治橋.jpg"
+            },
+            {
                 "title": "嵐山_渡月橋",
                 "coords": [
                     35.01359444444444,
@@ -5596,6 +5612,14 @@
                     135.67466666666667
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/嵐山_竹林の小径.jpg"
+            },
+            {
+                "title": "平等院",
+                "coords": [
+                    34.88933611111111,
+                    135.80816666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/平等院.jpg"
             },
             {
                 "title": "東本願寺",
@@ -5654,6 +5678,22 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_京都駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_京都駅_東海道本線",
+                "coords": [
+                    34.98509166666667,
+                    135.75907777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_京都駅_東海道本線.jpg"
+            },
+            {
+                "title": "駅名標_京阪山科駅",
+                "coords": [
+                    34.99195,
+                    135.81677222222223
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_京阪山科駅.jpg"
+            },
+            {
                 "title": "駅名標_向日町駅",
                 "coords": [
                     34.95740833333333,
@@ -5676,6 +5716,14 @@
                     135.80036944444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_宇治駅.jpg"
+            },
+            {
+                "title": "駅名標_山科駅",
+                "coords": [
+                    34.99248055555555,
+                    135.81625277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_山科駅.jpg"
             },
             {
                 "title": "駅名標_嵯峨嵐山駅",
@@ -5726,6 +5774,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_京都駅.jpg"
             },
             {
+                "title": "駅舎_京阪山科駅",
+                "coords": [
+                    34.99221111111111,
+                    135.81706111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_京阪山科駅.jpg"
+            },
+            {
                 "title": "駅舎_向日町駅",
                 "coords": [
                     34.95502777777778,
@@ -5742,6 +5798,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_天橋立駅.jpg"
             },
             {
+                "title": "駅舎_宇治駅",
+                "coords": [
+                    34.89017777777778,
+                    135.80128611111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_宇治駅.jpg"
+            },
+            {
+                "title": "駅舎_山科駅",
+                "coords": [
+                    34.99219444444444,
+                    135.81696944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_山科駅.jpg"
+            },
+            {
+                "title": "駅舎_嵐山駅",
+                "coords": [
+                    35.00987777777778,
+                    135.68229444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_嵐山駅.jpg"
+            },
+            {
                 "title": "駅舎_嵯峨嵐山駅",
                 "coords": [
                     35.018683333333335,
@@ -5756,6 +5836,14 @@
                     135.11866666666666
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅舎_福知山駅.jpg"
+            },
+            {
+                "title": "鳳翔館",
+                "coords": [
+                    34.888819444444444,
+                    135.80787777777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/鳳翔館.jpg"
             },
             {
                 "title": "鴨川",
