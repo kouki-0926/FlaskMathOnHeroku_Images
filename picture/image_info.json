@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.14296433333333,
-                    137.94381866666666
+                    36.146644284188035,
+                    137.93170368589742
                 ]
             }
         ],
@@ -4044,6 +4044,14 @@
                     138.11637777777779
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上諏訪駅_足湯.jpg"
+            },
+            {
+                "title": "上高地",
+                "coords": [
+                    36.24853888888889,
+                    137.63781666666668
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上高地.jpg"
             },
             {
                 "title": "善光寺",
@@ -4076,6 +4084,14 @@
                     137.97045833333334
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
+            },
+            {
+                "title": "大正池",
+                "coords": [
+                    36.228747222222225,
+                    137.61984166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/大正池.jpg"
             },
             {
                 "title": "奈良井宿",
