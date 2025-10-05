@@ -1071,8 +1071,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.26880481481482,
-                    140.89527592407407
+                    38.28409685185185,
+                    140.9067907388889
                 ]
             }
         ],
@@ -1168,8 +1168,8 @@
             {
                 "title": "駅名標_白石蔵王駅",
                 "coords": [
-                    37.7654,
-                    140.4599
+                    37.99478055555556,
+                    140.6326222222222
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_白石蔵王駅.jpg"
             },
