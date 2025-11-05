@@ -4015,8 +4015,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.146644284188035,
-                    137.93170368589742
+                    36.146646527777776,
+                    137.93170571581197
                 ]
             }
         ],
@@ -4320,8 +4320,8 @@
             {
                 "title": "駅名標_広丘駅",
                 "coords": [
-                    36.148152777777774,
-                    137.94949444444444
+                    36.148269444444445,
+                    137.9496
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_広丘駅.jpg"
             },
@@ -4939,8 +4939,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.18410324074074,
-                    136.91429552314816
+                    35.056992105263156,
+                    137.06101018421052
                 ]
             }
         ],
@@ -4976,6 +4976,22 @@
                     136.90952777777778
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/オアシス21_水の宇宙船.jpg"
+            },
+            {
+                "title": "吉田城",
+                "coords": [
+                    34.7707,
+                    137.39291944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/吉田城.jpg"
+            },
+            {
+                "title": "吉田神社",
+                "coords": [
+                    34.77017222222222,
+                    137.38996944444443
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/吉田神社.jpg"
             },
             {
                 "title": "名古屋",
@@ -5026,6 +5042,14 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/大須観音.jpg"
             },
             {
+                "title": "岡崎城",
+                "coords": [
+                    34.955952777777775,
+                    137.15885833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/岡崎城.jpg"
+            },
+            {
                 "title": "清洲城",
                 "coords": [
                     35.216633333333334,
@@ -5064,6 +5088,54 @@
                     136.94621388888888
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/犬山橋.jpg"
+            },
+            {
+                "title": "豊川稲荷",
+                "coords": [
+                    34.8246,
+                    137.39465277777776
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊川稲荷.jpg"
+            },
+            {
+                "title": "豊川稲荷_本殿",
+                "coords": [
+                    34.824525,
+                    137.39265555555556
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊川稲荷_本殿.jpg"
+            },
+            {
+                "title": "豊橋公園_豊橋市役所",
+                "coords": [
+                    34.76838055555555,
+                    137.39288333333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊橋公園_豊橋市役所.jpg"
+            },
+            {
+                "title": "豊橋市公会堂",
+                "coords": [
+                    34.76768055555556,
+                    137.39215
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊橋市公会堂.jpg"
+            },
+            {
+                "title": "霊狐塚",
+                "coords": [
+                    34.827172222222224,
+                    137.3912361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/霊狐塚.jpg"
+            },
+            {
+                "title": "駅名標_中岡崎駅",
+                "coords": [
+                    34.956425,
+                    137.1527861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_中岡崎駅.jpg"
             },
             {
                 "title": "駅名標_丸の内駅",
@@ -5130,6 +5202,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_尾張一宮駅.jpg"
             },
             {
+                "title": "駅名標_岡崎駅",
+                "coords": [
+                    34.9254,
+                    137.15733333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_岡崎駅.jpg"
+            },
+            {
+                "title": "駅名標_岡崎駅_愛知環状鉄道",
+                "coords": [
+                    34.925913888888886,
+                    137.15794444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_岡崎駅_愛知環状鉄道.jpg"
+            },
+            {
+                "title": "駅名標_市役所前駅",
+                "coords": [
+                    34.76730277777778,
+                    137.39286666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_市役所前駅.jpg"
+            },
+            {
                 "title": "駅名標_新栄町駅",
                 "coords": [
                     35.17053611111111,
@@ -5170,12 +5266,28 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_神宮前駅.jpg"
             },
             {
-                "title": "駅名標_豊橋駅",
+                "title": "駅名標_豊川駅",
                 "coords": [
-                    34.762972222222224,
-                    137.38206944444445
+                    34.82276944444445,
+                    137.39718611111113
                 ],
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_豊橋駅.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_豊川駅.jpg"
+            },
+            {
+                "title": "駅名標_豊橋駅_在来線",
+                "coords": [
+                    34.76316944444444,
+                    137.38124166666665
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_豊橋駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_豊橋駅_新幹線",
+                "coords": [
+                    34.763691666666666,
+                    137.38091944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_豊橋駅_新幹線.jpg"
             },
             {
                 "title": "駅名標_金山駅",
@@ -5194,12 +5306,44 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_金山駅_名古屋鉄道.jpg"
             },
             {
+                "title": "駅名標_駅前大通駅",
+                "coords": [
+                    34.763061111111114,
+                    137.38580277777777
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_駅前大通駅.jpg"
+            },
+            {
+                "title": "駅名標_駅前駅",
+                "coords": [
+                    34.763980555555555,
+                    137.38300833333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅名標_駅前駅.jpg"
+            },
+            {
+                "title": "駅舎_中岡崎駅",
+                "coords": [
+                    34.955441666666665,
+                    137.1527861111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_中岡崎駅.jpg"
+            },
+            {
                 "title": "駅舎_名古屋駅",
                 "coords": [
                     35.17073333333333,
                     136.88383611111112
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_名古屋駅.jpg"
+            },
+            {
+                "title": "駅舎_岡崎駅",
+                "coords": [
+                    34.925525,
+                    137.15794444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_岡崎駅.jpg"
             },
             {
                 "title": "駅舎_清洲駅",
@@ -5226,12 +5370,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_神宮前駅.jpg"
             },
             {
+                "title": "駅舎_豊川駅",
+                "coords": [
+                    34.82293333333333,
+                    137.39668333333333
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_豊川駅.jpg"
+            },
+            {
+                "title": "駅舎_豊橋駅",
+                "coords": [
+                    34.76311388888889,
+                    137.38403333333332
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_豊橋駅.jpg"
+            },
+            {
                 "title": "駅舎_金山駅",
                 "coords": [
                     35.143772222222225,
                     136.90145833333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/駅舎_金山駅.jpg"
+            },
+            {
+                "title": "龍城神社",
+                "coords": [
+                    34.955894444444446,
+                    137.15915
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/龍城神社.jpg"
             }
         ]
     },
