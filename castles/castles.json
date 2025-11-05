@@ -198,7 +198,11 @@
         },
         {
             "title": "42 掛川城(静岡県掛川市)",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城.jpg"
+        },
+        {
+            "title": "42 掛川城(静岡県掛川市)",
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城_二の丸御殿.jpg"
         },
         {
             "title": "43 犬山城(愛知県犬山市)",
@@ -210,7 +214,7 @@
         },
         {
             "title": "45 岡崎城(愛知県岡崎市)",
-            "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/岡崎城.jpg"
         },
         {
             "title": "46 長篠城(愛知県新城市)",
