@@ -3843,8 +3843,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.53676874861111,
-                    138.77044499722223
+                    35.54300132142857,
+                    138.7608966904762
                 ]
             }
         ],
@@ -3920,6 +3920,14 @@
                     138.5714861111111
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/甲府城.jpg"
+            },
+            {
+                "title": "藤村記念館",
+                "coords": [
+                    35.667652777777775,
+                    138.56993055555554
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/藤村記念館.jpg"
             },
             {
                 "title": "金鳥居",
@@ -4831,8 +4839,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.030767824074076,
-                    138.68465300925925
+                    34.94828269230769,
+                    138.40029551282052
                 ]
             }
         ],
@@ -4862,12 +4870,36 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山.jpg"
             },
             {
+                "title": "富士山_鳥居",
+                "coords": [
+                    35.223261111111114,
+                    138.60943055555555
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山_鳥居.jpg"
+            },
+            {
                 "title": "弁天島",
                 "coords": [
                     34.69582222222222,
                     137.60369444444444
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/弁天島.jpg"
+            },
+            {
+                "title": "掛川城",
+                "coords": [
+                    34.77502777777778,
+                    138.01416111111112
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城.jpg"
+            },
+            {
+                "title": "掛川城_二の丸御殿",
+                "coords": [
+                    34.77521111111111,
+                    138.014725
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城_二の丸御殿.jpg"
             },
             {
                 "title": "熱海",
@@ -4894,6 +4926,62 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡浅間神社.jpg"
             },
             {
+                "title": "静岡県庁",
+                "coords": [
+                    34.97538888888889,
+                    138.38581944444445
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡県庁.jpg"
+            },
+            {
+                "title": "駅名標_富士駅",
+                "coords": [
+                    35.151427777777776,
+                    138.65175
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_富士駅.jpg"
+            },
+            {
+                "title": "駅名標_掛川駅_在来線",
+                "coords": [
+                    34.769419444444445,
+                    138.01450833333334
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_掛川駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_掛川駅_新幹線",
+                "coords": [
+                    34.76918055555556,
+                    138.01426666666666
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_掛川駅_新幹線.jpg"
+            },
+            {
+                "title": "駅名標_浜松駅_在来線",
+                "coords": [
+                    34.70366388888889,
+                    137.7344361111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_浜松駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_浜松駅_新幹線",
+                "coords": [
+                    34.70399444444445,
+                    137.7356111111111
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_浜松駅_新幹線.jpg"
+            },
+            {
+                "title": "駅名標_清水駅",
+                "coords": [
+                    35.02257777777778,
+                    138.4888638888889
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_清水駅.jpg"
+            },
+            {
                 "title": "駅名標_熱海駅_在来線",
                 "coords": [
                     35.103608333333334,
@@ -4910,6 +4998,38 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_熱海駅_新幹線.jpg"
             },
             {
+                "title": "駅名標_静岡駅_在来線",
+                "coords": [
+                    34.97165555555556,
+                    138.38851944444446
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_静岡駅_在来線.jpg"
+            },
+            {
+                "title": "駅名標_静岡駅_新幹線",
+                "coords": [
+                    34.971713888888885,
+                    138.38905277777778
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_静岡駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_掛川駅",
+                "coords": [
+                    34.76998888888889,
+                    138.01489166666667
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_掛川駅.jpg"
+            },
+            {
+                "title": "駅舎_浜松駅",
+                "coords": [
+                    34.70383888888889,
+                    137.73494444444444
+                ],
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_浜松駅.jpg"
+            },
+            {
                 "title": "駅舎_熱海駅",
                 "coords": [
                     35.103611111111114,
@@ -4920,16 +5040,16 @@
             {
                 "title": "駅舎_静岡駅",
                 "coords": [
-                    34.971713888888885,
-                    138.38905277777778
+                    34.97289722222222,
+                    138.387725
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_静岡駅.jpg"
             },
             {
                 "title": "駿府城",
                 "coords": [
-                    34.978877777777775,
-                    138.3830888888889
+                    34.97748055555556,
+                    138.38528333333332
                 ],
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駿府城.jpg"
             }
