@@ -6183,8 +6183,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.47680222222222,
-                    136.71488777777776
+                    34.6740625,
+                    136.59710902777778
                 ]
             }
         ],
@@ -6192,38 +6192,182 @@
             {
                 "title": "おかげ横丁",
                 "coords": [
-                    34.46242222222222,
-                    136.72286666666668
+                    34.46219166666667,
+                    136.72291666666666
                 ],
-                "date": "2021:08:25 14:41:23",
+                "date": "2025:11:24 16:53:55",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/おかげ横丁.jpg"
             },
             {
                 "title": "伊勢神宮_内宮",
                 "coords": [
-                    34.455019444444446,
-                    136.72518333333332
+                    34.45403611111111,
+                    136.72508333333334
                 ],
-                "date": "2021:08:25 13:49:30",
+                "date": "2025:11:24 16:07:31",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/伊勢神宮_内宮.jpg"
             },
             {
                 "title": "伊勢神宮_外宮",
                 "coords": [
-                    34.48716388888889,
-                    136.70294444444446
+                    34.48646111111111,
+                    136.70297222222223
                 ],
-                "date": "2021:08:25 12:43:00",
+                "date": "2025:11:24 14:35:52",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/伊勢神宮_外宮.jpg"
+            },
+            {
+                "title": "勾玉池_式年遷宮記念せんぐう館",
+                "coords": [
+                    34.48659444444444,
+                    136.70640555555556
+                ],
+                "date": "2025:11:24 15:17:38",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/勾玉池_式年遷宮記念せんぐう館.jpg"
+            },
+            {
+                "title": "四日市",
+                "coords": [
+                    34.961819444444444,
+                    136.6297138888889
+                ],
+                "date": "2025:11:24 11:37:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/四日市.jpg"
+            },
+            {
+                "title": "四日市あすなろう鉄道",
+                "coords": [
+                    34.96425277777778,
+                    136.61796666666666
+                ],
+                "date": "2025:11:24 11:08:48",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/四日市あすなろう鉄道.jpg"
+            },
+            {
+                "title": "四日市市立博物館",
+                "coords": [
+                    34.96805277777778,
+                    136.61593611111113
+                ],
+                "date": "2025:11:24 10:55:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/四日市市立博物館.jpg"
+            },
+            {
+                "title": "御手洗場",
+                "coords": [
+                    34.455775,
+                    136.7217861111111
+                ],
+                "date": "2025:11:24 15:55:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/御手洗場.jpg"
+            },
+            {
+                "title": "松阪城",
+                "coords": [
+                    34.576394444444446,
+                    136.52667222222223
+                ],
+                "date": "2025:11:25 08:36:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/松阪城.jpg"
+            },
+            {
+                "title": "津偕楽公園",
+                "coords": [
+                    34.73202222222222,
+                    136.50703333333334
+                ],
+                "date": "2025:11:24 13:02:36",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/津偕楽公園.jpg"
+            },
+            {
+                "title": "駅名標_亀山駅",
+                "coords": [
+                    34.85001666666667,
+                    136.45030277777778
+                ],
+                "date": "2025:11:24 12:08:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_亀山駅.jpg"
+            },
+            {
+                "title": "駅名標_伊勢市駅",
+                "coords": [
+                    34.491416666666666,
+                    136.70965555555554
+                ],
+                "date": "2025:11:24 14:06:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_伊勢市駅.jpg"
+            },
+            {
+                "title": "駅名標_四日市駅",
+                "coords": [
+                    34.963097222222224,
+                    136.63041666666666
+                ],
+                "date": "2025:11:24 10:09:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_四日市駅.jpg"
+            },
+            {
+                "title": "駅名標_松阪駅",
+                "coords": [
+                    34.576994444444445,
+                    136.53584166666667
+                ],
+                "date": "2025:11:25 09:09:12",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_松阪駅.jpg"
+            },
+            {
+                "title": "駅名標_津駅",
+                "coords": [
+                    34.73458611111111,
+                    136.51054444444443
+                ],
+                "date": "2025:11:24 13:21:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_津駅.jpg"
+            },
+            {
+                "title": "駅名標_紀伊長島駅",
+                "coords": [
+                    34.20910555555555,
+                    136.3396138888889
+                ],
+                "date": "2025:11:25 10:17:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_紀伊長島駅.jpg"
+            },
+            {
+                "title": "駅名標_近鉄津駅",
+                "coords": [
+                    34.73484166666667,
+                    136.51034444444446
+                ],
+                "date": "2025:11:24 13:24:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅名標_近鉄津駅.jpg.jpg"
+            },
+            {
+                "title": "駅舎_亀山駅",
+                "coords": [
+                    34.85055277777778,
+                    136.4503638888889
+                ],
+                "date": "2025:11:24 12:11:08",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_亀山駅.jpg"
             },
             {
                 "title": "駅舎_伊勢市駅",
                 "coords": [
-                    34.49127222222222,
-                    136.7097222222222
+                    34.49080555555555,
+                    136.70958055555556
                 ],
-                "date": "2021:08:25 12:14:49",
+                "date": "2025:11:24 14:08:29",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_伊勢市駅.jpg"
+            },
+            {
+                "title": "駅舎_四日市駅",
+                "coords": [
+                    34.963091666666664,
+                    136.62915
+                ],
+                "date": "2025:11:24 10:13:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_四日市駅.jpg"
             },
             {
                 "title": "駅舎_宇治山田駅",
@@ -6233,6 +6377,33 @@
                 ],
                 "date": "2021:08:25 15:07:02",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_宇治山田駅.jpg"
+            },
+            {
+                "title": "駅舎_松阪駅",
+                "coords": [
+                    34.57656111111111,
+                    136.53503333333333
+                ],
+                "date": "2025:11:25 08:25:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_松阪駅.jpg"
+            },
+            {
+                "title": "駅舎_津駅",
+                "coords": [
+                    34.7342,
+                    136.51156666666665
+                ],
+                "date": "2025:11:24 12:42:34",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_津駅.jpg"
+            },
+            {
+                "title": "駅舎_近鉄四日市駅",
+                "coords": [
+                    34.96649722222222,
+                    136.61799444444443
+                ],
+                "date": "2025:11:24 10:29:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/駅舎_近鉄四日市駅.jpg"
             }
         ]
     },
