@@ -8028,8 +8028,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.013925,
-                    135.51066822493223
+                    34.01923333333333,
+                    135.50248584656086
                 ]
             }
         ],
@@ -8233,12 +8233,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/飛瀧神社.jpg"
             },
             {
-                "title": "駅名標_和歌山市駅",
+                "title": "駅名標_南海和歌山市駅",
                 "coords": [
                     34.23620555555556,
                     135.16595555555554
                 ],
                 "date": "2023:09:05 13:19:29",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_南海和歌山市駅.jpg"
+            },
+            {
+                "title": "駅名標_南海橋本駅",
+                "coords": [
+                    34.31842777777778,
+                    135.61509722222223
+                ],
+                "date": "2025:11:27 16:07:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_南海橋本駅.jpg"
+            },
+            {
+                "title": "駅名標_和歌山市駅",
+                "coords": [
+                    34.236875,
+                    135.16700833333334
+                ],
+                "date": "2025:11:26 16:21:06",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_和歌山市駅.jpg"
             },
             {
@@ -8285,15 +8303,6 @@
                 ],
                 "date": "2025:11:27 09:26:03",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_橋本駅.jpg"
-            },
-            {
-                "title": "駅名標_橋本駅_南海電鉄",
-                "coords": [
-                    34.31842777777778,
-                    135.61509722222223
-                ],
-                "date": "2025:11:27 16:07:14",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_橋本駅_南海電鉄.jpg"
             },
             {
                 "title": "駅名標_白浜駅",
