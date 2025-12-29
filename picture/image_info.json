@@ -8028,12 +8028,48 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.225990476190475,
-                    135.15869563492063
+                    34.013925,
+                    135.51066822493223
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "三段壁",
+                "coords": [
+                    33.66566944444445,
+                    135.3356638888889
+                ],
+                "date": "2025:11:26 10:57:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/三段壁.jpg"
+            },
+            {
+                "title": "三段壁洞窟",
+                "coords": [
+                    33.66578333333333,
+                    135.3352972222222
+                ],
+                "date": "2025:11:26 11:22:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/三段壁洞窟.jpg"
+            },
+            {
+                "title": "円月島",
+                "coords": [
+                    33.68921944444445,
+                    135.34198055555555
+                ],
+                "date": "2025:11:26 13:37:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/円月島.jpg"
+            },
+            {
+                "title": "千畳敷",
+                "coords": [
+                    33.671147222222224,
+                    135.3307638888889
+                ],
+                "date": "2025:11:26 10:25:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/千畳敷.jpg"
+            },
             {
                 "title": "南海フェリー",
                 "coords": [
@@ -8046,20 +8082,155 @@
             {
                 "title": "和歌山城",
                 "coords": [
-                    34.22765277777778,
-                    135.17118888888888
+                    34.227577777777775,
+                    135.17112777777777
                 ],
-                "date": "2023:09:05 13:50:17",
+                "date": "2025:11:26 16:49:46",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城.jpg"
             },
             {
                 "title": "和歌山城_紅葉渓庭園",
                 "coords": [
-                    34.229958333333336,
-                    135.17086666666665
+                    34.228516666666664,
+                    135.17057777777777
                 ],
-                "date": "2023:09:05 14:23:22",
+                "date": "2025:11:26 16:39:55",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
+            },
+            {
+                "title": "大門",
+                "coords": [
+                    34.21306111111111,
+                    135.57246388888888
+                ],
+                "date": "2025:11:27 11:05:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/大門.jpg"
+            },
+            {
+                "title": "奥之院",
+                "coords": [
+                    34.21908055555556,
+                    135.60495
+                ],
+                "date": "2025:11:27 13:19:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/奥之院.jpg"
+            },
+            {
+                "title": "奥之院_一の橋",
+                "coords": [
+                    34.213858333333334,
+                    135.5955361111111
+                ],
+                "date": "2025:11:27 14:12:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/奥之院_一の橋.jpg"
+            },
+            {
+                "title": "崎の湯",
+                "coords": [
+                    33.676922222222224,
+                    135.34007222222223
+                ],
+                "date": "2025:11:26 12:02:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/崎の湯.jpg"
+            },
+            {
+                "title": "根本大塔",
+                "coords": [
+                    34.21295555555555,
+                    135.57981944444444
+                ],
+                "date": "2025:11:27 11:42:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/根本大塔.jpg"
+            },
+            {
+                "title": "熊野古道",
+                "coords": [
+                    33.67101944444445,
+                    135.89714166666667
+                ],
+                "date": "2025:11:25 12:52:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/熊野古道.jpg"
+            },
+            {
+                "title": "熊野那智大社",
+                "coords": [
+                    33.66854722222222,
+                    135.89025833333332
+                ],
+                "date": "2025:11:25 13:15:29",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/熊野那智大社.jpg"
+            },
+            {
+                "title": "白良浜",
+                "coords": [
+                    33.68190833333333,
+                    135.3443
+                ],
+                "date": "2025:11:26 08:32:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/白良浜.jpg"
+            },
+            {
+                "title": "那智の滝",
+                "coords": [
+                    33.67422222222222,
+                    135.88774166666667
+                ],
+                "date": "2025:11:25 14:08:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/那智の滝.jpg"
+            },
+            {
+                "title": "金剛峯寺",
+                "coords": [
+                    34.21361666666667,
+                    135.58447222222222
+                ],
+                "date": "2025:11:27 12:08:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/金剛峯寺.jpg"
+            },
+            {
+                "title": "金剛峯寺_蟠龍庭",
+                "coords": [
+                    34.213772222222225,
+                    135.58300833333334
+                ],
+                "date": "2025:11:27 12:30:30",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/金剛峯寺_蟠龍庭.jpg"
+            },
+            {
+                "title": "金堂",
+                "coords": [
+                    34.2127,
+                    135.57933055555554
+                ],
+                "date": "2025:11:27 11:29:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/金堂.jpg"
+            },
+            {
+                "title": "青岸渡寺",
+                "coords": [
+                    33.66896944444444,
+                    135.890075
+                ],
+                "date": "2025:11:25 13:22:09",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/青岸渡寺.jpg"
+            },
+            {
+                "title": "青岸渡寺三重塔",
+                "coords": [
+                    33.67055833333333,
+                    135.88920555555555
+                ],
+                "date": "2025:11:25 13:36:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/青岸渡寺三重塔.jpg"
+            },
+            {
+                "title": "飛瀧神社",
+                "coords": [
+                    33.673747222222225,
+                    135.88832222222223
+                ],
+                "date": "2025:11:25 13:54:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/飛瀧神社.jpg"
             },
             {
                 "title": "駅名標_和歌山市駅",
@@ -8080,6 +8251,78 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_和歌山港駅.jpg"
             },
             {
+                "title": "駅名標_和歌山駅",
+                "coords": [
+                    34.23211388888889,
+                    135.19116111111111
+                ],
+                "date": "2025:11:26 15:48:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_和歌山駅.jpg"
+            },
+            {
+                "title": "駅名標_極楽橋駅",
+                "coords": [
+                    34.234119444444445,
+                    135.58189444444446
+                ],
+                "date": "2025:11:27 10:32:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_極楽橋駅.jpg"
+            },
+            {
+                "title": "駅名標_極楽橋駅_高野山ケーブルカー",
+                "coords": [
+                    34.230713888888886,
+                    135.57875
+                ],
+                "date": "2025:11:27 15:22:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_極楽橋駅_高野山ケーブルカー.jpg"
+            },
+            {
+                "title": "駅名標_橋本駅",
+                "coords": [
+                    34.31828333333333,
+                    135.61494444444443
+                ],
+                "date": "2025:11:27 09:26:03",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_橋本駅.jpg"
+            },
+            {
+                "title": "駅名標_橋本駅_南海電鉄",
+                "coords": [
+                    34.31842777777778,
+                    135.61509722222223
+                ],
+                "date": "2025:11:27 16:07:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_橋本駅_南海電鉄.jpg"
+            },
+            {
+                "title": "駅名標_白浜駅",
+                "coords": [
+                    33.67582222222222,
+                    135.38706944444445
+                ],
+                "date": "2025:11:26 14:13:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_白浜駅.jpg"
+            },
+            {
+                "title": "駅名標_紀伊勝浦駅",
+                "coords": [
+                    33.62877777777778,
+                    135.94148333333334
+                ],
+                "date": "2025:11:25 12:00:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_紀伊勝浦駅.jpg"
+            },
+            {
+                "title": "駅名標_高野山駅",
+                "coords": [
+                    34.22766388888889,
+                    135.57726944444445
+                ],
+                "date": "2025:11:27 10:45:04",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅名標_高野山駅.jpg"
+            },
+            {
                 "title": "駅舎_和歌山市駅",
                 "coords": [
                     34.236063888888886,
@@ -8096,6 +8339,69 @@
                 ],
                 "date": "2023:09:05 13:08:47",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_和歌山港駅.jpg"
+            },
+            {
+                "title": "駅舎_和歌山駅",
+                "coords": [
+                    34.23228888888889,
+                    135.19056666666665
+                ],
+                "date": "2025:11:26 15:55:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_和歌山駅.jpg"
+            },
+            {
+                "title": "駅舎_極楽橋駅",
+                "coords": [
+                    34.23535555555556,
+                    135.5775
+                ],
+                "date": "2025:11:27 15:23:22",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_極楽橋駅.jpg"
+            },
+            {
+                "title": "駅舎_橋本駅",
+                "coords": [
+                    34.317886111111115,
+                    135.61471666666668
+                ],
+                "date": "2025:11:27 09:29:29",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_橋本駅.jpg"
+            },
+            {
+                "title": "駅舎_白浜駅",
+                "coords": [
+                    33.67586388888889,
+                    135.38700833333334
+                ],
+                "date": "2025:11:26 14:00:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_白浜駅.jpg"
+            },
+            {
+                "title": "駅舎_紀伊勝浦駅",
+                "coords": [
+                    33.62826666666667,
+                    135.94204722222221
+                ],
+                "date": "2025:11:25 12:05:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_紀伊勝浦駅.jpg"
+            },
+            {
+                "title": "駅舎_高野山駅",
+                "coords": [
+                    34.22748055555556,
+                    135.57719444444444
+                ],
+                "date": "2025:11:27 10:46:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/駅舎_高野山駅.jpg"
+            },
+            {
+                "title": "高野山ケーブルカー",
+                "coords": [
+                    34.23068611111111,
+                    135.57977222222223
+                ],
+                "date": "2025:11:27 10:39:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/高野山ケーブルカー.jpg"
             }
         ]
     },
