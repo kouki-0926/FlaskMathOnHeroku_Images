@@ -6657,8 +6657,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.066445768939396,
-                    135.642228219697
+                    35.0617779,
+                    135.6453064197531
                 ]
             }
         ],
@@ -6887,6 +6887,15 @@
                 ],
                 "date": "2023:11:21 12:33:34",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_向日町駅.jpg"
+            },
+            {
+                "title": "駅名標_城陽駅",
+                "coords": [
+                    34.85639166666667,
+                    135.78074722222223
+                ],
+                "date": "2025:11:28 13:27:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/駅名標_城陽駅.jpg"
             },
             {
                 "title": "駅名標_天橋立駅",
@@ -7863,8 +7872,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.684675163398694,
-                    135.8280777777778
+                    34.65076901709402,
+                    135.79579305555555
                 ]
             }
         ],
@@ -7886,6 +7895,15 @@
                 ],
                 "date": "2023:11:22 09:58:38",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/奈良の大仏.jpg"
+            },
+            {
+                "title": "奈良駅旧駅舎",
+                "coords": [
+                    34.681672222222225,
+                    135.82019166666666
+                ],
+                "date": "2025:11:28 10:40:30",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/奈良駅旧駅舎.jpg"
             },
             {
                 "title": "春日大社",
@@ -7933,6 +7951,33 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/東大寺大仏殿.jpg"
             },
             {
+                "title": "法隆寺",
+                "coords": [
+                    34.613675,
+                    135.73422222222223
+                ],
+                "date": "2025:11:28 09:51:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/法隆寺.jpg"
+            },
+            {
+                "title": "法隆寺_東院伽藍",
+                "coords": [
+                    34.61624444444445,
+                    135.73855555555556
+                ],
+                "date": "2025:11:28 09:41:37",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/法隆寺_東院伽藍.jpg"
+            },
+            {
+                "title": "法隆寺_西院伽藍",
+                "coords": [
+                    34.61465833333333,
+                    135.73448055555556
+                ],
+                "date": "2025:11:28 08:58:34",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/法隆寺_西院伽藍.jpg"
+            },
+            {
                 "title": "浮見堂",
                 "coords": [
                     34.68026388888889,
@@ -7960,6 +8005,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/興福寺_五重塔.jpg"
             },
             {
+                "title": "駅名標_五条駅",
+                "coords": [
+                    34.355713888888886,
+                    135.69859444444444
+                ],
+                "date": "2025:11:27 16:30:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_五条駅.jpg"
+            },
+            {
                 "title": "駅名標_大和西大寺駅",
                 "coords": [
                     34.69428888888889,
@@ -7971,10 +8025,10 @@
             {
                 "title": "駅名標_奈良駅",
                 "coords": [
-                    34.68006944444444,
-                    135.81840555555556
+                    34.680194444444446,
+                    135.81865
                 ],
-                "date": "2023:11:22 12:55:18",
+                "date": "2025:11:28 12:47:30",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_奈良駅.jpg"
             },
             {
@@ -7985,6 +8039,24 @@
                 ],
                 "date": "2023:11:22 08:54:58",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_新大宮駅.jpg"
+            },
+            {
+                "title": "駅名標_法隆寺駅",
+                "coords": [
+                    34.60172222222222,
+                    135.73930277777777
+                ],
+                "date": "2025:11:28 10:17:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_法隆寺駅.jpg"
+            },
+            {
+                "title": "駅名標_王寺駅",
+                "coords": [
+                    34.59752777777778,
+                    135.7034
+                ],
+                "date": "2025:11:28 08:11:06",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅名標_王寺駅.jpg"
             },
             {
                 "title": "駅名標_近鉄奈良駅",
@@ -7998,10 +8070,10 @@
             {
                 "title": "駅舎_奈良駅",
                 "coords": [
-                    34.68105277777778,
-                    135.8188027777778
+                    34.68105833333333,
+                    135.82002222222224
                 ],
-                "date": "2023:11:22 12:51:58",
+                "date": "2025:11:28 10:39:46",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_奈良駅.jpg"
             },
             {
@@ -8012,6 +8084,24 @@
                 ],
                 "date": "2023:11:22 08:51:00",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_新大宮駅.jpg"
+            },
+            {
+                "title": "駅舎_法隆寺駅",
+                "coords": [
+                    34.601444444444446,
+                    135.73956388888888
+                ],
+                "date": "2025:11:28 10:14:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_法隆寺駅.jpg"
+            },
+            {
+                "title": "駅舎_王寺駅",
+                "coords": [
+                    34.59772777777778,
+                    135.70352222222223
+                ],
+                "date": "2025:11:28 08:07:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/29_奈良県/駅舎_王寺駅.jpg"
             },
             {
                 "title": "駅舎_近鉄奈良駅",
