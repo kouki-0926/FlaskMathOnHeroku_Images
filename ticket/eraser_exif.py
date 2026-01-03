@@ -1,5 +1,6 @@
 import os
 import piexif
+import termcolor
 
 
 def remove_exif_folder(folder_path):
@@ -10,9 +11,9 @@ def remove_exif_folder(folder_path):
         if ext.lower() in [".jpg", ".jpeg"] and os.path.isfile(file_path):
             try:
                 piexif.remove(file_path)
-                print("Success:", file_name)
+                print(termcolor.colored("Success:" + file_name, "green"))
             except Exception as e:
-                print("Error:", file_name, e)
+                print(termcolor.colored("Error:" + file_name, "red"))
 
 
 if __name__ == "__main__":
