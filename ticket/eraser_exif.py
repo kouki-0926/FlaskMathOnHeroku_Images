@@ -32,24 +32,8 @@ def remove_exif_folder(folder_path):
             print("Error: " + file_name)
 
 
-remove_exif_folder("flask_ticket/static_ticket/images/atami")
-remove_exif_folder("flask_ticket/static_ticket/images/bousou_nagano")
-remove_exif_folder("flask_ticket/static_ticket/images/conference")
-remove_exif_folder("flask_ticket/static_ticket/images/hokkaido")
-remove_exif_folder("flask_ticket/static_ticket/images/hokuriku")
-remove_exif_folder("flask_ticket/static_ticket/images/internship")
-remove_exif_folder("flask_ticket/static_ticket/images/ise")
-remove_exif_folder("flask_ticket/static_ticket/images/kusatsu")
-remove_exif_folder("flask_ticket/static_ticket/images/kyushu")
-remove_exif_folder("flask_ticket/static_ticket/images/nara")
-remove_exif_folder("flask_ticket/static_ticket/images/okinawa")
-remove_exif_folder("flask_ticket/static_ticket/images/sanin")
-remove_exif_folder("flask_ticket/static_ticket/images/sanyo_kyushu")
-remove_exif_folder("flask_ticket/static_ticket/images/shikoku")
-remove_exif_folder("flask_ticket/static_ticket/images/takayama")
-remove_exif_folder("flask_ticket/static_ticket/images/tohoku_ou")
-remove_exif_folder("flask_ticket/static_ticket/images/tohoku_uetsu")
-remove_exif_folder("flask_ticket/static_ticket/images/tokaido")
-remove_exif_folder("flask_ticket/static_ticket/images/tokyo")
-remove_exif_folder("flask_ticket/static_ticket/images/tottori")
-remove_exif_folder("flask_ticket/static_ticket/images/yamanashi")
+if __name__ == "__main__":
+    for folder_name in os.listdir("ticket"):
+        if os.path.isdir(os.path.join("ticket", folder_name)):
+            print("Processing folder: " + folder_name)
+            remove_exif_folder(os.path.join("ticket", folder_name))
