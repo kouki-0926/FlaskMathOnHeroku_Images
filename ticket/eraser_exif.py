@@ -1,35 +1,18 @@
 import os
-from PIL import Image
+import piexif
 
 
 def remove_exif_folder(folder_path):
-    # フォルダ内のすべてのファイルを取得
-    file_list = os.listdir(folder_path)
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
 
-    for file_name in file_list:
-        try:
-            # ファイルの拡張子をチェックして画像ファイルか確認
-            _, file_ext = os.path.splitext(file_name)
-            if file_ext.lower() in ['.jpg', '.jpeg', '.png', '.gif']:
-                # 画像読み込み
-                image_path = os.path.join(folder_path, file_name)
-                image = Image.open(image_path)
-
-                # # 縦長の場合90度回転させる
-                # width, height = image.size
-                # if height > width:
-                #     image = image.rotate(90, expand=True)
-
-                # Exifメタデータを削除
-                image_without_exif = Image.new(image.mode, image.size)
-                image_without_exif.putdata(list(image.getdata()))
-
-                # 元のファイルを上書き保存
-                image_without_exif.save(image_path)
-
-                print("Success: " + file_name)
-        except:
-            print("Error: " + file_name)
+        _, ext = os.path.splitext(file_name)
+        if ext.lower() in [".jpg", ".jpeg"] and os.path.isfile(file_path):
+            try:
+                piexif.remove(file_path)
+                print("Success:", file_name)
+            except Exception as e:
+                print("Error:", file_name, e)
 
 
 if __name__ == "__main__":
