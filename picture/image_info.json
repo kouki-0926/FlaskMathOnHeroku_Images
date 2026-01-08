@@ -4497,8 +4497,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.146646527777776,
-                    137.93170571581197
+                    36.1488095959596,
+                    137.93545803030304
                 ]
             }
         ],
@@ -4630,6 +4630,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/寝覚山臨川寺.jpg"
             },
             {
+                "title": "山と自然博物館",
+                "coords": [
+                    36.25986388888889,
+                    137.95316944444446
+                ],
+                "date": "2025:12:28 12:10:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/山と自然博物館.jpg"
+            },
+            {
                 "title": "日本三大車窓_姨捨_冬",
                 "coords": [
                     36.50282222222222,
@@ -4664,6 +4673,15 @@
                 ],
                 "date": "2025:05:18 15:28:10",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の大橋.jpg"
+            },
+            {
+                "title": "松本城_埋橋",
+                "coords": [
+                    36.23908888888889,
+                    137.96807777777778
+                ],
+                "date": "2025:12:13 11:04:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_埋橋.jpg"
             },
             {
                 "title": "松本城_夜",
@@ -4754,6 +4772,15 @@
                 ],
                 "date": "2022:02:12 09:37:38",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
+            },
+            {
+                "title": "諏訪湖",
+                "coords": [
+                    36.059955555555554,
+                    138.08024722222223
+                ],
+                "date": "2025:12:29 14:05:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪湖.jpg"
             },
             {
                 "title": "鎮神社",
