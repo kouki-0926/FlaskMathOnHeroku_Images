@@ -4497,8 +4497,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.1488095959596,
-                    137.93545803030304
+                    36.13931773148148,
+                    137.94920907407408
                 ]
             }
         ],
@@ -4774,6 +4774,42 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
             },
             {
+                "title": "諏訪大社上社前宮",
+                "coords": [
+                    35.991305555555556,
+                    138.1335611111111
+                ],
+                "date": "2026:01:17 11:07:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪大社上社前宮.jpeg"
+            },
+            {
+                "title": "諏訪大社上社本宮",
+                "coords": [
+                    35.998355555555555,
+                    138.11898888888888
+                ],
+                "date": "2026:01:17 11:34:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪大社上社本宮.jpeg"
+            },
+            {
+                "title": "諏訪大社下社春宮",
+                "coords": [
+                    36.081919444444445,
+                    138.08216944444445
+                ],
+                "date": "2026:01:17 13:33:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪大社下社春宮.jpeg"
+            },
+            {
+                "title": "諏訪大社下社秋宮",
+                "coords": [
+                    36.07544722222222,
+                    138.09109444444445
+                ],
+                "date": "2026:01:17 13:09:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪大社下社秋宮.jpeg"
+            },
+            {
                 "title": "諏訪湖",
                 "coords": [
                     36.059955555555554,
@@ -4781,6 +4817,15 @@
                 ],
                 "date": "2025:12:29 14:05:45",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪湖.jpg"
+            },
+            {
+                "title": "諏訪湖SA",
+                "coords": [
+                    36.02750833333333,
+                    138.07653888888888
+                ],
+                "date": "2026:01:17 10:27:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪湖SA.jpeg"
             },
             {
                 "title": "鎮神社",
