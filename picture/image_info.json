@@ -4497,8 +4497,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.13931773148148,
-                    137.94920907407408
+                    36.13650523679417,
+                    137.94698870673952
                 ]
             }
         ],
@@ -4592,6 +4592,15 @@
                 ],
                 "date": "2025:05:18 15:37:57",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/奈良井宿.jpg"
+            },
+            {
+                "title": "奈良井宿_冬",
+                "coords": [
+                    35.967755555555556,
+                    137.81376666666668
+                ],
+                "date": "2026:01:24 12:19:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/奈良井宿_冬.jpg"
             },
             {
                 "title": "妻籠宿",
