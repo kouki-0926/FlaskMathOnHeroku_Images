@@ -4497,8 +4497,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.13650523679417,
-                    137.94698870673952
+                    36.18373412698413,
+                    137.9797042857143
                 ]
             }
         ],
@@ -4520,6 +4520,15 @@
                 ],
                 "date": "2025:05:18 14:17:33",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上問屋史料館.jpg"
+            },
+            {
+                "title": "上田城",
+                "coords": [
+                    36.403019444444446,
+                    138.24520833333332
+                ],
+                "date": "2026:01:31 14:27:12",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上田城.jpeg"
             },
             {
                 "title": "上諏訪駅_足湯",
@@ -4621,6 +4630,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/妻籠宿脇本陣.jpg"
             },
             {
+                "title": "姨捨SA",
+                "coords": [
+                    36.498327777777774,
+                    138.09738055555556
+                ],
+                "date": "2026:01:31 16:28:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/姨捨SA.jpeg"
+            },
+            {
                 "title": "寝覚の床",
                 "coords": [
                     35.77215277777778,
@@ -4646,6 +4664,15 @@
                 ],
                 "date": "2025:12:28 12:10:58",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/山と自然博物館.jpg"
+            },
+            {
+                "title": "川中島古戦場",
+                "coords": [
+                    36.58931666666667,
+                    138.18805
+                ],
+                "date": "2026:01:31 13:34:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/川中島古戦場.jpeg"
             },
             {
                 "title": "日本三大車窓_姨捨_冬",
@@ -4682,6 +4709,24 @@
                 ],
                 "date": "2025:05:18 15:28:10",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の大橋.jpg"
+            },
+            {
+                "title": "松代城",
+                "coords": [
+                    36.56534444444444,
+                    138.1960611111111
+                ],
+                "date": "2026:01:31 11:15:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松代城.jpeg"
+            },
+            {
+                "title": "松代象山地下壕",
+                "coords": [
+                    36.55566666666667,
+                    138.19720555555554
+                ],
+                "date": "2026:01:31 12:46:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松代象山地下壕.jpeg"
             },
             {
                 "title": "松本城_埋橋",
@@ -4783,6 +4828,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
             },
             {
+                "title": "真田宝物館",
+                "coords": [
+                    36.56386666666667,
+                    138.19790555555556
+                ],
+                "date": "2026:01:31 12:06:37",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/真田宝物館.jpeg"
+            },
+            {
+                "title": "真田神社",
+                "coords": [
+                    36.40318611111111,
+                    138.24491944444443
+                ],
+                "date": "2026:01:31 14:28:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/真田神社.jpeg"
+            },
+            {
                 "title": "諏訪大社上社前宮",
                 "coords": [
                     35.991305555555556,
@@ -4835,6 +4898,15 @@
                 ],
                 "date": "2026:01:17 10:27:25",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/諏訪湖SA.jpeg"
+            },
+            {
+                "title": "象山神社",
+                "coords": [
+                    36.559063888888886,
+                    138.19635
+                ],
+                "date": "2026:01:31 12:57:29",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/象山神社.jpeg"
             },
             {
                 "title": "鎮神社",
@@ -4961,6 +5033,15 @@
                 ],
                 "date": "2025:08:12 07:46:10",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上松駅.jpg"
+            },
+            {
+                "title": "駅舎_上田駅",
+                "coords": [
+                    36.39677777777778,
+                    138.24990833333334
+                ],
+                "date": "2026:01:31 15:18:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上田駅.jpeg"
             },
             {
                 "title": "駅舎_上諏訪駅",
