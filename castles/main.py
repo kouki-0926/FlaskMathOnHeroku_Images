@@ -24,6 +24,7 @@ prefecture_list = [
     ["九州・沖縄地方", ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"]],
 ]
 
+unvisited_castle_cnt = 0
 with open("castles/100castles.txt", "r", encoding="utf-8") as f:
     for line in f:
         castle_info = line.split("\t")
@@ -45,6 +46,7 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
         # 城の写真がない場合は代替画像を追加
         if len(image_list) == 0:
             image_list.append("https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問")
+            unvisited_castle_cnt += 1
 
         # 城の情報をリストに追加
         for image in image_list:
@@ -53,3 +55,5 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
 
 with open("castles/castles.json", "w", encoding="utf-8") as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)
+
+print("写真がない城の数:", unvisited_castle_cnt)
