@@ -53,7 +53,9 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
             castles_list[area].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
                                        "photo": image})
 
+    # 未訪問の城の数をリストに追加
+    castles_list["unvisited_castle_cnt"] = unvisited_castle_cnt
+    print("未訪問の城の数:", unvisited_castle_cnt)
+
 with open("castles/castles.json", "w", encoding="utf-8") as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)
-
-print("写真がない城の数:", unvisited_castle_cnt)

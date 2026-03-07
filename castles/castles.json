@@ -524,5 +524,6 @@
             "title": "100 首里城(沖縄県那覇市)",
             "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_復元工事.jpg"
         }
-    ]
+    ],
+    "unvisited_castle_cnt": 50
 }
