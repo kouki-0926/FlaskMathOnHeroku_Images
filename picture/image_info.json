@@ -5610,20 +5610,29 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.94828269230769,
-                    138.40029551282052
+                    34.96152687687688,
+                    138.4264415165165
                 ]
             }
         ],
         "markers": [
             {
-                "title": "三保の松原",
+                "title": "三保松原",
+                "coords": [
+                    34.995688888888886,
+                    138.52661111111112
+                ],
+                "date": "2026:03:14 12:45:49",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/三保松原.jpg"
+            },
+            {
+                "title": "三保松原_夏",
                 "coords": [
                     34.99477777777778,
                     138.52453055555554
                 ],
                 "date": "2019:09:17 16:24:24",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/三保の松原.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/三保松原_夏.jpg"
             },
             {
                 "title": "三島大社",
@@ -5635,6 +5644,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/三島大社.jpg"
             },
             {
+                "title": "久能山東照宮",
+                "coords": [
+                    34.96456944444444,
+                    138.4674388888889
+                ],
+                "date": "2026:03:14 14:48:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/久能山東照宮.jpg"
+            },
+            {
                 "title": "富士山",
                 "coords": [
                     35.138305555555554,
@@ -5642,6 +5660,15 @@
                 ],
                 "date": "2023:11:22 16:17:48",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山.jpg"
+            },
+            {
+                "title": "富士山_日本平",
+                "coords": [
+                    34.9748,
+                    138.46597222222223
+                ],
+                "date": "2026:03:14 14:05:06",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山_日本平.jpg"
             },
             {
                 "title": "富士山_鳥居",
@@ -5662,6 +5689,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/弁天島.jpg"
             },
             {
+                "title": "御穂神社",
+                "coords": [
+                    34.999338888888886,
+                    138.52113333333332
+                ],
+                "date": "2026:03:14 13:20:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/御穂神社.jpg"
+            },
+            {
                 "title": "掛川城",
                 "coords": [
                     34.77502777777778,
@@ -5680,6 +5716,51 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城_二の丸御殿.jpg"
             },
             {
+                "title": "日本平",
+                "coords": [
+                    34.976730555555555,
+                    138.46659722222222
+                ],
+                "date": "2026:03:14 15:43:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/日本平.jpg"
+            },
+            {
+                "title": "日本平ロープウェイ",
+                "coords": [
+                    34.97351111111111,
+                    138.4640361111111
+                ],
+                "date": "2026:03:14 14:30:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/日本平ロープウェイ.jpg"
+            },
+            {
+                "title": "日本平夢テラス_",
+                "coords": [
+                    34.97459444444444,
+                    138.46559166666665
+                ],
+                "date": "2026:03:14 14:07:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/日本平夢テラス_.jpg"
+            },
+            {
+                "title": "河岸の市",
+                "coords": [
+                    35.020155555555554,
+                    138.49083055555556
+                ],
+                "date": "2026:03:14 11:46:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/河岸の市.jpg"
+            },
+            {
+                "title": "清水港",
+                "coords": [
+                    35.01875277777778,
+                    138.4929361111111
+                ],
+                "date": "2026:03:14 10:53:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/清水港.jpg"
+            },
+            {
                 "title": "熱海",
                 "coords": [
                     35.08663888888889,
@@ -5696,6 +5777,15 @@
                 ],
                 "date": "2024:07:28 12:36:56",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/熱海城.jpg"
+            },
+            {
+                "title": "神の道",
+                "coords": [
+                    34.999297222222225,
+                    138.52113333333332
+                ],
+                "date": "2026:03:14 13:23:22",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/神の道.jpg"
             },
             {
                 "title": "静岡浅間神社",
@@ -5822,6 +5912,15 @@
                 ],
                 "date": "2025:11:03 07:56:02",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_浜松駅.jpg"
+            },
+            {
+                "title": "駅舎_清水駅",
+                "coords": [
+                    35.02370555555556,
+                    138.4883722222222
+                ],
+                "date": "2026:03:14 11:31:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_清水駅.jpg"
             },
             {
                 "title": "駅舎_熱海駅",
