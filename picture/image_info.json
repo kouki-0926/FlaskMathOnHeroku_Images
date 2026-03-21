@@ -4533,12 +4533,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.18373412698413,
-                    137.9797042857143
+                    36.18046118721461,
+                    137.98132305936073
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "サンプロ_アルウィン",
+                "coords": [
+                    36.17989444444444,
+                    137.91651944444445
+                ],
+                "date": "2026:03:21 16:11:30",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/サンプロ_アルウィン.jpg"
+            },
             {
                 "title": "ホームのぶどう園",
                 "coords": [
@@ -4619,6 +4628,15 @@
                 ],
                 "date": "2025:04:12 15:52:53",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
+            },
+            {
+                "title": "塩嶺御野立公園",
+                "coords": [
+                    36.09246388888889,
+                    138.02830555555556
+                ],
+                "date": "2026:03:20 18:47:08",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/塩嶺御野立公園.jpg"
             },
             {
                 "title": "大正池",
@@ -5168,6 +5186,15 @@
                 ],
                 "date": "2022:02:12 10:02:15",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_長野駅.jpg"
+            },
+            {
+                "title": "高島城",
+                "coords": [
+                    36.03991944444444,
+                    138.11245833333334
+                ],
+                "date": "2026:03:20 16:50:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高島城.jpg"
             }
         ]
     },
