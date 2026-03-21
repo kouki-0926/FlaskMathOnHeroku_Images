@@ -43,7 +43,7 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
                     if castle_info[1] in marker["title"]:
                         image_list.append(marker["photo"])
 
-        # 訪問済みか判定 未訪問の場合はダミー画像を追加
+        # 訪問済み・未訪問の数をカウント
         if len(image_list) > 0:
             castles_list[area]["visited"] += 1
         else:
