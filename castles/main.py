@@ -5,13 +5,13 @@ response = requests.get("https://raw.githubusercontent.com/kouki-0926/FlaskMathO
 image_info = response.json()
 
 castles_list = {
-    "北海道・東北地方": [],
-    "関東地方": [],
-    "中部地方": [],
-    "近畿地方": [],
-    "中国地方": [],
-    "四国地方": [],
-    "九州・沖縄地方": []
+    "北海道・東北地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "関東地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "中部地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "近畿地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "中国地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "四国地方": {"castle": [], "visited": 0, "unvisited": 0},
+    "九州・沖縄地方": {"castle": [], "visited": 0, "unvisited": 0}
 }
 
 prefecture_list = [
@@ -43,15 +43,21 @@ with open("castles/100castles.txt", "r", encoding="utf-8") as f:
                     if castle_info[1] in marker["title"]:
                         image_list.append(marker["photo"])
 
-        # 城の写真がない場合は代替画像を追加
-        if len(image_list) == 0:
-            image_list.append("https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問")
-            unvisited_castle_cnt += 1
-
         # 城の情報をリストに追加
-        for image in image_list:
-            castles_list[area].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
-                                       "photo": image})
+        if len(image_list) > 0:
+            castles_list[area]["visited"] += 1
+            for image in image_list:
+                castles_list[area]["castle"].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
+                                                      "photo": image})
+        else:
+            castles_list[area]["unvisited"] += 1
+            unvisited_castle_cnt += 1
+            castles_list[area]["castle"].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
+                                                  "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"})
+
+    # 地方ごとの訪問済み・未訪問の数を表示
+    for area, data in castles_list.items():
+        print(f"{area}: 訪問済み {data['visited']} 城, 未訪問 {data['unvisited']} 城")
 
     # 未訪問の城の数をリストに追加
     castles_list["unvisited_castle_cnt"] = unvisited_castle_cnt
