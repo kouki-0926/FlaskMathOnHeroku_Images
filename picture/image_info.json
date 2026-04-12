@@ -4641,8 +4641,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.20008871527777,
-                    137.9931621875
+                    36.19465307539682,
+                    137.9954683531746
                 ]
             }
         ],
@@ -4758,11 +4758,29 @@
             {
                 "title": "塩嶺御野立公園",
                 "coords": [
+                    36.09275,
+                    138.028
+                ],
+                "date": "2026:04:05 15:02:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/塩嶺御野立公園.jpg"
+            },
+            {
+                "title": "塩嶺御野立公園_夜",
+                "coords": [
                     36.09246388888889,
                     138.02830555555556
                 ],
                 "date": "2026:03:20 18:47:08",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/塩嶺御野立公園.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/塩嶺御野立公園_夜.jpg"
+            },
+            {
+                "title": "塩嶺御野立公園_昼",
+                "coords": [
+                    36.09263888888889,
+                    138.0281222222222
+                ],
+                "date": "2026:04:05 15:10:09",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/塩嶺御野立公園_昼.jpg"
             },
             {
                 "title": "大正池",
@@ -5053,6 +5071,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/真田神社.jpg"
             },
             {
+                "title": "立石公園",
+                "coords": [
+                    36.05331666666667,
+                    138.1223138888889
+                ],
+                "date": "2026:04:12 01:12:04",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/立石公園.jpg"
+            },
+            {
                 "title": "諏訪大社上社前宮",
                 "coords": [
                     35.991305555555556,
@@ -5123,6 +5150,15 @@
                 ],
                 "date": "2026:01:31 12:57:29",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/象山神社.jpg"
+            },
+            {
+                "title": "道の駅_小坂田公園",
+                "coords": [
+                    36.10596944444445,
+                    137.98799166666666
+                ],
+                "date": "2026:04:05 14:48:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_小坂田公園.jpg"
             },
             {
                 "title": "鎮神社",
@@ -5352,10 +5388,10 @@
             {
                 "title": "高島城",
                 "coords": [
-                    36.03991944444444,
-                    138.11245833333334
+                    36.039005555555555,
+                    138.11239722222223
                 ],
-                "date": "2026:03:20 16:50:55",
+                "date": "2026:04:05 16:29:57",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高島城.jpg"
             },
             {
