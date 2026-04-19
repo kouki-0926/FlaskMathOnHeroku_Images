@@ -191,7 +191,11 @@
             },
             {
                 "title": "38 岩村城(岐阜県恵那市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城.jpg"
+            },
+            {
+                "title": "38 岩村城(岐阜県恵那市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城下町.jpg"
             },
             {
                 "title": "39 岐阜城(岐阜県岐阜市)",
@@ -234,8 +238,8 @@
                 "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
             }
         ],
-        "visited": 13,
-        "unvisited": 10
+        "visited": 14,
+        "unvisited": 9
     },
     "近畿地方": {
         "castle": [
@@ -553,5 +557,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 50
+    "unvisited_castle_cnt": 49
 }
