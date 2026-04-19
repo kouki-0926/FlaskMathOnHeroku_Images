@@ -4641,8 +4641,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.19465307539682,
-                    137.9954683531746
+                    36.186481589147284,
+                    137.9945240633075
                 ]
             }
         ],
@@ -5152,6 +5152,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/象山神社.jpg"
             },
             {
+                "title": "辰野PA",
+                "coords": [
+                    35.975516666666664,
+                    138.0034638888889
+                ],
+                "date": "2026:04:18 08:06:11",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/辰野PA.jpg"
+            },
+            {
                 "title": "道の駅_小坂田公園",
                 "coords": [
                     36.10596944444445,
@@ -5386,6 +5395,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_長野駅.jpg"
             },
             {
+                "title": "駒ケ岳SA",
+                "coords": [
+                    35.71104166666667,
+                    137.9062638888889
+                ],
+                "date": "2026:04:18 18:33:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駒ケ岳SA.jpg"
+            },
+            {
                 "title": "高島城",
                 "coords": [
                     36.039005555555555,
@@ -5409,8 +5427,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.82075644208038,
-                    137.09446702127659
+                    35.72112508680556,
+                    137.1897958767361
                 ]
             }
         ],
@@ -5443,6 +5461,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/円光寺.jpg"
             },
             {
+                "title": "勝川家",
+                "coords": [
+                    35.36539444444445,
+                    137.44104444444446
+                ],
+                "date": "2026:04:18 14:45:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/勝川家.jpg"
+            },
+            {
                 "title": "古い町並",
                 "coords": [
                     36.140747222222224,
@@ -5459,6 +5486,24 @@
                 ],
                 "date": "2025:02:15 12:39:43",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/噴泉池.jpg"
+            },
+            {
+                "title": "土佐屋",
+                "coords": [
+                    35.36550277777778,
+                    137.44152777777776
+                ],
+                "date": "2026:04:18 14:50:03",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/土佐屋.jpg"
+            },
+            {
+                "title": "天佑山大洞院",
+                "coords": [
+                    35.490233333333336,
+                    137.410325
+                ],
+                "date": "2026:04:18 15:46:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/天佑山大洞院.jpg"
             },
             {
                 "title": "宮川朝市",
@@ -5524,6 +5569,60 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜大仏殿.jpg"
             },
             {
+                "title": "岩村城",
+                "coords": [
+                    35.360425,
+                    137.45163055555557
+                ],
+                "date": "2026:04:18 13:47:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城.jpg"
+            },
+            {
+                "title": "岩村城下町",
+                "coords": [
+                    35.36612777777778,
+                    137.44023055555556
+                ],
+                "date": "2026:04:18 14:28:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城下町.jpg"
+            },
+            {
+                "title": "恵那峡SA",
+                "coords": [
+                    35.45562777777778,
+                    137.42790277777777
+                ],
+                "date": "2026:04:18 17:37:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/恵那峡SA.jpg"
+            },
+            {
+                "title": "恵那峡さざなみ公園",
+                "coords": [
+                    35.48150833333333,
+                    137.40670555555556
+                ],
+                "date": "2026:04:18 16:31:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/恵那峡さざなみ公園.jpg"
+            },
+            {
+                "title": "恵那峡大橋",
+                "coords": [
+                    35.48757222222222,
+                    137.41185
+                ],
+                "date": "2026:04:18 15:53:12",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/恵那峡大橋.jpg"
+            },
+            {
+                "title": "恵那峡展望台",
+                "coords": [
+                    35.48756111111111,
+                    137.4118638888889
+                ],
+                "date": "2026:04:18 15:56:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/恵那峡展望台.jpg"
+            },
+            {
                 "title": "旧高山町役場",
                 "coords": [
                     36.139963888888886,
@@ -5540,6 +5639,15 @@
                 ],
                 "date": "2025:02:16 14:57:37",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/明善寺.jpg"
+            },
+            {
+                "title": "木村邸",
+                "coords": [
+                    35.36510555555556,
+                    137.44215277777778
+                ],
+                "date": "2026:04:18 14:52:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/木村邸.jpg"
             },
             {
                 "title": "本光寺",
@@ -5641,6 +5749,33 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/真宗寺.jpg"
             },
             {
+                "title": "神坂PA",
+                "coords": [
+                    35.517802777777774,
+                    137.56945833333333
+                ],
+                "date": "2026:04:18 09:16:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/神坂PA.jpg"
+            },
+            {
+                "title": "苗木城",
+                "coords": [
+                    35.51390833333333,
+                    137.48474166666668
+                ],
+                "date": "2026:04:18 11:08:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/苗木城.jpg"
+            },
+            {
+                "title": "落合の石畳",
+                "coords": [
+                    35.514430555555556,
+                    137.54904166666665
+                ],
+                "date": "2026:04:18 10:21:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/落合の石畳.jpg"
+            },
+            {
                 "title": "虎渓用水広場",
                 "coords": [
                     35.33602222222222,
@@ -5693,6 +5828,15 @@
                 ],
                 "date": "2025:02:16 10:31:47",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/飛騨高山まちの博物館.jpg"
+            },
+            {
+                "title": "馬籠宿",
+                "coords": [
+                    35.526383333333335,
+                    137.56723055555557
+                ],
+                "date": "2026:04:18 09:32:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/馬籠宿.jpg"
             },
             {
                 "title": "駅名標_下呂駅",
@@ -5801,6 +5945,33 @@
                 ],
                 "date": "2024:11:19 12:26:46",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_岐阜駅.jpg"
+            },
+            {
+                "title": "駅舎_岩村駅",
+                "coords": [
+                    35.3689,
+                    137.43456944444443
+                ],
+                "date": "2026:04:18 15:07:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_岩村駅.jpg"
+            },
+            {
+                "title": "駅舎_恵那駅",
+                "coords": [
+                    35.45484166666667,
+                    137.4080972222222
+                ],
+                "date": "2026:04:18 17:08:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_恵那駅.jpg"
+            },
+            {
+                "title": "駅舎_恵那駅_明知鉄道",
+                "coords": [
+                    35.455127777777776,
+                    137.40861388888888
+                ],
+                "date": "2026:04:18 17:07:20",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/駅舎_恵那駅_明知鉄道.jpg"
             },
             {
                 "title": "駅舎_飛騨古川駅",
