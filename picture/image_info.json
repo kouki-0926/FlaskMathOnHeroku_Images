@@ -4641,12 +4641,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.186481589147284,
-                    137.9945240633075
+                    36.16412288647343,
+                    137.99610226449275
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "いなっせ",
+                "coords": [
+                    35.839077777777774,
+                    137.95863333333332
+                ],
+                "date": "2026:04:25 18:38:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/いなっせ.jpg"
+            },
             {
                 "title": "みどり湖PA",
                 "coords": [
@@ -5071,6 +5080,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/真田神社.jpg"
             },
             {
+                "title": "福与の絶景スポット",
+                "coords": [
+                    35.88773333333334,
+                    138.00501944444446
+                ],
+                "date": "2026:04:25 16:42:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/福与の絶景スポット.jpg"
+            },
+            {
                 "title": "立石公園",
                 "coords": [
                     36.05331666666667,
@@ -5314,6 +5332,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_上諏訪駅.jpg"
             },
             {
+                "title": "駅舎_伊那市駅",
+                "coords": [
+                    35.83876111111111,
+                    137.95901388888888
+                ],
+                "date": "2026:04:25 18:37:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_伊那市駅.jpg"
+            },
+            {
                 "title": "駅舎_南木曽駅",
                 "coords": [
                     35.59869444444445,
@@ -5411,6 +5438,33 @@
                 ],
                 "date": "2026:04:05 16:29:57",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高島城.jpg"
+            },
+            {
+                "title": "高遠ダム",
+                "coords": [
+                    35.82969166666667,
+                    138.0629111111111
+                ],
+                "date": "2026:04:25 17:30:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠ダム.jpg"
+            },
+            {
+                "title": "高遠城",
+                "coords": [
+                    35.83315277777778,
+                    138.06300277777777
+                ],
+                "date": "2026:04:25 17:12:22",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠城.jpg"
+            },
+            {
+                "title": "高遠閣",
+                "coords": [
+                    35.83347222222222,
+                    138.06375833333334
+                ],
+                "date": "2026:04:25 17:52:53",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠閣.jpg"
             },
             {
                 "title": "黒姫野尻湖PA",
