@@ -155,7 +155,7 @@
             },
             {
                 "title": "30 高遠城(長野県伊那市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠城.jpg"
             },
             {
                 "title": "31 新発田城(新潟県新発田市)",
@@ -238,8 +238,8 @@
                 "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
             }
         ],
-        "visited": 14,
-        "unvisited": 9
+        "visited": 15,
+        "unvisited": 8
     },
     "近畿地方": {
         "castle": [
@@ -557,5 +557,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 49
+    "unvisited_castle_cnt": 48
 }
