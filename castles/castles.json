@@ -131,7 +131,15 @@
             },
             {
                 "title": "28 小諸城(長野県小諸市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城.jpg"
+            },
+            {
+                "title": "28 小諸城(長野県小諸市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_三の門.jpg"
+            },
+            {
+                "title": "28 小諸城(長野県小諸市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_大手門.jpg"
             },
             {
                 "title": "29 松本城(長野県松本市)",
@@ -238,8 +246,8 @@
                 "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
             }
         ],
-        "visited": 15,
-        "unvisited": 8
+        "visited": 16,
+        "unvisited": 7
     },
     "近畿地方": {
         "castle": [
@@ -557,5 +565,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 48
+    "unvisited_castle_cnt": 47
 }
