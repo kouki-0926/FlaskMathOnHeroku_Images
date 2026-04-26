@@ -25,9 +25,9 @@ area_list = [
 ]
 
 unvisited_castle_cnt = 0
-with open("castles/100castles.txt", "r", encoding="utf-8") as f:
+with open("castles/100castles.csv", "r", encoding="utf-8") as f:
     for line in f:
-        castle_info = line.split("\t")
+        castle_info = line.strip().split(",")
 
         # 城が何地方に属するかを判定
         for area_idx in range(len(area_list)):
