@@ -60,5 +60,5 @@ with open("castles/100castles.csv", "r", encoding="utf-8") as f:
     # 未訪問の城の数をリストに追加
     castles_list["unvisited_castle_cnt"] = unvisited_castle_cnt
 
-with open("castles/100castles.json", "w", encoding="utf-8") as f:
+with open("castles/castles.json", "w", encoding="utf-8") as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)
