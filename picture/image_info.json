@@ -4641,8 +4641,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.16412288647343,
-                    137.99610226449275
+                    36.17690946601942,
+                    138.0437120819849
                 ]
             }
         ],
@@ -4718,6 +4718,15 @@
                 ],
                 "date": "2025:08:23 12:54:22",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上高地.jpg"
+            },
+            {
+                "title": "五稜郭であいの館",
+                "coords": [
+                    36.197175,
+                    138.50225833333334
+                ],
+                "date": "2026:04:26 16:11:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/五稜郭であいの館.jpg"
             },
             {
                 "title": "千曲川さかきPA",
@@ -4882,6 +4891,42 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小布施PA.jpg"
             },
             {
+                "title": "小諸城",
+                "coords": [
+                    36.32688888888889,
+                    138.41825833333334
+                ],
+                "date": "2026:04:26 15:04:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城.jpg"
+            },
+            {
+                "title": "小諸城_三の門",
+                "coords": [
+                    36.32765555555556,
+                    138.42045555555555
+                ],
+                "date": "2026:04:26 14:04:53",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_三の門.jpg"
+            },
+            {
+                "title": "小諸城_大手門",
+                "coords": [
+                    36.328894444444444,
+                    138.42190555555555
+                ],
+                "date": "2026:04:26 15:11:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_大手門.jpg"
+            },
+            {
+                "title": "小諸市動物園",
+                "coords": [
+                    36.32575555555555,
+                    138.41735833333334
+                ],
+                "date": "2026:04:26 14:42:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸市動物園.jpg"
+            },
+            {
                 "title": "山と自然博物館",
                 "coords": [
                     36.25986388888889,
@@ -4934,6 +4979,15 @@
                 ],
                 "date": "2025:05:18 15:28:10",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の大橋.jpg"
+            },
+            {
+                "title": "東部湯の丸SA",
+                "coords": [
+                    36.37054722222222,
+                    138.34706111111112
+                ],
+                "date": "2026:04:26 17:28:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/東部湯の丸SA.jpg"
             },
             {
                 "title": "松代城",
@@ -5096,6 +5150,15 @@
                 ],
                 "date": "2026:04:12 01:12:04",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/立石公園.jpg"
+            },
+            {
+                "title": "西浦ダム",
+                "coords": [
+                    36.32743333333333,
+                    138.4162
+                ],
+                "date": "2026:04:26 14:27:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/西浦ダム.jpg"
             },
             {
                 "title": "諏訪大社上社前宮",
@@ -5386,6 +5449,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_姨捨駅.jpg"
             },
             {
+                "title": "駅舎_小諸駅",
+                "coords": [
+                    36.32745833333333,
+                    138.42183055555554
+                ],
+                "date": "2026:04:26 15:13:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_小諸駅.jpg"
+            },
+            {
                 "title": "駅舎_平田駅",
                 "coords": [
                     36.191719444444445,
@@ -5411,6 +5483,15 @@
                 ],
                 "date": "2025:03:21 12:48:15",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_松本駅.jpg"
+            },
+            {
+                "title": "駅舎_臼田駅",
+                "coords": [
+                    36.193958333333335,
+                    138.4879
+                ],
+                "date": "2026:04:26 16:51:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_臼田駅.jpg"
             },
             {
                 "title": "駅舎_長野駅",
@@ -5474,6 +5555,24 @@
                 ],
                 "date": "2026:02:14 11:36:53",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/黒姫野尻湖PA.jpg"
+            },
+            {
+                "title": "龍岡城",
+                "coords": [
+                    36.196505555555554,
+                    138.50218333333333
+                ],
+                "date": "2026:04:26 16:06:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/龍岡城.jpg"
+            },
+            {
+                "title": "龍岡城_五稜郭展望台",
+                "coords": [
+                    36.20009722222222,
+                    138.505525
+                ],
+                "date": "2026:04:26 16:33:36",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/龍岡城_五稜郭展望台.jpg"
             }
         ]
     },
