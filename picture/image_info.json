@@ -4641,8 +4641,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.17690946601942,
-                    138.0437120819849
+                    36.150502601010096,
+                    138.0381981060606
                 ]
             }
         ],
@@ -4756,6 +4756,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/善光寺_山門.jpg"
             },
             {
+                "title": "善知鳥峠",
+                "coords": [
+                    36.075947222222226,
+                    137.98010277777777
+                ],
+                "date": "2026:05:02 13:33:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/善知鳥峠.jpg"
+            },
+            {
                 "title": "四柱神社",
                 "coords": [
                     36.234525,
@@ -4772,6 +4781,15 @@
                 ],
                 "date": "2025:04:12 15:52:53",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/四柱神社_桜.jpg"
+            },
+            {
+                "title": "坂戸橋",
+                "coords": [
+                    35.64191111111111,
+                    137.94407777777778
+                ],
+                "date": "2026:05:02 17:04:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/坂戸橋.jpg"
             },
             {
                 "title": "塩嶺御野立公園",
@@ -4925,6 +4943,15 @@
                 ],
                 "date": "2026:04:26 14:42:41",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸市動物園.jpg"
+            },
+            {
+                "title": "小黒川PA",
+                "coords": [
+                    35.84115555555555,
+                    137.93212777777777
+                ],
+                "date": "2026:05:02 18:22:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小黒川PA.jpg"
             },
             {
                 "title": "山と自然博物館",
@@ -5251,6 +5278,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_小坂田公園.jpg"
             },
             {
+                "title": "道の駅_田切の里",
+                "coords": [
+                    35.69077222222222,
+                    137.94000277777778
+                ],
+                "date": "2026:05:02 15:08:37",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_田切の里.jpg"
+            },
+            {
                 "title": "鎮神社",
                 "coords": [
                     35.961891666666666,
@@ -5258,6 +5294,24 @@
                 ],
                 "date": "2025:05:18 13:27:32",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/鎮神社.jpg"
+            },
+            {
+                "title": "陣馬形山",
+                "coords": [
+                    35.67412222222222,
+                    137.9834277777778
+                ],
+                "date": "2026:05:02 15:51:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/陣馬形山.jpg"
+            },
+            {
+                "title": "陣馬形山荘",
+                "coords": [
+                    35.672825,
+                    137.9833972222222
+                ],
+                "date": "2026:05:02 16:27:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/陣馬形山荘.jpg"
             },
             {
                 "title": "駅名標_上松駅",
@@ -5501,6 +5555,15 @@
                 ],
                 "date": "2022:02:12 10:02:15",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_長野駅.jpg"
+            },
+            {
+                "title": "駅舎_駒ヶ根駅",
+                "coords": [
+                    35.73687777777778,
+                    137.9363111111111
+                ],
+                "date": "2026:05:02 17:53:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_駒ヶ根駅.jpg"
             },
             {
                 "title": "駒ケ岳SA",
