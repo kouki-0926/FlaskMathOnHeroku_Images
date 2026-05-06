@@ -4641,8 +4641,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.150502601010096,
-                    138.0381981060606
+                    36.16525179449361,
+                    138.04495017207472
                 ]
             }
         ],
@@ -4702,6 +4702,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上田城.jpg"
             },
             {
+                "title": "上田市立博物館",
+                "coords": [
+                    36.403777777777776,
+                    138.24623055555554
+                ],
+                "date": "2026:05:03 12:27:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上田市立博物館.jpg"
+            },
+            {
                 "title": "上諏訪駅_足湯",
                 "coords": [
                     36.04680277777778,
@@ -4718,15 +4727,6 @@
                 ],
                 "date": "2025:08:23 12:54:22",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上高地.jpg"
-            },
-            {
-                "title": "五稜郭であいの館",
-                "coords": [
-                    36.197175,
-                    138.50225833333334
-                ],
-                "date": "2026:04:26 16:11:21",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/五稜郭であいの館.jpg"
             },
             {
                 "title": "千曲川さかきPA",
@@ -4997,15 +4997,6 @@
                 ],
                 "date": "2025:03:21 15:33:44",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/旧開智学校.jpg"
-            },
-            {
-                "title": "木曽の大橋",
-                "coords": [
-                    35.966325,
-                    137.81411666666668
-                ],
-                "date": "2025:05:18 15:28:10",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の大橋.jpg"
             },
             {
                 "title": "東部湯の丸SA",
@@ -5323,6 +5314,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_上松駅.jpg"
             },
             {
+                "title": "駅名標_上田駅",
+                "coords": [
+                    36.396347222222225,
+                    138.24966388888888
+                ],
+                "date": "2026:05:03 13:25:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_上田駅.jpg"
+            },
+            {
                 "title": "駅名標_上諏訪駅",
                 "coords": [
                     36.04656111111111,
@@ -5377,6 +5377,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_姨捨駅.jpg"
             },
             {
+                "title": "駅名標_小諸駅",
+                "coords": [
+                    36.327086111111115,
+                    138.42156944444446
+                ],
+                "date": "2026:05:03 15:38:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_小諸駅.jpg"
+            },
+            {
                 "title": "駅名標_平田駅",
                 "coords": [
                     36.191875,
@@ -5411,6 +5420,15 @@
                 ],
                 "date": "2022:02:12 11:30:58",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_権堂駅.jpg"
+            },
+            {
+                "title": "駅名標_篠ノ井駅",
+                "coords": [
+                    36.57691666666667,
+                    138.13783333333333
+                ],
+                "date": "2026:05:03 17:00:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅名標_篠ノ井駅.jpg"
             },
             {
                 "title": "駅名標_長野駅",
@@ -5537,6 +5555,15 @@
                 ],
                 "date": "2025:03:21 12:48:15",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_松本駅.jpg"
+            },
+            {
+                "title": "駅舎_篠ノ井駅",
+                "coords": [
+                    36.57753888888889,
+                    138.13865555555554
+                ],
+                "date": "2026:05:03 16:57:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_篠ノ井駅.jpg"
             },
             {
                 "title": "駅舎_臼田駅",
