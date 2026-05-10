@@ -3591,8 +3591,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    37.52471052842377,
-                    138.6204822997416
+                    37.47425433912037,
+                    138.5449148148148
                 ]
             }
         ],
@@ -3634,6 +3634,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/SI2023.jpg"
             },
             {
+                "title": "ヒスイ海岸",
+                "coords": [
+                    37.05142222222222,
+                    137.879775
+                ],
+                "date": "2026:05:09 17:31:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/ヒスイ海岸.jpg"
+            },
+            {
+                "title": "フォッサマグナミュージアム",
+                "coords": [
+                    37.02547777777778,
+                    137.86956666666666
+                ],
+                "date": "2026:05:09 16:34:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/フォッサマグナミュージアム.jpg"
+            },
+            {
                 "title": "名立谷浜SA",
                 "coords": [
                     37.16553611111111,
@@ -3650,6 +3668,15 @@
                 ],
                 "date": "2026:02:14 11:48:12",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/妙高SA.jpg"
+            },
+            {
+                "title": "弁天岩",
+                "coords": [
+                    37.10841388888889,
+                    137.99385
+                ],
+                "date": "2026:05:09 18:12:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/弁天岩.jpg"
             },
             {
                 "title": "新井PA",
@@ -3686,6 +3713,15 @@
                 ],
                 "date": "2023:03:29 13:41:47",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/日和山展望台.jpg"
+            },
+            {
+                "title": "日本海展望台",
+                "coords": [
+                    37.04665833333333,
+                    137.85971111111112
+                ],
+                "date": "2026:05:09 17:03:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/日本海展望台.jpg"
             },
             {
                 "title": "旧新潟税関庁舎",
@@ -3758,6 +3794,15 @@
                 ],
                 "date": "2025:02:26 15:45:16",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/笹川流れ.jpg"
+            },
+            {
+                "title": "糸魚川-静岡構造線断層露頭",
+                "coords": [
+                    36.969683333333336,
+                    137.87226944444444
+                ],
+                "date": "2026:05:09 15:11:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/糸魚川-静岡構造線断層露頭.jpg"
             },
             {
                 "title": "翡翠ふるさと館",
@@ -4641,8 +4686,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.16525179449361,
-                    138.04495017207472
+                    36.19158351698806,
+                    138.0337891184573
                 ]
             }
         ],
@@ -4999,6 +5044,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/旧開智学校.jpg"
             },
             {
+                "title": "木崎湖",
+                "coords": [
+                    36.548230555555556,
+                    137.83737222222223
+                ],
+                "date": "2026:05:09 13:14:48",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木崎湖.jpg"
+            },
+            {
                 "title": "東部湯の丸SA",
                 "coords": [
                     36.37054722222222,
@@ -5161,6 +5215,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/福与の絶景スポット.jpg"
             },
             {
+                "title": "穂高神社",
+                "coords": [
+                    36.33862222222222,
+                    137.8848722222222
+                ],
+                "date": "2026:05:09 11:40:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/穂高神社.jpg"
+            },
+            {
                 "title": "立石公園",
                 "coords": [
                     36.05331666666667,
@@ -5269,6 +5332,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_小坂田公園.jpg"
             },
             {
+                "title": "道の駅_小谷",
+                "coords": [
+                    36.845663888888886,
+                    137.90026944444443
+                ],
+                "date": "2026:05:09 14:26:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_小谷.jpg"
+            },
+            {
                 "title": "道の駅_田切の里",
                 "coords": [
                     35.69077222222222,
@@ -5276,6 +5348,15 @@
                 ],
                 "date": "2026:05:02 15:08:37",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_田切の里.jpg"
+            },
+            {
+                "title": "道の駅_白馬",
+                "coords": [
+                    36.653552777777776,
+                    137.84725555555556
+                ],
+                "date": "2026:05:09 13:42:43",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_白馬.jpg"
             },
             {
                 "title": "鎮神社",
@@ -5476,6 +5557,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_伊那市駅.jpg"
             },
             {
+                "title": "駅舎_信濃大町駅",
+                "coords": [
+                    36.500058333333335,
+                    137.86097777777778
+                ],
+                "date": "2026:05:09 12:56:08",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_信濃大町駅.jpg"
+            },
+            {
+                "title": "駅舎_南小谷駅",
+                "coords": [
+                    36.77468611111111,
+                    137.90817222222222
+                ],
+                "date": "2026:05:09 14:09:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_南小谷駅.jpg"
+            },
+            {
                 "title": "駅舎_南木曽駅",
                 "coords": [
                     35.59869444444445,
@@ -5557,6 +5656,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_松本駅.jpg"
             },
             {
+                "title": "駅舎_穂高駅",
+                "coords": [
+                    36.339775,
+                    137.88197222222223
+                ],
+                "date": "2026:05:09 11:34:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_穂高駅.jpg"
+            },
+            {
                 "title": "駅舎_篠ノ井駅",
                 "coords": [
                     36.57753888888889,
@@ -5636,6 +5744,15 @@
                 ],
                 "date": "2026:04:25 17:52:53",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠閣.jpg"
+            },
+            {
+                "title": "鷹狩山",
+                "coords": [
+                    36.50756388888889,
+                    137.88822222222223
+                ],
+                "date": "2026:05:09 12:25:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/鷹狩山.jpg"
             },
             {
                 "title": "黒姫野尻湖PA",
