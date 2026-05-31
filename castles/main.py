@@ -41,7 +41,8 @@ with open("castles/100castles.csv", "r", encoding="utf-8") as f:
             if castle_info[2] in key:
                 for marker in image_info[key]["markers"]:
                     if castle_info[1] in marker["title"]:
-                        image_list.append(marker["photo"])
+                        if "駅名標_" not in castle_info[1] and "駅舎_" not in marker["title"]:
+                            image_list.append(marker["photo"])
 
         # 訪問済み・未訪問の数をカウント
         if len(image_list) > 0:
