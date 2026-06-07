@@ -4686,8 +4686,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.19158351698806,
-                    138.0337891184573
+                    36.13624050042409,
+                    138.01812614503817
                 ]
             }
         ],
@@ -4702,12 +4702,30 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/いなっせ.jpg"
             },
             {
+                "title": "ご湯っくり",
+                "coords": [
+                    35.43756944444444,
+                    137.8191388888889
+                ],
+                "date": "2026:06:06 18:47:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/ご湯っくり.jpg"
+            },
+            {
+                "title": "そらさんぽ天龍峡",
+                "coords": [
+                    35.43324722222222,
+                    137.81582777777777
+                ],
+                "date": "2026:06:06 17:00:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/そらさんぽ天龍峡.jpg"
+            },
+            {
                 "title": "みどり湖PA",
                 "coords": [
-                    36.09672222222222,
-                    137.99722222222223
+                    36.09670555555556,
+                    137.99719166666668
                 ],
-                "date": "2025:12:29 14:41:45",
+                "date": "2026:05:30 23:40:53",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/みどり湖PA.jpg"
             },
             {
@@ -4772,6 +4790,15 @@
                 ],
                 "date": "2025:08:23 12:54:22",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上高地.jpg"
+            },
+            {
+                "title": "元善光寺",
+                "coords": [
+                    35.533877777777775,
+                    137.85664444444444
+                ],
+                "date": "2026:06:06 15:29:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/元善光寺.jpg"
             },
             {
                 "title": "千曲川さかきPA",
@@ -4871,6 +4898,42 @@
                 ],
                 "date": "2025:08:23 10:56:10",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/大正池.jpg"
+            },
+            {
+                "title": "天龍峡",
+                "coords": [
+                    35.4374,
+                    137.82037222222223
+                ],
+                "date": "2026:06:06 16:14:53",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/天龍峡.jpg"
+            },
+            {
+                "title": "天龍峡PA",
+                "coords": [
+                    35.435208333333335,
+                    137.81523055555556
+                ],
+                "date": "2026:06:06 17:23:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/天龍峡PA.jpg"
+            },
+            {
+                "title": "天龍峡_そらさんぽ天龍峡",
+                "coords": [
+                    35.432922222222224,
+                    137.816925
+                ],
+                "date": "2026:06:06 17:17:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/天龍峡_そらさんぽ天龍峡.jpg"
+            },
+            {
+                "title": "天龍峡_つつじ橋",
+                "coords": [
+                    35.437469444444446,
+                    137.8206638888889
+                ],
+                "date": "2026:06:06 16:17:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/天龍峡_つつじ橋.jpg"
             },
             {
                 "title": "奈良井宿",
@@ -5015,6 +5078,15 @@
                 ],
                 "date": "2026:01:31 13:34:56",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/川中島古戦場.jpg"
+            },
+            {
+                "title": "座光寺PA",
+                "coords": [
+                    35.54341388888889,
+                    137.8427111111111
+                ],
+                "date": "2026:06:06 15:13:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/座光寺PA.jpg"
             },
             {
                 "title": "日本三大車窓_姨捨_冬",
@@ -5566,6 +5638,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_信濃大町駅.jpg"
             },
             {
+                "title": "駅舎_元善光寺駅",
+                "coords": [
+                    35.53403055555555,
+                    137.8612361111111
+                ],
+                "date": "2026:06:06 15:36:08",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_元善光寺駅.jpg"
+            },
+            {
                 "title": "駅舎_南小谷駅",
                 "coords": [
                     36.77468611111111,
@@ -5600,6 +5681,15 @@
                 ],
                 "date": "2025:05:25 10:59:04",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_塩尻駅.jpg"
+            },
+            {
+                "title": "駅舎_天竜峡駅",
+                "coords": [
+                    35.440777777777775,
+                    137.81732222222223
+                ],
+                "date": "2026:06:06 16:34:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_天竜峡駅.jpg"
             },
             {
                 "title": "駅舎_奈良井駅",
