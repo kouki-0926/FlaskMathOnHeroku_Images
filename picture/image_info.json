@@ -3591,8 +3591,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    37.47425433912037,
-                    138.5449148148148
+                    37.405275611111115,
+                    138.44445075329565
                 ]
             }
         ],
@@ -3652,6 +3652,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/フォッサマグナミュージアム.jpg"
             },
             {
+                "title": "五智国分寺",
+                "coords": [
+                    37.168225,
+                    138.2249611111111
+                ],
+                "date": "2026:06:08 10:05:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/五智国分寺.jpg"
+            },
+            {
+                "title": "五智国分寺_三重塔",
+                "coords": [
+                    37.16815555555556,
+                    138.22502222222224
+                ],
+                "date": "2026:06:08 10:06:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/五智国分寺_三重塔.jpg"
+            },
+            {
                 "title": "名立谷浜SA",
                 "coords": [
                     37.16553611111111,
@@ -3670,13 +3688,49 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/妙高SA.jpg"
             },
             {
+                "title": "居多ヶ浜",
+                "coords": [
+                    37.16954722222222,
+                    138.22210555555554
+                ],
+                "date": "2026:06:08 10:27:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/居多ヶ浜.jpg"
+            },
+            {
+                "title": "居多神社",
+                "coords": [
+                    37.16645,
+                    138.22335833333332
+                ],
+                "date": "2026:06:08 09:57:38",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/居多神社.jpg"
+            },
+            {
                 "title": "弁天岩",
+                "coords": [
+                    37.109025,
+                    137.992675
+                ],
+                "date": "2026:06:08 11:26:06",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/弁天岩.jpg"
+            },
+            {
+                "title": "弁天岩_夕日",
                 "coords": [
                     37.10841388888889,
                     137.99385
                 ],
                 "date": "2026:05:09 18:12:41",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/弁天岩.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/弁天岩_夕日.jpg"
+            },
+            {
+                "title": "弁天岩_曙橋",
+                "coords": [
+                    37.108441666666664,
+                    137.993775
+                ],
+                "date": "2026:06:08 11:29:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/弁天岩_曙橋.jpg"
             },
             {
                 "title": "新井PA",
@@ -3740,6 +3794,15 @@
                 ],
                 "date": "2023:03:29 14:32:16",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/旧第四銀行住吉町支店.jpg"
+            },
+            {
+                "title": "旧親不知トンネル",
+                "coords": [
+                    36.99324722222222,
+                    137.6984111111111
+                ],
+                "date": "2026:06:08 12:51:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/旧親不知トンネル.jpg"
             },
             {
                 "title": "旧齋藤家別邸",
@@ -3841,6 +3904,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/親不知.jpg"
             },
             {
+                "title": "親不知_4世代道路",
+                "coords": [
+                    36.99322222222222,
+                    137.69702222222222
+                ],
+                "date": "2026:06:08 12:43:09",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/親不知_4世代道路.jpg"
+            },
+            {
                 "title": "親不知_北陸自動車道_国道8号_北陸本線",
                 "coords": [
                     37.00327222222222,
@@ -3848,6 +3920,33 @@
                 ],
                 "date": "2023:03:30 16:01:24",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/親不知_北陸自動車道_国道8号_北陸本線.jpg"
+            },
+            {
+                "title": "親不知子不知",
+                "coords": [
+                    36.99379722222222,
+                    137.69835
+                ],
+                "date": "2026:06:08 12:58:01",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/親不知子不知.jpg"
+            },
+            {
+                "title": "道の駅_うみてらす名立",
+                "coords": [
+                    37.16363055555556,
+                    138.08694444444444
+                ],
+                "date": "2026:06:08 10:53:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/道の駅_うみてらす名立.jpg"
+            },
+            {
+                "title": "道の駅_マリンドリーム能生",
+                "coords": [
+                    37.11331111111111,
+                    138.00405833333335
+                ],
+                "date": "2026:06:08 11:15:35",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/道の駅_マリンドリーム能生.jpg"
             },
             {
                 "title": "道の駅_親不知ビアパーク",
@@ -4035,8 +4134,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.7235152173913,
-                    137.19890519323673
+                    36.749217450142446,
+                    137.13615498575498
                 ]
             }
         ],
@@ -4114,6 +4213,33 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山港展望台.jpg"
             },
             {
+                "title": "富山県営渡船_堀岡発着場",
+                "coords": [
+                    36.77322777777778,
+                    137.11862222222223
+                ],
+                "date": "2026:06:08 17:43:16",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山県営渡船_堀岡発着場.jpg"
+            },
+            {
+                "title": "富山県営渡船_新湊大橋",
+                "coords": [
+                    36.77301666666666,
+                    137.11747777777776
+                ],
+                "date": "2026:06:08 17:41:36",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山県営渡船_新湊大橋.jpg"
+            },
+            {
+                "title": "富山県営渡船_越の潟発着場",
+                "coords": [
+                    36.77473888888889,
+                    137.11170833333333
+                ],
+                "date": "2026:06:08 17:25:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富山県営渡船_越の潟発着場.jpg"
+            },
+            {
                 "title": "富岩運河環水公園",
                 "coords": [
                     36.707816666666666,
@@ -4123,6 +4249,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/富岩運河環水公園.jpg"
             },
             {
+                "title": "射水神社",
+                "coords": [
+                    36.74856666666667,
+                    137.02128611111112
+                ],
+                "date": "2026:06:09 08:07:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/射水神社.jpg"
+            },
+            {
                 "title": "岩瀬浜",
                 "coords": [
                     36.76386388888889,
@@ -4130,6 +4265,15 @@
                 ],
                 "date": "2023:03:31 11:09:06",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/岩瀬浜.jpg"
+            },
+            {
+                "title": "新湊大橋",
+                "coords": [
+                    36.77590277777778,
+                    137.11210555555556
+                ],
+                "date": "2026:06:08 17:23:20",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/新湊大橋.jpg"
             },
             {
                 "title": "有磯海SA",
@@ -4148,6 +4292,60 @@
                 ],
                 "date": "2023:03:31 09:09:28",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/松川.jpg"
+            },
+            {
+                "title": "比美乃江公園_展望台",
+                "coords": [
+                    36.864041666666665,
+                    136.98834166666666
+                ],
+                "date": "2026:06:09 11:19:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/比美乃江公園_展望台.jpg"
+            },
+            {
+                "title": "瑞龍寺",
+                "coords": [
+                    36.73558055555556,
+                    137.01085
+                ],
+                "date": "2026:06:09 09:46:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/瑞龍寺.jpg"
+            },
+            {
+                "title": "道の駅_ひみ番屋街",
+                "coords": [
+                    36.864375,
+                    136.9868
+                ],
+                "date": "2026:06:09 11:39:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/道の駅_ひみ番屋街.jpg"
+            },
+            {
+                "title": "道の駅_雨晴",
+                "coords": [
+                    36.815127777777775,
+                    137.04110833333334
+                ],
+                "date": "2026:06:09 10:46:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/道の駅_雨晴.jpg"
+            },
+            {
+                "title": "雨晴海岸",
+                "coords": [
+                    36.81517777777778,
+                    137.04158055555556
+                ],
+                "date": "2026:06:09 10:35:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/雨晴海岸.jpg"
+            },
+            {
+                "title": "雨晴海岸_キハ40",
+                "coords": [
+                    36.81486388888889,
+                    137.041625
+                ],
+                "date": "2026:06:09 10:31:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/雨晴海岸_キハ40.jpg"
             },
             {
                 "title": "駅名標_富山駅_在来線",
@@ -4222,6 +4420,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_富山駅_春.jpg"
             },
             {
+                "title": "駅舎_新高岡駅_在来線",
+                "coords": [
+                    36.72686111111111,
+                    137.01081944444445
+                ],
+                "date": "2026:06:08 18:55:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_新高岡駅_在来線.jpg"
+            },
+            {
+                "title": "駅舎_新高岡駅_新幹線",
+                "coords": [
+                    36.72658888888889,
+                    137.01065
+                ],
+                "date": "2026:06:08 18:56:38",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_新高岡駅_新幹線.jpg"
+            },
+            {
                 "title": "駅舎_東岩瀬駅",
                 "coords": [
                     36.75256666666667,
@@ -4231,6 +4447,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_東岩瀬駅.jpg"
             },
             {
+                "title": "駅舎_氷見駅",
+                "coords": [
+                    36.84954444444445,
+                    136.99038611111112
+                ],
+                "date": "2026:06:09 11:05:38",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_氷見駅.jpg"
+            },
+            {
+                "title": "駅舎_越ノ潟駅",
+                "coords": [
+                    36.77488611111111,
+                    137.11167777777777
+                ],
+                "date": "2026:06:08 17:25:11",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_越ノ潟駅.jpg"
+            },
+            {
                 "title": "駅舎_高岡駅",
                 "coords": [
                     36.741730555555556,
@@ -4238,6 +4472,15 @@
                 ],
                 "date": "2023:03:31 12:50:42",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/駅舎_高岡駅.jpg"
+            },
+            {
+                "title": "高岡城",
+                "coords": [
+                    36.74613055555555,
+                    137.02018611111112
+                ],
+                "date": "2026:06:09 08:30:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/高岡城.jpg"
             },
             {
                 "title": "高岡大仏",
@@ -4686,8 +4929,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.13624050042409,
-                    138.01812614503817
+                    36.13516517255892,
+                    138.01914619107745
                 ]
             }
         ],
@@ -5771,6 +6014,15 @@
                 ],
                 "date": "2026:04:26 16:51:14",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_臼田駅.jpg"
+            },
+            {
+                "title": "駅舎_茅野駅",
+                "coords": [
+                    35.99429722222222,
+                    138.1527722222222
+                ],
+                "date": "2026:05:24 13:44:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_茅野駅.jpeg"
             },
             {
                 "title": "駅舎_長野駅",
