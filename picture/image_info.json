@@ -4497,12 +4497,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.56783981481481,
-                    136.65706041666667
+                    36.739673397435894,
+                    136.74523664529914
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "こまつの杜",
+                "coords": [
+                    36.402425,
+                    136.453675
+                ],
+                "date": "2026:06:10 10:50:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/こまつの杜.jpg"
+            },
             {
                 "title": "にし茶屋街",
                 "coords": [
@@ -4520,6 +4529,24 @@
                 ],
                 "date": "2023:04:01 10:07:09",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/ひがし茶屋街.jpg"
+            },
+            {
+                "title": "七尾城",
+                "coords": [
+                    37.00895277777778,
+                    136.98411666666667
+                ],
+                "date": "2026:06:09 12:46:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城.jpg"
+            },
+            {
+                "title": "七尾城山展望台",
+                "coords": [
+                    37.01136666666667,
+                    136.99235555555555
+                ],
+                "date": "2026:06:09 13:13:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城山展望台.jpg"
             },
             {
                 "title": "主計町茶屋街",
@@ -4549,6 +4576,42 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/兼六園_桜.jpg"
             },
             {
+                "title": "千里浜なぎさドライブウェイ",
+                "coords": [
+                    36.86275555555556,
+                    136.75775277777777
+                ],
+                "date": "2026:06:09 16:28:09",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/千里浜なぎさドライブウェイ.jpg"
+            },
+            {
+                "title": "城山神社",
+                "coords": [
+                    37.00890277777778,
+                    136.98416111111112
+                ],
+                "date": "2026:06:09 12:36:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/城山神社.jpg"
+            },
+            {
+                "title": "妙成寺",
+                "coords": [
+                    36.953922222222225,
+                    136.77658055555557
+                ],
+                "date": "2026:06:09 14:53:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/妙成寺.jpg"
+            },
+            {
+                "title": "妙成寺_五重塔",
+                "coords": [
+                    36.95365555555556,
+                    136.77589444444445
+                ],
+                "date": "2026:06:09 15:21:01",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/妙成寺_五重塔.jpg"
+            },
+            {
                 "title": "尾山神社",
                 "coords": [
                     36.566119444444446,
@@ -4556,6 +4619,15 @@
                 ],
                 "date": "2023:04:01 08:25:23",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/尾山神社.jpg"
+            },
+            {
+                "title": "志雄PA",
+                "coords": [
+                    36.86258333333333,
+                    136.75813333333335
+                ],
+                "date": "2026:06:09 16:26:05",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/志雄PA.jpg"
             },
             {
                 "title": "武家屋敷跡_野村家",
@@ -4567,6 +4639,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/武家屋敷跡_野村家.jpg"
             },
             {
+                "title": "能越県境PA",
+                "coords": [
+                    36.96211111111111,
+                    137.04698055555556
+                ],
+                "date": "2026:06:09 12:05:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/能越県境PA.jpg"
+            },
+            {
+                "title": "西山PA",
+                "coords": [
+                    37.01074722222222,
+                    136.8067638888889
+                ],
+                "date": "2026:06:09 14:29:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/西山PA.jpg"
+            },
+            {
                 "title": "近江町市場",
                 "coords": [
                     36.57106111111111,
@@ -4574,6 +4664,24 @@
                 ],
                 "date": "2023:04:01 10:47:41",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/近江町市場.jpg"
+            },
+            {
+                "title": "道の駅_のと千里浜",
+                "coords": [
+                    36.88599444444444,
+                    136.7684638888889
+                ],
+                "date": "2026:06:09 17:08:30",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/道の駅_のと千里浜.jpg"
+            },
+            {
+                "title": "道の駅_能登食祭市場",
+                "coords": [
+                    37.04855833333333,
+                    136.9683222222222
+                ],
+                "date": "2026:06:09 13:59:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/道の駅_能登食祭市場.jpg"
             },
             {
                 "title": "金沢城",
@@ -4601,6 +4709,24 @@
                 ],
                 "date": "2023:03:31 14:19:22",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/駅名標_金沢駅.jpg"
+            },
+            {
+                "title": "駅舎_七尾駅",
+                "coords": [
+                    37.04289166666667,
+                    136.96435555555556
+                ],
+                "date": "2026:06:09 13:46:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/駅舎_七尾駅.jpg"
+            },
+            {
+                "title": "駅舎_小松駅",
+                "coords": [
+                    36.40256388888889,
+                    136.45387222222223
+                ],
+                "date": "2026:06:10 10:41:02",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/駅舎_小松駅.jpg"
             },
             {
                 "title": "駅舎_金沢駅",
