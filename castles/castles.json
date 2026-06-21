@@ -114,8 +114,12 @@
     "中部地方": {
         "castle": [
             {
-                "title": "24 武田氏館 武田神社(山梨県甲府市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "title": "24 武田氏館_武田神社(山梨県甲府市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社.jpg"
+            },
+            {
+                "title": "24 武田氏館_武田神社(山梨県甲府市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社_鳥居.jpg"
             },
             {
                 "title": "25 甲府城(山梨県甲府市)",
@@ -179,7 +183,11 @@
             },
             {
                 "title": "34 七尾城(石川県七尾市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城.jpg"
+            },
+            {
+                "title": "34 七尾城(石川県七尾市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城山展望台.jpg"
             },
             {
                 "title": "35 金沢城(石川県金沢市)",
@@ -254,8 +262,8 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城_馬防柵.jpg"
             }
         ],
-        "visited": 18,
-        "unvisited": 5
+        "visited": 20,
+        "unvisited": 3
     },
     "近畿地方": {
         "castle": [
@@ -565,5 +573,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 45
+    "unvisited_castle_cnt": 43
 }
