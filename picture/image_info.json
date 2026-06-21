@@ -4743,38 +4743,137 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.804307638888886,
-                    136.1300527777778
+                    35.89714247685185,
+                    136.18428368055555
                 ]
             }
         ],
         "markers": [
             {
-                "title": "敦賀_宇宙戦艦ヤマト像",
+                "title": "一乗谷城",
+                "coords": [
+                    35.99981388888889,
+                    136.29511944444445
+                ],
+                "date": "2026:06:10 15:46:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城.jpg"
+            },
+            {
+                "title": "一乗谷城_復原町並",
+                "coords": [
+                    35.998508333333334,
+                    136.2934888888889
+                ],
+                "date": "2026:06:10 15:27:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城_復原町並.jpg"
+            },
+            {
+                "title": "丸岡城",
+                "coords": [
+                    36.152297222222224,
+                    136.27145277777777
+                ],
+                "date": "2026:06:10 14:02:27",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/丸岡城.jpg"
+            },
+            {
+                "title": "北鯖江PA",
+                "coords": [
+                    35.97286944444444,
+                    136.20391944444444
+                ],
+                "date": "2026:06:10 18:22:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/北鯖江PA.jpg"
+            },
+            {
+                "title": "南条SA",
+                "coords": [
+                    35.8307,
+                    136.2016138888889
+                ],
+                "date": "2026:06:10 19:09:57",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/南条SA.jpg"
+            },
+            {
+                "title": "大湊神社",
+                "coords": [
+                    36.25042222222222,
+                    136.11971944444446
+                ],
+                "date": "2026:06:10 12:20:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/大湊神社.jpg"
+            },
+            {
+                "title": "宇宙戦艦ヤマト像",
                 "coords": [
                     35.6536,
                     136.07302777777778
                 ],
                 "date": "2023:04:02 08:54:14",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀_宇宙戦艦ヤマト像.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/宇宙戦艦ヤマト像.jpg"
             },
             {
-                "title": "敦賀_銀河鉄道999像",
+                "title": "平泉寺白山神社",
                 "coords": [
-                    35.64577222222222,
-                    136.0749361111111
+                    36.04360833333333,
+                    136.54124444444443
                 ],
-                "date": "2023:04:02 09:05:02",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀_銀河鉄道999像.jpg"
+                "date": "2026:06:10 17:11:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/平泉寺白山神社.jpg"
+            },
+            {
+                "title": "平泉寺白山神社_参道",
+                "coords": [
+                    36.04368888888889,
+                    136.5400388888889
+                ],
+                "date": "2026:06:10 17:17:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/平泉寺白山神社_参道.jpg"
+            },
+            {
+                "title": "敦賀赤レンガ倉庫",
+                "coords": [
+                    35.66229722222222,
+                    136.07443333333333
+                ],
+                "date": "2026:06:11 09:11:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/敦賀赤レンガ倉庫.jpg"
+            },
+            {
+                "title": "旧敦賀港駅舎",
+                "coords": [
+                    35.660691666666665,
+                    136.0728611111111
+                ],
+                "date": "2026:06:11 09:24:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/旧敦賀港駅舎.jpg"
+            },
+            {
+                "title": "東尋坊",
+                "coords": [
+                    36.23725833333334,
+                    136.12614444444444
+                ],
+                "date": "2026:06:10 13:06:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/東尋坊.jpg"
             },
             {
                 "title": "氣比神宮",
                 "coords": [
-                    35.65436111111111,
-                    136.07360833333334
+                    35.65470555555556,
+                    136.07472222222222
                 ],
-                "date": "2023:04:02 08:52:15",
+                "date": "2026:06:11 08:31:13",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/氣比神宮.jpg"
+            },
+            {
+                "title": "氣比神宮_鳥居",
+                "coords": [
+                    35.654336111111114,
+                    136.07368333333332
+                ],
+                "date": "2026:06:11 08:39:09",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/氣比神宮_鳥居.jpg"
             },
             {
                 "title": "福井城",
@@ -4784,6 +4883,42 @@
                 ],
                 "date": "2023:04:01 15:35:01",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/福井城.jpg"
+            },
+            {
+                "title": "金ヶ崎緑地",
+                "coords": [
+                    35.66227777777778,
+                    136.07249444444443
+                ],
+                "date": "2026:06:11 09:27:53",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/金ヶ崎緑地.jpg"
+            },
+            {
+                "title": "金崎宮",
+                "coords": [
+                    35.6645,
+                    136.07425
+                ],
+                "date": "2026:06:11 09:01:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/金崎宮.jpg"
+            },
+            {
+                "title": "銀河鉄道999像",
+                "coords": [
+                    35.64577222222222,
+                    136.0749361111111
+                ],
+                "date": "2023:04:02 09:05:02",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/銀河鉄道999像.jpg"
+            },
+            {
+                "title": "雄島",
+                "coords": [
+                    36.2496,
+                    136.1232611111111
+                ],
+                "date": "2026:06:10 12:26:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/雄島.jpg"
             },
             {
                 "title": "駅名標_敦賀駅",
@@ -4802,6 +4937,15 @@
                 ],
                 "date": "2023:04:01 14:59:33",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/駅名標_福井駅.jpg"
+            },
+            {
+                "title": "駅舎_一乗谷駅",
+                "coords": [
+                    36.01374444444444,
+                    136.29754722222222
+                ],
+                "date": "2026:06:10 16:12:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/駅舎_一乗谷駅.jpg"
             },
             {
                 "title": "駅舎_敦賀駅",
