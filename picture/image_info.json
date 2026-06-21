@@ -4827,8 +4827,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.54634479050926,
-                    138.7194497662037
+                    35.56690049503968,
+                    138.69199533531747
                 ]
             }
         ],
@@ -4841,6 +4841,15 @@
                 ],
                 "date": "2026:03:14 08:44:32",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/八ヶ岳PA.jpg"
+            },
+            {
+                "title": "双葉SA",
+                "coords": [
+                    35.679941666666664,
+                    138.51055
+                ],
+                "date": "2026:06:21 16:08:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/双葉SA.jpg"
             },
             {
                 "title": "増穂PA",
@@ -4904,6 +4913,33 @@
                 ],
                 "date": "2025:02:08 12:06:26",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新倉山浅間公園.jpg"
+            },
+            {
+                "title": "武田橋",
+                "coords": [
+                    35.708622222222225,
+                    138.4442138888889
+                ],
+                "date": "2026:06:21 14:43:36",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田橋.jpeg"
+            },
+            {
+                "title": "武田氏館_武田神社",
+                "coords": [
+                    35.68646944444444,
+                    138.5772861111111
+                ],
+                "date": "2026:06:21 15:27:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社.jpg"
+            },
+            {
+                "title": "武田氏館_武田神社_鳥居",
+                "coords": [
+                    35.68590555555556,
+                    138.577025
+                ],
+                "date": "2026:06:21 15:24:19",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社_鳥居.jpg"
             },
             {
                 "title": "河口湖",
