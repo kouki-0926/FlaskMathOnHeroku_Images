@@ -8292,12 +8292,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.14400651709401,
-                    136.02161442307693
+                    35.171548946360154,
+                    136.0495219348659
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "伊吹PA",
+                "coords": [
+                    35.33378611111111,
+                    136.39572222222222
+                ],
+                "date": "2026:06:11 11:44:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/伊吹PA.jpg"
+            },
             {
                 "title": "大津駅_北緯35度",
                 "coords": [
@@ -8342,6 +8351,24 @@
                 ],
                 "date": "2025:08:14 09:52:30",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/琵琶湖疎水.jpg"
+            },
+            {
+                "title": "豊公園",
+                "coords": [
+                    35.376869444444445,
+                    136.260375
+                ],
+                "date": "2026:06:11 10:48:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/豊公園.jpg"
+            },
+            {
+                "title": "賤ヶ岳SA",
+                "coords": [
+                    35.520094444444446,
+                    136.21806388888888
+                ],
+                "date": "2026:06:11 10:05:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/賤ヶ岳SA.jpg"
             },
             {
                 "title": "逢坂関",
