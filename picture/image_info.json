@@ -1200,8 +1200,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    38.28409685185185,
-                    140.9067907388889
+                    38.30343055555555,
+                    140.94142235052908
                 ]
             }
         ],
@@ -1225,6 +1225,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/AER展望テラス.jpg"
             },
             {
+                "title": "五大堂",
+                "coords": [
+                    38.36995833333334,
+                    141.06429994444446
+                ],
+                "date": "2026:06:27 12:14:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/五大堂.jpg"
+            },
+            {
                 "title": "仙台城跡",
                 "coords": [
                     38.25322222222222,
@@ -1245,11 +1254,20 @@
             {
                 "title": "大崎八幡宮",
                 "coords": [
+                    38.272352777777776,
+                    140.8451388888889
+                ],
+                "date": "2026:06:27 10:35:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/大崎八幡宮.jpg"
+            },
+            {
+                "title": "大崎八幡宮_鳥居",
+                "coords": [
                     38.26965,
                     140.8450611111111
                 ],
                 "date": "2022:03:03 10:38:38",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/大崎八幡宮.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/大崎八幡宮_鳥居.jpg"
             },
             {
                 "title": "定禅寺通",
@@ -1261,13 +1279,31 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/定禅寺通.jpg"
             },
             {
+                "title": "弁天堂",
+                "coords": [
+                    38.36576111111111,
+                    141.07045
+                ],
+                "date": "2026:06:27 12:43:34",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/弁天堂.jpg"
+            },
+            {
                 "title": "松島",
+                "coords": [
+                    38.36568055555556,
+                    141.07045
+                ],
+                "date": "2026:06:27 12:42:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/松島.jpg"
+            },
+            {
+                "title": "松島_福浦橋",
                 "coords": [
                     38.369397222222226,
                     141.06887777777777
                 ],
                 "date": "2022:03:03 13:24:09",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/松島.jpg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/松島_福浦橋.jpg"
             },
             {
                 "title": "瑞鳳殿",
@@ -1295,6 +1331,15 @@
                 ],
                 "date": "2022:03:06 14:39:33",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_仙台駅_新幹線.jpg"
+            },
+            {
+                "title": "駅名標_松島海岸駅",
+                "coords": [
+                    38.36834722222222,
+                    141.0586638888889
+                ],
+                "date": "2026:06:27 13:28:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅名標_松島海岸駅.jpg"
             },
             {
                 "title": "駅名標_松島駅",
@@ -1331,6 +1376,15 @@
                 ],
                 "date": "2022:03:03 14:26:31",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_小牛田駅.jpg"
+            },
+            {
+                "title": "駅舎_松島海岸駅",
+                "coords": [
+                    38.36848888888889,
+                    141.05900555555556
+                ],
+                "date": "2026:06:27 11:56:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/駅舎_松島海岸駅.jpg"
             },
             {
                 "title": "駅舎_松島駅",
@@ -2946,8 +3000,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.66789888888889,
-                    139.70653777777778
+                    35.66797580246914,
+                    139.70889901234568
                 ]
             }
         ],
@@ -2971,6 +3025,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/ダイバーシティ東京.jpg"
             },
             {
+                "title": "ハチ公像",
+                "coords": [
+                    35.659058333333334,
+                    139.70065277777778
+                ],
+                "date": "2026:06:26 14:48:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/ハチ公像.jpg"
+            },
+            {
                 "title": "上野動物園",
                 "coords": [
                     35.715333333333334,
@@ -2978,6 +3041,15 @@
                 ],
                 "date": "2016:09:19 11:36:59",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/上野動物園.jpg"
+            },
+            {
+                "title": "国会議事堂",
+                "coords": [
+                    35.67619722222222,
+                    139.74667222222223
+                ],
+                "date": "2026:06:26 13:21:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/国会議事堂.jpg"
             },
             {
                 "title": "国際ロボット展_セイコーエプソン",
@@ -3115,6 +3187,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/泉岳寺.jpg"
             },
             {
+                "title": "渋谷スクランブル交差点",
+                "coords": [
+                    35.65957777777778,
+                    139.70079166666667
+                ],
+                "date": "2021:12:18 16:19:05",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/渋谷スクランブル交差点.jpg"
+            },
+            {
                 "title": "築地本願寺",
                 "coords": [
                     35.66670277777778,
@@ -3187,6 +3268,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/雷門.jpg"
             },
             {
+                "title": "首相官邸",
+                "coords": [
+                    35.67401944444445,
+                    139.74478055555556
+                ],
+                "date": "2026:06:26 13:17:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/首相官邸.jpg"
+            },
+            {
                 "title": "駅名標_上野駅",
                 "coords": [
                     35.71380277777778,
@@ -3203,6 +3293,15 @@
                 ],
                 "date": "2021:09:16 23:04:26",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_品川駅.jpg"
+            },
+            {
+                "title": "駅名標_国会議事堂前駅",
+                "coords": [
+                    35.674102777777776,
+                    139.74604722222222
+                ],
+                "date": "2026:06:26 13:27:31",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/駅名標_国会議事堂前駅.jpg"
             },
             {
                 "title": "駅名標_新宿駅",
@@ -4971,8 +5070,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.56690049503968,
-                    138.69199533531747
+                    35.55707729789272,
+                    138.6839778716475
                 ]
             }
         ],
@@ -4985,6 +5084,15 @@
                 ],
                 "date": "2026:03:14 08:44:32",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/八ヶ岳PA.jpg"
+            },
+            {
+                "title": "南部橋_富士川",
+                "coords": [
+                    35.28202777777778,
+                    138.4594888888889
+                ],
+                "date": "2026:05:30 10:33:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/南部橋_富士川.jpg"
             },
             {
                 "title": "双葉SA",
@@ -7086,8 +7194,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.94359031007752,
-                    138.3475173126615
+                    34.98871635220126,
+                    138.39975298742138
                 ]
             }
         ],
@@ -7129,15 +7237,6 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/久能山東照宮.jpg"
             },
             {
-                "title": "南部橋_富士川",
-                "coords": [
-                    35.28202777777778,
-                    138.4594888888889
-                ],
-                "date": "2026:05:30 10:33:44",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/南部橋_富士川.jpg"
-            },
-            {
                 "title": "富士山",
                 "coords": [
                     35.138305555555554,
@@ -7163,6 +7262,51 @@
                 ],
                 "date": "2025:11:03 12:42:19",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山_鳥居.jpg"
+            },
+            {
+                "title": "富士山ドラゴンタワー",
+                "coords": [
+                    35.13567777777778,
+                    138.6934777777778
+                ],
+                "date": "2026:07:05 16:02:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山ドラゴンタワー.jpg"
+            },
+            {
+                "title": "富士山本宮浅間大社",
+                "coords": [
+                    35.227066666666666,
+                    138.61007777777778
+                ],
+                "date": "2026:07:05 13:15:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山本宮浅間大社.jpg"
+            },
+            {
+                "title": "富士山本宮浅間大社_湧玉池",
+                "coords": [
+                    35.227025,
+                    138.61149722222223
+                ],
+                "date": "2026:07:05 13:29:11",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士山本宮浅間大社_湧玉池.jpg"
+            },
+            {
+                "title": "富士川",
+                "coords": [
+                    35.159058333333334,
+                    138.62026944444443
+                ],
+                "date": "2026:07:05 16:30:44",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士川.jpg"
+            },
+            {
+                "title": "富士川SA",
+                "coords": [
+                    35.15846666666667,
+                    138.61995
+                ],
+                "date": "2026:07:05 16:28:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士川SA.jpg"
             },
             {
                 "title": "弁天島",
@@ -7264,6 +7408,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/浜松城.jpg"
             },
             {
+                "title": "清水PA",
+                "coords": [
+                    35.13272222222222,
+                    138.51303055555556
+                ],
+                "date": "2026:07:05 12:13:27",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/清水PA.jpg"
+            },
+            {
                 "title": "清水港",
                 "coords": [
                     35.01875277777778,
@@ -7300,6 +7453,33 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/牧之原SA.jpg"
             },
             {
+                "title": "田子の浦",
+                "coords": [
+                    35.13632222222222,
+                    138.69425833333332
+                ],
+                "date": "2026:07:05 15:55:14",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/田子の浦.jpg"
+            },
+            {
+                "title": "由比PA",
+                "coords": [
+                    35.08765,
+                    138.549225
+                ],
+                "date": "2026:07:05 16:46:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/由比PA.jpg"
+            },
+            {
+                "title": "白糸の滝",
+                "coords": [
+                    35.312491666666666,
+                    138.58775277777778
+                ],
+                "date": "2026:07:05 14:34:59",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/白糸の滝.jpg"
+            },
+            {
                 "title": "神の道",
                 "coords": [
                     34.999297222222225,
@@ -7325,6 +7505,15 @@
                 ],
                 "date": "2025:11:03 10:37:11",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡県庁.jpg"
+            },
+            {
+                "title": "音止の滝",
+                "coords": [
+                    35.311436111111114,
+                    138.5887
+                ],
+                "date": "2026:07:05 14:44:05",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/音止の滝.jpg"
             },
             {
                 "title": "駅名標_富士駅",
@@ -7415,6 +7604,15 @@
                 ],
                 "date": "2025:11:03 10:25:09",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅名標_静岡駅_新幹線.jpg"
+            },
+            {
+                "title": "駅舎_富士宮駅",
+                "coords": [
+                    35.221694444444445,
+                    138.61491388888888
+                ],
+                "date": "2026:07:05 13:49:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駅舎_富士宮駅.jpg"
             },
             {
                 "title": "駅舎_弁天島駅",
