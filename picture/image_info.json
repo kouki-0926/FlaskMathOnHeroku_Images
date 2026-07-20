@@ -2316,8 +2316,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.385305092592596,
-                    138.88286539351853
+                    36.41776626984127,
+                    138.83486577380953
                 ]
             }
         ],
@@ -2395,6 +2395,33 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/富岡製糸場_西置繭所.jpg"
             },
             {
+                "title": "山田峠",
+                "coords": [
+                    36.65295277777778,
+                    138.5267638888889
+                ],
+                "date": "2026:07:19 15:38:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/山田峠.jpg"
+            },
+            {
+                "title": "日本国道最高地点碑",
+                "coords": [
+                    36.660694444444445,
+                    138.53520277777778
+                ],
+                "date": "2026:07:19 15:32:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/日本国道最高地点碑.jpg"
+            },
+            {
+                "title": "白旗の湯",
+                "coords": [
+                    36.622572222222225,
+                    138.59626944444443
+                ],
+                "date": "2026:07:19 16:49:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/白旗の湯.jpg"
+            },
+            {
                 "title": "群馬県立世界遺産センター",
                 "coords": [
                     36.260191666666664,
@@ -2433,10 +2460,10 @@
             {
                 "title": "草津温泉_湯畑_下",
                 "coords": [
-                    36.62325,
-                    138.5969388888889
+                    36.62323888888889,
+                    138.5968777777778
                 ],
-                "date": "2024:09:08 12:12:12",
+                "date": "2026:07:19 16:53:19",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/草津温泉_湯畑_下.jpg"
             },
             {
@@ -2510,6 +2537,15 @@
                 ],
                 "date": "2024:09:09 11:59:52",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/駅舎_上州富岡駅.jpg"
+            },
+            {
+                "title": "駅舎_大前駅",
+                "coords": [
+                    36.513925,
+                    138.52929722222223
+                ],
+                "date": "2026:07:19 18:11:03",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/駅舎_大前駅.jpg"
             },
             {
                 "title": "駅舎_高崎駅",
@@ -5173,7 +5209,7 @@
                     138.4442138888889
                 ],
                 "date": "2026:06:21 14:43:36",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田橋.jpeg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田橋.jpg"
             },
             {
                 "title": "武田氏館_武田神社",
@@ -5343,8 +5379,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.12672909465021,
-                    138.0196429218107
+                    36.13536297648013,
+                    138.0264209651257
                 ]
             }
         ],
@@ -5764,6 +5800,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/座光寺PA.jpg"
             },
             {
+                "title": "志賀高原",
+                "coords": [
+                    36.71516666666667,
+                    138.49670277777778
+                ],
+                "date": "2026:07:19 15:00:32",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/志賀高原.jpg"
+            },
+            {
                 "title": "日本三大車窓_姨捨_冬",
                 "coords": [
                     36.50282222222222,
@@ -5933,6 +5978,15 @@
                 ],
                 "date": "2022:02:12 09:37:38",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
+            },
+            {
+                "title": "澗満滝",
+                "coords": [
+                    36.721133333333334,
+                    138.471175
+                ],
+                "date": "2026:07:19 14:50:02",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/澗満滝.jpg"
             },
             {
                 "title": "真田宝物館",
@@ -6463,7 +6517,7 @@
                     138.1527722222222
                 ],
                 "date": "2026:05:24 13:44:57",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_茅野駅.jpeg"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_茅野駅.jpg"
             },
             {
                 "title": "駅舎_長野駅",
