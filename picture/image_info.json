@@ -5277,8 +5277,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.55707729789272,
-                    138.6839778716475
+                    35.56304138796296,
+                    138.6754069425926
                 ]
             }
         ],
@@ -5372,6 +5372,15 @@
                 ],
                 "date": "2025:02:08 12:06:26",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新倉山浅間公園.jpg"
+            },
+            {
+                "title": "新府城",
+                "coords": [
+                    35.736,
+                    138.42685
+                ],
+                "date": "2026:08:12 18:52:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新府城.jpg"
             },
             {
                 "title": "武田橋",
@@ -5550,12 +5559,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.14008898739165,
-                    138.03900965327028
+                    36.144598123620305,
+                    138.0595730500368
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "JR鉄道最高地点",
+                "coords": [
+                    35.945225,
+                    138.45349166666668
+                ],
+                "date": "2026:08:12 18:04:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/JR鉄道最高地点.jpg"
+            },
             {
                 "title": "いなっせ",
                 "coords": [
@@ -5656,6 +5674,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上高地.jpg"
             },
             {
+                "title": "中央道原PA",
+                "coords": [
+                    35.95482777777778,
+                    138.1968611111111
+                ],
+                "date": "2026:08:09 05:43:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/中央道原PA.jpg"
+            },
+            {
                 "title": "佐久平PA",
                 "coords": [
                     36.27748611111111,
@@ -5663,6 +5690,33 @@
                 ],
                 "date": "2026:07:25 09:36:32",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/佐久平PA.jpg"
+            },
+            {
+                "title": "信濃国分寺",
+                "coords": [
+                    36.382647222222225,
+                    138.27110277777777
+                ],
+                "date": "2026:08:12 15:14:06",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/信濃国分寺.jpg"
+            },
+            {
+                "title": "信濃国分寺_ハス田",
+                "coords": [
+                    36.383541666666666,
+                    138.27140833333334
+                ],
+                "date": "2026:08:12 15:19:43",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/信濃国分寺_ハス田.jpg"
+            },
+            {
+                "title": "信濃国分寺_三重塔",
+                "coords": [
+                    36.38248333333333,
+                    138.27125555555557
+                ],
+                "date": "2026:08:12 15:15:30",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/信濃国分寺_三重塔.jpg"
             },
             {
                 "title": "元善光寺",
@@ -6187,6 +6241,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/浅間山.jpg"
             },
             {
+                "title": "海野宿",
+                "coords": [
+                    36.36125277777778,
+                    138.31433055555556
+                ],
+                "date": "2026:08:12 14:34:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/海野宿.jpg"
+            },
+            {
                 "title": "澗満滝",
                 "coords": [
                     36.721133333333334,
@@ -6194,6 +6257,15 @@
                 ],
                 "date": "2026:07:19 14:50:02",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/澗満滝.jpg"
+            },
+            {
+                "title": "白鳥神社",
+                "coords": [
+                    36.360191666666665,
+                    138.3161472222222
+                ],
+                "date": "2026:08:12 14:28:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/白鳥神社.jpg"
             },
             {
                 "title": "真田宝物館",
@@ -6365,6 +6437,15 @@
                 ],
                 "date": "2026:05:09 13:42:43",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/道の駅_白馬.jpg"
+            },
+            {
+                "title": "鉄道神社",
+                "coords": [
+                    35.94529444444444,
+                    138.45368888888888
+                ],
+                "date": "2026:08:12 18:04:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/鉄道神社.jpg"
             },
             {
                 "title": "鎮神社",
@@ -6574,6 +6655,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_伊那市駅.jpg"
             },
             {
+                "title": "駅舎_佐久平駅",
+                "coords": [
+                    36.27761111111111,
+                    138.46452222222223
+                ],
+                "date": "2026:08:12 16:38:34",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_佐久平駅.jpg"
+            },
+            {
                 "title": "駅舎_信濃大町駅",
                 "coords": [
                     36.500058333333335,
@@ -6653,6 +6743,15 @@
                 ],
                 "date": "2022:02:12 14:23:36",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_姨捨駅.jpg"
+            },
+            {
+                "title": "駅舎_小海駅",
+                "coords": [
+                    36.08869444444444,
+                    138.48236111111112
+                ],
+                "date": "2026:08:12 17:22:02",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_小海駅.jpg"
             },
             {
                 "title": "駅舎_小諸駅",
@@ -7455,8 +7554,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.98871635220126,
-                    138.39975298742138
+                    34.985898181818186,
+                    138.38601136363636
                 ]
             }
         ],
@@ -7660,6 +7759,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/浜名湖SA_浜名湖.jpg"
             },
             {
+                "title": "浜松SA",
+                "coords": [
+                    34.84312777777778,
+                    137.75106944444445
+                ],
+                "date": "2026:08:09 00:31:45",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/浜松SA.jpg"
+            },
+            {
                 "title": "浜松城",
                 "coords": [
                     34.711597222222224,
@@ -7748,6 +7856,15 @@
                 ],
                 "date": "2026:03:14 13:23:22",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/神の道.jpg"
+            },
+            {
+                "title": "静岡SA",
+                "coords": [
+                    34.979305555555555,
+                    138.29264722222223
+                ],
+                "date": "2026:08:09 01:37:40",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/静岡SA.jpg"
             },
             {
                 "title": "静岡浅間神社",
@@ -7944,8 +8061,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.045907980599644,
-                    137.102289505291
+                    35.04571171875,
+                    137.10280720399305
                 ]
             }
         ],
@@ -8156,6 +8273,15 @@
                 ],
                 "date": "2025:11:02 14:11:23",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊橋市公会堂.jpg"
+            },
+            {
+                "title": "豊田上郷SA",
+                "coords": [
+                    35.033347222222226,
+                    137.13542222222222
+                ],
+                "date": "2026:08:08 22:57:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/豊田上郷SA.jpg"
             },
             {
                 "title": "道の駅_もっくる新城",
