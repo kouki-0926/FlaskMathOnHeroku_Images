@@ -5559,8 +5559,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.144598123620305,
-                    138.0595730500368
+                    36.12757132559775,
+                    138.0417332981716
                 ]
             }
         ],
@@ -6061,6 +6061,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/志賀高原.jpg"
             },
             {
+                "title": "恋路のつり橋",
+                "coords": [
+                    35.65560555555555,
+                    137.60691944444446
+                ],
+                "date": "2026:08:23 14:35:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/恋路のつり橋.jpg"
+            },
+            {
                 "title": "日本三大車窓_姨捨_冬",
                 "coords": [
                     36.50282222222222,
@@ -6095,6 +6104,15 @@
                 ],
                 "date": "2026:05:09 13:14:48",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木崎湖.jpg"
+            },
+            {
+                "title": "木曽の桟",
+                "coords": [
+                    35.80648333333333,
+                    137.68746944444445
+                ],
+                "date": "2026:08:23 13:36:55",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/木曽の桟.jpg"
             },
             {
                 "title": "東部湯の丸SA",
@@ -6214,6 +6232,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本神社.jpg"
             },
             {
+                "title": "柿其渓谷",
+                "coords": [
+                    35.657336111111114,
+                    137.6062611111111
+                ],
+                "date": "2026:08:23 14:43:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/柿其渓谷.jpg"
+            },
+            {
                 "title": "桃介橋",
                 "coords": [
                     35.60026111111111,
@@ -6259,6 +6286,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/澗満滝.jpg"
             },
             {
+                "title": "牛ヶ滝",
+                "coords": [
+                    35.65833611111111,
+                    137.606125
+                ],
+                "date": "2026:08:23 14:54:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/牛ヶ滝.jpg"
+            },
+            {
                 "title": "白鳥神社",
                 "coords": [
                     36.360191666666665,
@@ -6293,6 +6329,24 @@
                 ],
                 "date": "2026:04:25 16:42:17",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/福与の絶景スポット.jpg"
+            },
+            {
+                "title": "福島宿",
+                "coords": [
+                    35.84946388888889,
+                    137.69642777777779
+                ],
+                "date": "2026:08:23 13:00:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/福島宿.jpg"
+            },
+            {
+                "title": "福島関所跡",
+                "coords": [
+                    35.85078055555555,
+                    137.7022861111111
+                ],
+                "date": "2026:08:23 12:32:42",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/福島関所跡.jpg"
             },
             {
                 "title": "穂高神社",
@@ -6779,6 +6833,15 @@
                 ],
                 "date": "2023:09:20 12:05:52",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_広丘駅.jpg"
+            },
+            {
+                "title": "駅舎_木曽福島駅",
+                "coords": [
+                    35.84394722222222,
+                    137.69284166666668
+                ],
+                "date": "2026:08:23 12:49:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_木曽福島駅.jpg"
             },
             {
                 "title": "駅舎_松本駅",
@@ -8061,8 +8124,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.04571171875,
-                    137.10280720399305
+                    35.05140932835821,
+                    137.1008040207297
                 ]
             }
         ],
@@ -8102,6 +8165,33 @@
                 ],
                 "date": "2021:08:25 17:33:49",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/オアシス21_水の宇宙船.jpg"
+            },
+            {
+                "title": "トヨタ博物館",
+                "coords": [
+                    35.17316111111111,
+                    137.05805833333332
+                ],
+                "date": "2026:08:14 15:51:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/トヨタ博物館.jpg"
+            },
+            {
+                "title": "トヨタ博物館_トヨダAA型乗用車",
+                "coords": [
+                    35.172847222222224,
+                    137.0581361111111
+                ],
+                "date": "2026:08:14 11:14:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/トヨタ博物館_トヨダAA型乗用車.jpg"
+            },
+            {
+                "title": "トヨタ博物館_フォード・モデルT",
+                "coords": [
+                    35.172866666666664,
+                    137.0580138888889
+                ],
+                "date": "2026:08:14 11:42:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/トヨタ博物館_フォード・モデルT.jpg"
             },
             {
                 "title": "吉田城",
