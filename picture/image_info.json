@@ -3489,8 +3489,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.34586771839081,
-                    139.506067045977
+                    35.33730359313726,
+                    139.4563629869281
                 ]
             }
         ],
@@ -3523,6 +3523,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/七里ヶ浜.jpg"
             },
             {
+                "title": "厚木PA",
+                "coords": [
+                    35.48977222222222,
+                    139.36870277777777
+                ],
+                "date": "2026:08:29 19:38:21",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/厚木PA.jpg"
+            },
+            {
+                "title": "大磯PA",
+                "coords": [
+                    35.318333333333335,
+                    139.26911944444444
+                ],
+                "date": "2026:08:29 19:07:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/大磯PA.jpg"
+            },
+            {
                 "title": "小田原城",
                 "coords": [
                     35.251041666666666,
@@ -3530,6 +3548,15 @@
                 ],
                 "date": "2019:09:17 11:15:37",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城.jpg"
+            },
+            {
+                "title": "小田原城_夜",
+                "coords": [
+                    35.25108055555555,
+                    139.15408333333335
+                ],
+                "date": "2026:08:29 18:22:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城_夜.jpg"
             },
             {
                 "title": "小町通り",
@@ -3647,6 +3674,24 @@
                 ],
                 "date": "2021:11:13 11:40:18",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/江島神社_鳥居.jpg"
+            },
+            {
+                "title": "箱根駅伝_往路ゴール_復路スタート地点",
+                "coords": [
+                    35.18933888888889,
+                    139.0246111111111
+                ],
+                "date": "2026:08:29 17:25:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/箱根駅伝_往路ゴール_復路スタート地点.jpg"
+            },
+            {
+                "title": "芦ノ湖",
+                "coords": [
+                    35.18963333333333,
+                    139.02388055555556
+                ],
+                "date": "2026:08:29 17:23:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/芦ノ湖.jpg"
             },
             {
                 "title": "赤レンガ倉庫",
@@ -5277,8 +5322,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.56304138796296,
-                    138.6754069425926
+                    35.56525546505376,
+                    138.6878061810036
                 ]
             }
         ],
@@ -5286,10 +5331,10 @@
             {
                 "title": "八ヶ岳PA",
                 "coords": [
-                    35.84548888888889,
-                    138.36900277777778
+                    35.84475833333333,
+                    138.3647
                 ],
-                "date": "2026:03:14 08:44:32",
+                "date": "2026:07:05 18:27:52",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/八ヶ岳PA.jpg"
             },
             {
@@ -5444,6 +5489,15 @@
                 ],
                 "date": "2025:11:03 15:13:33",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/藤村記念館.jpg"
+            },
+            {
+                "title": "談合坂SA",
+                "coords": [
+                    35.63240833333333,
+                    139.06408611111112
+                ],
+                "date": "2026:08:29 20:16:37",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/談合坂SA.jpg"
             },
             {
                 "title": "道の駅_なんぶ",
@@ -7617,8 +7671,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.985898181818186,
-                    138.38601136363636
+                    34.99329364406779,
+                    138.41537768361582
                 ]
             }
         ],
@@ -7725,11 +7779,20 @@
             {
                 "title": "富士川SA",
                 "coords": [
-                    35.15846666666667,
-                    138.61995
+                    35.16079444444444,
+                    138.61730833333334
                 ],
-                "date": "2026:07:05 16:28:33",
+                "date": "2026:08:29 13:06:33",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/富士川SA.jpg"
+            },
+            {
+                "title": "山中城",
+                "coords": [
+                    35.15641111111111,
+                    138.99174444444444
+                ],
+                "date": "2026:08:29 16:54:38",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/山中城.jpg"
             },
             {
                 "title": "弁天島",
@@ -7793,6 +7856,15 @@
                 ],
                 "date": "2026:03:14 14:07:51",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/日本平夢テラス_.jpg"
+            },
+            {
+                "title": "旧沼津御用邸_西附属邸",
+                "coords": [
+                    35.07266111111111,
+                    138.8714611111111
+                ],
+                "date": "2026:08:29 15:13:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/旧沼津御用邸_西附属邸.jpg"
             },
             {
                 "title": "河岸の市",
@@ -7876,6 +7948,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/熱海城.jpg"
             },
             {
+                "title": "牛臥浜",
+                "coords": [
+                    35.07157222222222,
+                    138.87025555555556
+                ],
+                "date": "2026:08:29 15:33:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/牛臥浜.jpg"
+            },
+            {
                 "title": "牧之原SA",
                 "coords": [
                     34.757222222222225,
@@ -7901,6 +7982,15 @@
                 ],
                 "date": "2026:07:05 16:46:40",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/由比PA.jpg"
+            },
+            {
+                "title": "由比PA_東海道本線_国道1号_東名高速",
+                "coords": [
+                    35.07695277777778,
+                    138.54583888888888
+                ],
+                "date": "2026:08:29 12:55:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/由比PA_東海道本線_国道1号_東名高速.jpg"
             },
             {
                 "title": "白糸の滝",
