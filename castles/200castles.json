@@ -119,7 +119,7 @@
         "castle": [
             {
                 "title": "127 新府城(山梨県韮崎市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/新府城.jpg"
             },
             {
                 "title": "128 要害山城(山梨県甲府市)",
@@ -230,8 +230,8 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/吉田城.jpg"
             }
         ],
-        "visited": 8,
-        "unvisited": 17
+        "visited": 9,
+        "unvisited": 16
     },
     "近畿地方": {
         "castle": [
@@ -469,5 +469,5 @@
         "visited": 1,
         "unvisited": 19
     },
-    "unvisited_castle_cnt": 88
+    "unvisited_castle_cnt": 87
 }
