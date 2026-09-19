@@ -8214,8 +8214,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.05140932835821,
-                    137.1008040207297
+                    35.054894679186226,
+                    137.09330019483568
                 ]
             }
         ],
@@ -8282,6 +8282,33 @@
                 ],
                 "date": "2026:08:14 11:42:54",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/トヨタ博物館_フォード・モデルT.jpg"
+            },
+            {
+                "title": "内津峠PA",
+                "coords": [
+                    35.332744444444444,
+                    137.04303055555556
+                ],
+                "date": "2026:09:12 10:07:03",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/内津峠PA.jpg"
+            },
+            {
+                "title": "刈谷PA",
+                "coords": [
+                    35.04110555555555,
+                    137.04824444444444
+                ],
+                "date": "2026:09:12 21:32:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/刈谷PA.jpg"
+            },
+            {
+                "title": "刈谷ハイウェイオアシス",
+                "coords": [
+                    35.04055,
+                    137.0487611111111
+                ],
+                "date": "2026:09:12 21:35:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/刈谷ハイウェイオアシス.jpg"
             },
             {
                 "title": "吉田城",
@@ -8390,6 +8417,15 @@
                 ],
                 "date": "2025:08:13 11:30:20",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/清洲城_大手橋.jpg"
+            },
+            {
+                "title": "湾岸長島PA",
+                "coords": [
+                    35.038697222222225,
+                    136.73040833333334
+                ],
+                "date": "2026:09:12 20:17:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/湾岸長島PA.jpg"
             },
             {
                 "title": "熱田神宮",
@@ -8829,8 +8865,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.6740625,
-                    136.59710902777778
+                    34.687863444444446,
+                    136.59685322222222
                 ]
             }
         ],
@@ -8897,6 +8933,15 @@
                 ],
                 "date": "2025:11:24 10:55:25",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/四日市市立博物館.jpg"
+            },
+            {
+                "title": "御在所SA",
+                "coords": [
+                    35.01908611111111,
+                    136.5907138888889
+                ],
+                "date": "2026:09:12 19:16:41",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/御在所SA.jpg"
             },
             {
                 "title": "御手洗場",
@@ -9057,8 +9102,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.171548946360154,
-                    136.0495219348659
+                    35.157591408268736,
+                    136.07431905684754
                 ]
             }
         ],
@@ -9073,6 +9118,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/伊吹PA.jpg"
             },
             {
+                "title": "八幡堀",
+                "coords": [
+                    35.139827777777775,
+                    136.09033333333332
+                ],
+                "date": "2026:09:12 16:48:16",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/八幡堀.jpg"
+            },
+            {
                 "title": "大津駅_北緯35度",
                 "coords": [
                     35.00340277777778,
@@ -9082,6 +9136,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/大津駅_北緯35度.jpg"
             },
             {
+                "title": "安土城",
+                "coords": [
+                    35.15383888888889,
+                    136.1388388888889
+                ],
+                "date": "2026:09:12 13:09:49",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城.jpg"
+            },
+            {
+                "title": "安土城_大手道",
+                "coords": [
+                    35.153819444444444,
+                    136.13913055555557
+                ],
+                "date": "2026:09:12 13:10:15",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城_大手道.jpg"
+            },
+            {
                 "title": "彦根城",
                 "coords": [
                     35.27628055555556,
@@ -9089,6 +9161,51 @@
                 ],
                 "date": "2025:08:13 15:40:56",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
+            },
+            {
+                "title": "摠見寺_三重塔",
+                "coords": [
+                    35.15431111111111,
+                    136.137025
+                ],
+                "date": "2026:09:12 12:58:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/摠見寺_三重塔.jpg"
+            },
+            {
+                "title": "摠見寺_二王門",
+                "coords": [
+                    35.153933333333335,
+                    136.13621388888888
+                ],
+                "date": "2026:09:12 13:03:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/摠見寺_二王門.jpg"
+            },
+            {
+                "title": "新町通り",
+                "coords": [
+                    35.13857222222222,
+                    136.088975
+                ],
+                "date": "2026:09:12 16:53:22",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/新町通り.jpg"
+            },
+            {
+                "title": "日牟禮八幡宮",
+                "coords": [
+                    35.140991666666665,
+                    136.08955277777778
+                ],
+                "date": "2026:09:12 16:40:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/日牟禮八幡宮.jpg"
+            },
+            {
+                "title": "日牟禮八幡宮_楼門",
+                "coords": [
+                    35.14072777777778,
+                    136.0894
+                ],
+                "date": "2026:09:12 16:37:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/日牟禮八幡宮_楼門.jpg"
             },
             {
                 "title": "玄宮園",
@@ -9118,6 +9235,51 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/琵琶湖疎水.jpg"
             },
             {
+                "title": "甲南PA",
+                "coords": [
+                    34.915486111111115,
+                    136.15370277777777
+                ],
+                "date": "2026:09:12 18:38:36",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/甲南PA.jpg"
+            },
+            {
+                "title": "菩提寺PA",
+                "coords": [
+                    35.04150833333333,
+                    136.057725
+                ],
+                "date": "2026:09:12 17:59:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/菩提寺PA.jpg"
+            },
+            {
+                "title": "観音寺城",
+                "coords": [
+                    35.14611111111111,
+                    136.15791388888888
+                ],
+                "date": "2026:09:12 15:06:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城.jpg"
+            },
+            {
+                "title": "観音寺城_大石垣",
+                "coords": [
+                    35.143166666666666,
+                    136.15774444444443
+                ],
+                "date": "2026:09:12 15:27:49",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城_大石垣.jpg"
+            },
+            {
+                "title": "観音正寺",
+                "coords": [
+                    35.14505833333333,
+                    136.16043055555556
+                ],
+                "date": "2026:09:12 14:55:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音正寺.jpg"
+            },
+            {
                 "title": "豊公園",
                 "coords": [
                     35.376869444444445,
@@ -9134,6 +9296,15 @@
                 ],
                 "date": "2026:06:11 10:05:40",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/賤ヶ岳SA.jpg"
+            },
+            {
+                "title": "近江湖の辺の道",
+                "coords": [
+                    35.23415833333333,
+                    136.16259722222222
+                ],
+                "date": "2026:09:12 11:54:07",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/近江湖の辺の道.jpg"
             },
             {
                 "title": "逢坂関",
