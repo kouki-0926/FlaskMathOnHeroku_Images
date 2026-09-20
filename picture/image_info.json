@@ -8214,8 +8214,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.054894679186226,
-                    137.09330019483568
+                    35.05512607142857,
+                    137.0984843642857
                 ]
             }
         ],
@@ -8417,15 +8417,6 @@
                 ],
                 "date": "2025:08:13 11:30:20",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/清洲城_大手橋.jpg"
-            },
-            {
-                "title": "湾岸長島PA",
-                "coords": [
-                    35.038697222222225,
-                    136.73040833333334
-                ],
-                "date": "2026:09:12 20:17:00",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/湾岸長島PA.jpg"
             },
             {
                 "title": "熱田神宮",
@@ -8865,8 +8856,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    34.687863444444446,
-                    136.59685322222222
+                    34.70135705128205,
+                    136.60198995726495
                 ]
             }
         ],
@@ -8969,6 +8960,15 @@
                 ],
                 "date": "2025:11:24 13:02:36",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/津偕楽公園.jpg"
+            },
+            {
+                "title": "湾岸長島PA",
+                "coords": [
+                    35.038697222222225,
+                    136.73040833333334
+                ],
+                "date": "2026:09:12 20:17:00",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/湾岸長島PA.jpg"
             },
             {
                 "title": "駅名標_亀山駅",
