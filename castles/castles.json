@@ -293,11 +293,19 @@
             },
             {
                 "title": "51 安土城(滋賀県近江八幡市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城.jpg"
+            },
+            {
+                "title": "51 安土城(滋賀県近江八幡市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城_大手道.jpg"
             },
             {
                 "title": "52 観音寺城(滋賀県近江八幡市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城.jpg"
+            },
+            {
+                "title": "52 観音寺城(滋賀県近江八幡市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城_大石垣.jpg"
             },
             {
                 "title": "53 二条城(京都府京都市)",
@@ -348,8 +356,8 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
             }
         ],
-        "visited": 7,
-        "unvisited": 9
+        "visited": 9,
+        "unvisited": 7
     },
     "中国地方": {
         "castle": [
@@ -581,5 +589,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 40
+    "unvisited_castle_cnt": 38
 }
