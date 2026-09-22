@@ -5613,8 +5613,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.12757132559775,
-                    138.0417332981716
+                    36.12715689236111,
+                    138.04174130208332
                 ]
             }
         ],
@@ -6871,6 +6871,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_小諸駅.jpg"
             },
             {
+                "title": "駅舎_岡谷駅",
+                "coords": [
+                    36.056975,
+                    138.044525
+                ],
+                "date": "2026:09:22 09:44:56",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駅舎_岡谷駅.jpg"
+            },
+            {
                 "title": "駅舎_平田駅",
                 "coords": [
                     36.191719444444445,
@@ -6968,6 +6977,15 @@
                 ],
                 "date": "2026:04:18 18:33:59",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/駒ケ岳SA.jpg"
+            },
+            {
+                "title": "高ボッチ高原",
+                "coords": [
+                    36.131858333333334,
+                    138.0402222222222
+                ],
+                "date": "2026:09:22 11:12:33",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高ボッチ高原.jpg"
             },
             {
                 "title": "高島城",
