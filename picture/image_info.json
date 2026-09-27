@@ -2133,8 +2133,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.674261839181284,
-                    139.65990219298246
+                    36.6030866875,
+                    139.62362835648148
                 ]
             }
         ],
@@ -2156,6 +2156,15 @@
                 ],
                 "date": "2022:03:02 07:31:15",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/二荒山神社.jpg"
+            },
+            {
+                "title": "佐野SA",
+                "coords": [
+                    36.317933333333336,
+                    139.617675
+                ],
+                "date": "2026:09:26 16:59:13",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/佐野SA.jpg"
             },
             {
                 "title": "日光二荒山神社",
@@ -2266,6 +2275,42 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/華厳の滝.jpg"
             },
             {
+                "title": "足利学校",
+                "coords": [
+                    36.33571666666667,
+                    139.45375
+                ],
+                "date": "2026:09:26 15:41:12",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利学校.jpg"
+            },
+            {
+                "title": "足利学校_学校門",
+                "coords": [
+                    36.33557777777778,
+                    139.45305
+                ],
+                "date": "2026:09:26 15:29:06",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利学校_学校門.jpg"
+            },
+            {
+                "title": "足利氏館",
+                "coords": [
+                    36.33657777777778,
+                    139.452225
+                ],
+                "date": "2026:09:26 15:48:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利氏館.jpg"
+            },
+            {
+                "title": "鑁阿寺",
+                "coords": [
+                    36.3373,
+                    139.4522388888889
+                ],
+                "date": "2026:09:26 15:50:18",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/鑁阿寺.jpg"
+            },
+            {
                 "title": "駅名標_宇都宮駅",
                 "coords": [
                     36.55874166666667,
@@ -2316,12 +2361,21 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.42786180555556,
-                    138.84975112847223
+                    36.4177442251462,
+                    138.88521622807016
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "さちの池_群馬県庁",
+                "coords": [
+                    36.39461388888889,
+                    139.06022777777778
+                ],
+                "date": "2026:09:26 13:16:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/さちの池_群馬県庁.jpg"
+            },
             {
                 "title": "三県境",
                 "coords": [
@@ -2339,6 +2393,15 @@
                 ],
                 "date": "2022:03:01 09:36:54",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/三県境_看板.jpg"
+            },
+            {
+                "title": "太田強戸PA",
+                "coords": [
+                    36.34081388888889,
+                    139.34867777777777
+                ],
+                "date": "2026:09:26 14:42:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/太田強戸PA.jpg"
             },
             {
                 "title": "富岡製糸場_ブリュナエンジン",
@@ -2395,6 +2458,24 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/富岡製糸場_西置繭所.jpg"
             },
             {
+                "title": "少林山達磨寺",
+                "coords": [
+                    36.329819444444446,
+                    138.957275
+                ],
+                "date": "2026:09:26 11:33:04",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/少林山達磨寺.jpg"
+            },
+            {
+                "title": "少林山達磨寺_総門",
+                "coords": [
+                    36.331025,
+                    138.957
+                ],
+                "date": "2026:09:26 11:28:37",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/少林山達磨寺_総門.jpg"
+            },
+            {
                 "title": "山田峠",
                 "coords": [
                     36.65295277777778,
@@ -2431,6 +2512,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/白旗の湯.jpg"
             },
             {
+                "title": "群馬県庁",
+                "coords": [
+                    36.39055,
+                    139.0602722222222
+                ],
+                "date": "2026:09:26 13:32:17",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/群馬県庁.jpg"
+            },
+            {
                 "title": "群馬県立世界遺産センター",
                 "coords": [
                     36.260191666666664,
@@ -2438,6 +2528,15 @@
                 ],
                 "date": "2024:09:09 12:05:41",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/群馬県立世界遺産センター.jpg"
+            },
+            {
+                "title": "臨江閣",
+                "coords": [
+                    36.39588055555556,
+                    139.06272777777778
+                ],
+                "date": "2026:09:26 12:53:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/臨江閣.jpg"
             },
             {
                 "title": "草津温泉_光泉寺",
@@ -2616,8 +2715,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.94346759259259,
-                    139.60658055555555
+                    35.97372651515151,
+                    139.60287196969696
                 ]
             }
         ],
@@ -2630,6 +2729,24 @@
                 ],
                 "date": "2024:09:09 16:23:36",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/時の鐘.jpg"
+            },
+            {
+                "title": "羽生PA",
+                "coords": [
+                    36.18073888888889,
+                    139.5850861111111
+                ],
+                "date": "2026:09:26 18:47:53",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/羽生PA.jpg"
+            },
+            {
+                "title": "菖蒲PA",
+                "coords": [
+                    36.03904444444444,
+                    139.58728055555557
+                ],
+                "date": "2026:09:26 19:19:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/菖蒲PA.jpg"
             },
             {
                 "title": "都心上空",
