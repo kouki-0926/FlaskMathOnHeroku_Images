@@ -73,7 +73,7 @@
             },
             {
                 "title": "15 足利氏館(栃木県足利市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利氏館.jpg"
             },
             {
                 "title": "16 箕輪城(群馬県高崎市)",
@@ -112,8 +112,8 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城_夜.jpg"
             }
         ],
-        "visited": 3,
-        "unvisited": 7
+        "visited": 4,
+        "unvisited": 6
     },
     "中部地方": {
         "castle": [
@@ -589,5 +589,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 38
+    "unvisited_castle_cnt": 37
 }
