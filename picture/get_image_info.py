@@ -13,10 +13,10 @@ def get_gps_data(image_path):
     # GPS情報を取得
     try:
         gps_info = exif_data_decoded["GPSInfo"]
+        gps_data = {GPSTAGS.get(tag, tag): value for tag, value in gps_info.items()}
     except KeyError:
         print(f"GPS情報が存在しません: {image_path}")
-        return 0, 0
-    gps_data = {GPSTAGS.get(tag, tag): value for tag, value in gps_info.items()}
+        return None, None
 
     # 緯度経度を取得
     latitude  = gps_data.get("GPSLatitude", None)
