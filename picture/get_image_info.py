@@ -16,7 +16,7 @@ def get_gps_data(image_path):
         gps_data = {GPSTAGS.get(tag, tag): value for tag, value in gps_info.items()}
     except KeyError:
         print(f"GPS情報が存在しません: {image_path}")
-        return None, None
+        return 0, 0
 
     # 緯度経度を取得
     latitude  = gps_data.get("GPSLatitude", None)

@@ -1959,8 +1959,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.423293672839506,
-                    140.42969907407408
+                    36.377557510288064,
+                    140.42098549382715
                 ]
             }
         ],
@@ -1993,6 +1993,42 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/六角堂.jpg"
             },
             {
+                "title": "友部SA",
+                "coords": [
+                    36.30936944444444,
+                    140.33963055555554
+                ],
+                "date": "2026:10:24 13:45:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/友部SA.jpg"
+            },
+            {
+                "title": "大洗マリンタワー",
+                "coords": [
+                    36.310402777777774,
+                    140.57014444444445
+                ],
+                "date": "2026:10:24 17:11:24",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/大洗マリンタワー.jpg"
+            },
+            {
+                "title": "大洗磯前神社",
+                "coords": [
+                    36.31571944444445,
+                    140.58761666666666
+                ],
+                "date": "2026:10:24 16:40:52",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/大洗磯前神社.jpg"
+            },
+            {
+                "title": "守谷SA",
+                "coords": [
+                    35.94020833333333,
+                    139.96713333333332
+                ],
+                "date": "2026:10:24 12:27:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/守谷SA.jpg"
+            },
+            {
                 "title": "弘道館",
                 "coords": [
                     36.375119444444444,
@@ -2020,6 +2056,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_大手門.jpg"
             },
             {
+                "title": "水戸市総合運動公園",
+                "coords": [
+                    36.357033333333334,
+                    140.43001388888888
+                ],
+                "date": "2026:10:24 14:42:46",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸市総合運動公園.jpg"
+            },
+            {
                 "title": "水戸黄門",
                 "coords": [
                     36.371605555555554,
@@ -2027,6 +2072,42 @@
                 ],
                 "date": "2022:03:08 09:23:26",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸黄門.jpg"
+            },
+            {
+                "title": "神磯の鳥居",
+                "coords": [
+                    36.31534166666667,
+                    140.58908055555557
+                ],
+                "date": "2026:10:24 16:49:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/神磯の鳥居.jpg"
+            },
+            {
+                "title": "笠間PA",
+                "coords": [
+                    36.344408333333334,
+                    140.255125
+                ],
+                "date": "2026:10:24 18:04:23",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/笠間PA.jpg"
+            },
+            {
+                "title": "茨城県庁",
+                "coords": [
+                    36.340630555555556,
+                    140.44633611111112
+                ],
+                "date": "2026:10:24 15:35:08",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/茨城県庁.jpg"
+            },
+            {
+                "title": "茨城県庁_水戸市街",
+                "coords": [
+                    36.341652777777774,
+                    140.44694444444445
+                ],
+                "date": "2026:10:24 15:27:34",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/茨城県庁_水戸市街.jpg"
             },
             {
                 "title": "袋田の滝",
@@ -2133,8 +2214,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.6030866875,
-                    139.62362835648148
+                    36.591713245726496,
+                    139.63770534188035
                 ]
             }
         ],
@@ -2165,6 +2246,15 @@
                 ],
                 "date": "2026:09:26 16:59:13",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/佐野SA.jpg"
+            },
+            {
+                "title": "壬生PA",
+                "coords": [
+                    36.455225,
+                    139.806625
+                ],
+                "date": "2026:10:24 18:50:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/壬生PA.jpg"
             },
             {
                 "title": "日光二荒山神社",
@@ -2302,6 +2392,15 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利氏館.jpg"
             },
             {
+                "title": "道の駅みぶ",
+                "coords": [
+                    36.455238888888886,
+                    139.80663333333334
+                ],
+                "date": "2026:10:24 18:52:58",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/道の駅みぶ.jpg"
+            },
+            {
                 "title": "鑁阿寺",
                 "coords": [
                     36.3373,
@@ -2361,21 +2460,12 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.4177442251462,
-                    138.88521622807016
+                    36.41608952991453,
+                    138.8930334045584
                 ]
             }
         ],
         "markers": [
-            {
-                "title": "さちの池_群馬県庁",
-                "coords": [
-                    36.39461388888889,
-                    139.06022777777778
-                ],
-                "date": "2026:09:26 13:16:39",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/さちの池_群馬県庁.jpg"
-            },
             {
                 "title": "三県境",
                 "coords": [
@@ -2503,13 +2593,13 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/横川SA.jpg"
             },
             {
-                "title": "白旗の湯",
+                "title": "波志江PA",
                 "coords": [
-                    36.622572222222225,
-                    138.59626944444443
+                    36.35321111111111,
+                    139.1900861111111
                 ],
-                "date": "2026:07:19 16:49:50",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/白旗の湯.jpg"
+                "date": "2026:10:24 20:11:25",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/波志江PA.jpg"
             },
             {
                 "title": "群馬県庁",
@@ -2519,6 +2609,15 @@
                 ],
                 "date": "2026:09:26 13:32:17",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/群馬県庁.jpg"
+            },
+            {
+                "title": "群馬県庁_さちの池",
+                "coords": [
+                    36.39461388888889,
+                    139.06022777777778
+                ],
+                "date": "2026:09:26 13:16:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/群馬県庁_さちの池.jpg"
             },
             {
                 "title": "群馬県立世界遺産センター",
@@ -2573,6 +2672,15 @@
                 ],
                 "date": "2026:07:19 16:53:19",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/草津温泉_湯畑_下.jpg"
+            },
+            {
+                "title": "草津温泉_白旗の湯",
+                "coords": [
+                    36.622572222222225,
+                    138.59626944444443
+                ],
+                "date": "2026:07:19 16:49:50",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/10_群馬県/草津温泉_白旗の湯.jpg"
             },
             {
                 "title": "草津温泉_西の河原公園",
@@ -2715,12 +2823,30 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.97372651515151,
-                    139.60287196969696
+                    35.950347435897434,
+                    139.59658589743592
                 ]
             }
         ],
         "markers": [
+            {
+                "title": "三芳PA",
+                "coords": [
+                    35.8431,
+                    139.50491944444445
+                ],
+                "date": "2026:10:24 11:13:20",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/三芳PA.jpg"
+            },
+            {
+                "title": "新倉PA",
+                "coords": [
+                    35.800425,
+                    139.61910555555556
+                ],
+                "date": "2026:10:24 11:41:20",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/新倉PA.jpg"
+            },
             {
                 "title": "時の鐘",
                 "coords": [
@@ -3606,8 +3732,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.33730359313726,
-                    139.4563629869281
+                    35.34527349047619,
+                    139.44783713968252
                 ]
             }
         ],
@@ -3809,6 +3935,15 @@
                 ],
                 "date": "2026:08:29 17:23:23",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/芦ノ湖.jpg"
+            },
+            {
+                "title": "藤野PA",
+                "coords": [
+                    35.61625,
+                    139.15795833333334
+                ],
+                "date": "2026:10:24 10:15:39",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/藤野PA.jpg"
             },
             {
                 "title": "赤レンガ倉庫",
