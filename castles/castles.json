@@ -101,7 +101,15 @@
             },
             {
                 "title": "22 八王子城(東京都八王子市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城.jpg"
+            },
+            {
+                "title": "22 八王子城(東京都八王子市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_御主殿の滝.jpg"
+            },
+            {
+                "title": "22 八王子城(東京都八王子市)",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_曳橋.jpg"
             },
             {
                 "title": "23 小田原城(神奈川県小田原市)",
@@ -112,8 +120,8 @@
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城_夜.jpg"
             }
         ],
-        "visited": 4,
-        "unvisited": 6
+        "visited": 5,
+        "unvisited": 5
     },
     "中部地方": {
         "castle": [
@@ -589,5 +597,5 @@
         "visited": 6,
         "unvisited": 10
     },
-    "unvisited_castle_cnt": 37
+    "unvisited_castle_cnt": 36
 }
