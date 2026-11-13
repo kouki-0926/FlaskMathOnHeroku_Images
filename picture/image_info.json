@@ -2823,8 +2823,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.950347435897434,
-                    139.59658589743592
+                    35.94616259259259,
+                    139.5671548148148
                 ]
             }
         ],
@@ -2855,6 +2855,15 @@
                 ],
                 "date": "2024:09:09 16:23:36",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/時の鐘.jpg"
+            },
+            {
+                "title": "狭山PA",
+                "coords": [
+                    35.851622222222225,
+                    139.36743611111112
+                ],
+                "date": "2026:11:08 14:47:10",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/狭山PA.jpg"
             },
             {
                 "title": "羽生PA",
@@ -2945,6 +2954,15 @@
                 ],
                 "date": "2022:03:01 10:15:54",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/駅舎_柳生駅.jpg"
+            },
+            {
+                "title": "高坂SA",
+                "coords": [
+                    35.9863,
+                    139.38426944444444
+                ],
+                "date": "2026:11:08 14:19:54",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/11_埼玉県/高坂SA.jpg"
             }
         ]
     },
@@ -3315,8 +3333,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.66797580246914,
-                    139.70889901234568
+                    35.6670109375,
+                    139.68067881944444
                 ]
             }
         ],
@@ -3356,6 +3374,33 @@
                 ],
                 "date": "2016:09:19 11:36:59",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/上野動物園.jpg"
+            },
+            {
+                "title": "八王子城",
+                "coords": [
+                    35.65283888888889,
+                    139.25747777777778
+                ],
+                "date": "2026:11:08 15:52:47",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城.jpg"
+            },
+            {
+                "title": "八王子城_御主殿の滝",
+                "coords": [
+                    35.652186111111114,
+                    139.25701944444444
+                ],
+                "date": "2026:11:08 15:58:51",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_御主殿の滝.jpg"
+            },
+            {
+                "title": "八王子城_曳橋",
+                "coords": [
+                    35.652588888888886,
+                    139.25763055555555
+                ],
+                "date": "2026:11:08 15:51:04",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_曳橋.jpg"
             },
             {
                 "title": "国会議事堂",
@@ -3732,8 +3777,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.34527349047619,
-                    139.44783713968252
+                    35.34526333174603,
+                    139.4478061873016
                 ]
             }
         ],
@@ -3939,10 +3984,10 @@
             {
                 "title": "藤野PA",
                 "coords": [
-                    35.61625,
-                    139.15795833333334
+                    35.61589444444444,
+                    139.156875
                 ],
-                "date": "2026:10:24 10:15:39",
+                "date": "2026:11:08 16:36:58",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/藤野PA.jpg"
             },
             {
@@ -5574,8 +5619,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    35.55096285465116,
-                    138.65113171705426
+                    35.55206489835859,
+                    138.6500389507576
                 ]
             }
         ],
@@ -5633,6 +5678,15 @@
                 ],
                 "date": "2026:10:04 17:25:39",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/双葉ハーブガーデン.jpg"
+            },
+            {
+                "title": "境川PA",
+                "coords": [
+                    35.59945277777778,
+                    138.60305
+                ],
+                "date": "2026:11:08 17:27:48",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/境川PA.jpg"
             },
             {
                 "title": "増穂PA",
@@ -5973,8 +6027,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.127688194444445,
-                    138.03994055555557
+                    36.12768137152778,
+                    138.03994366319444
                 ]
             }
         ],
@@ -6540,10 +6594,10 @@
             {
                 "title": "東部湯の丸SA_展望台",
                 "coords": [
-                    36.373622222222224,
-                    138.34802222222223
+                    36.37253055555556,
+                    138.34851944444443
                 ],
-                "date": "2026:07:25 09:01:14",
+                "date": "2026:11:08 12:15:30",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/東部湯の丸SA_展望台.jpg"
             },
             {
