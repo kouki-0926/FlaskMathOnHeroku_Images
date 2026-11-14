@@ -5,13 +5,13 @@ response = requests.get("https://raw.githubusercontent.com/kouki-0926/FlaskMathO
 image_info = response.json()
 
 castles_list = {
-    "北海道・東北地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "関東地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "中部地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "近畿地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "中国地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "四国地方": {"castle": [], "visited": 0, "unvisited": 0},
-    "九州・沖縄地方": {"castle": [], "visited": 0, "unvisited": 0}
+    "北海道・東北地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "関東地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "中部地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "近畿地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "中国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "四国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+    "九州・沖縄地方": {"castle_list": [], "visited": 0, "unvisited": 0}
 }
 
 area_list = [
@@ -24,15 +24,21 @@ area_list = [
     ["九州・沖縄地方", ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"]]
 ]
 
-unvisited_castle_cnt = 0
 with open("castles/100castles.csv", "r", encoding="utf-8") as f:
     for line in f:
+        # castle_info[0]: 番号
+        # castle_info[1]: 城の名前
+        # castle_info[2]: 都道府県
+        # castle_info[3]: 市町村
         castle_info = line.strip().split(",")
 
+        # 城の名前を作成
+        castle_name = f"{castle_info[0]} {castle_info[1]}({castle_info[2]}{castle_info[3]})"
+
         # 城が何地方に属するかを判定
-        for area_idx in range(len(area_list)):
-            if castle_info[2] in area_list[area_idx][1]:
-                area = area_list[area_idx][0]
+        for area_info in area_list:
+            if castle_info[2] in area_info[1]:
+                area = area_info[0]
                 break
 
         # 城の写真を取得
@@ -42,24 +48,23 @@ with open("castles/100castles.csv", "r", encoding="utf-8") as f:
                 for marker in image_info[key]["markers"]:
                     if castle_info[1] in marker["title"]:
                         if "駅名標_" not in marker["title"] and "駅舎_" not in marker["title"]:
-                            image_list.append(marker["photo"])
+                            image_list.append(marker.copy())
 
         # 訪問済み・未訪問の数をカウント
         if len(image_list) > 0:
             castles_list[area]["visited"] += 1
         else:
             castles_list[area]["unvisited"] += 1
-            unvisited_castle_cnt += 1
 
-            image_list.append("https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問")
+            image_list.append({
+                "title": "未訪問",
+                "coords": [0.0, 0.0],
+                "date": "0000:00:00 00:00:00",
+                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+            })
 
         # 城の情報をリストに追加
-        for image in image_list:
-            castles_list[area]["castle"].append({"title": castle_info[0] + " " + castle_info[1] + "(" + castle_info[2] + castle_info[3] + ")",
-                                                 "photo": image})
-
-    # 未訪問の城の数をリストに追加
-    castles_list["unvisited_castle_cnt"] = unvisited_castle_cnt
+        castles_list[area]["castle_list"].append({"castle_name": castle_name, "image_list": image_list})
 
 with open("castles/castles.json", "w", encoding="utf-8") as f:
     json.dump(castles_list, f, ensure_ascii=False, indent=4)

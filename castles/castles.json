@@ -1,601 +1,1795 @@
 {
     "北海道・東北地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "1 根室半島チャシ跡群(北海道根室市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "1 根室半島チャシ跡群(北海道根室市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "2 五稜郭(北海道函館市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "2 五稜郭(北海道函館市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "3 松前城(北海道松前町)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "3 松前城(北海道松前町)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "4 弘前城(青森県弘前市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
+                "castle_name": "4 弘前城(青森県弘前市)",
+                "image_list": [
+                    {
+                        "title": "弘前城",
+                        "coords": [
+                            40.60746388888889,
+                            140.4656222222222
+                        ],
+                        "date": "2022:03:05 08:51:17",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/02_青森県/弘前城.jpg"
+                    }
+                ]
             },
             {
-                "title": "5 根城(青森県八戸市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "5 根城(青森県八戸市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "6 盛岡城(岩手県盛岡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡.jpg"
+                "castle_name": "6 盛岡城(岩手県盛岡市)",
+                "image_list": [
+                    {
+                        "title": "盛岡城跡",
+                        "coords": [
+                            39.700408333333336,
+                            141.14930833333332
+                        ],
+                        "date": "2022:03:04 09:46:52",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡.jpg"
+                    },
+                    {
+                        "title": "盛岡城跡_石垣ライトアップ",
+                        "coords": [
+                            39.701027777777774,
+                            141.1499472222222
+                        ],
+                        "date": "2024:12:17 19:19:01",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡_石垣ライトアップ.jpg"
+                    }
+                ]
             },
             {
-                "title": "6 盛岡城(岩手県盛岡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/03_岩手県/盛岡城跡_石垣ライトアップ.jpg"
+                "castle_name": "7 多賀城(宮城県多賀城市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "7 多賀城(宮城県多賀城市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "8 仙台城(宮城県仙台市)",
+                "image_list": [
+                    {
+                        "title": "仙台城跡",
+                        "coords": [
+                            38.25322222222222,
+                            140.85711666666666
+                        ],
+                        "date": "2022:03:03 09:43:56",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台城跡.jpg"
+                    }
+                ]
             },
             {
-                "title": "8 仙台城(宮城県仙台市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/04_宮城県/仙台城跡.jpg"
+                "castle_name": "9 久保田城(秋田県秋田市)",
+                "image_list": [
+                    {
+                        "title": "久保田城",
+                        "coords": [
+                            39.72336111111111,
+                            140.12124722222222
+                        ],
+                        "date": "2022:03:05 12:11:37",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/久保田城.jpg"
+                    }
+                ]
             },
             {
-                "title": "9 久保田城(秋田県秋田市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/05_秋田県/久保田城.jpg"
+                "castle_name": "10 山形城(山形県山形市)",
+                "image_list": [
+                    {
+                        "title": "山形城",
+                        "coords": [
+                            38.254127777777775,
+                            140.3287361111111
+                        ],
+                        "date": "2022:03:06 08:13:36",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/山形城.jpg"
+                    }
+                ]
             },
             {
-                "title": "10 山形城(山形県山形市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/06_山形県/山形城.jpg"
+                "castle_name": "11 二本松城(福島県二本松市)",
+                "image_list": [
+                    {
+                        "title": "二本松城",
+                        "coords": [
+                            37.59708055555556,
+                            140.4316861111111
+                        ],
+                        "date": "2022:03:02 12:32:56",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/二本松城.jpg"
+                    }
+                ]
             },
             {
-                "title": "11 二本松城(福島県二本松市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/二本松城.jpg"
+                "castle_name": "12 会津若松城(福島県会津若松市)",
+                "image_list": [
+                    {
+                        "title": "会津若松城",
+                        "coords": [
+                            37.487386111111114,
+                            139.92997777777776
+                        ],
+                        "date": "2025:02:25 13:06:20",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/会津若松城.jpg"
+                    }
+                ]
             },
             {
-                "title": "12 会津若松城(福島県会津若松市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/会津若松城.jpg"
-            },
-            {
-                "title": "13 白河小峰城(福島県白河市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河小峰城.jpg"
+                "castle_name": "13 白河小峰城(福島県白河市)",
+                "image_list": [
+                    {
+                        "title": "白河小峰城",
+                        "coords": [
+                            37.132358333333336,
+                            140.21417222222223
+                        ],
+                        "date": "2022:03:02 10:15:12",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/07_福島県/白河小峰城.jpg"
+                    }
+                ]
             }
         ],
         "visited": 8,
         "unvisited": 5
     },
     "関東地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "14 水戸城(茨城県水戸市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_二の丸角櫓.jpg"
+                "castle_name": "14 水戸城(茨城県水戸市)",
+                "image_list": [
+                    {
+                        "title": "水戸城_二の丸角櫓",
+                        "coords": [
+                            36.37198611111111,
+                            140.47791944444444
+                        ],
+                        "date": "2022:03:08 09:38:29",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_二の丸角櫓.jpg"
+                    },
+                    {
+                        "title": "水戸城_大手門",
+                        "coords": [
+                            36.374925,
+                            140.47915555555556
+                        ],
+                        "date": "2022:03:08 09:32:39",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_大手門.jpg"
+                    }
+                ]
             },
             {
-                "title": "14 水戸城(茨城県水戸市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/08_茨城県/水戸城_大手門.jpg"
+                "castle_name": "15 足利氏館(栃木県足利市)",
+                "image_list": [
+                    {
+                        "title": "足利氏館",
+                        "coords": [
+                            36.33657777777778,
+                            139.452225
+                        ],
+                        "date": "2026:09:26 15:48:51",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利氏館.jpg"
+                    }
+                ]
             },
             {
-                "title": "15 足利氏館(栃木県足利市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/09_栃木県/足利氏館.jpg"
+                "castle_name": "16 箕輪城(群馬県高崎市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "16 箕輪城(群馬県高崎市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "17 金山城(群馬県太田市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "17 金山城(群馬県太田市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "18 鉢形城(埼玉県寄居町)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "18 鉢形城(埼玉県寄居町)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "19 川越城(埼玉県川越市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "19 川越城(埼玉県川越市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "20 佐倉城(千葉県佐倉市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "20 佐倉城(千葉県佐倉市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "21 江戸城(東京都千代田区)",
+                "image_list": [
+                    {
+                        "title": "江戸城_西丸大手橋",
+                        "coords": [
+                            35.68021944444445,
+                            139.75359166666667
+                        ],
+                        "date": "2016:09:19 12:31:17",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/江戸城_西丸大手橋.jpg"
+                    }
+                ]
             },
             {
-                "title": "21 江戸城(東京都千代田区)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/江戸城_西丸大手橋.jpg"
+                "castle_name": "22 八王子城(東京都八王子市)",
+                "image_list": [
+                    {
+                        "title": "八王子城",
+                        "coords": [
+                            35.65283888888889,
+                            139.25747777777778
+                        ],
+                        "date": "2026:11:08 15:52:47",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城.jpg"
+                    },
+                    {
+                        "title": "八王子城_御主殿の滝",
+                        "coords": [
+                            35.652186111111114,
+                            139.25701944444444
+                        ],
+                        "date": "2026:11:08 15:58:51",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_御主殿の滝.jpg"
+                    },
+                    {
+                        "title": "八王子城_曳橋",
+                        "coords": [
+                            35.652588888888886,
+                            139.25763055555555
+                        ],
+                        "date": "2026:11:08 15:51:04",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_曳橋.jpg"
+                    }
+                ]
             },
             {
-                "title": "22 八王子城(東京都八王子市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城.jpg"
-            },
-            {
-                "title": "22 八王子城(東京都八王子市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_御主殿の滝.jpg"
-            },
-            {
-                "title": "22 八王子城(東京都八王子市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/13_東京都/八王子城_曳橋.jpg"
-            },
-            {
-                "title": "23 小田原城(神奈川県小田原市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城.jpg"
-            },
-            {
-                "title": "23 小田原城(神奈川県小田原市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城_夜.jpg"
+                "castle_name": "23 小田原城(神奈川県小田原市)",
+                "image_list": [
+                    {
+                        "title": "小田原城",
+                        "coords": [
+                            35.251041666666666,
+                            139.1534388888889
+                        ],
+                        "date": "2019:09:17 11:15:37",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城.jpg"
+                    },
+                    {
+                        "title": "小田原城_夜",
+                        "coords": [
+                            35.25108055555555,
+                            139.15408333333335
+                        ],
+                        "date": "2026:08:29 18:22:28",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/14_神奈川県/小田原城_夜.jpg"
+                    }
+                ]
             }
         ],
         "visited": 5,
         "unvisited": 5
     },
     "中部地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "24 武田氏館_武田神社(山梨県甲府市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社.jpg"
+                "castle_name": "24 武田氏館_武田神社(山梨県甲府市)",
+                "image_list": [
+                    {
+                        "title": "武田氏館_武田神社",
+                        "coords": [
+                            35.68646944444444,
+                            138.5772861111111
+                        ],
+                        "date": "2026:06:21 15:27:52",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社.jpg"
+                    },
+                    {
+                        "title": "武田氏館_武田神社_鳥居",
+                        "coords": [
+                            35.68590555555556,
+                            138.577025
+                        ],
+                        "date": "2026:06:21 15:24:19",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社_鳥居.jpg"
+                    }
+                ]
             },
             {
-                "title": "24 武田氏館_武田神社(山梨県甲府市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/武田氏館_武田神社_鳥居.jpg"
+                "castle_name": "25 甲府城(山梨県甲府市)",
+                "image_list": [
+                    {
+                        "title": "甲府城",
+                        "coords": [
+                            35.6641,
+                            138.5714861111111
+                        ],
+                        "date": "2025:03:23 07:18:36",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/甲府城.jpg"
+                    }
+                ]
             },
             {
-                "title": "25 甲府城(山梨県甲府市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/19_山梨県/甲府城.jpg"
+                "castle_name": "26 松代城(長野県長野市)",
+                "image_list": [
+                    {
+                        "title": "松代城",
+                        "coords": [
+                            36.56534444444444,
+                            138.1960611111111
+                        ],
+                        "date": "2026:01:31 11:15:07",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松代城.jpg"
+                    }
+                ]
             },
             {
-                "title": "26 松代城(長野県長野市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松代城.jpg"
+                "castle_name": "27 上田城(長野県上田市)",
+                "image_list": [
+                    {
+                        "title": "上田城",
+                        "coords": [
+                            36.403019444444446,
+                            138.24520833333332
+                        ],
+                        "date": "2026:01:31 14:27:12",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上田城.jpg"
+                    }
+                ]
             },
             {
-                "title": "27 上田城(長野県上田市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/上田城.jpg"
+                "castle_name": "28 小諸城(長野県小諸市)",
+                "image_list": [
+                    {
+                        "title": "小諸城",
+                        "coords": [
+                            36.32688888888889,
+                            138.41825833333334
+                        ],
+                        "date": "2026:04:26 15:04:23",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城.jpg"
+                    },
+                    {
+                        "title": "小諸城_三の門",
+                        "coords": [
+                            36.32765555555556,
+                            138.42045555555555
+                        ],
+                        "date": "2026:04:26 14:04:53",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_三の門.jpg"
+                    },
+                    {
+                        "title": "小諸城_大手門",
+                        "coords": [
+                            36.328894444444444,
+                            138.42190555555555
+                        ],
+                        "date": "2026:04:26 15:11:19",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_大手門.jpg"
+                    }
+                ]
             },
             {
-                "title": "28 小諸城(長野県小諸市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城.jpg"
+                "castle_name": "29 松本城(長野県松本市)",
+                "image_list": [
+                    {
+                        "title": "松本城_埋橋",
+                        "coords": [
+                            36.23908888888889,
+                            137.96807777777778
+                        ],
+                        "date": "2025:12:13 11:04:13",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_埋橋.jpg"
+                    },
+                    {
+                        "title": "松本城_夜",
+                        "coords": [
+                            36.238033333333334,
+                            137.9693
+                        ],
+                        "date": "2025:03:21 19:20:05",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜.jpg"
+                    },
+                    {
+                        "title": "松本城_夜_桜",
+                        "coords": [
+                            36.23854722222222,
+                            137.96945277777778
+                        ],
+                        "date": "2025:04:11 20:28:35",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜_桜.jpg"
+                    },
+                    {
+                        "title": "松本城_昼",
+                        "coords": [
+                            36.237947222222225,
+                            137.96806944444444
+                        ],
+                        "date": "2025:04:12 14:30:37",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+                    },
+                    {
+                        "title": "松本城_昼_桜",
+                        "coords": [
+                            36.23855555555556,
+                            137.96945277777778
+                        ],
+                        "date": "2025:04:12 14:57:13",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼_桜.jpg"
+                    }
+                ]
             },
             {
-                "title": "28 小諸城(長野県小諸市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_三の門.jpg"
+                "castle_name": "30 高遠城(長野県伊那市)",
+                "image_list": [
+                    {
+                        "title": "高遠城",
+                        "coords": [
+                            35.83315277777778,
+                            138.06300277777777
+                        ],
+                        "date": "2026:04:25 17:12:22",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠城.jpg"
+                    }
+                ]
             },
             {
-                "title": "28 小諸城(長野県小諸市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/小諸城_大手門.jpg"
+                "castle_name": "31 新発田城(新潟県新発田市)",
+                "image_list": [
+                    {
+                        "title": "新発田城",
+                        "coords": [
+                            37.95491111111111,
+                            139.32379166666666
+                        ],
+                        "date": "2025:02:26 16:56:30",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/新発田城.jpg"
+                    }
+                ]
             },
             {
-                "title": "29 松本城(長野県松本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_埋橋.jpg"
+                "castle_name": "32 春日山城(新潟県上越市)",
+                "image_list": [
+                    {
+                        "title": "春日山城",
+                        "coords": [
+                            37.14658055555556,
+                            138.20961111111112
+                        ],
+                        "date": "2026:02:14 14:48:35",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/春日山城.jpg"
+                    }
+                ]
             },
             {
-                "title": "29 松本城(長野県松本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜.jpg"
+                "castle_name": "33 高岡城(富山県高岡市)",
+                "image_list": [
+                    {
+                        "title": "高岡城",
+                        "coords": [
+                            36.74613055555555,
+                            137.02018611111112
+                        ],
+                        "date": "2026:06:09 08:30:51",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/高岡城.jpg"
+                    }
+                ]
             },
             {
-                "title": "29 松本城(長野県松本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_夜_桜.jpg"
+                "castle_name": "34 七尾城(石川県七尾市)",
+                "image_list": [
+                    {
+                        "title": "七尾城",
+                        "coords": [
+                            37.00895277777778,
+                            136.98411666666667
+                        ],
+                        "date": "2026:06:09 12:46:21",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城.jpg"
+                    },
+                    {
+                        "title": "七尾城山展望台",
+                        "coords": [
+                            37.01136666666667,
+                            136.99235555555555
+                        ],
+                        "date": "2026:06:09 13:13:39",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城山展望台.jpg"
+                    }
+                ]
             },
             {
-                "title": "29 松本城(長野県松本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼.jpg"
+                "castle_name": "35 金沢城(石川県金沢市)",
+                "image_list": [
+                    {
+                        "title": "金沢城",
+                        "coords": [
+                            36.56603611111111,
+                            136.65998888888888
+                        ],
+                        "date": "2023:04:01 08:45:03",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城.jpg"
+                    },
+                    {
+                        "title": "金沢城_石川橋",
+                        "coords": [
+                            36.56495,
+                            136.66180555555556
+                        ],
+                        "date": "2023:04:01 08:53:36",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城_石川橋.jpg"
+                    }
+                ]
             },
             {
-                "title": "29 松本城(長野県松本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/松本城_昼_桜.jpg"
+                "castle_name": "36 丸岡城(福井県坂井市)",
+                "image_list": [
+                    {
+                        "title": "丸岡城",
+                        "coords": [
+                            36.152297222222224,
+                            136.27145277777777
+                        ],
+                        "date": "2026:06:10 14:02:27",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/丸岡城.jpg"
+                    }
+                ]
             },
             {
-                "title": "30 高遠城(長野県伊那市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/高遠城.jpg"
+                "castle_name": "37 一乗谷城(福井県福井市)",
+                "image_list": [
+                    {
+                        "title": "一乗谷城",
+                        "coords": [
+                            35.99981388888889,
+                            136.29511944444445
+                        ],
+                        "date": "2026:06:10 15:46:15",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城.jpg"
+                    },
+                    {
+                        "title": "一乗谷城_復原町並",
+                        "coords": [
+                            35.998508333333334,
+                            136.2934888888889
+                        ],
+                        "date": "2026:06:10 15:27:45",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城_復原町並.jpg"
+                    }
+                ]
             },
             {
-                "title": "31 新発田城(新潟県新発田市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/新発田城.jpg"
+                "castle_name": "38 岩村城(岐阜県恵那市)",
+                "image_list": [
+                    {
+                        "title": "岩村城",
+                        "coords": [
+                            35.360425,
+                            137.45163055555557
+                        ],
+                        "date": "2026:04:18 13:47:58",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城.jpg"
+                    },
+                    {
+                        "title": "岩村城下町",
+                        "coords": [
+                            35.36612777777778,
+                            137.44023055555556
+                        ],
+                        "date": "2026:04:18 14:28:59",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城下町.jpg"
+                    }
+                ]
             },
             {
-                "title": "32 春日山城(新潟県上越市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/15_新潟県/春日山城.jpg"
+                "castle_name": "39 岐阜城(岐阜県岐阜市)",
+                "image_list": [
+                    {
+                        "title": "岐阜城",
+                        "coords": [
+                            35.433675,
+                            136.78176944444445
+                        ],
+                        "date": "2024:11:19 14:42:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城.jpg"
+                    },
+                    {
+                        "title": "岐阜城_長良橋",
+                        "coords": [
+                            35.43425833333333,
+                            136.78181388888888
+                        ],
+                        "date": "2024:11:19 14:55:33",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良橋.jpg"
+                    }
+                ]
             },
             {
-                "title": "33 高岡城(富山県高岡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/16_富山県/高岡城.jpg"
+                "castle_name": "40 山中城(静岡県三島市)",
+                "image_list": [
+                    {
+                        "title": "山中城",
+                        "coords": [
+                            35.15641111111111,
+                            138.99174444444444
+                        ],
+                        "date": "2026:08:29 16:54:38",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/山中城.jpg"
+                    }
+                ]
             },
             {
-                "title": "34 七尾城(石川県七尾市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城.jpg"
+                "castle_name": "41 駿府城(静岡県静岡市)",
+                "image_list": [
+                    {
+                        "title": "駿府城",
+                        "coords": [
+                            34.97748055555556,
+                            138.38528333333332
+                        ],
+                        "date": "2025:11:03 10:41:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駿府城.jpg"
+                    }
+                ]
             },
             {
-                "title": "34 七尾城(石川県七尾市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/七尾城山展望台.jpg"
+                "castle_name": "42 掛川城(静岡県掛川市)",
+                "image_list": [
+                    {
+                        "title": "掛川城",
+                        "coords": [
+                            34.77502777777778,
+                            138.01416111111112
+                        ],
+                        "date": "2025:11:03 09:19:08",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城.jpg"
+                    },
+                    {
+                        "title": "掛川城_二の丸御殿",
+                        "coords": [
+                            34.77521111111111,
+                            138.014725
+                        ],
+                        "date": "2025:11:03 09:41:53",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城_二の丸御殿.jpg"
+                    }
+                ]
             },
             {
-                "title": "35 金沢城(石川県金沢市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城.jpg"
+                "castle_name": "43 犬山城(愛知県犬山市)",
+                "image_list": [
+                    {
+                        "title": "犬山城",
+                        "coords": [
+                            35.388125,
+                            136.9394388888889
+                        ],
+                        "date": "2025:08:13 09:13:09",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/犬山城.jpg"
+                    }
+                ]
             },
             {
-                "title": "35 金沢城(石川県金沢市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/17_石川県/金沢城_石川橋.jpg"
+                "castle_name": "44 名古屋城(愛知県名古屋市)",
+                "image_list": [
+                    {
+                        "title": "名古屋城",
+                        "coords": [
+                            35.185161111111114,
+                            136.90019166666667
+                        ],
+                        "date": "2023:06:28 14:28:06",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/名古屋城.jpg"
+                    }
+                ]
             },
             {
-                "title": "36 丸岡城(福井県坂井市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/丸岡城.jpg"
+                "castle_name": "45 岡崎城(愛知県岡崎市)",
+                "image_list": [
+                    {
+                        "title": "岡崎城",
+                        "coords": [
+                            34.955952777777775,
+                            137.15885833333334
+                        ],
+                        "date": "2025:11:02 12:29:12",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/岡崎城.jpg"
+                    }
+                ]
             },
             {
-                "title": "37 一乗谷城(福井県福井市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城.jpg"
-            },
-            {
-                "title": "37 一乗谷城(福井県福井市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/18_福井県/一乗谷城_復原町並.jpg"
-            },
-            {
-                "title": "38 岩村城(岐阜県恵那市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城.jpg"
-            },
-            {
-                "title": "38 岩村城(岐阜県恵那市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岩村城下町.jpg"
-            },
-            {
-                "title": "39 岐阜城(岐阜県岐阜市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城.jpg"
-            },
-            {
-                "title": "39 岐阜城(岐阜県岐阜市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/21_岐阜県/岐阜城_長良橋.jpg"
-            },
-            {
-                "title": "40 山中城(静岡県三島市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/山中城.jpg"
-            },
-            {
-                "title": "41 駿府城(静岡県静岡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/駿府城.jpg"
-            },
-            {
-                "title": "42 掛川城(静岡県掛川市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城.jpg"
-            },
-            {
-                "title": "42 掛川城(静岡県掛川市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/22_静岡県/掛川城_二の丸御殿.jpg"
-            },
-            {
-                "title": "43 犬山城(愛知県犬山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/犬山城.jpg"
-            },
-            {
-                "title": "44 名古屋城(愛知県名古屋市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/名古屋城.jpg"
-            },
-            {
-                "title": "45 岡崎城(愛知県岡崎市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/岡崎城.jpg"
-            },
-            {
-                "title": "46 長篠城(愛知県新城市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城.jpg"
-            },
-            {
-                "title": "46 長篠城(愛知県新城市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城_牛渕橋.jpg"
-            },
-            {
-                "title": "46 長篠城(愛知県新城市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城_馬防柵.jpg"
+                "castle_name": "46 長篠城(愛知県新城市)",
+                "image_list": [
+                    {
+                        "title": "長篠城",
+                        "coords": [
+                            34.92281111111111,
+                            137.5596361111111
+                        ],
+                        "date": "2026:05:30 17:14:17",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城.jpg"
+                    },
+                    {
+                        "title": "長篠城_牛渕橋",
+                        "coords": [
+                            34.92064166666667,
+                            137.56024166666666
+                        ],
+                        "date": "2026:05:30 17:28:10",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城_牛渕橋.jpg"
+                    },
+                    {
+                        "title": "長篠城_馬防柵",
+                        "coords": [
+                            34.92160277777778,
+                            137.52506944444445
+                        ],
+                        "date": "2026:05:30 18:09:37",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/23_愛知県/長篠城_馬防柵.jpg"
+                    }
+                ]
             }
         ],
         "visited": 23,
         "unvisited": 0
     },
     "近畿地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "47 伊賀上野城(三重県伊賀市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "47 伊賀上野城(三重県伊賀市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "48 松阪城(三重県松阪市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/松阪城.jpg"
+                "castle_name": "48 松阪城(三重県松阪市)",
+                "image_list": [
+                    {
+                        "title": "松阪城",
+                        "coords": [
+                            34.576394444444446,
+                            136.52667222222223
+                        ],
+                        "date": "2025:11:25 08:36:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/24_三重県/松阪城.jpg"
+                    }
+                ]
             },
             {
-                "title": "49 小谷城(滋賀県長浜市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "49 小谷城(滋賀県長浜市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "50 彦根城(滋賀県彦根市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
+                "castle_name": "50 彦根城(滋賀県彦根市)",
+                "image_list": [
+                    {
+                        "title": "彦根城",
+                        "coords": [
+                            35.27628055555556,
+                            136.25227222222222
+                        ],
+                        "date": "2025:08:13 15:40:56",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/彦根城.jpg"
+                    }
+                ]
             },
             {
-                "title": "51 安土城(滋賀県近江八幡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城.jpg"
+                "castle_name": "51 安土城(滋賀県近江八幡市)",
+                "image_list": [
+                    {
+                        "title": "安土城",
+                        "coords": [
+                            35.15383888888889,
+                            136.1388388888889
+                        ],
+                        "date": "2026:09:12 13:09:49",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城.jpg"
+                    },
+                    {
+                        "title": "安土城_大手道",
+                        "coords": [
+                            35.153819444444444,
+                            136.13913055555557
+                        ],
+                        "date": "2026:09:12 13:10:15",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城_大手道.jpg"
+                    }
+                ]
             },
             {
-                "title": "51 安土城(滋賀県近江八幡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/安土城_大手道.jpg"
+                "castle_name": "52 観音寺城(滋賀県近江八幡市)",
+                "image_list": [
+                    {
+                        "title": "観音寺城",
+                        "coords": [
+                            35.14611111111111,
+                            136.15791388888888
+                        ],
+                        "date": "2026:09:12 15:06:50",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城.jpg"
+                    },
+                    {
+                        "title": "観音寺城_大石垣",
+                        "coords": [
+                            35.143166666666666,
+                            136.15774444444443
+                        ],
+                        "date": "2026:09:12 15:27:49",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城_大石垣.jpg"
+                    }
+                ]
             },
             {
-                "title": "52 観音寺城(滋賀県近江八幡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城.jpg"
+                "castle_name": "53 二条城(京都府京都市)",
+                "image_list": [
+                    {
+                        "title": "二条城",
+                        "coords": [
+                            35.014227777777776,
+                            135.74786944444443
+                        ],
+                        "date": "2019:09:19 14:16:49",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/二条城.jpg"
+                    }
+                ]
             },
             {
-                "title": "52 観音寺城(滋賀県近江八幡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/25_滋賀県/観音寺城_大石垣.jpg"
+                "castle_name": "54 大坂城(大阪府大阪市)",
+                "image_list": [
+                    {
+                        "title": "大坂城",
+                        "coords": [
+                            34.68656661111111,
+                            135.52607777777777
+                        ],
+                        "date": "2025:07:18 16:47:05",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大坂城.jpg"
+                    }
+                ]
             },
             {
-                "title": "53 二条城(京都府京都市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/26_京都府/二条城.jpg"
+                "castle_name": "55 千早城(大阪府千早赤阪村)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "54 大坂城(大阪府大阪市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/27_大阪府/大坂城.jpg"
+                "castle_name": "56 竹田城(兵庫県朝来市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "55 千早城(大阪府千早赤阪村)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "57 篠山城(兵庫県篠山市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "56 竹田城(兵庫県朝来市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "58 明石城(兵庫県明石市)",
+                "image_list": [
+                    {
+                        "title": "明石城",
+                        "coords": [
+                            34.65133333333333,
+                            134.99201944444445
+                        ],
+                        "date": "2025:06:22 14:38:43",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石城.jpg"
+                    },
+                    {
+                        "title": "明石城_明石海峡大橋",
+                        "coords": [
+                            34.65220277777778,
+                            134.99208055555556
+                        ],
+                        "date": "2025:06:22 14:44:29",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石城_明石海峡大橋.jpg"
+                    }
+                ]
             },
             {
-                "title": "57 篠山城(兵庫県篠山市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "59 姫路城(兵庫県姫路市)",
+                "image_list": [
+                    {
+                        "title": "姫路城",
+                        "coords": [
+                            34.83675,
+                            134.693375
+                        ],
+                        "date": "2023:08:25 17:18:13",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城.jpg"
+                    }
+                ]
             },
             {
-                "title": "58 明石城(兵庫県明石市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石城.jpg"
+                "castle_name": "60 赤穂城(兵庫県赤穂市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "58 明石城(兵庫県明石市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/明石城_明石海峡大橋.jpg"
+                "castle_name": "61 高取城(奈良県高取町)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "59 姫路城(兵庫県姫路市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/28_兵庫県/姫路城.jpg"
-            },
-            {
-                "title": "60 赤穂城(兵庫県赤穂市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "61 高取城(奈良県高取町)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "62 和歌山城(和歌山県和歌山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城.jpg"
-            },
-            {
-                "title": "62 和歌山城(和歌山県和歌山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
+                "castle_name": "62 和歌山城(和歌山県和歌山市)",
+                "image_list": [
+                    {
+                        "title": "和歌山城",
+                        "coords": [
+                            34.227577777777775,
+                            135.17112777777777
+                        ],
+                        "date": "2025:11:26 16:49:46",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城.jpg"
+                    },
+                    {
+                        "title": "和歌山城_紅葉渓庭園",
+                        "coords": [
+                            34.228516666666664,
+                            135.17057777777777
+                        ],
+                        "date": "2025:11:26 16:39:55",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/30_和歌山県/和歌山城_紅葉渓庭園.jpg"
+                    }
+                ]
             }
         ],
         "visited": 9,
         "unvisited": 7
     },
     "中国地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "63 鳥取城(鳥取県鳥取市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城.jpg"
+                "castle_name": "63 鳥取城(鳥取県鳥取市)",
+                "image_list": [
+                    {
+                        "title": "鳥取城",
+                        "coords": [
+                            35.505916666666664,
+                            134.23703055555555
+                        ],
+                        "date": "2025:05:31 16:06:30",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城.jpg"
+                    },
+                    {
+                        "title": "鳥取城_石垣",
+                        "coords": [
+                            35.50686388888889,
+                            134.23861666666667
+                        ],
+                        "date": "2025:05:31 16:26:03",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城_石垣.jpg"
+                    }
+                ]
             },
             {
-                "title": "63 鳥取城(鳥取県鳥取市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/31_鳥取県/鳥取城_石垣.jpg"
+                "castle_name": "64 松江城(島根県松江市)",
+                "image_list": [
+                    {
+                        "title": "松江城",
+                        "coords": [
+                            35.474725,
+                            133.05049166666666
+                        ],
+                        "date": "2024:03:03 15:36:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城.jpg"
+                    }
+                ]
             },
             {
-                "title": "64 松江城(島根県松江市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/32_島根県/松江城.jpg"
+                "castle_name": "65 月山富田城(島根県安来市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "65 月山富田城(島根県安来市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "66 津和野城(島根県津和野町)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "66 津和野城(島根県津和野町)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "67 津山城(岡山県津山市)",
+                "image_list": [
+                    {
+                        "title": "津山城",
+                        "coords": [
+                            35.062977777777775,
+                            134.004975
+                        ],
+                        "date": "2025:06:07 10:05:18",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城.jpg"
+                    },
+                    {
+                        "title": "津山城_備中櫓",
+                        "coords": [
+                            35.06220277777778,
+                            134.00521944444444
+                        ],
+                        "date": "2025:06:07 09:54:27",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓.jpg"
+                    },
+                    {
+                        "title": "津山城_備中櫓_紫陽花",
+                        "coords": [
+                            35.06235,
+                            134.00547777777777
+                        ],
+                        "date": "2025:06:07 10:29:13",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓_紫陽花.jpg"
+                    }
+                ]
             },
             {
-                "title": "67 津山城(岡山県津山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城.jpg"
+                "castle_name": "68 備中松山城(岡山県高梁市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "67 津山城(岡山県津山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓.jpg"
+                "castle_name": "69 鬼ノ城(岡山県総社市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "67 津山城(岡山県津山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/津山城_備中櫓_紫陽花.jpg"
+                "castle_name": "70 岡山城(岡山県岡山市)",
+                "image_list": [
+                    {
+                        "title": "岡山城",
+                        "coords": [
+                            34.664855555555555,
+                            133.93606666666668
+                        ],
+                        "date": "2024:03:04 15:07:58",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/岡山城.jpg"
+                    },
+                    {
+                        "title": "後楽園_岡山城",
+                        "coords": [
+                            34.668397222222225,
+                            133.93574444444445
+                        ],
+                        "date": "2023:09:01 14:11:06",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/後楽園_岡山城.jpg"
+                    }
+                ]
             },
             {
-                "title": "68 備中松山城(岡山県高梁市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "71 福山城(広島県福山市)",
+                "image_list": [
+                    {
+                        "title": "福山城",
+                        "coords": [
+                            34.49061944444444,
+                            133.3612222222222
+                        ],
+                        "date": "2025:06:07 16:33:19",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
+                    },
+                    {
+                        "title": "福山城_筋鉄御門",
+                        "coords": [
+                            34.490069444444444,
+                            133.3605638888889
+                        ],
+                        "date": "2025:06:07 15:53:12",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城_筋鉄御門.jpg"
+                    },
+                    {
+                        "title": "福山城天守北側鉄板張り",
+                        "coords": [
+                            34.49160277777778,
+                            133.3609305
+                        ],
+                        "date": "2025:06:07 16:35:49",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城天守北側鉄板張り.jpg"
+                    },
+                    {
+                        "title": "福山駅_福山城",
+                        "coords": [
+                            34.489222222222224,
+                            133.36115555555557
+                        ],
+                        "date": "2021:09:12 11:11:49",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山駅_福山城.jpg"
+                    }
+                ]
             },
             {
-                "title": "69 鬼ノ城(岡山県総社市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "72 吉田郡山城(広島県安芸高田市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "70 岡山城(岡山県岡山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/岡山城.jpg"
+                "castle_name": "73 広島城(広島県広島市)",
+                "image_list": [
+                    {
+                        "title": "広島城",
+                        "coords": [
+                            34.40241944444445,
+                            132.45903055555556
+                        ],
+                        "date": "2025:06:08 08:15:30",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島城.jpg"
+                    }
+                ]
             },
             {
-                "title": "70 岡山城(岡山県岡山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/33_岡山県/後楽園_岡山城.jpg"
+                "castle_name": "74 岩国城(山口県岩国市)",
+                "image_list": [
+                    {
+                        "title": "錦帯橋_岩国城",
+                        "coords": [
+                            34.166830555555556,
+                            132.17909722222223
+                        ],
+                        "date": "2021:09:13 14:26:37",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋_岩国城.jpg"
+                    }
+                ]
             },
             {
-                "title": "71 福山城(広島県福山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城.jpg"
-            },
-            {
-                "title": "71 福山城(広島県福山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城_筋鉄御門.jpg"
-            },
-            {
-                "title": "71 福山城(広島県福山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山城天守北側鉄板張り.jpg"
-            },
-            {
-                "title": "71 福山城(広島県福山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/福山駅_福山城.jpg"
-            },
-            {
-                "title": "72 吉田郡山城(広島県安芸高田市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "73 広島城(広島県広島市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/34_広島県/広島城.jpg"
-            },
-            {
-                "title": "74 岩国城(山口県岩国市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/35_山口県/錦帯橋_岩国城.jpg"
-            },
-            {
-                "title": "75 萩城(山口県萩市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "75 萩城(山口県萩市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             }
         ],
         "visited": 7,
         "unvisited": 6
     },
     "四国地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "76 徳島城(徳島県徳島市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/徳島城.jpg"
+                "castle_name": "76 徳島城(徳島県徳島市)",
+                "image_list": [
+                    {
+                        "title": "徳島城",
+                        "coords": [
+                            34.07651944444444,
+                            134.55685555555556
+                        ],
+                        "date": "2023:09:04 17:49:20",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/36_徳島県/徳島城.jpg"
+                    }
+                ]
             },
             {
-                "title": "77 高松城(香川県高松市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_高松城艮櫓_琴電.jpg"
+                "castle_name": "77 高松城(香川県高松市)",
+                "image_list": [
+                    {
+                        "title": "玉藻公園_高松城艮櫓_琴電",
+                        "coords": [
+                            34.348819444444445,
+                            134.05235277777777
+                        ],
+                        "date": "2023:09:02 08:33:28",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/玉藻公園_高松城艮櫓_琴電.jpg"
+                    }
+                ]
             },
             {
-                "title": "78 丸亀城(香川県丸亀市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城.jpg"
+                "castle_name": "78 丸亀城(香川県丸亀市)",
+                "image_list": [
+                    {
+                        "title": "丸亀城",
+                        "coords": [
+                            34.28790277777778,
+                            133.79931666666667
+                        ],
+                        "date": "2025:06:21 10:56:53",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城.jpg"
+                    },
+                    {
+                        "title": "丸亀城_天守閣",
+                        "coords": [
+                            34.28611111111111,
+                            133.80021666666667
+                        ],
+                        "date": "2025:06:21 10:45:22",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城_天守閣.jpg"
+                    }
+                ]
             },
             {
-                "title": "78 丸亀城(香川県丸亀市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/37_香川県/丸亀城_天守閣.jpg"
+                "castle_name": "79 今治城(愛媛県今治市)",
+                "image_list": [
+                    {
+                        "title": "今治城",
+                        "coords": [
+                            34.06356111111111,
+                            133.00624166666665
+                        ],
+                        "date": "2023:09:02 15:20:46",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城.jpg"
+                    },
+                    {
+                        "title": "今治城_しまなみ海道",
+                        "coords": [
+                            34.06327777777778,
+                            133.006775
+                        ],
+                        "date": "2023:09:02 15:27:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城_しまなみ海道.jpg"
+                    }
+                ]
             },
             {
-                "title": "79 今治城(愛媛県今治市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城.jpg"
+                "castle_name": "80 湯築城(愛媛県松山市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "79 今治城(愛媛県今治市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/今治城_しまなみ海道.jpg"
+                "castle_name": "81 松山城(愛媛県松山市)",
+                "image_list": [
+                    {
+                        "title": "大観覧車くるりん_松山城",
+                        "coords": [
+                            33.83581111111111,
+                            132.76307777777777
+                        ],
+                        "date": "2023:09:02 19:35:13",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/大観覧車くるりん_松山城.jpg"
+                    },
+                    {
+                        "title": "松山城",
+                        "coords": [
+                            33.84497777777778,
+                            132.76614444444445
+                        ],
+                        "date": "2023:09:03 10:05:16",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城.jpg"
+                    },
+                    {
+                        "title": "松山城山リフト",
+                        "coords": [
+                            33.84446388888889,
+                            132.76892222222222
+                        ],
+                        "date": "2023:09:03 09:55:05",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城山リフト.jpg"
+                    }
+                ]
             },
             {
-                "title": "80 湯築城(愛媛県松山市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "82 大洲城(愛媛県大洲市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "81 松山城(愛媛県松山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/大観覧車くるりん_松山城.jpg"
+                "castle_name": "83 宇和島城(愛媛県宇和島市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "81 松山城(愛媛県松山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城.jpg"
-            },
-            {
-                "title": "81 松山城(愛媛県松山市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/38_愛媛県/松山城山リフト.jpg"
-            },
-            {
-                "title": "82 大洲城(愛媛県大洲市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "83 宇和島城(愛媛県宇和島市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "84 高知城(高知県高知市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知城.jpg"
+                "castle_name": "84 高知城(高知県高知市)",
+                "image_list": [
+                    {
+                        "title": "高知城",
+                        "coords": [
+                            33.5612,
+                            133.53138611111112
+                        ],
+                        "date": "2023:09:04 09:22:31",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/39_高知県/高知城.jpg"
+                    }
+                ]
             }
         ],
         "visited": 6,
         "unvisited": 3
     },
     "九州・沖縄地方": {
-        "castle": [
+        "castle_list": [
             {
-                "title": "85 福岡城(福岡県福岡市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/福岡城.jpg"
+                "castle_name": "85 福岡城(福岡県福岡市)",
+                "image_list": [
+                    {
+                        "title": "福岡城",
+                        "coords": [
+                            33.584941666666666,
+                            130.3831138888889
+                        ],
+                        "date": "2021:09:14 14:02:06",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/40_福岡県/福岡城.jpg"
+                    }
+                ]
             },
             {
-                "title": "86 大野城(福岡県大野城市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "86 大野城(福岡県大野城市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "87 名護屋城(佐賀県唐津市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "87 名護屋城(佐賀県唐津市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "88 吉野ヶ里遺跡(佐賀県吉野ヶ里町)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_北内郭.jpg"
+                "castle_name": "88 吉野ヶ里遺跡(佐賀県吉野ヶ里町)",
+                "image_list": [
+                    {
+                        "title": "吉野ヶ里遺跡_北内郭",
+                        "coords": [
+                            33.327061111111114,
+                            130.38642777777778
+                        ],
+                        "date": "2024:10:17 09:26:25",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_北内郭.jpg"
+                    },
+                    {
+                        "title": "吉野ヶ里遺跡_南内郭",
+                        "coords": [
+                            33.324688888888886,
+                            130.38443055555555
+                        ],
+                        "date": "2024:10:17 09:06:47",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_南内郭.jpg"
+                    }
+                ]
             },
             {
-                "title": "88 吉野ヶ里遺跡(佐賀県吉野ヶ里町)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/吉野ヶ里遺跡_南内郭.jpg"
+                "castle_name": "89 佐賀城(佐賀県佐賀市)",
+                "image_list": [
+                    {
+                        "title": "佐賀城_本丸御殿",
+                        "coords": [
+                            33.24558888888889,
+                            130.30313055555555
+                        ],
+                        "date": "2024:10:16 17:01:48",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_本丸御殿.jpg"
+                    },
+                    {
+                        "title": "佐賀城_鯱の門",
+                        "coords": [
+                            33.245808333333336,
+                            130.30305555555555
+                        ],
+                        "date": "2024:10:16 17:40:41",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_鯱の門.jpg"
+                    }
+                ]
             },
             {
-                "title": "89 佐賀城(佐賀県佐賀市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_本丸御殿.jpg"
+                "castle_name": "90 平戸城(長崎県平戸市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "89 佐賀城(佐賀県佐賀市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/41_佐賀県/佐賀城_鯱の門.jpg"
+                "castle_name": "91 島原城(長崎県島原市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "90 平戸城(長崎県平戸市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "92 熊本城(熊本県熊本市)",
+                "image_list": [
+                    {
+                        "title": "熊本城",
+                        "coords": [
+                            32.806130555555555,
+                            130.70584722222222
+                        ],
+                        "date": "2021:09:15 11:24:59",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本城.jpg"
+                    }
+                ]
             },
             {
-                "title": "91 島原城(長崎県島原市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "93 人吉城(熊本県人吉市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "92 熊本城(熊本県熊本市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/43_熊本県/熊本城.jpg"
+                "castle_name": "94 大分府内城(大分県大分市)",
+                "image_list": [
+                    {
+                        "title": "大分府内城",
+                        "coords": [
+                            33.239383333333336,
+                            131.61013888888888
+                        ],
+                        "date": "2024:10:18 09:06:35",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/大分府内城.jpg"
+                    }
+                ]
             },
             {
-                "title": "93 人吉城(熊本県人吉市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "95 岡城(大分県竹田市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "94 大分府内城(大分県大分市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/44_大分県/大分府内城.jpg"
+                "castle_name": "96 飫肥城(宮崎県日南市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "95 岡城(大分県竹田市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "97 鹿児島城(鹿児島県鹿児島市)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "96 飫肥城(宮崎県日南市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "98 今帰仁城(沖縄県今帰仁村)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "97 鹿児島城(鹿児島県鹿児島市)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                "castle_name": "99 中城城(沖縄県中城村)",
+                "image_list": [
+                    {
+                        "title": "未訪問",
+                        "coords": [
+                            0.0,
+                            0.0
+                        ],
+                        "date": "0000:00:00 00:00:00",
+                        "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
+                    }
+                ]
             },
             {
-                "title": "98 今帰仁城(沖縄県今帰仁村)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "99 中城城(沖縄県中城村)",
-                "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-            },
-            {
-                "title": "100 首里城(沖縄県那覇市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城.jpg"
-            },
-            {
-                "title": "100 首里城(沖縄県那覇市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_守礼門.jpg"
-            },
-            {
-                "title": "100 首里城(沖縄県那覇市)",
-                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_復元工事.jpg"
+                "castle_name": "100 首里城(沖縄県那覇市)",
+                "image_list": [
+                    {
+                        "title": "首里城",
+                        "coords": [
+                            26.217355555555557,
+                            127.72051944444445
+                        ],
+                        "date": "2024:11:07 10:58:28",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城.jpg"
+                    },
+                    {
+                        "title": "首里城_守礼門",
+                        "coords": [
+                            26.218230555555557,
+                            127.71679722222223
+                        ],
+                        "date": "2024:11:07 10:30:46",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_守礼門.jpg"
+                    },
+                    {
+                        "title": "首里城_復元工事",
+                        "coords": [
+                            26.217344444444443,
+                            127.71913888888889
+                        ],
+                        "date": "2024:11:07 10:44:58",
+                        "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/47_沖縄県/首里城_復元工事.jpg"
+                    }
+                ]
             }
         ],
         "visited": 6,
         "unvisited": 10
-    },
-    "unvisited_castle_cnt": 36
+    }
 }
