@@ -4,16 +4,6 @@ import requests
 response = requests.get("https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/image_info.json")
 image_info = response.json()
 
-castles_list = {
-    "北海道・東北地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "関東地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "中部地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "近畿地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "中国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "四国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
-    "九州・沖縄地方": {"castle_list": [], "visited": 0, "unvisited": 0}
-}
-
 area_list = [
     ["北海道・東北地方", ["北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県"]],
     ["関東地方", ["茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県"]],
@@ -24,8 +14,18 @@ area_list = [
     ["九州・沖縄地方", ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"]]
 ]
 
-def get_castle_info():
-    with open("castles/100castles.csv", "r", encoding="utf-8") as f:
+def get_castle_info(input_filename, output_filename):
+    castles_list = {
+        "北海道・東北地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "関東地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "中部地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "近畿地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "中国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "四国地方": {"castle_list": [], "visited": 0, "unvisited": 0},
+        "九州・沖縄地方": {"castle_list": [], "visited": 0, "unvisited": 0}
+    }
+
+    with open(input_filename, "r", encoding="utf-8") as f:
         for line in f:
             # castle_info[0]: 番号
             # castle_info[1]: 城の名前
@@ -44,7 +44,7 @@ def get_castle_info():
 
             # 城の写真を取得
             image_list = []
-            for key in image_info.keys():
+            for key in image_info:
                 if castle_info[2] in key:
                     for marker in image_info[key]["markers"]:
                         if castle_info[1] in marker["title"]:
@@ -67,5 +67,10 @@ def get_castle_info():
             # 城の情報をリストに追加
             castles_list[area]["castle_list"].append({"castle_name": castle_name, "image_list": image_list})
 
-    with open("castles/castles.json", "w", encoding="utf-8") as f:
+    with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(castles_list, f, ensure_ascii=False, indent=4)
+
+
+if __name__ == "__main__":
+    get_castle_info("castles/100castles.csv", "castles/castles.json")
+    get_castle_info("castles/200castles.csv", "castles/200castles.json")
