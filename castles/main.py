@@ -45,9 +45,9 @@ def get_castle_info(input_filename, output_filename):
             # 城の写真を取得
             image_list = []
             for key in image_info:
-                if castle_info[2] in key:
+                if castle_info[2] in key:  # 都道府県名が一致するか
                     for marker in image_info[key]["markers"]:
-                        if castle_info[1] in marker["title"]:
+                        if castle_info[1] in marker["title"]:  # 城の名前が一致するか
                             if "駅名標_" not in marker["title"] and "駅舎_" not in marker["title"]:
                                 image_list.append(marker.copy())
 
@@ -56,7 +56,6 @@ def get_castle_info(input_filename, output_filename):
                 castles_list[area]["visited"] += 1
             else:
                 castles_list[area]["unvisited"] += 1
-
                 image_list.append({
                     "title": "未訪問",
                     "coords": [0.0, 0.0],
