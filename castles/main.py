@@ -45,8 +45,8 @@ def get_castle_info(input_filename, output_filename):
             # 城の写真を取得
             image_list = []
             for key in image_info:
-                if castle_info[2] in key:  # 都道府県名が一致するか
-                    for marker in image_info[key]["markers"]:
+                for marker in image_info[key]["markers"]:
+                    if castle_info[2] in key:  # 都道府県名が一致するか
                         if castle_info[1] in marker["title"]:  # 城の名前が一致するか
                             if "駅名標_" not in marker["title"] and "駅舎_" not in marker["title"]:
                                 image_list.append(marker.copy())
@@ -56,12 +56,10 @@ def get_castle_info(input_filename, output_filename):
                 castles_list[area]["visited"] += 1
             else:
                 castles_list[area]["unvisited"] += 1
-                image_list.append({
-                    "title": "未訪問",
-                    "coords": [0.0, 0.0],
-                    "date": "0000:00:00 00:00:00",
-                    "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"
-                })
+                image_list.append({"title": "未訪問",
+                                   "coords": [0.0, 0.0],
+                                   "date": "0000:00:00 00:00:00",
+                                   "photo": "https://placehold.jp/ffffff/000000/400x300.jpg?text=未訪問"})
 
             # 城の情報をリストに追加
             castles_list[area]["castle_list"].append({"castle_name": castle_name, "image_list": image_list})
@@ -71,5 +69,5 @@ def get_castle_info(input_filename, output_filename):
 
 
 if __name__ == "__main__":
-    get_castle_info("castles/100castles.csv", "castles/castles.json")
+    get_castle_info("castles/100castles.csv", "castles/100castles.json")
     get_castle_info("castles/200castles.csv", "castles/200castles.json")
