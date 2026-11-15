@@ -6027,8 +6027,8 @@
         "centerCoordinates": [
             {
                 "coords": [
-                    36.12768137152778,
-                    138.03994366319444
+                    36.13129080898491,
+                    138.04117534293553
                 ]
             }
         ],
@@ -6194,6 +6194,15 @@
                 ],
                 "date": "2026:06:14 14:22:06",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/入笠湿原.jpg"
+            },
+            {
+                "title": "北国街道柳町",
+                "coords": [
+                    36.40527772222222,
+                    138.2530972222222
+                ],
+                "date": "2026:11:14 22:22:28",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/北国街道柳町.jpg"
             },
             {
                 "title": "千曲川さかきPA",
@@ -6833,6 +6842,15 @@
                 ],
                 "date": "2026:04:12 01:12:04",
                 "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/立石公園.jpg"
+            },
+            {
+                "title": "筑北PA",
+                "coords": [
+                    36.43481388888889,
+                    138.02632222222223
+                ],
+                "date": "2026:11:14 23:27:26",
+                "photo": "https://raw.githubusercontent.com/kouki-0926/FlaskMathOnHeroku_Images/main/picture/20_長野県/筑北PA.jpg"
             },
             {
                 "title": "西浦ダム",
